@@ -1,0 +1,384 @@
+{
+  "paper_info": {
+    "subject_code": "9709",
+    "subject_name": "Mathematics",
+    "level": "Cambridge International AS & A Level",
+    "paper_code": "9709/12",
+    "paper_number": "12",
+    "paper_name": "Paper 1 Pure Mathematics 1",
+    "session": "February/March",
+    "year": 2022,
+    "session_code": "m22",
+    "variant": 2,
+    "duration_minutes": 110,
+    "total_marks": 75,
+    "number_of_questions": 11,
+    "number_of_pages": 20
+  },
+  "questions": [
+    {
+      "question_number": 1,
+      "marks": 4,
+      "parts": [],
+      "topic_tags": ["P1.7", "Integration", "Calculus"],
+      "sub_topics": ["Integration of powers", "Using given conditions", "Fractional powers"],
+      "difficulty": "Medium",
+      "description": "Integration of function with fractional powers given f'(x) = 2x^(-1/3) - x^(1/3) and f(8) = 5",
+      "key_concepts": [
+        "Integration of x^n",
+        "Finding constant of integration using boundary conditions",
+        "Fractional indices"
+      ],
+      "skills_tested": [
+        "Integration technique",
+        "Algebraic manipulation",
+        "Substitution of values"
+      ]
+    },
+    {
+      "question_number": 2,
+      "marks": 5,
+      "parts": [],
+      "topic_tags": ["P1.1", "Quadratics", "Discriminant"],
+      "sub_topics": ["Intersection of curves", "Discriminant conditions", "Inequalities"],
+      "difficulty": "Medium",
+      "description": "Find values of c for which curve y = x² + 2cx + 4 and line y = 4x + c intersect at two distinct points",
+      "key_concepts": [
+        "Discriminant b² - 4ac",
+        "Conditions for two distinct roots",
+        "Solving quadratic inequalities"
+      ],
+      "skills_tested": [
+        "Forming equations",
+        "Using discriminant",
+        "Solving inequalities"
+      ]
+    },
+    {
+      "question_number": 3,
+      "marks": 6,
+      "parts": ["a", "b"],
+      "topic_tags": ["P1.3", "Binomial Theorem"],
+      "sub_topics": ["Binomial expansion", "Term independent of x", "Product of expansions"],
+      "difficulty": "Medium",
+      "description": "Find term independent of x in binomial expansions",
+      "part_details": [
+        {
+          "part": "a",
+          "marks": 3,
+          "description": "Find term independent of x in (3x + 2/x²)^6"
+        },
+        {
+          "part": "b",
+          "marks": 3,
+          "description": "Find term independent of x in (3x + 2/x²)^6 × (1 - x³)"
+        }
+      ],
+      "key_concepts": [
+        "Binomial expansion formula",
+        "Finding specific terms",
+        "Combining like terms"
+      ],
+      "skills_tested": [
+        "Binomial coefficient calculation",
+        "Power manipulation",
+        "Algebraic combination"
+      ]
+    },
+    {
+      "question_number": 4,
+      "marks": 6,
+      "parts": [],
+      "topic_tags": ["P1.6", "Sequences and Series"],
+      "sub_topics": ["Geometric progression", "Arithmetic progression", "Sum formulas"],
+      "difficulty": "Hard",
+      "description": "Given GP and AP with same first term and matching terms, find sum of first 20 terms of AP",
+      "key_concepts": [
+        "GP term formula ar^(n-1)",
+        "AP term formula a + (n-1)d",
+        "AP sum formula",
+        "Simultaneous equations"
+      ],
+      "skills_tested": [
+        "Forming equations from given conditions",
+        "Eliminating variables",
+        "Applying sum formulas"
+      ]
+    },
+    {
+      "question_number": 5,
+      "marks": 6,
+      "parts": ["a", "b"],
+      "topic_tags": ["P1.1", "P1.7", "Functions", "Transformations"],
+      "sub_topics": ["Completing the square", "Graph transformations"],
+      "difficulty": "Medium",
+      "description": "Transformations mapping y = x² to y = 2x² - 8x + 14",
+      "part_details": [
+        {
+          "part": "a",
+          "marks": 2,
+          "description": "Express 2x² - 8x + 14 in form 2(x - a)² + b"
+        },
+        {
+          "part": "b",
+          "marks": 4,
+          "description": "Describe sequence of transformations from f(x) = x² to g(x) = 2x² - 8x + 14"
+        }
+      ],
+      "key_concepts": [
+        "Completing the square",
+        "Translation",
+        "Stretch in y-direction",
+        "Order of transformations"
+      ],
+      "skills_tested": [
+        "Algebraic manipulation",
+        "Understanding transformations",
+        "Describing transformations clearly"
+      ]
+    },
+    {
+      "question_number": 6,
+      "marks": 8,
+      "parts": ["a", "b"],
+      "topic_tags": ["P2.1", "Coordinate Geometry", "Circles"],
+      "sub_topics": ["Circle equations", "Line-circle intersection", "Perpendicular from center to chord"],
+      "difficulty": "Medium-Hard",
+      "description": "Circle (x+1)² + (y-2)² = 85 and line y = 3x - 20",
+      "part_details": [
+        {
+          "part": "a",
+          "marks": 4,
+          "description": "Find coordinates of intersection points A and B"
+        },
+        {
+          "part": "b",
+          "marks": 4,
+          "description": "Find equation of circle with center C where line is tangent"
+        }
+      ],
+      "key_concepts": [
+        "Substitution to find intersections",
+        "Solving simultaneous equations",
+        "Perpendicular distance from point to line",
+        "Circle equation (x-a)² + (y-b)² = r²"
+      ],
+      "skills_tested": [
+        "Simultaneous equations",
+        "Circle properties",
+        "Distance calculations"
+      ]
+    },
+    {
+      "question_number": 7,
+      "marks": 7,
+      "parts": ["a", "b"],
+      "topic_tags": ["P1.4", "Trigonometry", "Identities"],
+      "sub_topics": ["Trigonometric identities", "Double angle formulas", "Solving equations"],
+      "difficulty": "Hard",
+      "description": "Prove identity and solve trigonometric equation",
+      "part_details": [
+        {
+          "part": "a",
+          "marks": 4,
+          "description": "Show that (sin θ + 2cos θ)/(cos θ - 2sin θ) - (sin θ - 2cos θ)/(cos θ + 2sin θ) ≡ 4/(5cos²θ - 4)"
+        },
+        {
+          "part": "b",
+          "marks": 3,
+          "description": "Solve the equation for 0° < θ < 180°"
+        }
+      ],
+      "key_concepts": [
+        "Algebraic fractions",
+        "Common denominators",
+        "Trigonometric identities sin²θ + cos²θ = 1",
+        "Solving for cos θ"
+      ],
+      "skills_tested": [
+        "Algebraic manipulation of fractions",
+        "Trigonometric identity application",
+        "Equation solving"
+      ]
+    },
+    {
+      "question_number": 8,
+      "marks": 8,
+      "parts": ["a", "b"],
+      "topic_tags": ["P2.1", "P1.7", "Coordinate Geometry", "Integration"],
+      "sub_topics": ["Circle equations", "Volume of revolution"],
+      "difficulty": "Hard",
+      "description": "Circle (x-2)² + y² = 8 with chord parallel to x-axis",
+      "part_details": [
+        {
+          "part": "a",
+          "marks": 3,
+          "description": "Find coordinates of A and B on chord parallel to x-axis"
+        },
+        {
+          "part": "b",
+          "marks": 5,
+          "description": "Find volume when shaded segment rotated 360° about x-axis"
+        }
+      ],
+      "key_concepts": [
+        "Circle properties",
+        "Volume of revolution π∫y²dx",
+        "Integration limits",
+        "Subtracting volumes"
+      ],
+      "skills_tested": [
+        "Finding intersection points",
+        "Setting up integrals",
+        "Volume calculations"
+      ]
+    },
+    {
+      "question_number": 9,
+      "marks": 8,
+      "parts": ["a", "b"],
+      "topic_tags": ["P1.1", "P1.7", "Functions", "Composite Functions"],
+      "sub_topics": ["Solving equations with surds", "Composite functions", "Function equality"],
+      "difficulty": "Hard",
+      "description": "Functions involving fractional powers and composite functions",
+      "part_details": [
+        {
+          "part": "a",
+          "marks": 4,
+          "description": "Solve f(x) = 0 where f(x) = x - 4x^(1/2) + 1, answer in form x = a + b√c"
+        },
+        {
+          "part": "b",
+          "marks": 4,
+          "description": "Given f(x) ≡ gh(x), find values of m and n"
+        }
+      ],
+      "key_concepts": [
+        "Quadratic formula with surds",
+        "Composite functions",
+        "Function equality",
+        "Substitution"
+      ],
+      "skills_tested": [
+        "Solving quadratic equations",
+        "Composite function manipulation",
+        "Comparing coefficients"
+      ]
+    },
+    {
+      "question_number": 10,
+      "marks": 8,
+      "parts": ["a", "b"],
+      "topic_tags": ["P1.5", "Trigonometry", "Circles"],
+      "sub_topics": ["Arc length", "Sector area", "Pythagoras theorem"],
+      "difficulty": "Hard",
+      "description": "Two touching circles with tangent, find perimeter and area of shaded region",
+      "part_details": [
+        {
+          "part": "a",
+          "marks": 5,
+          "description": "Find perimeter of shaded region between two circles"
+        },
+        {
+          "part": "b",
+          "marks": 3,
+          "description": "Find area of shaded region"
+        }
+      ],
+      "key_concepts": [
+        "Pythagoras theorem",
+        "Arc length rθ",
+        "Sector area ½r²θ",
+        "Tangent properties"
+      ],
+      "skills_tested": [
+        "Finding angles using trigonometry",
+        "Arc and sector calculations",
+        "Combining areas"
+      ]
+    },
+    {
+      "question_number": 11,
+      "marks": 9,
+      "parts": ["a", "b", "c"],
+      "topic_tags": ["P1.7", "Differentiation", "Stationary Points"],
+      "sub_topics": ["Finding stationary points", "Second derivative test", "Increasing/decreasing functions"],
+      "difficulty": "Hard",
+      "description": "Differentiation and nature of stationary points for y = k(3x - k)^(-1) + 3x",
+      "part_details": [
+        {
+          "part": "a",
+          "marks": 4,
+          "description": "Find values of x at which there is a stationary point in terms of k"
+        },
+        {
+          "part": "b",
+          "marks": 3,
+          "description": "Find value of a and determine nature when k = 4 and stationary point at x = a"
+        },
+        {
+          "part": "c",
+          "marks": 2,
+          "description": "Determine if g(x) = -(3x + 1)^(-1) + 3x is increasing, decreasing or neither"
+        }
+      ],
+      "key_concepts": [
+        "Chain rule differentiation",
+        "Setting dy/dx = 0",
+        "Second derivative test",
+        "Sign of derivative"
+      ],
+      "skills_tested": [
+        "Differentiation of composite functions",
+        "Finding stationary points",
+        "Determining nature of stationary points",
+        "Analyzing function behavior"
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "P1.1": ["Quadratics", "Functions", "Transformations"],
+    "P1.3": ["Binomial Theorem"],
+    "P1.4": ["Trigonometric Identities"],
+    "P1.5": ["Circles and Sectors"],
+    "P1.6": ["Sequences and Series"],
+    "P1.7": ["Differentiation", "Integration", "Stationary Points"],
+    "P2.1": ["Coordinate Geometry", "Circles"]
+  },
+  "difficulty_summary": {
+    "easy": 0,
+    "medium": 5,
+    "medium_hard": 1,
+    "hard": 5
+  },
+  "marks_by_topic": {
+    "Integration_Differentiation": 17,
+    "Coordinate_Geometry": 16,
+    "Functions": 14,
+    "Trigonometry": 15,
+    "Sequences": 6,
+    "Binomial": 6,
+    "Quadratics": 5
+  },
+  "exam_techniques": [
+    "Show all working clearly",
+    "Use exact values where possible",
+    "Give answers to 3 significant figures unless specified",
+    "Check units in final answers",
+    "Label diagrams clearly"
+  ],
+  "common_pitfalls": [
+    "Forgetting constant of integration",
+    "Sign errors in discriminant",
+    "Incorrect binomial coefficients",
+    "Wrong order of transformations",
+    "Forgetting to check domain restrictions",
+    "Unit conversion errors in arc/sector calculations"
+  ],
+  "generated_at": "2025-11-18T02:45:00Z",
+  "processing_method": "Manual extraction from PDF without OCR",
+  "source_files": {
+    "question_paper": "9709_m22_qp_12.pdf",
+    "mark_scheme": "9709_m22_ms_12.pdf"
+  }
+}
