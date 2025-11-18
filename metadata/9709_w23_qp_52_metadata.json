@@ -1,0 +1,244 @@
+{
+  "exam_info": {
+    "paper_code": "9709/52",
+    "exam_board": "Cambridge International AS & A Level",
+    "subject": "Mathematics",
+    "paper_name": "Paper 5 Probability & Statistics 1",
+    "exam_session": "October/November 2023",
+    "total_marks": 50,
+    "time_allowed": "1 hour 15 minutes",
+    "question_paper": "9709_w23_qp_52.pdf",
+    "mark_scheme": "9709_w23_ms_52.pdf",
+    "syllabus": "697427-2026-2027-syllabus.pdf"
+  },
+  "questions": [
+    {
+      "question_number": "2",
+      "subparts": [],
+      "page": 2,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "5.1"
+      ],
+      "topic": "Representation of data",
+      "answers": {
+        "answer_snippet": "9709/52 Cambridge International AS & A Level \u2013 Mark Scheme October/November 2023 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptors for a question. Each"
+      }
+    },
+    {
+      "question_number": "1",
+      "subparts": [],
+      "page": 2,
+      "marks": 3,
+      "syllabus_outcomes": [
+        "5.3",
+        "5.4"
+      ],
+      "topic": "Probability",
+      "answers": {
+        "answer_snippet": "Cambridge International AS & A Level MATHEMATICS 9709/52 Paper 5 Probability & Statistics 1 October/November 2023 MARK SCHEME Maximum Mark: 50 Published This mark scheme is published as an aid to teachers and candidates, to indicate the requirements of the examination. It shows the basis on which Examiners were instructed"
+      }
+    },
+    {
+      "question_number": "3",
+      "subparts": [],
+      "page": 3,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "5.1"
+      ],
+      "topic": "Representation of data",
+      "answers": {
+        "answer_snippet": "9709/52 Cambridge International AS & A Level \u2013 Mark Scheme October/November 2023 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptors for a question. Each"
+      }
+    },
+    {
+      "question_number": "2",
+      "subparts": [],
+      "page": 3,
+      "marks": 2,
+      "syllabus_outcomes": [
+        "5.3"
+      ],
+      "topic": "Probability",
+      "answers": {
+        "answer_snippet": "9709/52 Cambridge International AS & A Level \u2013 Mark Scheme October/November 2023 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptors for a question. Each"
+      }
+    },
+    {
+      "question_number": "4",
+      "subparts": [],
+      "page": 4,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "5.1"
+      ],
+      "topic": "Representation of data",
+      "answers": {
+        "answer_snippet": "9709/52 Cambridge International AS & A Level \u2013 Mark Scheme October/November 2023 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptors for a question. Each"
+      }
+    },
+    {
+      "question_number": "3",
+      "subparts": [],
+      "page": 4,
+      "marks": 5,
+      "syllabus_outcomes": [
+        "5.3"
+      ],
+      "topic": "Probability",
+      "answers": {
+        "answer_snippet": "9709/52 Cambridge International AS & A Level \u2013 Mark Scheme October/November 2023 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptors for a question. Each"
+      }
+    },
+    {
+      "question_number": "5",
+      "subparts": [],
+      "page": 5,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "5.1"
+      ],
+      "topic": "Representation of data",
+      "answers": {
+        "answer_snippet": "Cambridge International AS & A Level MATHEMATICS 9709/52 Paper 5 Probability & Statistics 1 October/November 2023 MARK SCHEME Maximum Mark: 50 Published This mark scheme is published as an aid to teachers and candidates, to indicate the requirements of the examination. It shows the basis on which Examiners were instructed"
+      }
+    },
+    {
+      "question_number": "4",
+      "subparts": [],
+      "page": 5,
+      "marks": 4,
+      "syllabus_outcomes": [
+        "5.1"
+      ],
+      "topic": "Representation of data",
+      "answers": {
+        "answer_snippet": "9709/52 Cambridge International AS & A Level \u2013 Mark Scheme October/November 2023 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptors for a question. Each"
+      }
+    },
+    {
+      "question_number": "6",
+      "subparts": [],
+      "page": 6,
+      "marks": 2,
+      "syllabus_outcomes": [
+        "5.3"
+      ],
+      "topic": "Probability",
+      "answers": {
+        "answer_snippet": "9709/52 Cambridge International AS & A Level \u2013 Mark Scheme October/November 2023 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptors for a question. Each"
+      }
+    },
+    {
+      "question_number": "7",
+      "subparts": [],
+      "page": 7,
+      "marks": 3,
+      "syllabus_outcomes": [
+        "5.1",
+        "5.3"
+      ],
+      "topic": "Representation of data",
+      "answers": {
+        "answer_snippet": "9709/52 Cambridge International AS & A Level \u2013 Mark Scheme October/November 2023 PUBLISHED Question Answer Marks Guidance 2(a) Method 1: [P(5) = 0.2] M1 1 \u2013 0.8n, n = 6, 7. [P(X < 7) =] 1\u22120.86 11529 A1 0.737856 to at least 3SF. = 0.738, 15625 Method 2: [P(X <"
+      }
+    },
+    {
+      "question_number": "3",
+      "subparts": [],
+      "page": 7,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "5.1"
+      ],
+      "topic": "Representation of data",
+      "answers": {
+        "answer_snippet": "9709/52 Cambridge International AS & A Level \u2013 Mark Scheme October/November 2023 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptors for a question. Each"
+      }
+    },
+    {
+      "question_number": "8",
+      "subparts": [],
+      "page": 8,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "5.1"
+      ],
+      "topic": "Representation of data",
+      "answers": {
+        "answer_snippet": "9709/52 Cambridge International AS & A Level \u2013 Mark Scheme October/November 2023 PUBLISHED Question Answer Marks Guidance 1(a) p+r+0.55=1 M1 Using sum of probabilities = 1 to form an equation. Accept p + r = 0.45 oe. p+2r+0.45=1.1 M1 Use E(X) = 1.1 to form an equation. Accept p +"
+      }
+    },
+    {
+      "question_number": "6",
+      "subparts": [],
+      "page": 8,
+      "marks": 3,
+      "syllabus_outcomes": [
+        "5.3"
+      ],
+      "topic": "Probability",
+      "answers": {
+        "answer_snippet": "9709/52 Cambridge International AS & A Level \u2013 Mark Scheme October/November 2023 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptors for a question. Each"
+      }
+    },
+    {
+      "question_number": "9",
+      "subparts": [],
+      "page": 9,
+      "marks": 4,
+      "syllabus_outcomes": [
+        "5.3"
+      ],
+      "topic": "Probability",
+      "answers": {
+        "answer_snippet": "9709/52 Cambridge International AS & A Level \u2013 Mark Scheme October/November 2023 PUBLISHED Question Answer Marks Guidance 2(b) Method 1: [P(5, 6, 7) = ] M1 One term: 10C (0.2)5(0.8)5 +10C (0.2)6(0.8)4 + 10C (0.2)7(0.8)3 10C (p)x(1\u2212p)10\u2212x , 0\uf03c p\uf03c1, x\uf0b90,10. 5 6 7 x [0.02642 + 5.505\u00d710-3 + 7.864\u00d710-4]"
+      }
+    },
+    {
+      "question_number": "10",
+      "subparts": [],
+      "page": 10,
+      "marks": 3,
+      "syllabus_outcomes": [
+        "5.2"
+      ],
+      "topic": "Permutations and combinations",
+      "answers": {
+        "answer_snippet": "9709/52 Cambridge International AS & A Level \u2013 Mark Scheme October/November 2023 PUBLISHED Question Answer Marks Guidance 2(b) Method 1: [P(5, 6, 7) = ] M1 One term: 10C (0.2)5(0.8)5 +10C (0.2)6(0.8)4 + 10C (0.2)7(0.8)3 10C (p)x(1\u2212p)10\u2212x , 0\uf03c p\uf03c1, x\uf0b90,10. 5 6 7 x [0.02642 + 5.505\u00d710-3 + 7.864\u00d710-4]"
+      }
+    },
+    {
+      "question_number": "11",
+      "subparts": [],
+      "page": 11,
+      "marks": 4,
+      "syllabus_outcomes": [
+        "5.2",
+        "5.3"
+      ],
+      "topic": "Permutations and combinations",
+      "answers": {
+        "answer_snippet": "9709/52 Cambridge International AS & A Level \u2013 Mark Scheme October/November 2023 PUBLISHED Question Answer Marks Guidance 4(b) Median = 173 [cm] B1 Accept Q ; must be identified. 2 [IQR =] 181 \u2013 168 M1 180 \u2a7d UQ \u2a7d 182 \u2013 166 \u2a7d LQ \u2a7d 169 Implied if both"
+      }
+    },
+    {
+      "question_number": "12",
+      "subparts": [],
+      "page": 12,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "5.1"
+      ],
+      "topic": "Representation of data",
+      "answers": {
+        "answer_snippet": "9709/52 Cambridge International AS & A Level \u2013 Mark Scheme October/November 2023 PUBLISHED Question Answer Marks Guidance 1(a) p+r+0.55=1 M1 Using sum of probabilities = 1 to form an equation. Accept p + r = 0.45 oe. p+2r+0.45=1.1 M1 Use E(X) = 1.1 to form an equation. Accept p +"
+      }
+    }
+  ],
+  "statistics": {
+    "total_questions": 17,
+    "total_marks": 33
+  }
+}

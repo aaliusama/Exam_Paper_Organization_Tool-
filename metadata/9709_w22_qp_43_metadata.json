@@ -1,0 +1,326 @@
+{
+  "exam_info": {
+    "paper_code": "9709/43",
+    "exam_board": "Cambridge International AS & A Level",
+    "subject": "Mathematics",
+    "paper_name": "Paper 4 Mechanics",
+    "exam_session": "October/November 2022",
+    "total_marks": 50,
+    "time_allowed": "1 hour 15 minutes",
+    "question_paper": "9709_w22_qp_43.pdf",
+    "mark_scheme": "9709_w22_ms_43.pdf",
+    "syllabus": "697427-2026-2027-syllabus.pdf"
+  },
+  "questions": [
+    {
+      "question_number": "2",
+      "subparts": [],
+      "page": 2,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "4.1"
+      ],
+      "topic": "Forces and equilibrium",
+      "answers": {
+        "answer_snippet": "9709/43 Cambridge International AS & A Level \u2013 Mark Scheme October/November 2022 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptors for a question. Each"
+      }
+    },
+    {
+      "question_number": "3",
+      "subparts": [],
+      "page": 3,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "4.1"
+      ],
+      "topic": "Forces and equilibrium",
+      "answers": {
+        "answer_snippet": "9709/43 Cambridge International AS & A Level \u2013 Mark Scheme October/November 2022 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptors for a question. Each"
+      }
+    },
+    {
+      "question_number": "1",
+      "subparts": [],
+      "page": 3,
+      "marks": 1,
+      "syllabus_outcomes": [
+        "4.1"
+      ],
+      "topic": "Forces and equilibrium",
+      "answers": {
+        "answer_snippet": "9709/43 Cambridge International AS & A Level \u2013 Mark Scheme October/November 2022 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptors for a question. Each"
+      }
+    },
+    {
+      "question_number": "4",
+      "subparts": [],
+      "page": 4,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "4.1"
+      ],
+      "topic": "Forces and equilibrium",
+      "answers": {
+        "answer_snippet": "Cambridge International AS & A Level MATHEMATICS 9709/43 Paper 4 Mechanics October/November 2022 MARK SCHEME Maximum Mark: 50 Published This mark scheme is published as an aid to teachers and candidates, to indicate the requirements of the examination. It shows the basis on which Examiners were instructed to award marks."
+      }
+    },
+    {
+      "question_number": "2",
+      "subparts": [],
+      "page": 4,
+      "marks": 2,
+      "syllabus_outcomes": [
+        "4.1",
+        "4.4",
+        "4.5"
+      ],
+      "topic": "Forces and equilibrium",
+      "answers": {
+        "answer_snippet": "9709/43 Cambridge International AS & A Level \u2013 Mark Scheme October/November 2022 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptors for a question. Each"
+      }
+    },
+    {
+      "question_number": "5",
+      "subparts": [],
+      "page": 5,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "4.1"
+      ],
+      "topic": "Forces and equilibrium",
+      "answers": {
+        "answer_snippet": "9709/43 Cambridge International AS & A Level \u2013 Mark Scheme October/November 2022 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptors for a question. Each"
+      }
+    },
+    {
+      "question_number": "3",
+      "subparts": [],
+      "page": 5,
+      "marks": 6,
+      "syllabus_outcomes": [
+        "4.1",
+        "4.4"
+      ],
+      "topic": "Forces and equilibrium",
+      "answers": {
+        "answer_snippet": "9709/43 Cambridge International AS & A Level \u2013 Mark Scheme October/November 2022 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptors for a question. Each"
+      }
+    },
+    {
+      "question_number": "6",
+      "subparts": [],
+      "page": 6,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "4.1"
+      ],
+      "topic": "Forces and equilibrium",
+      "answers": {
+        "answer_snippet": "9709/43 Cambridge International AS & A Level \u2013 Mark Scheme October/November 2022 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptors for a question. Each"
+      }
+    },
+    {
+      "question_number": "4",
+      "subparts": [],
+      "page": 6,
+      "marks": 5,
+      "syllabus_outcomes": [
+        "4.2"
+      ],
+      "topic": "Kinematics of motion in a straight line",
+      "answers": {
+        "answer_snippet": "Cambridge International AS & A Level MATHEMATICS 9709/43 Paper 4 Mechanics October/November 2022 MARK SCHEME Maximum Mark: 50 Published This mark scheme is published as an aid to teachers and candidates, to indicate the requirements of the examination. It shows the basis on which Examiners were instructed to award marks."
+      }
+    },
+    {
+      "question_number": "7",
+      "subparts": [],
+      "page": 7,
+      "marks": 2,
+      "syllabus_outcomes": [
+        "4.1"
+      ],
+      "topic": "Forces and equilibrium",
+      "answers": {
+        "answer_snippet": "9709/43 Cambridge International AS & A Level \u2013 Mark Scheme October/November 2022 PUBLISHED Question Answer Marks Guidance 3 T cos 25 = 40 + R cos 50 M1 Resolving in any direction e.g. horizontal, vertical, along radius or tangent. R sin 50 = T sin 25 M1 Resolving in a"
+      }
+    },
+    {
+      "question_number": "8",
+      "subparts": [],
+      "page": 8,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "4.1"
+      ],
+      "topic": "Forces and equilibrium",
+      "answers": {
+        "answer_snippet": "9709/43 Cambridge International AS & A Level \u2013 Mark Scheme October/November 2022 PUBLISHED Question Answer Marks Guidance 1(a) u = 30 B1 From v = u + at or equivalent. 1 1(b) 0=302 \u22122\uf0b410\uf0b4s M1 Use of suvat formulae. Greatest height =45m A1 FT FT u2/2g with their u from"
+      }
+    },
+    {
+      "question_number": "5",
+      "subparts": [],
+      "page": 8,
+      "marks": 6,
+      "syllabus_outcomes": [
+        "4.2"
+      ],
+      "topic": "Kinematics of motion in a straight line",
+      "answers": {
+        "answer_snippet": "9709/43 Cambridge International AS & A Level \u2013 Mark Scheme October/November 2022 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptors for a question. Each"
+      }
+    },
+    {
+      "question_number": "9",
+      "subparts": [],
+      "page": 9,
+      "marks": 2,
+      "syllabus_outcomes": [
+        "4.1"
+      ],
+      "topic": "Forces and equilibrium",
+      "answers": {
+        "answer_snippet": "9709/43 Cambridge International AS & A Level \u2013 Mark Scheme October/November 2022 PUBLISHED Question Answer Marks Guidance 5(a) v=\uf0f212t+12dt , v =6t2 +12t or v=\uf0f224t\u22128dt, v =12t2 \u22128t M1 Uses v= \uf0f2a dt. X Y v =6t2 +12t v =12t2 \u22128t A1 All correct. X Y 10 B1 Solves v"
+      }
+    },
+    {
+      "question_number": "10",
+      "subparts": [],
+      "page": 10,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "4.1"
+      ],
+      "topic": "Forces and equilibrium",
+      "answers": {
+        "answer_snippet": "9709/43 Cambridge International AS & A Level \u2013 Mark Scheme October/November 2022 PUBLISHED Question Answer Marks Guidance 1(a) u = 30 B1 From v = u + at or equivalent. 1 1(b) 0=302 \u22122\uf0b410\uf0b4s M1 Use of suvat formulae. Greatest height =45m A1 FT FT u2/2g with their u from"
+      }
+    },
+    {
+      "question_number": "6",
+      "subparts": [],
+      "page": 10,
+      "marks": 2,
+      "syllabus_outcomes": [
+        "4.2",
+        "4.4",
+        "4.5"
+      ],
+      "topic": "Kinematics of motion in a straight line",
+      "answers": {
+        "answer_snippet": "9709/43 Cambridge International AS & A Level \u2013 Mark Scheme October/November 2022 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptors for a question. Each"
+      }
+    },
+    {
+      "question_number": "11",
+      "subparts": [],
+      "page": 11,
+      "marks": 3,
+      "syllabus_outcomes": [
+        "4.5"
+      ],
+      "topic": "Energy, work and power",
+      "answers": {
+        "answer_snippet": "9709/43 Cambridge International AS & A Level \u2013 Mark Scheme October/November 2022 PUBLISHED Question Answer Marks Guidance 7(a) R=3gcos\uf061 = 3 \uf0b410 \uf0b4 0.8 B1 F =3gsin\uf061 = 3 \uf0b410 \uf0b4 0.6 M1 Resolving parallel to plane. 18 3g sin\uf061 A1 F \uf06d= =0.75 or \uf06d= =tan\uf061=0.75 Uses \uf06d= AG."
+      }
+    },
+    {
+      "question_number": "12",
+      "subparts": [],
+      "page": 12,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "4.1"
+      ],
+      "topic": "Forces and equilibrium",
+      "answers": {
+        "answer_snippet": "Cambridge International AS & A Level MATHEMATICS 9709/43 Paper 4 Mechanics October/November 2022 MARK SCHEME Maximum Mark: 50 Published This mark scheme is published as an aid to teachers and candidates, to indicate the requirements of the examination. It shows the basis on which Examiners were instructed to award marks."
+      }
+    },
+    {
+      "question_number": "7",
+      "subparts": [],
+      "page": 12,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "4.4"
+      ],
+      "topic": "Newton's laws of motion",
+      "answers": {
+        "answer_snippet": "9709/43 Cambridge International AS & A Level \u2013 Mark Scheme October/November 2022 PUBLISHED Question Answer Marks Guidance 3 T cos 25 = 40 + R cos 50 M1 Resolving in any direction e.g. horizontal, vertical, along radius or tangent. R sin 50 = T sin 25 M1 Resolving in a"
+      }
+    },
+    {
+      "question_number": "4",
+      "subparts": [],
+      "page": 12,
+      "marks": 3,
+      "syllabus_outcomes": [
+        "4.1"
+      ],
+      "topic": "Forces and equilibrium",
+      "answers": {
+        "answer_snippet": "Cambridge International AS & A Level MATHEMATICS 9709/43 Paper 4 Mechanics October/November 2022 MARK SCHEME Maximum Mark: 50 Published This mark scheme is published as an aid to teachers and candidates, to indicate the requirements of the examination. It shows the basis on which Examiners were instructed to award marks."
+      }
+    },
+    {
+      "question_number": "13",
+      "subparts": [],
+      "page": 13,
+      "marks": 6,
+      "syllabus_outcomes": [
+        "4.1",
+        "4.3",
+        "4.5"
+      ],
+      "topic": "Forces and equilibrium",
+      "answers": {
+        "answer_snippet": ""
+      }
+    },
+    {
+      "question_number": "14",
+      "subparts": [],
+      "page": 14,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "4.1"
+      ],
+      "topic": "Forces and equilibrium",
+      "answers": {
+        "answer_snippet": "9709/43 Cambridge International AS & A Level \u2013 Mark Scheme October/November 2022 PUBLISHED Question Answer Marks Guidance 6(a)(i) P = (650 + 150) \uf0b4 24 M1 Use of P = DF \u00d7 v. 19200W or 19.2kW A1 2 6(a)(ii) 40000 = DF \uf0b4 24 B1 Correct use of P ="
+      }
+    },
+    {
+      "question_number": "15",
+      "subparts": [],
+      "page": 15,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "4.1"
+      ],
+      "topic": "Forces and equilibrium",
+      "answers": {
+        "answer_snippet": "9709/43 Cambridge International AS & A Level \u2013 Mark Scheme October/November 2022 PUBLISHED Question Answer Marks Guidance 1(a) u = 30 B1 From v = u + at or equivalent. 1 1(b) 0=302 \u22122\uf0b410\uf0b4s M1 Use of suvat formulae. Greatest height =45m A1 FT FT u2/2g with their u from"
+      }
+    },
+    {
+      "question_number": "16",
+      "subparts": [],
+      "page": 16,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "4.1"
+      ],
+      "topic": "Forces and equilibrium",
+      "answers": {
+        "answer_snippet": ""
+      }
+    }
+  ],
+  "statistics": {
+    "total_questions": 23,
+    "total_marks": 38
+  }
+}

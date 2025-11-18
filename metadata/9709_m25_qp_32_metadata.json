@@ -1,0 +1,503 @@
+{
+  "exam_info": {
+    "paper_code": "9709/32",
+    "exam_board": "Cambridge International AS & A Level",
+    "subject": "Mathematics",
+    "paper_name": "Paper 3 Pure Mathematics 3",
+    "exam_session": "February/March 2025",
+    "total_marks": 75,
+    "time_allowed": "1 hour 50 minutes",
+    "question_paper": "9709_m25_qp_32.pdf",
+    "mark_scheme": "9709_m25_ms_32.pdf",
+    "syllabus": "697427-2026-2027-syllabus.pdf"
+  },
+  "questions": [
+    {
+      "question_number": "2",
+      "subparts": [],
+      "page": 2,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "3.1"
+      ],
+      "topic": "Algebra",
+      "answers": {
+        "answer_snippet": "9709/32 Cambridge International A Level \u2013 Mark Scheme February/March 2025 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptions for a question. Each question paper"
+      }
+    },
+    {
+      "question_number": "3",
+      "subparts": [],
+      "page": 3,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "3.1"
+      ],
+      "topic": "Algebra",
+      "answers": {
+        "answer_snippet": "Cambridge International A Level MATHEMATICS 9709/32 Paper 3 Pure Mathematics 3 February/March 2025 MARK SCHEME Maximum Mark: 75 Published This mark scheme is published as an aid to teachers and candidates, to indicate the requirements of the examination. It shows the basis on which Examiners were instructed to award marks."
+      }
+    },
+    {
+      "question_number": "1",
+      "subparts": [],
+      "page": 3,
+      "marks": 3,
+      "syllabus_outcomes": [
+        "3.2"
+      ],
+      "topic": "Logarithmic and exponential functions",
+      "answers": {
+        "answer_snippet": "9709/32 Cambridge International A Level \u2013 Mark Scheme February/March 2025 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptions for a question. Each question paper"
+      }
+    },
+    {
+      "question_number": "4",
+      "subparts": [],
+      "page": 4,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "3.1"
+      ],
+      "topic": "Algebra",
+      "answers": {
+        "answer_snippet": "9709/32 Cambridge International A Level \u2013 Mark Scheme February/March 2025 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptions for a question. Each question paper"
+      }
+    },
+    {
+      "question_number": "2",
+      "subparts": [],
+      "page": 4,
+      "marks": 5,
+      "syllabus_outcomes": [
+        "3.2"
+      ],
+      "topic": "Logarithmic and exponential functions",
+      "answers": {
+        "answer_snippet": "9709/32 Cambridge International A Level \u2013 Mark Scheme February/March 2025 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptions for a question. Each question paper"
+      }
+    },
+    {
+      "question_number": "5",
+      "subparts": [],
+      "page": 5,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "3.1"
+      ],
+      "topic": "Algebra",
+      "answers": {
+        "answer_snippet": "9709/32 Cambridge International A Level \u2013 Mark Scheme February/March 2025 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptions for a question. Each question paper"
+      }
+    },
+    {
+      "question_number": "6",
+      "subparts": [],
+      "page": 6,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "3.1"
+      ],
+      "topic": "Algebra",
+      "answers": {
+        "answer_snippet": "9709/32 Cambridge International A Level \u2013 Mark Scheme February/March 2025 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptions for a question. Each question paper"
+      }
+    },
+    {
+      "question_number": "3",
+      "subparts": [
+        "i"
+      ],
+      "page": 6,
+      "marks": 3,
+      "syllabus_outcomes": [
+        "3.9"
+      ],
+      "topic": "Complex numbers",
+      "answers": {
+        "answer_snippet": "Cambridge International A Level MATHEMATICS 9709/32 Paper 3 Pure Mathematics 3 February/March 2025 MARK SCHEME Maximum Mark: 75 Published This mark scheme is published as an aid to teachers and candidates, to indicate the requirements of the examination. It shows the basis on which Examiners were instructed to award marks."
+      }
+    },
+    {
+      "question_number": "7",
+      "subparts": [],
+      "page": 7,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "3.1"
+      ],
+      "topic": "Algebra",
+      "answers": {
+        "answer_snippet": "9709/32 Cambridge International A Level \u2013 Mark Scheme February/March 2025 PUBLISHED Mark Scheme Notes The following notes are intended to aid interpretation of mark schemes in general, but individual mark schemes may include marks awarded for specific reasons outside the scope of these notes. Types of mark M Method mark,"
+      }
+    },
+    {
+      "question_number": "4",
+      "subparts": [],
+      "page": 7,
+      "marks": 6,
+      "syllabus_outcomes": [
+        "3.3"
+      ],
+      "topic": "Trigonometry",
+      "answers": {
+        "answer_snippet": "9709/32 Cambridge International A Level \u2013 Mark Scheme February/March 2025 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptions for a question. Each question paper"
+      }
+    },
+    {
+      "question_number": "8",
+      "subparts": [],
+      "page": 8,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "3.1"
+      ],
+      "topic": "Algebra",
+      "answers": {
+        "answer_snippet": "9709/32 Cambridge International A Level \u2013 Mark Scheme February/March 2025 PUBLISHED Abbreviations AEF/OE Any Equivalent Form (of answer is equally acceptable) / Or Equivalent AG Answer Given on the question paper (so extra checking is needed to ensure that the detailed working leading to the result is valid) CAO Correct"
+      }
+    },
+    {
+      "question_number": "5",
+      "subparts": [],
+      "page": 8,
+      "marks": 5,
+      "syllabus_outcomes": [
+        "3.6"
+      ],
+      "topic": "Numerical solution of equations",
+      "answers": {
+        "answer_snippet": "9709/32 Cambridge International A Level \u2013 Mark Scheme February/March 2025 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptions for a question. Each question paper"
+      }
+    },
+    {
+      "question_number": "9",
+      "subparts": [],
+      "page": 9,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "3.1"
+      ],
+      "topic": "Algebra",
+      "answers": {
+        "answer_snippet": "9709/32 Cambridge International A Level \u2013 Mark Scheme February/March 2025 PUBLISHED Question Answer Marks Guidance 1 State that 1 \u2013 e\u20132x = e\u20133 B1 OE, with ln removed. Use correct method to solve an equation of the form e\u00b12x = a, where a > 0, and a M1 E.g. [e\u20132x"
+      }
+    },
+    {
+      "question_number": "6",
+      "subparts": [],
+      "page": 9,
+      "marks": 7,
+      "syllabus_outcomes": [
+        "3.8"
+      ],
+      "topic": "Differential equations",
+      "answers": {
+        "answer_snippet": "9709/32 Cambridge International A Level \u2013 Mark Scheme February/March 2025 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptions for a question. Each question paper"
+      }
+    },
+    {
+      "question_number": "10",
+      "subparts": [],
+      "page": 10,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "3.1"
+      ],
+      "topic": "Algebra",
+      "answers": {
+        "answer_snippet": "9709/32 Cambridge International A Level \u2013 Mark Scheme February/March 2025 PUBLISHED Question Answer Marks Guidance 2 dy B1 1 +2 dx State or imply as the derivative of ln (x + 2y) x+2y dy B1 dy State derivative of xy2 is x2y + y2 x2y + y2 dx dx dy"
+      }
+    },
+    {
+      "question_number": "7",
+      "subparts": [],
+      "page": 10,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "3.1"
+      ],
+      "topic": "Algebra",
+      "answers": {
+        "answer_snippet": "9709/32 Cambridge International A Level \u2013 Mark Scheme February/March 2025 PUBLISHED Mark Scheme Notes The following notes are intended to aid interpretation of mark schemes in general, but individual mark schemes may include marks awarded for specific reasons outside the scope of these notes. Types of mark M Method mark,"
+      }
+    },
+    {
+      "question_number": "4",
+      "subparts": [],
+      "page": 10,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "3.1"
+      ],
+      "topic": "Algebra",
+      "answers": {
+        "answer_snippet": "9709/32 Cambridge International A Level \u2013 Mark Scheme February/March 2025 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptions for a question. Each question paper"
+      }
+    },
+    {
+      "question_number": "4",
+      "subparts": [],
+      "page": 10,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "3.1"
+      ],
+      "topic": "Algebra",
+      "answers": {
+        "answer_snippet": "9709/32 Cambridge International A Level \u2013 Mark Scheme February/March 2025 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptions for a question. Each question paper"
+      }
+    },
+    {
+      "question_number": "1",
+      "subparts": [],
+      "page": 10,
+      "marks": 3,
+      "syllabus_outcomes": [
+        "3.1"
+      ],
+      "topic": "Algebra",
+      "answers": {
+        "answer_snippet": "9709/32 Cambridge International A Level \u2013 Mark Scheme February/March 2025 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptions for a question. Each question paper"
+      }
+    },
+    {
+      "question_number": "2",
+      "subparts": [],
+      "page": 10,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "3.1"
+      ],
+      "topic": "Algebra",
+      "answers": {
+        "answer_snippet": "9709/32 Cambridge International A Level \u2013 Mark Scheme February/March 2025 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptions for a question. Each question paper"
+      }
+    },
+    {
+      "question_number": "11",
+      "subparts": [],
+      "page": 11,
+      "marks": 2,
+      "syllabus_outcomes": [
+        "3.6"
+      ],
+      "topic": "Numerical solution of equations",
+      "answers": {
+        "answer_snippet": "9709/32 Cambridge International A Level \u2013 Mark Scheme February/March 2025 PUBLISHED Question Answer Marks Guidance 3(a) Obtain Im(z)\u2a7d \u20131 B1 Condone strict inequalities throughout (a). Obtain answer of the form z\u2212a b M1 Accept equation or any inequality sign. a = \u00b1 2 \u00b1 i and b = 3, e.g."
+      }
+    },
+    {
+      "question_number": "12",
+      "subparts": [],
+      "page": 12,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "3.1"
+      ],
+      "topic": "Algebra",
+      "answers": {
+        "answer_snippet": "9709/32 Cambridge International A Level \u2013 Mark Scheme February/March 2025 PUBLISHED Question Answer Marks Guidance 4 tanx\u2212 3 B1 OE State Allow decimals throughout. 1+ 3tanx 2 B1 SOI 2cot x replaced by tanx B1 May be implied by further work. Reduce the equation to tan\u00b2x \u2013 3 3tanx \u2013"
+      }
+    },
+    {
+      "question_number": "8",
+      "subparts": [],
+      "page": 12,
+      "marks": 5,
+      "syllabus_outcomes": [
+        "3.1"
+      ],
+      "topic": "Algebra",
+      "answers": {
+        "answer_snippet": "9709/32 Cambridge International A Level \u2013 Mark Scheme February/March 2025 PUBLISHED Abbreviations AEF/OE Any Equivalent Form (of answer is equally acceptable) / Or Equivalent AG Answer Given on the question paper (so extra checking is needed to ensure that the detailed working leading to the result is valid) CAO Correct"
+      }
+    },
+    {
+      "question_number": "13",
+      "subparts": [],
+      "page": 13,
+      "marks": 3,
+      "syllabus_outcomes": [
+        "3.1"
+      ],
+      "topic": "Algebra",
+      "answers": {
+        "answer_snippet": "9709/32 Cambridge International A Level \u2013 Mark Scheme February/March 2025 PUBLISHED Question Answer Marks Guidance 5 M1 Square x + iy and equate real and imaginary parts to \u20134 and 6 5 respectively A1 Or x2 + y2 = 14. Obtain equations x2 \u2013 y2 = \u20134 and 2xy =6"
+      }
+    },
+    {
+      "question_number": "14",
+      "subparts": [],
+      "page": 14,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "3.1"
+      ],
+      "topic": "Algebra",
+      "answers": {
+        "answer_snippet": "9709/32 Cambridge International A Level \u2013 Mark Scheme February/March 2025 PUBLISHED Question Answer Marks Guidance 5 M1 Square x + iy and equate real and imaginary parts to \u20134 and 6 5 respectively A1 Or x2 + y2 = 14. Obtain equations x2 \u2013 y2 = \u20134 and 2xy =6"
+      }
+    },
+    {
+      "question_number": "9",
+      "subparts": [],
+      "page": 14,
+      "marks": 5,
+      "syllabus_outcomes": [
+        "3.1"
+      ],
+      "topic": "Algebra",
+      "answers": {
+        "answer_snippet": "9709/32 Cambridge International A Level \u2013 Mark Scheme February/March 2025 PUBLISHED Question Answer Marks Guidance 1 State that 1 \u2013 e\u20132x = e\u20133 B1 OE, with ln removed. Use correct method to solve an equation of the form e\u00b12x = a, where a > 0, and a M1 E.g. [e\u20132x"
+      }
+    },
+    {
+      "question_number": "15",
+      "subparts": [],
+      "page": 15,
+      "marks": 3,
+      "syllabus_outcomes": [
+        "3.1"
+      ],
+      "topic": "Algebra",
+      "answers": {
+        "answer_snippet": "9709/32 Cambridge International A Level \u2013 Mark Scheme February/March 2025 PUBLISHED Question Answer Marks Guidance 7(a) Use correct product rule M1 \uf0e6 d \uf0f6 3x2 cos (2x) + x3 \uf0e7 (cos2x)\uf0f7 OE \uf0e8dx \uf0f8 Obtain derivative 3x2 cos(2x) \u2013 2x3 sin(2x) A1 OE A1 AG 1 \uf0e6 3 \uf0f6 Equate"
+      }
+    },
+    {
+      "question_number": "16",
+      "subparts": [],
+      "page": 16,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "3.1"
+      ],
+      "topic": "Algebra",
+      "answers": {
+        "answer_snippet": "9709/32 Cambridge International A Level \u2013 Mark Scheme February/March 2025 PUBLISHED Question Answer Marks Guidance 7(c) Use the iterative formula correctly at least twice M1 Obtain final answer 0.596 A1 Show sufficient iterations to at least 5 decimal places to justify 0.596 to 3 decimal A1 E.g. 0.5, 0.62452, 0.58814,"
+      }
+    },
+    {
+      "question_number": "10",
+      "subparts": [],
+      "page": 16,
+      "marks": 5,
+      "syllabus_outcomes": [
+        "3.1"
+      ],
+      "topic": "Algebra",
+      "answers": {
+        "answer_snippet": "9709/32 Cambridge International A Level \u2013 Mark Scheme February/March 2025 PUBLISHED Question Answer Marks Guidance 2 dy B1 1 +2 dx State or imply as the derivative of ln (x + 2y) x+2y dy B1 dy State derivative of xy2 is x2y + y2 x2y + y2 dx dx dy"
+      }
+    },
+    {
+      "question_number": "17",
+      "subparts": [],
+      "page": 17,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "3.2"
+      ],
+      "topic": "Logarithmic and exponential functions",
+      "answers": {
+        "answer_snippet": "9709/32 Cambridge International A Level \u2013 Mark Scheme February/March 2025 PUBLISHED Question Answer Marks Guidance 8(a) Express general point of a line in component form, B1 e.g. (\u20131 + 2\u03bb, 3 + 3\u03bb, \u20134 \u2013\u03bb) or (2 \u2013 \u03bc, \u20133 \u2013 2\u03bc, \u20131 + \u03bc) Equate at least two pairs"
+      }
+    },
+    {
+      "question_number": "0",
+      "subparts": [],
+      "page": 17,
+      "marks": 6,
+      "syllabus_outcomes": [
+        "3.1"
+      ],
+      "topic": "Algebra",
+      "answers": {
+        "answer_snippet": "9709/32 Cambridge International A Level \u2013 Mark Scheme February/March 2025 PUBLISHED Question Answer Marks Guidance 1 State that 1 \u2013 e\u20132x = e\u20133 B1 OE, with ln removed. Use correct method to solve an equation of the form e\u00b12x = a, where a > 0, and a M1 E.g. [e\u20132x"
+      }
+    },
+    {
+      "question_number": "18",
+      "subparts": [],
+      "page": 18,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "3.1"
+      ],
+      "topic": "Algebra",
+      "answers": {
+        "answer_snippet": "9709/32 Cambridge International A Level \u2013 Mark Scheme February/March 2025 PUBLISHED Question Answer Marks Guidance 5 M1 Square x + iy and equate real and imaginary parts to \u20134 and 6 5 respectively A1 Or x2 + y2 = 14. Obtain equations x2 \u2013 y2 = \u20134 and 2xy =6"
+      }
+    },
+    {
+      "question_number": "11",
+      "subparts": [],
+      "page": 18,
+      "marks": 6,
+      "syllabus_outcomes": [
+        "3.1"
+      ],
+      "topic": "Algebra",
+      "answers": {
+        "answer_snippet": "9709/32 Cambridge International A Level \u2013 Mark Scheme February/March 2025 PUBLISHED Question Answer Marks Guidance 3(a) Obtain Im(z)\u2a7d \u20131 B1 Condone strict inequalities throughout (a). Obtain answer of the form z\u2212a b M1 Accept equation or any inequality sign. a = \u00b1 2 \u00b1 i and b = 3, e.g."
+      }
+    },
+    {
+      "question_number": "3",
+      "subparts": [],
+      "page": 18,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "3.1"
+      ],
+      "topic": "Algebra",
+      "answers": {
+        "answer_snippet": "Cambridge International A Level MATHEMATICS 9709/32 Paper 3 Pure Mathematics 3 February/March 2025 MARK SCHEME Maximum Mark: 75 Published This mark scheme is published as an aid to teachers and candidates, to indicate the requirements of the examination. It shows the basis on which Examiners were instructed to award marks."
+      }
+    },
+    {
+      "question_number": "0",
+      "subparts": [],
+      "page": 18,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "3.1"
+      ],
+      "topic": "Algebra",
+      "answers": {
+        "answer_snippet": "9709/32 Cambridge International A Level \u2013 Mark Scheme February/March 2025 PUBLISHED Question Answer Marks Guidance 1 State that 1 \u2013 e\u20132x = e\u20133 B1 OE, with ln removed. Use correct method to solve an equation of the form e\u00b12x = a, where a > 0, and a M1 E.g. [e\u20132x"
+      }
+    },
+    {
+      "question_number": "19",
+      "subparts": [],
+      "page": 19,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "3.1"
+      ],
+      "topic": "Algebra",
+      "answers": {
+        "answer_snippet": "9709/32 Cambridge International A Level \u2013 Mark Scheme February/March 2025 PUBLISHED Question Answer Marks Guidance 9(b) Equate (x \u2013 3)(6x2 + Ax + B) to 6x3 \u2013 11x2 \u2013 24x + 9 and obtain equations to solve for M1 Using their a and their b. A and B A \u2013"
+      }
+    },
+    {
+      "question_number": "20",
+      "subparts": [],
+      "page": 20,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "3.1"
+      ],
+      "topic": "Algebra",
+      "answers": {
+        "answer_snippet": "9709/32 Cambridge International A Level \u2013 Mark Scheme February/March 2025 PUBLISHED Question Answer Marks Guidance 10(a) A Bx+C B1 State or imply the form + (1+x) ( 4+x2) Use a correct method for finding a constant Even with incorrect PF denominators M1 A(4+x2) + (Bx + C)(1 + x) +"
+      }
+    }
+  ],
+  "statistics": {
+    "total_questions": 37,
+    "total_marks": 67
+  }
+}

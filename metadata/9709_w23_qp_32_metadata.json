@@ -1,0 +1,464 @@
+{
+  "exam_info": {
+    "paper_code": "9709/32",
+    "exam_board": "Cambridge International AS & A Level",
+    "subject": "Mathematics",
+    "paper_name": "Paper 3 Pure Mathematics 3",
+    "exam_session": "October/November 2023",
+    "total_marks": 75,
+    "time_allowed": "1 hour 50 minutes",
+    "question_paper": "9709_w23_qp_32.pdf",
+    "mark_scheme": "9709_w23_ms_32.pdf",
+    "syllabus": "697427-2026-2027-syllabus.pdf"
+  },
+  "questions": [
+    {
+      "question_number": "2",
+      "subparts": [],
+      "page": 2,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "3.1"
+      ],
+      "topic": "Algebra",
+      "answers": {
+        "answer_snippet": "9709/32 Cambridge International A Level \u2013 Mark Scheme October/November 2023 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptors for a question. Each question paper"
+      }
+    },
+    {
+      "question_number": "3",
+      "subparts": [],
+      "page": 3,
+      "marks": 4,
+      "syllabus_outcomes": [
+        "3.1"
+      ],
+      "topic": "Algebra",
+      "answers": {
+        "answer_snippet": "Cambridge International A Level MATHEMATICS 9709/32 Paper 3 Pure Mathematics 3 October/November 2023 MARK SCHEME Maximum Mark: 75 Published This mark scheme is published as an aid to teachers and candidates, to indicate the requirements of the examination. It shows the basis on which Examiners were instructed to award marks."
+      }
+    },
+    {
+      "question_number": "4",
+      "subparts": [],
+      "page": 4,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "3.1"
+      ],
+      "topic": "Algebra",
+      "answers": {
+        "answer_snippet": "9709/32 Cambridge International A Level \u2013 Mark Scheme October/November 2023 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptors for a question. Each question paper"
+      }
+    },
+    {
+      "question_number": "2",
+      "subparts": [],
+      "page": 4,
+      "marks": 4,
+      "syllabus_outcomes": [
+        "3.2",
+        "3.4"
+      ],
+      "topic": "Logarithmic and exponential functions",
+      "answers": {
+        "answer_snippet": "9709/32 Cambridge International A Level \u2013 Mark Scheme October/November 2023 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptors for a question. Each question paper"
+      }
+    },
+    {
+      "question_number": "5",
+      "subparts": [],
+      "page": 5,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "3.1"
+      ],
+      "topic": "Algebra",
+      "answers": {
+        "answer_snippet": "9709/32 Cambridge International A Level \u2013 Mark Scheme October/November 2023 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptors for a question. Each question paper"
+      }
+    },
+    {
+      "question_number": "3",
+      "subparts": [],
+      "page": 5,
+      "marks": 5,
+      "syllabus_outcomes": [
+        "3.1"
+      ],
+      "topic": "Algebra",
+      "answers": {
+        "answer_snippet": "Cambridge International A Level MATHEMATICS 9709/32 Paper 3 Pure Mathematics 3 October/November 2023 MARK SCHEME Maximum Mark: 75 Published This mark scheme is published as an aid to teachers and candidates, to indicate the requirements of the examination. It shows the basis on which Examiners were instructed to award marks."
+      }
+    },
+    {
+      "question_number": "6",
+      "subparts": [],
+      "page": 6,
+      "marks": 4,
+      "syllabus_outcomes": [
+        "3.1"
+      ],
+      "topic": "Algebra",
+      "answers": {
+        "answer_snippet": "9709/32 Cambridge International A Level \u2013 Mark Scheme October/November 2023 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptors for a question. Each question paper"
+      }
+    },
+    {
+      "question_number": "7",
+      "subparts": [],
+      "page": 7,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "3.1"
+      ],
+      "topic": "Algebra",
+      "answers": {
+        "answer_snippet": "9709/32 Cambridge International A Level \u2013 Mark Scheme October/November 2023 PUBLISHED Question Answer Marks Guidance 1(b) Obtain critical value x=3 B1 Allow incorrect inequality. Allow if later rejected. Allow 21. 7 Solve the linear equation 1+3x=2\u22124x M1 Or corresponding linear inequality. Obtain critical value 1 A1 Allow 0.143 or better."
+      }
+    },
+    {
+      "question_number": "6",
+      "subparts": [],
+      "page": 7,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "3.1"
+      ],
+      "topic": "Algebra",
+      "answers": {
+        "answer_snippet": "9709/32 Cambridge International A Level \u2013 Mark Scheme October/November 2023 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptors for a question. Each question paper"
+      }
+    },
+    {
+      "question_number": "5",
+      "subparts": [],
+      "page": 7,
+      "marks": 6,
+      "syllabus_outcomes": [
+        "3.1"
+      ],
+      "topic": "Algebra",
+      "answers": {
+        "answer_snippet": "9709/32 Cambridge International A Level \u2013 Mark Scheme October/November 2023 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptors for a question. Each question paper"
+      }
+    },
+    {
+      "question_number": "0",
+      "subparts": [],
+      "page": 7,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "3.1"
+      ],
+      "topic": "Algebra",
+      "answers": {
+        "answer_snippet": "9709/32 Cambridge International A Level \u2013 Mark Scheme October/November 2023 PUBLISHED Question Answer Marks Guidance 1(a) B1 Show a recognizable sketch graph of y= 4x\u22122. y Roughly symmetrical. Should extend into the second quadrant. Ignore y=4x\u22122below the axis if intention is clear e.g. dashed or the required lines are clearly"
+      }
+    },
+    {
+      "question_number": "8",
+      "subparts": [],
+      "page": 8,
+      "marks": 2,
+      "syllabus_outcomes": [
+        "3.3",
+        "3.6"
+      ],
+      "topic": "Trigonometry",
+      "answers": {
+        "answer_snippet": "9709/32 Cambridge International A Level \u2013 Mark Scheme October/November 2023 PUBLISHED Question Answer Marks Guidance 2 dx 2 B1 Any equivalent form. Obtain = lnt dt t dy B1 Any equivalent form. Obtain =\u22122te2\u2212t2 dt dy = dy \uf0b8 dx and substitute t=e M1 dy \uf0e6\u22122e2e2\u2212e2 \uf0f6 Correct use of"
+      }
+    },
+    {
+      "question_number": "2",
+      "subparts": [],
+      "page": 8,
+      "marks": 2,
+      "syllabus_outcomes": [
+        "3.6"
+      ],
+      "topic": "Numerical solution of equations",
+      "answers": {
+        "answer_snippet": "9709/32 Cambridge International A Level \u2013 Mark Scheme October/November 2023 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptors for a question. Each question paper"
+      }
+    },
+    {
+      "question_number": "9",
+      "subparts": [],
+      "page": 9,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "3.1"
+      ],
+      "topic": "Algebra",
+      "answers": {
+        "answer_snippet": "9709/32 Cambridge International A Level \u2013 Mark Scheme October/November 2023 PUBLISHED Question Answer Marks Guidance 3 Substitute x= 1 and equate the result to zero M1 Or divide as far as (2x\u22121)( x2 + px+q ) and equate 2 constant remainder to zero. Obtain a correct equation with powers evaluated"
+      }
+    },
+    {
+      "question_number": "1",
+      "subparts": [],
+      "page": 9,
+      "marks": 3,
+      "syllabus_outcomes": [
+        "3.6"
+      ],
+      "topic": "Numerical solution of equations",
+      "answers": {
+        "answer_snippet": "9709/32 Cambridge International A Level \u2013 Mark Scheme October/November 2023 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptors for a question. Each question paper"
+      }
+    },
+    {
+      "question_number": "10",
+      "subparts": [],
+      "page": 10,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "3.1"
+      ],
+      "topic": "Algebra",
+      "answers": {
+        "answer_snippet": "9709/32 Cambridge International A Level \u2013 Mark Scheme October/November 2023 PUBLISHED Question Answer Marks Guidance 4(a) Show a circle with centre 4+3i. Accept a curved shape with correct point B1 Im roughly in the middle. 5i Show a circle with radius 2 and centre not at the origin. B1 The"
+      }
+    },
+    {
+      "question_number": "1",
+      "subparts": [],
+      "page": 10,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "3.1"
+      ],
+      "topic": "Algebra",
+      "answers": {
+        "answer_snippet": "9709/32 Cambridge International A Level \u2013 Mark Scheme October/November 2023 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptors for a question. Each question paper"
+      }
+    },
+    {
+      "question_number": "11",
+      "subparts": [],
+      "page": 11,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "3.1"
+      ],
+      "topic": "Algebra",
+      "answers": {
+        "answer_snippet": "9709/32 Cambridge International A Level \u2013 Mark Scheme October/November 2023 PUBLISHED Question Answer Marks Guidance 3 Substitute x= 1 and equate the result to zero M1 Or divide as far as (2x\u22121)( x2 + px+q ) and equate 2 constant remainder to zero. Obtain a correct equation with powers evaluated"
+      }
+    },
+    {
+      "question_number": "1",
+      "subparts": [],
+      "page": 11,
+      "marks": 5,
+      "syllabus_outcomes": [
+        "3.1"
+      ],
+      "topic": "Algebra",
+      "answers": {
+        "answer_snippet": "9709/32 Cambridge International A Level \u2013 Mark Scheme October/November 2023 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptors for a question. Each question paper"
+      }
+    },
+    {
+      "question_number": "12",
+      "subparts": [],
+      "page": 12,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "3.1"
+      ],
+      "topic": "Algebra",
+      "answers": {
+        "answer_snippet": "9709/32 Cambridge International A Level \u2013 Mark Scheme October/November 2023 PUBLISHED Question Answer Marks Guidance 3 Substitute x= 1 and equate the result to zero M1 Or divide as far as (2x\u22121)( x2 + px+q ) and equate 2 constant remainder to zero. Obtain a correct equation with powers evaluated"
+      }
+    },
+    {
+      "question_number": "2",
+      "subparts": [],
+      "page": 12,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "3.1"
+      ],
+      "topic": "Algebra",
+      "answers": {
+        "answer_snippet": "9709/32 Cambridge International A Level \u2013 Mark Scheme October/November 2023 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptors for a question. Each question paper"
+      }
+    },
+    {
+      "question_number": "8",
+      "subparts": [],
+      "page": 12,
+      "marks": 4,
+      "syllabus_outcomes": [
+        "3.1"
+      ],
+      "topic": "Algebra",
+      "answers": {
+        "answer_snippet": "9709/32 Cambridge International A Level \u2013 Mark Scheme October/November 2023 PUBLISHED Question Answer Marks Guidance 2 dx 2 B1 Any equivalent form. Obtain = lnt dt t dy B1 Any equivalent form. Obtain =\u22122te2\u2212t2 dt dy = dy \uf0b8 dx and substitute t=e M1 dy \uf0e6\u22122e2e2\u2212e2 \uf0f6 Correct use of"
+      }
+    },
+    {
+      "question_number": "13",
+      "subparts": [],
+      "page": 13,
+      "marks": 3,
+      "syllabus_outcomes": [
+        "3.1"
+      ],
+      "topic": "Algebra",
+      "answers": {
+        "answer_snippet": "9709/32 Cambridge International A Level \u2013 Mark Scheme October/November 2023 PUBLISHED Question Answer Marks Guidance 4(b) Carry out a complete method for finding the greatest value of arg(z) M1 Im e.g tan\u221213+sin\u221212 (0.6435+0.4115) 4 5 5i Obtain answer 1.06 (accept 1.055 or 1.056) radians A1 2 or 60.45\uf0b0 (accept 60.4\uf0b0or"
+      }
+    },
+    {
+      "question_number": "14",
+      "subparts": [],
+      "page": 14,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "3.1"
+      ],
+      "topic": "Algebra",
+      "answers": {
+        "answer_snippet": "9709/32 Cambridge International A Level \u2013 Mark Scheme October/November 2023 PUBLISHED Question Answer Marks Guidance 6(a) Sketch a relevant graph. B1 y e.g. y = cot x: x intercept should be correct. Not touching the y-axis. No incorrect curvature. Ignore anything outside 0 < x \u2a7d1\u03c0. y = cotx 2"
+      }
+    },
+    {
+      "question_number": "9",
+      "subparts": [],
+      "page": 14,
+      "marks": 5,
+      "syllabus_outcomes": [
+        "3.1"
+      ],
+      "topic": "Algebra",
+      "answers": {
+        "answer_snippet": "9709/32 Cambridge International A Level \u2013 Mark Scheme October/November 2023 PUBLISHED Question Answer Marks Guidance 3 Substitute x= 1 and equate the result to zero M1 Or divide as far as (2x\u22121)( x2 + px+q ) and equate 2 constant remainder to zero. Obtain a correct equation with powers evaluated"
+      }
+    },
+    {
+      "question_number": "15",
+      "subparts": [],
+      "page": 15,
+      "marks": 4,
+      "syllabus_outcomes": [
+        "3.1"
+      ],
+      "topic": "Algebra",
+      "answers": {
+        "answer_snippet": "9709/32 Cambridge International A Level \u2013 Mark Scheme October/November 2023 PUBLISHED Question Answer Marks Guidance 6(c) Use the iterative process correctly at least once. Must be working in radians M1 Obtain final answer 0.68 A1 Must be a clear conclusion. Show sufficient iterations to at least 4 d.p. to justify"
+      }
+    },
+    {
+      "question_number": "16",
+      "subparts": [],
+      "page": 16,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "3.1"
+      ],
+      "topic": "Algebra",
+      "answers": {
+        "answer_snippet": "9709/32 Cambridge International A Level \u2013 Mark Scheme October/November 2023 PUBLISHED Question Answer Marks Guidance 7(b) Use the identity and correct double angle formula to obtain an equation in *M1 e.g. 4 cos3 \uf071 \u2013 3 cos \uf071 + cos \uf071 (2 cos2 \uf071 \u2013 1) = cos2 \uf071 cos\uf071"
+      }
+    },
+    {
+      "question_number": "10",
+      "subparts": [],
+      "page": 16,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "3.1"
+      ],
+      "topic": "Algebra",
+      "answers": {
+        "answer_snippet": "9709/32 Cambridge International A Level \u2013 Mark Scheme October/November 2023 PUBLISHED Question Answer Marks Guidance 4(a) Show a circle with centre 4+3i. Accept a curved shape with correct point B1 Im roughly in the middle. 5i Show a circle with radius 2 and centre not at the origin. B1 The"
+      }
+    },
+    {
+      "question_number": "3",
+      "subparts": [],
+      "page": 16,
+      "marks": 4,
+      "syllabus_outcomes": [
+        "3.1"
+      ],
+      "topic": "Algebra",
+      "answers": {
+        "answer_snippet": "Cambridge International A Level MATHEMATICS 9709/32 Paper 3 Pure Mathematics 3 October/November 2023 MARK SCHEME Maximum Mark: 75 Published This mark scheme is published as an aid to teachers and candidates, to indicate the requirements of the examination. It shows the basis on which Examiners were instructed to award marks."
+      }
+    },
+    {
+      "question_number": "17",
+      "subparts": [],
+      "page": 17,
+      "marks": 5,
+      "syllabus_outcomes": [
+        "3.1"
+      ],
+      "topic": "Algebra",
+      "answers": {
+        "answer_snippet": "9709/32 Cambridge International A Level \u2013 Mark Scheme October/November 2023 PUBLISHED Question Answer Marks Guidance 6(a) Sketch a relevant graph. B1 y e.g. y = cot x: x intercept should be correct. Not touching the y-axis. No incorrect curvature. Ignore anything outside 0 < x \u2a7d1\u03c0. y = cotx 2"
+      }
+    },
+    {
+      "question_number": "18",
+      "subparts": [],
+      "page": 18,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "3.1"
+      ],
+      "topic": "Algebra",
+      "answers": {
+        "answer_snippet": "9709/32 Cambridge International A Level \u2013 Mark Scheme October/November 2023 PUBLISHED Question Answer Marks Guidance 9(a) Use correct product rule *M1 As far as pcosxcos2x+qsinxsin2xor full working (u, v, du/dx, dv/dx) shown. dy A1 OE Obtain =cosxcos2x\u22122sinxsin2x dx Equate derivative to zero and use correct double angle formulae DM1 Allow"
+      }
+    },
+    {
+      "question_number": "11",
+      "subparts": [],
+      "page": 18,
+      "marks": 8,
+      "syllabus_outcomes": [
+        "3.1"
+      ],
+      "topic": "Algebra",
+      "answers": {
+        "answer_snippet": "9709/32 Cambridge International A Level \u2013 Mark Scheme October/November 2023 PUBLISHED Question Answer Marks Guidance 3 Substitute x= 1 and equate the result to zero M1 Or divide as far as (2x\u22121)( x2 + px+q ) and equate 2 constant remainder to zero. Obtain a correct equation with powers evaluated"
+      }
+    },
+    {
+      "question_number": "19",
+      "subparts": [],
+      "page": 19,
+      "marks": 1,
+      "syllabus_outcomes": [
+        "3.1"
+      ],
+      "topic": "Algebra",
+      "answers": {
+        "answer_snippet": "9709/32 Cambridge International A Level \u2013 Mark Scheme October/November 2023 PUBLISHED Question Answer Marks Guidance 9(b) Use double angle formula and obtain pcos3x+qcosx correctly *M1 e.g. from\uf0f22cos2xsinx\u2212sinxdx. \uf0e6 2 \uf0f6 A1 Obtain \uf0b1 \uf0e7 \u2212 cos3x+cosx \uf0f7 Correct for their integral. \uf0e8 3 \uf0f8 Correct use of limits 1\u03c0 and"
+      }
+    },
+    {
+      "question_number": "20",
+      "subparts": [],
+      "page": 20,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "3.1"
+      ],
+      "topic": "Algebra",
+      "answers": {
+        "answer_snippet": "9709/32 Cambridge International A Level \u2013 Mark Scheme October/November 2023 PUBLISHED Question Answer Marks Guidance 4(b) Carry out a complete method for finding the greatest value of arg(z) M1 Im e.g tan\u221213+sin\u221212 (0.6435+0.4115) 4 5 5i Obtain answer 1.06 (accept 1.055 or 1.056) radians A1 2 or 60.45\uf0b0 (accept 60.4\uf0b0or"
+      }
+    }
+  ],
+  "statistics": {
+    "total_questions": 34,
+    "total_marks": 69
+  }
+}

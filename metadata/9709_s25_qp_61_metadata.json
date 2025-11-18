@@ -1,0 +1,334 @@
+{
+  "exam_info": {
+    "paper_code": "9709/61",
+    "exam_board": "Cambridge International AS & A Level",
+    "subject": "Mathematics",
+    "paper_name": "Paper 6 Probability & Statistics 2",
+    "exam_session": "May/June 2025",
+    "total_marks": 50,
+    "time_allowed": "1 hour 15 minutes",
+    "question_paper": "9709_s25_qp_61.pdf",
+    "mark_scheme": "9709_s25_ms_61.pdf",
+    "syllabus": "697427-2026-2027-syllabus.pdf"
+  },
+  "questions": [
+    {
+      "question_number": "2",
+      "subparts": [],
+      "page": 2,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "6.1"
+      ],
+      "topic": "The Poisson distribution",
+      "answers": {
+        "answer_snippet": "Cambridge International A Level MATHEMATICS 9709/61 Paper 6 Probability & Statistics 2 May/June 2025 MARK SCHEME Maximum Mark: 50 Published This mark scheme is published as an aid to teachers and candidates, to indicate the requirements of the examination. It shows the basis on which Examiners were instructed to award"
+      }
+    },
+    {
+      "question_number": "1",
+      "subparts": [],
+      "page": 2,
+      "marks": 3,
+      "syllabus_outcomes": [
+        "6.4"
+      ],
+      "topic": "Sampling and estimation",
+      "answers": {
+        "answer_snippet": "9709/61 Cambridge International A Level \u2013 Mark Scheme May/June 2025 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptions for a question. Each question paper"
+      }
+    },
+    {
+      "question_number": "3",
+      "subparts": [],
+      "page": 3,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "6.1"
+      ],
+      "topic": "The Poisson distribution",
+      "answers": {
+        "answer_snippet": "9709/61 Cambridge International A Level \u2013 Mark Scheme May/June 2025 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptions for a question. Each question paper"
+      }
+    },
+    {
+      "question_number": "3",
+      "subparts": [],
+      "page": 3,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "6.1"
+      ],
+      "topic": "The Poisson distribution",
+      "answers": {
+        "answer_snippet": "9709/61 Cambridge International A Level \u2013 Mark Scheme May/June 2025 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptions for a question. Each question paper"
+      }
+    },
+    {
+      "question_number": "2",
+      "subparts": [],
+      "page": 3,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "6.4"
+      ],
+      "topic": "Sampling and estimation",
+      "answers": {
+        "answer_snippet": "Cambridge International A Level MATHEMATICS 9709/61 Paper 6 Probability & Statistics 2 May/June 2025 MARK SCHEME Maximum Mark: 50 Published This mark scheme is published as an aid to teachers and candidates, to indicate the requirements of the examination. It shows the basis on which Examiners were instructed to award"
+      }
+    },
+    {
+      "question_number": "4",
+      "subparts": [],
+      "page": 3,
+      "marks": 6,
+      "syllabus_outcomes": [
+        "6.4"
+      ],
+      "topic": "Sampling and estimation",
+      "answers": {
+        "answer_snippet": "9709/61 Cambridge International A Level \u2013 Mark Scheme May/June 2025 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptions for a question. Each question paper"
+      }
+    },
+    {
+      "question_number": "4",
+      "subparts": [],
+      "page": 4,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "6.1"
+      ],
+      "topic": "The Poisson distribution",
+      "answers": {
+        "answer_snippet": "9709/61 Cambridge International A Level \u2013 Mark Scheme May/June 2025 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptions for a question. Each question paper"
+      }
+    },
+    {
+      "question_number": "3",
+      "subparts": [],
+      "page": 4,
+      "marks": 3,
+      "syllabus_outcomes": [
+        "6.4",
+        "6.5"
+      ],
+      "topic": "Sampling and estimation",
+      "answers": {
+        "answer_snippet": "9709/61 Cambridge International A Level \u2013 Mark Scheme May/June 2025 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptions for a question. Each question paper"
+      }
+    },
+    {
+      "question_number": "5",
+      "subparts": [],
+      "page": 5,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "6.1"
+      ],
+      "topic": "The Poisson distribution",
+      "answers": {
+        "answer_snippet": "9709/61 Cambridge International A Level \u2013 Mark Scheme May/June 2025 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptions for a question. Each question paper"
+      }
+    },
+    {
+      "question_number": "4",
+      "subparts": [],
+      "page": 5,
+      "marks": 3,
+      "syllabus_outcomes": [
+        "6.1"
+      ],
+      "topic": "The Poisson distribution",
+      "answers": {
+        "answer_snippet": "9709/61 Cambridge International A Level \u2013 Mark Scheme May/June 2025 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptions for a question. Each question paper"
+      }
+    },
+    {
+      "question_number": "6",
+      "subparts": [],
+      "page": 6,
+      "marks": 2,
+      "syllabus_outcomes": [
+        "6.1"
+      ],
+      "topic": "The Poisson distribution",
+      "answers": {
+        "answer_snippet": "Cambridge International A Level MATHEMATICS 9709/61 Paper 6 Probability & Statistics 2 May/June 2025 MARK SCHEME Maximum Mark: 50 Published This mark scheme is published as an aid to teachers and candidates, to indicate the requirements of the examination. It shows the basis on which Examiners were instructed to award"
+      }
+    },
+    {
+      "question_number": "7",
+      "subparts": [],
+      "page": 7,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "6.1"
+      ],
+      "topic": "The Poisson distribution",
+      "answers": {
+        "answer_snippet": "9709/61 Cambridge International A Level \u2013 Mark Scheme May/June 2025 PUBLISHED Mark Scheme Notes The following notes are intended to aid interpretation of mark schemes in general, but individual mark schemes may include marks awarded for specific reasons outside the scope of these notes. Types of mark M Method mark,"
+      }
+    },
+    {
+      "question_number": "5",
+      "subparts": [],
+      "page": 7,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "6.1"
+      ],
+      "topic": "The Poisson distribution",
+      "answers": {
+        "answer_snippet": "9709/61 Cambridge International A Level \u2013 Mark Scheme May/June 2025 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptions for a question. Each question paper"
+      }
+    },
+    {
+      "question_number": "2",
+      "subparts": [],
+      "page": 7,
+      "marks": 3,
+      "syllabus_outcomes": [
+        "6.1"
+      ],
+      "topic": "The Poisson distribution",
+      "answers": {
+        "answer_snippet": "Cambridge International A Level MATHEMATICS 9709/61 Paper 6 Probability & Statistics 2 May/June 2025 MARK SCHEME Maximum Mark: 50 Published This mark scheme is published as an aid to teachers and candidates, to indicate the requirements of the examination. It shows the basis on which Examiners were instructed to award"
+      }
+    },
+    {
+      "question_number": "8",
+      "subparts": [],
+      "page": 8,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "6.1"
+      ],
+      "topic": "The Poisson distribution",
+      "answers": {
+        "answer_snippet": "9709/61 Cambridge International A Level \u2013 Mark Scheme May/June 2025 PUBLISHED Abbreviations AEF/OE Any Equivalent Form (of answer is equally acceptable) / Or Equivalent AG Answer Given on the question paper (so extra checking is needed to ensure that the detailed working leading to the result is valid) CAO Correct"
+      }
+    },
+    {
+      "question_number": "6",
+      "subparts": [],
+      "page": 8,
+      "marks": 1,
+      "syllabus_outcomes": [
+        "6.4",
+        "6.5"
+      ],
+      "topic": "Sampling and estimation",
+      "answers": {
+        "answer_snippet": "Cambridge International A Level MATHEMATICS 9709/61 Paper 6 Probability & Statistics 2 May/June 2025 MARK SCHEME Maximum Mark: 50 Published This mark scheme is published as an aid to teachers and candidates, to indicate the requirements of the examination. It shows the basis on which Examiners were instructed to award"
+      }
+    },
+    {
+      "question_number": "9",
+      "subparts": [],
+      "page": 9,
+      "marks": 3,
+      "syllabus_outcomes": [
+        "6.4"
+      ],
+      "topic": "Sampling and estimation",
+      "answers": {
+        "answer_snippet": "9709/61 Cambridge International A Level \u2013 Mark Scheme May/June 2025 PUBLISHED Question Answer Marks Guidance 1 (\u03bb ) = 4 B1 SOI. \uf0e6 42 43 \uf0f6 M1 Allow any \u03bb, allow one end error. e\u22124 \uf0e71 + 4 + + \uf0f7= e\u22124 (1 + 4 + 8 + 10.6666) 2!"
+      }
+    },
+    {
+      "question_number": "10",
+      "subparts": [],
+      "page": 10,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "6.1"
+      ],
+      "topic": "The Poisson distribution",
+      "answers": {
+        "answer_snippet": "9709/61 Cambridge International A Level \u2013 Mark Scheme May/June 2025 PUBLISHED Question Answer Marks Guidance 1 (\u03bb ) = 4 B1 SOI. \uf0e6 42 43 \uf0f6 M1 Allow any \u03bb, allow one end error. e\u22124 \uf0e71 + 4 + + \uf0f7= e\u22124 (1 + 4 + 8 + 10.6666) 2!"
+      }
+    },
+    {
+      "question_number": "7",
+      "subparts": [],
+      "page": 10,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "6.3"
+      ],
+      "topic": "Continuous random variables",
+      "answers": {
+        "answer_snippet": "9709/61 Cambridge International A Level \u2013 Mark Scheme May/June 2025 PUBLISHED Mark Scheme Notes The following notes are intended to aid interpretation of mark schemes in general, but individual mark schemes may include marks awarded for specific reasons outside the scope of these notes. Types of mark M Method mark,"
+      }
+    },
+    {
+      "question_number": "1",
+      "subparts": [],
+      "page": 10,
+      "marks": 3,
+      "syllabus_outcomes": [
+        "6.1"
+      ],
+      "topic": "The Poisson distribution",
+      "answers": {
+        "answer_snippet": "9709/61 Cambridge International A Level \u2013 Mark Scheme May/June 2025 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptions for a question. Each question paper"
+      }
+    },
+    {
+      "question_number": "2",
+      "subparts": [],
+      "page": 10,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "6.1"
+      ],
+      "topic": "The Poisson distribution",
+      "answers": {
+        "answer_snippet": "Cambridge International A Level MATHEMATICS 9709/61 Paper 6 Probability & Statistics 2 May/June 2025 MARK SCHEME Maximum Mark: 50 Published This mark scheme is published as an aid to teachers and candidates, to indicate the requirements of the examination. It shows the basis on which Examiners were instructed to award"
+      }
+    },
+    {
+      "question_number": "11",
+      "subparts": [],
+      "page": 11,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "6.1"
+      ],
+      "topic": "The Poisson distribution",
+      "answers": {
+        "answer_snippet": "9709/61 Cambridge International A Level \u2013 Mark Scheme May/June 2025 PUBLISHED Question Answer Marks Guidance 3(b) H : Population mean time = 45 H : Population mean time > 45 B1 Allow \u2018\u03bc\u2019 but not just \u2018mean\u2019. o 1 '275' M1 Standardise using their values from 3(a). - 45 6"
+      }
+    },
+    {
+      "question_number": "1",
+      "subparts": [],
+      "page": 11,
+      "marks": 5,
+      "syllabus_outcomes": [
+        "6.1"
+      ],
+      "topic": "The Poisson distribution",
+      "answers": {
+        "answer_snippet": "9709/61 Cambridge International A Level \u2013 Mark Scheme May/June 2025 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptions for a question. Each question paper"
+      }
+    },
+    {
+      "question_number": "12",
+      "subparts": [],
+      "page": 12,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "6.1"
+      ],
+      "topic": "The Poisson distribution",
+      "answers": {
+        "answer_snippet": "9709/61 Cambridge International A Level \u2013 Mark Scheme May/June 2025 PUBLISHED Question Answer Marks Guidance Variance = 35 \u00d7 \u20181.44\u2019 M1 FT their variance of cost for one person. = 50.4 [$2] A1 3 Question Answer Marks Guidance 5(a)(i) \uf0e63.53 3.54 3.55 \uf0f6 M1 Any \u03bb, allow one end error."
+      }
+    }
+  ],
+  "statistics": {
+    "total_questions": 24,
+    "total_marks": 32
+  }
+}

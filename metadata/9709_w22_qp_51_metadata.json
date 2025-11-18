@@ -1,0 +1,269 @@
+{
+  "exam_info": {
+    "paper_code": "9709/51",
+    "exam_board": "Cambridge International AS & A Level",
+    "subject": "Mathematics",
+    "paper_name": "Paper 5 Probability & Statistics 1",
+    "exam_session": "October/November 2022",
+    "total_marks": 50,
+    "time_allowed": "1 hour 15 minutes",
+    "question_paper": "9709_w22_qp_51.pdf",
+    "mark_scheme": "9709_w22_ms_51.pdf",
+    "syllabus": "697427-2026-2027-syllabus.pdf"
+  },
+  "questions": [
+    {
+      "question_number": "2",
+      "subparts": [],
+      "page": 2,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "5.1"
+      ],
+      "topic": "Representation of data",
+      "answers": {
+        "answer_snippet": "9709/51 51Cambridge International AS & A Level \u2013 Mark Scheme October/November 2022 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptors for a question. Each"
+      }
+    },
+    {
+      "question_number": "3",
+      "subparts": [],
+      "page": 3,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "5.1"
+      ],
+      "topic": "Representation of data",
+      "answers": {
+        "answer_snippet": "9709/51 51Cambridge International AS & A Level \u2013 Mark Scheme October/November 2022 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptors for a question. Each"
+      }
+    },
+    {
+      "question_number": "1",
+      "subparts": [],
+      "page": 3,
+      "marks": 4,
+      "syllabus_outcomes": [
+        "5.3"
+      ],
+      "topic": "Probability",
+      "answers": {
+        "answer_snippet": "Cambridge International AS & A Level MATHEMATICS 9709/51 Paper 5 Probability & Statistics 1 October/November 2022 MARK SCHEME Maximum Mark: 50 Published This mark scheme is published as an aid to teachers and candidates, to indicate the requirements of the examination. It shows the basis on which Examiners were instructed"
+      }
+    },
+    {
+      "question_number": "4",
+      "subparts": [],
+      "page": 4,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "5.1"
+      ],
+      "topic": "Representation of data",
+      "answers": {
+        "answer_snippet": "9709/51 51Cambridge International AS & A Level \u2013 Mark Scheme October/November 2022 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptors for a question. Each"
+      }
+    },
+    {
+      "question_number": "2",
+      "subparts": [],
+      "page": 4,
+      "marks": 3,
+      "syllabus_outcomes": [
+        "5.3"
+      ],
+      "topic": "Probability",
+      "answers": {
+        "answer_snippet": "9709/51 51Cambridge International AS & A Level \u2013 Mark Scheme October/November 2022 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptors for a question. Each"
+      }
+    },
+    {
+      "question_number": "5",
+      "subparts": [],
+      "page": 5,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "5.1"
+      ],
+      "topic": "Representation of data",
+      "answers": {
+        "answer_snippet": "Cambridge International AS & A Level MATHEMATICS 9709/51 Paper 5 Probability & Statistics 1 October/November 2022 MARK SCHEME Maximum Mark: 50 Published This mark scheme is published as an aid to teachers and candidates, to indicate the requirements of the examination. It shows the basis on which Examiners were instructed"
+      }
+    },
+    {
+      "question_number": "3",
+      "subparts": [],
+      "page": 5,
+      "marks": 4,
+      "syllabus_outcomes": [
+        "5.1"
+      ],
+      "topic": "Representation of data",
+      "answers": {
+        "answer_snippet": "9709/51 51Cambridge International AS & A Level \u2013 Mark Scheme October/November 2022 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptors for a question. Each"
+      }
+    },
+    {
+      "question_number": "6",
+      "subparts": [],
+      "page": 6,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "5.1"
+      ],
+      "topic": "Representation of data",
+      "answers": {
+        "answer_snippet": "9709/51 51Cambridge International AS & A Level \u2013 Mark Scheme October/November 2022 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptors for a question. Each"
+      }
+    },
+    {
+      "question_number": "4",
+      "subparts": [],
+      "page": 6,
+      "marks": 2,
+      "syllabus_outcomes": [
+        "5.1",
+        "5.3"
+      ],
+      "topic": "Representation of data",
+      "answers": {
+        "answer_snippet": "9709/51 51Cambridge International AS & A Level \u2013 Mark Scheme October/November 2022 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptors for a question. Each"
+      }
+    },
+    {
+      "question_number": "7",
+      "subparts": [],
+      "page": 7,
+      "marks": 4,
+      "syllabus_outcomes": [
+        "5.1",
+        "5.3"
+      ],
+      "topic": "Representation of data",
+      "answers": {
+        "answer_snippet": "9709/51 51Cambridge International AS & A Level \u2013 Mark Scheme October/November 2022 PUBLISHED Question Answer Marks Guidance 2(a) [P(3, 4, \u20267) = 1 \u2013 P(0, 1, 2, 8)] M1 One term 8C px(1\u2212 p)8\u2212x , for 0 < x < 8, 0 < p < 1 x = 1\u2212(8C 0.480"
+      }
+    },
+    {
+      "question_number": "8",
+      "subparts": [],
+      "page": 8,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "5.1"
+      ],
+      "topic": "Representation of data",
+      "answers": {
+        "answer_snippet": "9709/51 51Cambridge International AS & A Level \u2013 Mark Scheme October/November 2022 PUBLISHED Question Answer Marks Guidance 2(a) [P(3, 4, \u20267) = 1 \u2013 P(0, 1, 2, 8)] M1 One term 8C px(1\u2212 p)8\u2212x , for 0 < x < 8, 0 < p < 1 x = 1\u2212(8C 0.480"
+      }
+    },
+    {
+      "question_number": "5",
+      "subparts": [],
+      "page": 8,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "5.1"
+      ],
+      "topic": "Representation of data",
+      "answers": {
+        "answer_snippet": "Cambridge International AS & A Level MATHEMATICS 9709/51 Paper 5 Probability & Statistics 1 October/November 2022 MARK SCHEME Maximum Mark: 50 Published This mark scheme is published as an aid to teachers and candidates, to indicate the requirements of the examination. It shows the basis on which Examiners were instructed"
+      }
+    },
+    {
+      "question_number": "2",
+      "subparts": [],
+      "page": 8,
+      "marks": 2,
+      "syllabus_outcomes": [
+        "5.1"
+      ],
+      "topic": "Representation of data",
+      "answers": {
+        "answer_snippet": "9709/51 51Cambridge International AS & A Level \u2013 Mark Scheme October/November 2022 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptors for a question. Each"
+      }
+    },
+    {
+      "question_number": "3",
+      "subparts": [],
+      "page": 8,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "5.1"
+      ],
+      "topic": "Representation of data",
+      "answers": {
+        "answer_snippet": "9709/51 51Cambridge International AS & A Level \u2013 Mark Scheme October/November 2022 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptors for a question. Each"
+      }
+    },
+    {
+      "question_number": "9",
+      "subparts": [],
+      "page": 9,
+      "marks": 2,
+      "syllabus_outcomes": [
+        "5.3"
+      ],
+      "topic": "Probability",
+      "answers": {
+        "answer_snippet": "9709/51 51Cambridge International AS & A Level \u2013 Mark Scheme October/November 2022 PUBLISHED Question Answer Marks Guidance 3(a) Lions Tigers B1 Correct stem can be upside down, ignore extra values (not in 9 16 reverse). 9 8 17 9 9 7 6 1 0 18 0 3 4 7 B1"
+      }
+    },
+    {
+      "question_number": "10",
+      "subparts": [],
+      "page": 10,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "5.1"
+      ],
+      "topic": "Representation of data",
+      "answers": {
+        "answer_snippet": "9709/51 51Cambridge International AS & A Level \u2013 Mark Scheme October/November 2022 PUBLISHED Question Answer Marks Guidance 4(a) 132\u2212125.4 M1 Use of \u00b1standardisation formula with 132 and 125.4 substituted, P(X<132) = P(Z \uf03c ) = P(Z \uf03c0.3548) 18.6 condone continuity correction 132\u00b10.5 and use of 18.62, 18.6 0.639 A1 0.6385"
+      }
+    },
+    {
+      "question_number": "6",
+      "subparts": [],
+      "page": 10,
+      "marks": 4,
+      "syllabus_outcomes": [
+        "5.1"
+      ],
+      "topic": "Representation of data",
+      "answers": {
+        "answer_snippet": "9709/51 51Cambridge International AS & A Level \u2013 Mark Scheme October/November 2022 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptors for a question. Each"
+      }
+    },
+    {
+      "question_number": "11",
+      "subparts": [],
+      "page": 11,
+      "marks": 3,
+      "syllabus_outcomes": [
+        "5.1"
+      ],
+      "topic": "Representation of data",
+      "answers": {
+        "answer_snippet": "9709/51 51Cambridge International AS & A Level \u2013 Mark Scheme October/November 2022 PUBLISHED Question Answer Marks Guidance 3(a) Lions Tigers B1 Correct stem can be upside down, ignore extra values (not in 9 16 reverse). 9 8 17 9 9 7 6 1 0 18 0 3 4 7 B1"
+      }
+    },
+    {
+      "question_number": "12",
+      "subparts": [],
+      "page": 12,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "5.1"
+      ],
+      "topic": "Representation of data",
+      "answers": {
+        "answer_snippet": "9709/51 51Cambridge International AS & A Level \u2013 Mark Scheme October/November 2022 PUBLISHED Question Answer Marks Guidance 1 0.12+ p+q+0.16+0.3=1 B1 Sum of probabilities = 1 p +q = 0.42 OE. \u22120.24\u2212 p+0.5q+0.16+0.6=0.28 B1 Form equation using E(X) = 0.28 \u2212p + 0.5q = \u22120.24 OE. Accept unsimplified. Attempt to"
+      }
+    }
+  ],
+  "statistics": {
+    "total_questions": 19,
+    "total_marks": 28
+  }
+}

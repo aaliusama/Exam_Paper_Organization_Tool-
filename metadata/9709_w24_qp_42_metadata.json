@@ -1,0 +1,443 @@
+{
+  "exam_info": {
+    "paper_code": "9709/42",
+    "exam_board": "Cambridge International AS & A Level",
+    "subject": "Mathematics",
+    "paper_name": "Paper 4 Mechanics",
+    "exam_session": "October/November 2024",
+    "total_marks": 50,
+    "time_allowed": "1 hour 15 minutes",
+    "question_paper": "9709_w24_qp_42.pdf",
+    "mark_scheme": "9709_w24_ms_42.pdf",
+    "syllabus": "697427-2026-2027-syllabus.pdf"
+  },
+  "questions": [
+    {
+      "question_number": "2",
+      "subparts": [],
+      "page": 2,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "4.1"
+      ],
+      "topic": "Forces and equilibrium",
+      "answers": {
+        "answer_snippet": "9709/42 Cambridge International AS & A Level \u2013 Mark Scheme October/November 2024 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptions for a question. Each"
+      }
+    },
+    {
+      "question_number": "3",
+      "subparts": [],
+      "page": 3,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "4.1"
+      ],
+      "topic": "Forces and equilibrium",
+      "answers": {
+        "answer_snippet": "9709/42 Cambridge International AS & A Level \u2013 Mark Scheme October/November 2024 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptions for a question. Each"
+      }
+    },
+    {
+      "question_number": "1",
+      "subparts": [],
+      "page": 3,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "4.1"
+      ],
+      "topic": "Forces and equilibrium",
+      "answers": {
+        "answer_snippet": "9709/42 Cambridge International AS & A Level \u2013 Mark Scheme October/November 2024 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptions for a question. Each"
+      }
+    },
+    {
+      "question_number": "4",
+      "subparts": [],
+      "page": 3,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "4.2"
+      ],
+      "topic": "Kinematics of motion in a straight line",
+      "answers": {
+        "answer_snippet": "Cambridge International AS & A Level MATHEMATICS 9709/42 Paper 4 Mechanics October/November 2024 MARK SCHEME Maximum Mark: 50 Published This mark scheme is published as an aid to teachers and candidates, to indicate the requirements of the examination. It shows the basis on which Examiners were instructed to award marks."
+      }
+    },
+    {
+      "question_number": "3",
+      "subparts": [],
+      "page": 3,
+      "marks": 2,
+      "syllabus_outcomes": [
+        "4.1"
+      ],
+      "topic": "Forces and equilibrium",
+      "answers": {
+        "answer_snippet": "9709/42 Cambridge International AS & A Level \u2013 Mark Scheme October/November 2024 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptions for a question. Each"
+      }
+    },
+    {
+      "question_number": "4",
+      "subparts": [],
+      "page": 4,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "4.1"
+      ],
+      "topic": "Forces and equilibrium",
+      "answers": {
+        "answer_snippet": "Cambridge International AS & A Level MATHEMATICS 9709/42 Paper 4 Mechanics October/November 2024 MARK SCHEME Maximum Mark: 50 Published This mark scheme is published as an aid to teachers and candidates, to indicate the requirements of the examination. It shows the basis on which Examiners were instructed to award marks."
+      }
+    },
+    {
+      "question_number": "2",
+      "subparts": [],
+      "page": 4,
+      "marks": 4,
+      "syllabus_outcomes": [
+        "4.1",
+        "4.4",
+        "4.5"
+      ],
+      "topic": "Forces and equilibrium",
+      "answers": {
+        "answer_snippet": "9709/42 Cambridge International AS & A Level \u2013 Mark Scheme October/November 2024 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptions for a question. Each"
+      }
+    },
+    {
+      "question_number": "5",
+      "subparts": [],
+      "page": 5,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "4.1"
+      ],
+      "topic": "Forces and equilibrium",
+      "answers": {
+        "answer_snippet": "9709/42 Cambridge International AS & A Level \u2013 Mark Scheme October/November 2024 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptions for a question. Each"
+      }
+    },
+    {
+      "question_number": "3",
+      "subparts": [],
+      "page": 5,
+      "marks": 3,
+      "syllabus_outcomes": [
+        "4.2",
+        "4.4",
+        "4.5"
+      ],
+      "topic": "Kinematics of motion in a straight line",
+      "answers": {
+        "answer_snippet": "9709/42 Cambridge International AS & A Level \u2013 Mark Scheme October/November 2024 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptions for a question. Each"
+      }
+    },
+    {
+      "question_number": "6",
+      "subparts": [],
+      "page": 6,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "4.1"
+      ],
+      "topic": "Forces and equilibrium",
+      "answers": {
+        "answer_snippet": "9709/42 Cambridge International AS & A Level \u2013 Mark Scheme October/November 2024 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptions for a question. Each"
+      }
+    },
+    {
+      "question_number": "4",
+      "subparts": [],
+      "page": 6,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "4.1"
+      ],
+      "topic": "Forces and equilibrium",
+      "answers": {
+        "answer_snippet": "Cambridge International AS & A Level MATHEMATICS 9709/42 Paper 4 Mechanics October/November 2024 MARK SCHEME Maximum Mark: 50 Published This mark scheme is published as an aid to teachers and candidates, to indicate the requirements of the examination. It shows the basis on which Examiners were instructed to award marks."
+      }
+    },
+    {
+      "question_number": "45",
+      "subparts": [],
+      "page": 6,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "4.1"
+      ],
+      "topic": "Forces and equilibrium",
+      "answers": {
+        "answer_snippet": "9709/42 Cambridge International AS & A Level \u2013 Mark Scheme October/November 2024 PUBLISHED Question Answer Marks Guidance 3(a) 250 B1 For use of power = Fv e.g. 5\uf0b4PF =250. [Peddling force =PF =] 5 their PF\u2212R=90\uf0b40.1 M1 Using their PF\uf0b9250. 3 terms; allow sign errors. Dimensionally correct. Resistance =41 N"
+      }
+    },
+    {
+      "question_number": "0",
+      "subparts": [],
+      "page": 6,
+      "marks": 2,
+      "syllabus_outcomes": [
+        "4.1",
+        "4.4"
+      ],
+      "topic": "Forces and equilibrium",
+      "answers": {
+        "answer_snippet": "9709/42 Cambridge International AS & A Level \u2013 Mark Scheme October/November 2024 PUBLISHED Question Answer Marks Guidance 1(a) Use of v=u+at or use of acceleration is gradient of the line M1 Use v=0, a=\uf0b1 5 and t =10\u22124 \uf05b=6\uf05d . 3 5 0\u2212V 5 V \u22120 5 0=V \u2212 \uf0b4(10\u22124)"
+      }
+    },
+    {
+      "question_number": "7",
+      "subparts": [],
+      "page": 7,
+      "marks": 4,
+      "syllabus_outcomes": [
+        "4.4"
+      ],
+      "topic": "Newton's laws of motion",
+      "answers": {
+        "answer_snippet": "9709/42 Cambridge International AS & A Level \u2013 Mark Scheme October/November 2024 PUBLISHED Question Answer Marks Guidance 1(b) 1 B1FT SOI Distance in first 10 seconds = \uf0b410\uf0b4their V 1 1 2 OE, e.g. \uf0b44\uf0b4their V + \uf0b4(10\u22124)\uf0b4their V 2 2 If correct distance is 50 m. 1 1 M1"
+      }
+    },
+    {
+      "question_number": "8",
+      "subparts": [],
+      "page": 8,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "4.1"
+      ],
+      "topic": "Forces and equilibrium",
+      "answers": {
+        "answer_snippet": "9709/42 Cambridge International AS & A Level \u2013 Mark Scheme October/November 2024 PUBLISHED Question Answer Marks Guidance 2 Change in PE = \uf0b120gsin30\uf0b42 \uf05b=\uf0b1200\uf05d B1 1 B1 For either expression. \uf0b1 \uf0b420v2 \uf0e9=\uf0b110v2\uf0f9 \uf0eb \uf0fb 1 2 Do not allow \uf0b420(v\u22125)2 . 1 2 \uf0b1 \uf0b420\uf0b452 \uf05b=\uf0b1250\uf05d 2 1 1"
+      }
+    },
+    {
+      "question_number": "5",
+      "subparts": [],
+      "page": 8,
+      "marks": 4,
+      "syllabus_outcomes": [
+        "4.4"
+      ],
+      "topic": "Newton's laws of motion",
+      "answers": {
+        "answer_snippet": "9709/42 Cambridge International AS & A Level \u2013 Mark Scheme October/November 2024 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptions for a question. Each"
+      }
+    },
+    {
+      "question_number": "9",
+      "subparts": [],
+      "page": 9,
+      "marks": 5,
+      "syllabus_outcomes": [
+        "4.3"
+      ],
+      "topic": "Momentum",
+      "answers": {
+        "answer_snippet": "9709/42 Cambridge International AS & A Level \u2013 Mark Scheme October/November 2024 PUBLISHED Question Answer Marks Guidance 3(a) 250 B1 For use of power = Fv e.g. 5\uf0b4PF =250. [Peddling force =PF =] 5 their PF\u2212R=90\uf0b40.1 M1 Using their PF\uf0b9250. 3 terms; allow sign errors. Dimensionally correct. Resistance =41 N"
+      }
+    },
+    {
+      "question_number": "10",
+      "subparts": [],
+      "page": 10,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "4.1"
+      ],
+      "topic": "Forces and equilibrium",
+      "answers": {
+        "answer_snippet": "9709/42 Cambridge International AS & A Level \u2013 Mark Scheme October/November 2024 PUBLISHED Question Answer Marks Guidance 1(a) Use of v=u+at or use of acceleration is gradient of the line M1 Use v=0, a=\uf0b1 5 and t =10\u22124 \uf05b=6\uf05d . 3 5 0\u2212V 5 V \u22120 5 0=V \u2212 \uf0b4(10\u22124)"
+      }
+    },
+    {
+      "question_number": "6",
+      "subparts": [],
+      "page": 10,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "4.2"
+      ],
+      "topic": "Kinematics of motion in a straight line",
+      "answers": {
+        "answer_snippet": "9709/42 Cambridge International AS & A Level \u2013 Mark Scheme October/November 2024 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptions for a question. Each"
+      }
+    },
+    {
+      "question_number": "1",
+      "subparts": [],
+      "page": 10,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "4.1"
+      ],
+      "topic": "Forces and equilibrium",
+      "answers": {
+        "answer_snippet": "9709/42 Cambridge International AS & A Level \u2013 Mark Scheme October/November 2024 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptions for a question. Each"
+      }
+    },
+    {
+      "question_number": "2",
+      "subparts": [],
+      "page": 10,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "4.1"
+      ],
+      "topic": "Forces and equilibrium",
+      "answers": {
+        "answer_snippet": "9709/42 Cambridge International AS & A Level \u2013 Mark Scheme October/November 2024 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptions for a question. Each"
+      }
+    },
+    {
+      "question_number": "2",
+      "subparts": [],
+      "page": 10,
+      "marks": 3,
+      "syllabus_outcomes": [
+        "4.2"
+      ],
+      "topic": "Kinematics of motion in a straight line",
+      "answers": {
+        "answer_snippet": "9709/42 Cambridge International AS & A Level \u2013 Mark Scheme October/November 2024 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptions for a question. Each"
+      }
+    },
+    {
+      "question_number": "11",
+      "subparts": [],
+      "page": 11,
+      "marks": 4,
+      "syllabus_outcomes": [
+        "4.2"
+      ],
+      "topic": "Kinematics of motion in a straight line",
+      "answers": {
+        "answer_snippet": "9709/42 Cambridge International AS & A Level \u2013 Mark Scheme October/November 2024 PUBLISHED Question Answer Marks Guidance 4(b) T cos\uf071\u2212their T =0 *M1 For resolving either horizontally OR vertically; BQ AB 2 terms; allow sin/cos mix; allow their T ; AB T sin\uf071\u22120.1g =0 BQ M0 for any use of"
+      }
+    },
+    {
+      "question_number": "12",
+      "subparts": [],
+      "page": 12,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "4.1"
+      ],
+      "topic": "Forces and equilibrium",
+      "answers": {
+        "answer_snippet": "9709/42 Cambridge International AS & A Level \u2013 Mark Scheme October/November 2024 PUBLISHED Question Answer Marks Guidance 4(b) \uf071=26.6 AND T BQ = 5 or 2.24 A1 \uf071=26.56505\uf0bc. T BQ =2.236067\uf0bc. AWRT 26.6 and 2.24. SECOND ALTERNATIVE for 4(b) using triangle of forces: T2 =(0.1g)2 +(their T )2 M1 Using"
+      }
+    },
+    {
+      "question_number": "7",
+      "subparts": [],
+      "page": 12,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "4.1"
+      ],
+      "topic": "Forces and equilibrium",
+      "answers": {
+        "answer_snippet": "9709/42 Cambridge International AS & A Level \u2013 Mark Scheme October/November 2024 PUBLISHED Question Answer Marks Guidance 1(b) 1 B1FT SOI Distance in first 10 seconds = \uf0b410\uf0b4their V 1 1 2 OE, e.g. \uf0b44\uf0b4their V + \uf0b4(10\u22124)\uf0b4their V 2 2 If correct distance is 50 m. 1 1 M1"
+      }
+    },
+    {
+      "question_number": "0",
+      "subparts": [],
+      "page": 12,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "4.1"
+      ],
+      "topic": "Forces and equilibrium",
+      "answers": {
+        "answer_snippet": "9709/42 Cambridge International AS & A Level \u2013 Mark Scheme October/November 2024 PUBLISHED Question Answer Marks Guidance 1(a) Use of v=u+at or use of acceleration is gradient of the line M1 Use v=0, a=\uf0b1 5 and t =10\u22124 \uf05b=6\uf05d . 3 5 0\u2212V 5 V \u22120 5 0=V \u2212 \uf0b4(10\u22124)"
+      }
+    },
+    {
+      "question_number": "0",
+      "subparts": [],
+      "page": 12,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "4.1"
+      ],
+      "topic": "Forces and equilibrium",
+      "answers": {
+        "answer_snippet": "9709/42 Cambridge International AS & A Level \u2013 Mark Scheme October/November 2024 PUBLISHED Question Answer Marks Guidance 1(a) Use of v=u+at or use of acceleration is gradient of the line M1 Use v=0, a=\uf0b1 5 and t =10\u22124 \uf05b=6\uf05d . 3 5 0\u2212V 5 V \u22120 5 0=V \u2212 \uf0b4(10\u22124)"
+      }
+    },
+    {
+      "question_number": "0",
+      "subparts": [],
+      "page": 12,
+      "marks": 7,
+      "syllabus_outcomes": [
+        "4.1",
+        "4.2",
+        "4.4"
+      ],
+      "topic": "Forces and equilibrium",
+      "answers": {
+        "answer_snippet": "9709/42 Cambridge International AS & A Level \u2013 Mark Scheme October/November 2024 PUBLISHED Question Answer Marks Guidance 1(a) Use of v=u+at or use of acceleration is gradient of the line M1 Use v=0, a=\uf0b1 5 and t =10\u22124 \uf05b=6\uf05d . 3 5 0\u2212V 5 V \u22120 5 0=V \u2212 \uf0b4(10\u22124)"
+      }
+    },
+    {
+      "question_number": "13",
+      "subparts": [],
+      "page": 13,
+      "marks": 4,
+      "syllabus_outcomes": [
+        "4.1"
+      ],
+      "topic": "Forces and equilibrium",
+      "answers": {
+        "answer_snippet": "9709/42 Cambridge International AS & A Level \u2013 Mark Scheme October/November 2024 PUBLISHED Question Answer Marks Guidance T BQ = 0.1g = their T AB OR T BQ = 0.1g = their T AB A1FT For all 3 fractions correct. FT their T AB ONLY. sin90 sin(180\u2212\uf071) sin(90+\uf071) sin90 sin\uf071"
+      }
+    },
+    {
+      "question_number": "14",
+      "subparts": [],
+      "page": 14,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "4.1"
+      ],
+      "topic": "Forces and equilibrium",
+      "answers": {
+        "answer_snippet": "9709/42 Cambridge International AS & A Level \u2013 Mark Scheme October/November 2024 PUBLISHED Question Answer Marks Guidance \uf0e60.1g+0.2g\u2212(their T )sin45\uf0f6 DM1 Solve for \u03b8 or solve for T from equations with the \uf071=tan\u22121 \uf0e7 AP \uf0f7 BQ \uf0e7 \uf0e8 (their T AP )cos45 \uf0f7 \uf0f8 correct number of relevant terms."
+      }
+    },
+    {
+      "question_number": "15",
+      "subparts": [],
+      "page": 15,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "4.1"
+      ],
+      "topic": "Forces and equilibrium",
+      "answers": {
+        "answer_snippet": "9709/42 Cambridge International AS & A Level \u2013 Mark Scheme October/November 2024 PUBLISHED Question Answer Marks Guidance 5(a) \uf05bs P up=\uf05d\uf0b1 \uf0e6 \uf0e7 \uf0e8 2t\u2212 1 2 gt2 \uf0f6 \uf0f7 \uf0f8 OR \uf0e9 \uf0eb s Q down=\uf0f9 \uf0fb \uf0b1 1 2 gt2 M1 For use of s=ut+ 1 2 at2"
+      }
+    },
+    {
+      "question_number": "16",
+      "subparts": [],
+      "page": 16,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "4.1"
+      ],
+      "topic": "Forces and equilibrium",
+      "answers": {
+        "answer_snippet": "9709/42 Cambridge International AS & A Level \u2013 Mark Scheme October/November 2024 PUBLISHED Question Answer Marks Guidance 5(b) 2m\uf0b4 ( their 3 \uf05bv P \uf05d) +m\uf0b4 ( their 5 \uf0e9 \uf0eb v Q \uf0f9 \uf0fb ) =2mv+m\uf0b43.5 *M1 U us s i e n g o f t h c"
+      }
+    }
+  ],
+  "statistics": {
+    "total_questions": 32,
+    "total_marks": 42
+  }
+}

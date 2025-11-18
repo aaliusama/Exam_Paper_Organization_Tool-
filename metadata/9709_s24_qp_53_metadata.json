@@ -1,0 +1,334 @@
+{
+  "exam_info": {
+    "paper_code": "9709/53",
+    "exam_board": "Cambridge International AS & A Level",
+    "subject": "Mathematics",
+    "paper_name": "Paper 5 Probability & Statistics 1",
+    "exam_session": "May/June 2024",
+    "total_marks": 50,
+    "time_allowed": "1 hour 15 minutes",
+    "question_paper": "9709_s24_qp_53.pdf",
+    "mark_scheme": "9709_s24_ms_53.pdf",
+    "syllabus": "697427-2026-2027-syllabus.pdf"
+  },
+  "questions": [
+    {
+      "question_number": "2",
+      "subparts": [],
+      "page": 2,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "5.1"
+      ],
+      "topic": "Representation of data",
+      "answers": {
+        "answer_snippet": "9709/53 Cambridge International AS & A Level \u2013 Mark Scheme May/June 2024 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptions for a question. Each"
+      }
+    },
+    {
+      "question_number": "1",
+      "subparts": [],
+      "page": 2,
+      "marks": 3,
+      "syllabus_outcomes": [
+        "5.3",
+        "5.4"
+      ],
+      "topic": "Probability",
+      "answers": {
+        "answer_snippet": "Cambridge International AS & A Level MATHEMATICS 9709/53 Paper 5 Probability & Statistics 1 May/June 2024 MARK SCHEME Maximum Mark: 50 Published This mark scheme is published as an aid to teachers and candidates, to indicate the requirements of the examination. It shows the basis on which Examiners were instructed"
+      }
+    },
+    {
+      "question_number": "3",
+      "subparts": [],
+      "page": 3,
+      "marks": 2,
+      "syllabus_outcomes": [
+        "5.3"
+      ],
+      "topic": "Probability",
+      "answers": {
+        "answer_snippet": "9709/53 Cambridge International AS & A Level \u2013 Mark Scheme May/June 2024 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptions for a question. Each"
+      }
+    },
+    {
+      "question_number": "4",
+      "subparts": [],
+      "page": 4,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "5.1"
+      ],
+      "topic": "Representation of data",
+      "answers": {
+        "answer_snippet": "9709/53 Cambridge International AS & A Level \u2013 Mark Scheme May/June 2024 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptions for a question. Each"
+      }
+    },
+    {
+      "question_number": "2",
+      "subparts": [],
+      "page": 4,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "5.1",
+        "5.3"
+      ],
+      "topic": "Representation of data",
+      "answers": {
+        "answer_snippet": "9709/53 Cambridge International AS & A Level \u2013 Mark Scheme May/June 2024 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptions for a question. Each"
+      }
+    },
+    {
+      "question_number": "1",
+      "subparts": [],
+      "page": 4,
+      "marks": 3,
+      "syllabus_outcomes": [
+        "5.1"
+      ],
+      "topic": "Representation of data",
+      "answers": {
+        "answer_snippet": "Cambridge International AS & A Level MATHEMATICS 9709/53 Paper 5 Probability & Statistics 1 May/June 2024 MARK SCHEME Maximum Mark: 50 Published This mark scheme is published as an aid to teachers and candidates, to indicate the requirements of the examination. It shows the basis on which Examiners were instructed"
+      }
+    },
+    {
+      "question_number": "5",
+      "subparts": [],
+      "page": 5,
+      "marks": 5,
+      "syllabus_outcomes": [
+        "5.1"
+      ],
+      "topic": "Representation of data",
+      "answers": {
+        "answer_snippet": "Cambridge International AS & A Level MATHEMATICS 9709/53 Paper 5 Probability & Statistics 1 May/June 2024 MARK SCHEME Maximum Mark: 50 Published This mark scheme is published as an aid to teachers and candidates, to indicate the requirements of the examination. It shows the basis on which Examiners were instructed"
+      }
+    },
+    {
+      "question_number": "6",
+      "subparts": [],
+      "page": 6,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "5.1"
+      ],
+      "topic": "Representation of data",
+      "answers": {
+        "answer_snippet": "9709/53 Cambridge International AS & A Level \u2013 Mark Scheme May/June 2024 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptions for a question. Each"
+      }
+    },
+    {
+      "question_number": "3",
+      "subparts": [],
+      "page": 6,
+      "marks": 4,
+      "syllabus_outcomes": [
+        "5.3"
+      ],
+      "topic": "Probability",
+      "answers": {
+        "answer_snippet": "9709/53 Cambridge International AS & A Level \u2013 Mark Scheme May/June 2024 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptions for a question. Each"
+      }
+    },
+    {
+      "question_number": "7",
+      "subparts": [],
+      "page": 7,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "5.1"
+      ],
+      "topic": "Representation of data",
+      "answers": {
+        "answer_snippet": "9709/53 Cambridge International AS & A Level \u2013 Mark Scheme May/June 2024 PUBLISHED Question Answer Marks Guidance 1(b) 1\uf0b42\uf02b4\uf0b43\uf02b10\uf0b44\uf02b12\uf0b45\uf02b9\uf0b46 M1 Accept unsimplified expression or sum of fractions seen. May be E(X) = \uf03d calculated in variance. 36 FT their table with five probabilities summing to 0.999 \u2a7d total \u2a7d 1"
+      }
+    },
+    {
+      "question_number": "8",
+      "subparts": [],
+      "page": 7,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "5.3"
+      ],
+      "topic": "Probability",
+      "answers": {
+        "answer_snippet": "9709/53 Cambridge International AS & A Level \u2013 Mark Scheme May/June 2024 PUBLISHED Question Answer Marks Guidance 2(a) \uf0e6 1.93\uf02d1.64\uf0f6 M1 Using \u00b1 standardisation formula with 1.93, 1.64 and 0.25 P\uf0e7 \uf0e8 Z \uf03e 0.25 \uf0f7 \uf0f8 \uf03d P(Z > 1.16) substituted, not \uf0732, not \uf073, no continuity correction. 1"
+      }
+    },
+    {
+      "question_number": "15",
+      "subparts": [],
+      "page": 7,
+      "marks": 3,
+      "syllabus_outcomes": [
+        "5.1"
+      ],
+      "topic": "Representation of data",
+      "answers": {
+        "answer_snippet": "9709/53 Cambridge International AS & A Level \u2013 Mark Scheme May/June 2024 PUBLISHED Question Answer Marks Guidance 3(a) B1 Correct structure and probabilities for Box A branches. Box A Box B B1 Completely correct structure and one correct probability for a Box B branch including label for G or Y."
+      }
+    },
+    {
+      "question_number": "8",
+      "subparts": [],
+      "page": 8,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "5.1"
+      ],
+      "topic": "Representation of data",
+      "answers": {
+        "answer_snippet": "9709/53 Cambridge International AS & A Level \u2013 Mark Scheme May/June 2024 PUBLISHED Question Answer Marks Guidance 2(a) \uf0e6 1.93\uf02d1.64\uf0f6 M1 Using \u00b1 standardisation formula with 1.93, 1.64 and 0.25 P\uf0e7 \uf0e8 Z \uf03e 0.25 \uf0f7 \uf0f8 \uf03d P(Z > 1.16) substituted, not \uf0732, not \uf073, no continuity correction. 1"
+      }
+    },
+    {
+      "question_number": "4",
+      "subparts": [],
+      "page": 8,
+      "marks": 4,
+      "syllabus_outcomes": [
+        "5.1"
+      ],
+      "topic": "Representation of data",
+      "answers": {
+        "answer_snippet": "9709/53 Cambridge International AS & A Level \u2013 Mark Scheme May/June 2024 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptions for a question. Each"
+      }
+    },
+    {
+      "question_number": "9",
+      "subparts": [],
+      "page": 9,
+      "marks": 3,
+      "syllabus_outcomes": [
+        "5.1"
+      ],
+      "topic": "Representation of data",
+      "answers": {
+        "answer_snippet": "9709/53 Cambridge International AS & A Level \u2013 Mark Scheme May/June 2024 PUBLISHED Question Answer Marks Guidance 1(a) B1 Table with correct X values and at least one correct probability x 2 3 4 5 6 associated with the correct X value. Values need not be in order, lines may"
+      }
+    },
+    {
+      "question_number": "30",
+      "subparts": [],
+      "page": 9,
+      "marks": 1,
+      "syllabus_outcomes": [
+        "5.1"
+      ],
+      "topic": "Representation of data",
+      "answers": {
+        "answer_snippet": ""
+      }
+    },
+    {
+      "question_number": "10",
+      "subparts": [],
+      "page": 10,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "5.1"
+      ],
+      "topic": "Representation of data",
+      "answers": {
+        "answer_snippet": "9709/53 Cambridge International AS & A Level \u2013 Mark Scheme May/June 2024 PUBLISHED Question Answer Marks Guidance 1(a) B1 Table with correct X values and at least one correct probability x 2 3 4 5 6 associated with the correct X value. Values need not be in order, lines may"
+      }
+    },
+    {
+      "question_number": "5",
+      "subparts": [],
+      "page": 10,
+      "marks": 1,
+      "syllabus_outcomes": [
+        "5.3"
+      ],
+      "topic": "Probability",
+      "answers": {
+        "answer_snippet": "Cambridge International AS & A Level MATHEMATICS 9709/53 Paper 5 Probability & Statistics 1 May/June 2024 MARK SCHEME Maximum Mark: 50 Published This mark scheme is published as an aid to teachers and candidates, to indicate the requirements of the examination. It shows the basis on which Examiners were instructed"
+      }
+    },
+    {
+      "question_number": "11",
+      "subparts": [],
+      "page": 11,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "5.3"
+      ],
+      "topic": "Probability",
+      "answers": {
+        "answer_snippet": "9709/53 Cambridge International AS & A Level \u2013 Mark Scheme May/June 2024 PUBLISHED Question Answer Marks Guidance 1(b) 1\uf0b42\uf02b4\uf0b43\uf02b10\uf0b44\uf02b12\uf0b45\uf02b9\uf0b46 M1 Accept unsimplified expression or sum of fractions seen. May be E(X) = \uf03d calculated in variance. 36 FT their table with five probabilities summing to 0.999 \u2a7d total \u2a7d 1"
+      }
+    },
+    {
+      "question_number": "12",
+      "subparts": [],
+      "page": 12,
+      "marks": 3,
+      "syllabus_outcomes": [
+        "5.2"
+      ],
+      "topic": "Permutations and combinations",
+      "answers": {
+        "answer_snippet": "9709/53 Cambridge International AS & A Level \u2013 Mark Scheme May/June 2024 PUBLISHED Question Answer Marks Guidance 1(a) B1 Table with correct X values and at least one correct probability x 2 3 4 5 6 associated with the correct X value. Values need not be in order, lines may"
+      }
+    },
+    {
+      "question_number": "13",
+      "subparts": [],
+      "page": 13,
+      "marks": 4,
+      "syllabus_outcomes": [
+        "5.3"
+      ],
+      "topic": "Probability",
+      "answers": {
+        "answer_snippet": "9709/53 Cambridge International AS & A Level \u2013 Mark Scheme May/June 2024 PUBLISHED Question Answer Marks Guidance 5(d) [Mean =] 84\uf0b40.65\uf03d54.6 B1 54.6 and 19.11 seen, allow unsimplified. May be seen in the [Var =] 84\uf0b40.65\uf0b40.35\uf03d19.11 standardisation formula 7 39 ([\u03c3 = ] 4.371 or implies correct variance). 10 Incorrect"
+      }
+    },
+    {
+      "question_number": "14",
+      "subparts": [],
+      "page": 14,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "5.1"
+      ],
+      "topic": "Representation of data",
+      "answers": {
+        "answer_snippet": "9709/53 Cambridge International AS & A Level \u2013 Mark Scheme May/June 2024 PUBLISHED Question Answer Marks Guidance 1(b) 1\uf0b42\uf02b4\uf0b43\uf02b10\uf0b44\uf02b12\uf0b45\uf02b9\uf0b46 M1 Accept unsimplified expression or sum of fractions seen. May be E(X) = \uf03d calculated in variance. 36 FT their table with five probabilities summing to 0.999 \u2a7d total \u2a7d 1"
+      }
+    },
+    {
+      "question_number": "15",
+      "subparts": [],
+      "page": 15,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "5.1"
+      ],
+      "topic": "Representation of data",
+      "answers": {
+        "answer_snippet": "9709/53 Cambridge International AS & A Level \u2013 Mark Scheme May/June 2024 PUBLISHED Question Answer Marks Guidance 3(a) B1 Correct structure and probabilities for Box A branches. Box A Box B B1 Completely correct structure and one correct probability for a Box B branch including label for G or Y."
+      }
+    },
+    {
+      "question_number": "16",
+      "subparts": [],
+      "page": 16,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "5.1"
+      ],
+      "topic": "Representation of data",
+      "answers": {
+        "answer_snippet": "9709/53 Cambridge International AS & A Level \u2013 Mark Scheme May/June 2024 PUBLISHED Question Answer Marks Guidance 2(a) \uf0e6 1.93\uf02d1.64\uf0f6 M1 Using \u00b1 standardisation formula with 1.93, 1.64 and 0.25 P\uf0e7 \uf0e8 Z \uf03e 0.25 \uf0f7 \uf0f8 \uf03d P(Z > 1.16) substituted, not \uf0732, not \uf073, no continuity correction. 1"
+      }
+    }
+  ],
+  "statistics": {
+    "total_questions": 24,
+    "total_marks": 36
+  }
+}

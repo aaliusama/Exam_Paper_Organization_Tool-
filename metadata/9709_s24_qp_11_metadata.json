@@ -1,0 +1,527 @@
+{
+  "exam_info": {
+    "paper_code": "9709/11",
+    "exam_board": "Cambridge International AS & A Level",
+    "subject": "Mathematics",
+    "paper_name": "Paper 1 Pure Mathematics 1",
+    "exam_session": "May/June 2024",
+    "total_marks": 75,
+    "time_allowed": "1 hour 50 minutes",
+    "question_paper": "9709_s24_qp_11.pdf",
+    "mark_scheme": "9709_s24_ms_11.pdf",
+    "syllabus": "697427-2026-2027-syllabus.pdf"
+  },
+  "questions": [
+    {
+      "question_number": "2",
+      "subparts": [],
+      "page": 2,
+      "marks": 3,
+      "syllabus_outcomes": [
+        "1.1"
+      ],
+      "topic": "Quadratics",
+      "answers": {
+        "answer_snippet": "9709/11 Cambridge International AS & A Level \u2013 Mark Scheme May/June 2024 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptions for a question. Each"
+      }
+    },
+    {
+      "question_number": "3",
+      "subparts": [],
+      "page": 3,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "1.1"
+      ],
+      "topic": "Quadratics",
+      "answers": {
+        "answer_snippet": "9709/11 Cambridge International AS & A Level \u2013 Mark Scheme May/June 2024 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptions for a question. Each"
+      }
+    },
+    {
+      "question_number": "2",
+      "subparts": [],
+      "page": 3,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "1.1"
+      ],
+      "topic": "Quadratics",
+      "answers": {
+        "answer_snippet": "9709/11 Cambridge International AS & A Level \u2013 Mark Scheme May/June 2024 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptions for a question. Each"
+      }
+    },
+    {
+      "question_number": "1",
+      "subparts": [],
+      "page": 3,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "1.1"
+      ],
+      "topic": "Quadratics",
+      "answers": {
+        "answer_snippet": "Cambridge International AS & A Level MATHEMATICS 9709/11 Paper 1 Pure Mathematics 1 May/June 2024 MARK SCHEME Maximum Mark: 75 Published This mark scheme is published as an aid to teachers and candidates, to indicate the requirements of the examination. It shows the basis on which Examiners were instructed to"
+      }
+    },
+    {
+      "question_number": "2",
+      "subparts": [],
+      "page": 3,
+      "marks": 4,
+      "syllabus_outcomes": [
+        "1.2",
+        "1.5"
+      ],
+      "topic": "Functions",
+      "answers": {
+        "answer_snippet": "9709/11 Cambridge International AS & A Level \u2013 Mark Scheme May/June 2024 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptions for a question. Each"
+      }
+    },
+    {
+      "question_number": "4",
+      "subparts": [],
+      "page": 4,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "1.1"
+      ],
+      "topic": "Quadratics",
+      "answers": {
+        "answer_snippet": "9709/11 Cambridge International AS & A Level \u2013 Mark Scheme May/June 2024 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptions for a question. Each"
+      }
+    },
+    {
+      "question_number": "3",
+      "subparts": [],
+      "page": 4,
+      "marks": 2,
+      "syllabus_outcomes": [
+        "1.5"
+      ],
+      "topic": "Trigonometry",
+      "answers": {
+        "answer_snippet": "9709/11 Cambridge International AS & A Level \u2013 Mark Scheme May/June 2024 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptions for a question. Each"
+      }
+    },
+    {
+      "question_number": "5",
+      "subparts": [],
+      "page": 5,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "1.1"
+      ],
+      "topic": "Quadratics",
+      "answers": {
+        "answer_snippet": "9709/11 Cambridge International AS & A Level \u2013 Mark Scheme May/June 2024 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptions for a question. Each"
+      }
+    },
+    {
+      "question_number": "4",
+      "subparts": [],
+      "page": 5,
+      "marks": 1,
+      "syllabus_outcomes": [
+        "1.3",
+        "1.7"
+      ],
+      "topic": "Coordinate geometry",
+      "answers": {
+        "answer_snippet": "9709/11 Cambridge International AS & A Level \u2013 Mark Scheme May/June 2024 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptions for a question. Each"
+      }
+    },
+    {
+      "question_number": "6",
+      "subparts": [],
+      "page": 5,
+      "marks": 1,
+      "syllabus_outcomes": [
+        "1.3",
+        "1.5",
+        "1.7"
+      ],
+      "topic": "Coordinate geometry",
+      "answers": {
+        "answer_snippet": "9709/11 Cambridge International AS & A Level \u2013 Mark Scheme May/June 2024 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptions for a question. Each"
+      }
+    },
+    {
+      "question_number": "6",
+      "subparts": [],
+      "page": 6,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "1.5"
+      ],
+      "topic": "Trigonometry",
+      "answers": {
+        "answer_snippet": "9709/11 Cambridge International AS & A Level \u2013 Mark Scheme May/June 2024 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptions for a question. Each"
+      }
+    },
+    {
+      "question_number": "1",
+      "subparts": [],
+      "page": 6,
+      "marks": 3,
+      "syllabus_outcomes": [
+        "1.5"
+      ],
+      "topic": "Trigonometry",
+      "answers": {
+        "answer_snippet": "Cambridge International AS & A Level MATHEMATICS 9709/11 Paper 1 Pure Mathematics 1 May/June 2024 MARK SCHEME Maximum Mark: 75 Published This mark scheme is published as an aid to teachers and candidates, to indicate the requirements of the examination. It shows the basis on which Examiners were instructed to"
+      }
+    },
+    {
+      "question_number": "2",
+      "subparts": [],
+      "page": 6,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "1.5"
+      ],
+      "topic": "Trigonometry",
+      "answers": {
+        "answer_snippet": "9709/11 Cambridge International AS & A Level \u2013 Mark Scheme May/June 2024 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptions for a question. Each"
+      }
+    },
+    {
+      "question_number": "7",
+      "subparts": [],
+      "page": 7,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "1.1"
+      ],
+      "topic": "Quadratics",
+      "answers": {
+        "answer_snippet": "9709/11 Cambridge International AS & A Level \u2013 Mark Scheme May/June 2024 PUBLISHED Question Answer Marks Guidance 2(a) {Stretch}{factor 3}{ in y-direction} B2,1,0 2 out of 3 scores B1. \uf0e6 \uf07b0\uf07d \uf0f6 B2,1,0 Accept shift. {Translation}\uf0e7 \uf0f7 \uf07b\uf02d2\uf07d \uf0e8 \uf0f8 Alternative Method for Question 2(a) \uf0e6 \uf07b0\uf07d \uf0f6 (B2,1,0) 2"
+      }
+    },
+    {
+      "question_number": "6",
+      "subparts": [],
+      "page": 7,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "1.1"
+      ],
+      "topic": "Quadratics",
+      "answers": {
+        "answer_snippet": "9709/11 Cambridge International AS & A Level \u2013 Mark Scheme May/June 2024 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptions for a question. Each"
+      }
+    },
+    {
+      "question_number": "2",
+      "subparts": [],
+      "page": 7,
+      "marks": 2,
+      "syllabus_outcomes": [
+        "1.2",
+        "1.3"
+      ],
+      "topic": "Functions",
+      "answers": {
+        "answer_snippet": "9709/11 Cambridge International AS & A Level \u2013 Mark Scheme May/June 2024 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptions for a question. Each"
+      }
+    },
+    {
+      "question_number": "8",
+      "subparts": [],
+      "page": 8,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "1.1"
+      ],
+      "topic": "Quadratics",
+      "answers": {
+        "answer_snippet": "9709/11 Cambridge International AS & A Level \u2013 Mark Scheme May/June 2024 PUBLISHED Question Answer Marks Guidance 3(b) 2 B1 FT May be in a list. 6C2 and 34 must be evaluated but may be \uf0e6 2\uf0f6 Coefficient of x2 is 15\uf0b481\uf0b4 \uf0e7 their \uf0f7 \uf05b\uf03d540\uf05d implied by later work."
+      }
+    },
+    {
+      "question_number": "7",
+      "subparts": [],
+      "page": 8,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "1.3",
+        "1.4",
+        "1.5"
+      ],
+      "topic": "Coordinate geometry",
+      "answers": {
+        "answer_snippet": "9709/11 Cambridge International AS & A Level \u2013 Mark Scheme May/June 2024 PUBLISHED Question Answer Marks Guidance 2(a) {Stretch}{factor 3}{ in y-direction} B2,1,0 2 out of 3 scores B1. \uf0e6 \uf07b0\uf07d \uf0f6 B2,1,0 Accept shift. {Translation}\uf0e7 \uf0f7 \uf07b\uf02d2\uf07d \uf0e8 \uf0f8 Alternative Method for Question 2(a) \uf0e6 \uf07b0\uf07d \uf0f6 (B2,1,0) 2"
+      }
+    },
+    {
+      "question_number": "2",
+      "subparts": [],
+      "page": 8,
+      "marks": 1,
+      "syllabus_outcomes": [
+        "1.1"
+      ],
+      "topic": "Quadratics",
+      "answers": {
+        "answer_snippet": "9709/11 Cambridge International AS & A Level \u2013 Mark Scheme May/June 2024 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptions for a question. Each"
+      }
+    },
+    {
+      "question_number": "9",
+      "subparts": [],
+      "page": 9,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "1.1"
+      ],
+      "topic": "Quadratics",
+      "answers": {
+        "answer_snippet": "9709/11 Cambridge International AS & A Level \u2013 Mark Scheme May/June 2024 PUBLISHED Question Answer Marks Guidance 1(a) 3\uf028y\uf02d2\uf0292 \uf02d27 or a\uf03d\uf02d2, b\uf03d\uf02d27 B1 B1 2 1(b) \uf028 x2 \uf02d2 \uf0292 \uf03d9 leading to x2 \uf02d2\uf03d\uf0b13 M1 Must be x2 unless substitution is clear. x2 \uf03d\uf02d1 or x2 \uf03d5 M1"
+      }
+    },
+    {
+      "question_number": "10",
+      "subparts": [],
+      "page": 10,
+      "marks": 4,
+      "syllabus_outcomes": [
+        "1.1"
+      ],
+      "topic": "Quadratics",
+      "answers": {
+        "answer_snippet": "9709/11 Cambridge International AS & A Level \u2013 Mark Scheme May/June 2024 PUBLISHED Question Answer Marks Guidance 6(b) 2 M1 Allow x and y swapped around. x \uf03d y 2 2 \uf02b 4 leading to y2\uf028x\uf02d4\uf029\uf03d2 or y2 \uf03d \uf028x\uf02d4\uf029 2 2 M1 y2 \uf03d leading to y\uf03d\uf05b\uf0b1\uf05d 2 or"
+      }
+    },
+    {
+      "question_number": "11",
+      "subparts": [],
+      "page": 11,
+      "marks": 4,
+      "syllabus_outcomes": [
+        "1.5",
+        "1.6"
+      ],
+      "topic": "Trigonometry",
+      "answers": {
+        "answer_snippet": "Cambridge International AS & A Level MATHEMATICS 9709/11 Paper 1 Pure Mathematics 1 May/June 2024 MARK SCHEME Maximum Mark: 75 Published This mark scheme is published as an aid to teachers and candidates, to indicate the requirements of the examination. It shows the basis on which Examiners were instructed to"
+      }
+    },
+    {
+      "question_number": "12",
+      "subparts": [],
+      "page": 12,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "1.1"
+      ],
+      "topic": "Quadratics",
+      "answers": {
+        "answer_snippet": "9709/11 Cambridge International AS & A Level \u2013 Mark Scheme May/June 2024 PUBLISHED Question Answer Marks Guidance 1(a) 3\uf028y\uf02d2\uf0292 \uf02d27 or a\uf03d\uf02d2, b\uf03d\uf02d27 B1 B1 2 1(b) \uf028 x2 \uf02d2 \uf0292 \uf03d9 leading to x2 \uf02d2\uf03d\uf0b13 M1 Must be x2 unless substitution is clear. x2 \uf03d\uf02d1 or x2 \uf03d5 M1"
+      }
+    },
+    {
+      "question_number": "9",
+      "subparts": [],
+      "page": 12,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "1.1"
+      ],
+      "topic": "Quadratics",
+      "answers": {
+        "answer_snippet": "9709/11 Cambridge International AS & A Level \u2013 Mark Scheme May/June 2024 PUBLISHED Question Answer Marks Guidance 1(a) 3\uf028y\uf02d2\uf0292 \uf02d27 or a\uf03d\uf02d2, b\uf03d\uf02d27 B1 B1 2 1(b) \uf028 x2 \uf02d2 \uf0292 \uf03d9 leading to x2 \uf02d2\uf03d\uf0b13 M1 Must be x2 unless substitution is clear. x2 \uf03d\uf02d1 or x2 \uf03d5 M1"
+      }
+    },
+    {
+      "question_number": "1",
+      "subparts": [],
+      "page": 12,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "1.1"
+      ],
+      "topic": "Quadratics",
+      "answers": {
+        "answer_snippet": "Cambridge International AS & A Level MATHEMATICS 9709/11 Paper 1 Pure Mathematics 1 May/June 2024 MARK SCHEME Maximum Mark: 75 Published This mark scheme is published as an aid to teachers and candidates, to indicate the requirements of the examination. It shows the basis on which Examiners were instructed to"
+      }
+    },
+    {
+      "question_number": "1",
+      "subparts": [],
+      "page": 12,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "1.3"
+      ],
+      "topic": "Coordinate geometry",
+      "answers": {
+        "answer_snippet": "Cambridge International AS & A Level MATHEMATICS 9709/11 Paper 1 Pure Mathematics 1 May/June 2024 MARK SCHEME Maximum Mark: 75 Published This mark scheme is published as an aid to teachers and candidates, to indicate the requirements of the examination. It shows the basis on which Examiners were instructed to"
+      }
+    },
+    {
+      "question_number": "1",
+      "subparts": [],
+      "page": 12,
+      "marks": 6,
+      "syllabus_outcomes": [
+        "1.3"
+      ],
+      "topic": "Coordinate geometry",
+      "answers": {
+        "answer_snippet": "Cambridge International AS & A Level MATHEMATICS 9709/11 Paper 1 Pure Mathematics 1 May/June 2024 MARK SCHEME Maximum Mark: 75 Published This mark scheme is published as an aid to teachers and candidates, to indicate the requirements of the examination. It shows the basis on which Examiners were instructed to"
+      }
+    },
+    {
+      "question_number": "13",
+      "subparts": [],
+      "page": 13,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "1.1"
+      ],
+      "topic": "Quadratics",
+      "answers": {
+        "answer_snippet": "9709/11 Cambridge International AS & A Level \u2013 Mark Scheme May/June 2024 PUBLISHED Question Answer Marks Guidance 8(a) 2\uf0284p\uf02d1\uf029\uf03d25\uf02b13\uf02dp *M1 40 A1 p\uf03d 9 \uf0e6 40 \uf0f6 \uf0e9 74\uf0f9 DM1 Using their p to find d. d \uf03d\uf0e74\uf0b4 \uf02d1\uf0f7\uf02d25 \uf0ea \uf03d\uf02d \uf0fa \uf0e8 9 \uf0f8 \uf0eb 9 \uf0fb 10th term"
+      }
+    },
+    {
+      "question_number": "14",
+      "subparts": [],
+      "page": 14,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "1.1"
+      ],
+      "topic": "Quadratics",
+      "answers": {
+        "answer_snippet": "9709/11 Cambridge International AS & A Level \u2013 Mark Scheme May/June 2024 PUBLISHED Question Answer Marks Guidance 8(a) 2\uf0284p\uf02d1\uf029\uf03d25\uf02b13\uf02dp *M1 40 A1 p\uf03d 9 \uf0e6 40 \uf0f6 \uf0e9 74\uf0f9 DM1 Using their p to find d. d \uf03d\uf0e74\uf0b4 \uf02d1\uf0f7\uf02d25 \uf0ea \uf03d\uf02d \uf0fa \uf0e8 9 \uf0f8 \uf0eb 9 \uf0fb 10th term"
+      }
+    },
+    {
+      "question_number": "10",
+      "subparts": [],
+      "page": 14,
+      "marks": 8,
+      "syllabus_outcomes": [
+        "1.3",
+        "1.5",
+        "1.7"
+      ],
+      "topic": "Coordinate geometry",
+      "answers": {
+        "answer_snippet": "9709/11 Cambridge International AS & A Level \u2013 Mark Scheme May/June 2024 PUBLISHED Question Answer Marks Guidance 6(b) 2 M1 Allow x and y swapped around. x \uf03d y 2 2 \uf02b 4 leading to y2\uf028x\uf02d4\uf029\uf03d2 or y2 \uf03d \uf028x\uf02d4\uf029 2 2 M1 y2 \uf03d leading to y\uf03d\uf05b\uf0b1\uf05d 2 or"
+      }
+    },
+    {
+      "question_number": "15",
+      "subparts": [],
+      "page": 15,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "1.1"
+      ],
+      "topic": "Quadratics",
+      "answers": {
+        "answer_snippet": "9709/11 Cambridge International AS & A Level \u2013 Mark Scheme May/June 2024 PUBLISHED Question Answer Marks Guidance 1(a) 3\uf028y\uf02d2\uf0292 \uf02d27 or a\uf03d\uf02d2, b\uf03d\uf02d27 B1 B1 2 1(b) \uf028 x2 \uf02d2 \uf0292 \uf03d9 leading to x2 \uf02d2\uf03d\uf0b13 M1 Must be x2 unless substitution is clear. x2 \uf03d\uf02d1 or x2 \uf03d5 M1"
+      }
+    },
+    {
+      "question_number": "16",
+      "subparts": [],
+      "page": 16,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "1.1"
+      ],
+      "topic": "Quadratics",
+      "answers": {
+        "answer_snippet": "9709/11 Cambridge International AS & A Level \u2013 Mark Scheme May/June 2024 PUBLISHED Question Answer Marks Guidance 10 Alternative Method 1 for first 4 marks of Question 10 3m\uf02d1\uf0280\uf029\uf02d9 (M1) Use of the formula for the length of a perpendicular from a point to a line. m2 \uf02b1 3m\uf02d1\uf0280\uf029\uf02d9 (M1)"
+      }
+    },
+    {
+      "question_number": "11",
+      "subparts": [],
+      "page": 16,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "1.1"
+      ],
+      "topic": "Quadratics",
+      "answers": {
+        "answer_snippet": "Cambridge International AS & A Level MATHEMATICS 9709/11 Paper 1 Pure Mathematics 1 May/June 2024 MARK SCHEME Maximum Mark: 75 Published This mark scheme is published as an aid to teachers and candidates, to indicate the requirements of the examination. It shows the basis on which Examiners were instructed to"
+      }
+    },
+    {
+      "question_number": "4",
+      "subparts": [],
+      "page": 16,
+      "marks": 5,
+      "syllabus_outcomes": [
+        "1.2",
+        "1.5"
+      ],
+      "topic": "Functions",
+      "answers": {
+        "answer_snippet": "9709/11 Cambridge International AS & A Level \u2013 Mark Scheme May/June 2024 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptions for a question. Each"
+      }
+    },
+    {
+      "question_number": "17",
+      "subparts": [],
+      "page": 17,
+      "marks": 8,
+      "syllabus_outcomes": [
+        "1.5",
+        "1.7"
+      ],
+      "topic": "Trigonometry",
+      "answers": {
+        "answer_snippet": "9709/11 Cambridge International AS & A Level \u2013 Mark Scheme May/June 2024 PUBLISHED Question Answer Marks Guidance 8(b) \uf0284q\uf02d1\uf0292 \uf03d25\uf02813\uf02dq\uf029 \u21d2 16q2\uf02b17q\uf02d324\uf05b\uf03d0\uf05d M1 \uf028q\uf02d4\uf029\uf02816q\uf02b81\uf029\uf05b\uf03d0\uf05d leading to \uf05b\uf0deq\uf03d4\uf05d M1 Solve 3 term quadratic with real solutions. 3 A1 \uf02d17 \uf05br\uf03d\uf05d Ignore . 5 20 25 125 A1 Ignore extra solution. Sum"
+      }
+    },
+    {
+      "question_number": "18",
+      "subparts": [],
+      "page": 18,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "1.1"
+      ],
+      "topic": "Quadratics",
+      "answers": {
+        "answer_snippet": "Cambridge International AS & A Level MATHEMATICS 9709/11 Paper 1 Pure Mathematics 1 May/June 2024 MARK SCHEME Maximum Mark: 75 Published This mark scheme is published as an aid to teachers and candidates, to indicate the requirements of the examination. It shows the basis on which Examiners were instructed to"
+      }
+    },
+    {
+      "question_number": "19",
+      "subparts": [],
+      "page": 19,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "1.1"
+      ],
+      "topic": "Quadratics",
+      "answers": {
+        "answer_snippet": ""
+      }
+    },
+    {
+      "question_number": "20",
+      "subparts": [],
+      "page": 20,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "1.3",
+        "1.6"
+      ],
+      "topic": "Coordinate geometry",
+      "answers": {
+        "answer_snippet": "9709/11 Cambridge International AS & A Level \u2013 Mark Scheme May/June 2024 PUBLISHED Question Answer Marks Guidance 2(a) {Stretch}{factor 3}{ in y-direction} B2,1,0 2 out of 3 scores B1. \uf0e6 \uf07b0\uf07d \uf0f6 B2,1,0 Accept shift. {Translation}\uf0e7 \uf0f7 \uf07b\uf02d2\uf07d \uf0e8 \uf0f8 Alternative Method for Question 2(a) \uf0e6 \uf07b0\uf07d \uf0f6 (B2,1,0) 2"
+      }
+    }
+  ],
+  "statistics": {
+    "total_questions": 38,
+    "total_marks": 52
+  }
+}

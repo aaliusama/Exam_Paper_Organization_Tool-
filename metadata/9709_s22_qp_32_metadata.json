@@ -1,0 +1,414 @@
+{
+  "exam_info": {
+    "paper_code": "9709/32",
+    "exam_board": "Cambridge International AS & A Level",
+    "subject": "Mathematics",
+    "paper_name": "Paper 3 Pure Mathematics 3",
+    "exam_session": "May/June 2022",
+    "total_marks": 75,
+    "time_allowed": "1 hour 50 minutes",
+    "question_paper": "9709_s22_qp_32.pdf",
+    "mark_scheme": "9709_s22_ms_32.pdf",
+    "syllabus": "697427-2026-2027-syllabus.pdf"
+  },
+  "questions": [
+    {
+      "question_number": "2",
+      "subparts": [],
+      "page": 2,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "3.1"
+      ],
+      "topic": "Algebra",
+      "answers": {
+        "answer_snippet": "9709/32 Cambridge International A Level \u2013 Mark Scheme May/June 2022 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptors for a question. Each question paper"
+      }
+    },
+    {
+      "question_number": "3",
+      "subparts": [],
+      "page": 3,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "3.1"
+      ],
+      "topic": "Algebra",
+      "answers": {
+        "answer_snippet": "Cambridge International A Level MATHEMATICS 9709/32 Paper 3 Pure Mathematics 3 May/June 2022 MARK SCHEME Maximum Mark: 75 Published This mark scheme is published as an aid to teachers and candidates, to indicate the requirements of the examination. It shows the basis on which Examiners were instructed to award marks."
+      }
+    },
+    {
+      "question_number": "1",
+      "subparts": [],
+      "page": 3,
+      "marks": 4,
+      "syllabus_outcomes": [
+        "3.2"
+      ],
+      "topic": "Logarithmic and exponential functions",
+      "answers": {
+        "answer_snippet": "9709/32 Cambridge International A Level \u2013 Mark Scheme May/June 2022 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptors for a question. Each question paper"
+      }
+    },
+    {
+      "question_number": "4",
+      "subparts": [],
+      "page": 4,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "3.1"
+      ],
+      "topic": "Algebra",
+      "answers": {
+        "answer_snippet": "9709/32 Cambridge International A Level \u2013 Mark Scheme May/June 2022 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptors for a question. Each question paper"
+      }
+    },
+    {
+      "question_number": "2",
+      "subparts": [],
+      "page": 4,
+      "marks": 5,
+      "syllabus_outcomes": [
+        "3.1"
+      ],
+      "topic": "Algebra",
+      "answers": {
+        "answer_snippet": "9709/32 Cambridge International A Level \u2013 Mark Scheme May/June 2022 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptors for a question. Each question paper"
+      }
+    },
+    {
+      "question_number": "1",
+      "subparts": [],
+      "page": 4,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "3.1"
+      ],
+      "topic": "Algebra",
+      "answers": {
+        "answer_snippet": "9709/32 Cambridge International A Level \u2013 Mark Scheme May/June 2022 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptors for a question. Each question paper"
+      }
+    },
+    {
+      "question_number": "5",
+      "subparts": [],
+      "page": 5,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "3.1"
+      ],
+      "topic": "Algebra",
+      "answers": {
+        "answer_snippet": "9709/32 Cambridge International A Level \u2013 Mark Scheme May/June 2022 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptors for a question. Each question paper"
+      }
+    },
+    {
+      "question_number": "3",
+      "subparts": [],
+      "page": 5,
+      "marks": 5,
+      "syllabus_outcomes": [
+        "3.1"
+      ],
+      "topic": "Algebra",
+      "answers": {
+        "answer_snippet": "Cambridge International A Level MATHEMATICS 9709/32 Paper 3 Pure Mathematics 3 May/June 2022 MARK SCHEME Maximum Mark: 75 Published This mark scheme is published as an aid to teachers and candidates, to indicate the requirements of the examination. It shows the basis on which Examiners were instructed to award marks."
+      }
+    },
+    {
+      "question_number": "6",
+      "subparts": [],
+      "page": 6,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "3.1"
+      ],
+      "topic": "Algebra",
+      "answers": {
+        "answer_snippet": "9709/32 Cambridge International A Level \u2013 Mark Scheme May/June 2022 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptors for a question. Each question paper"
+      }
+    },
+    {
+      "question_number": "4",
+      "subparts": [],
+      "page": 6,
+      "marks": 6,
+      "syllabus_outcomes": [
+        "3.1"
+      ],
+      "topic": "Algebra",
+      "answers": {
+        "answer_snippet": "9709/32 Cambridge International A Level \u2013 Mark Scheme May/June 2022 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptors for a question. Each question paper"
+      }
+    },
+    {
+      "question_number": "7",
+      "subparts": [],
+      "page": 7,
+      "marks": 2,
+      "syllabus_outcomes": [
+        "3.2",
+        "3.6"
+      ],
+      "topic": "Logarithmic and exponential functions",
+      "answers": {
+        "answer_snippet": "9709/32 Cambridge International A Level \u2013 Mark Scheme May/June 2022 PUBLISHED Question Answer Marks Guidance 2 Use correct double-angle formula to obtain an equation in cos\uf071 M1 e.g. 3 \uf028 2cos2\uf071\uf02d1 \uf029 \uf03d3cos\uf071\uf02b2 Obtain 6cos2\uf071\uf02d3cos\uf071\uf02d5\uf03d0, or 3-term equivalent A1 M1 A0 is scored if they use any correct formula for"
+      }
+    },
+    {
+      "question_number": "8",
+      "subparts": [],
+      "page": 8,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "3.1"
+      ],
+      "topic": "Algebra",
+      "answers": {
+        "answer_snippet": "9709/32 Cambridge International A Level \u2013 Mark Scheme May/June 2022 PUBLISHED Question Answer Marks Guidance 3 1 M1 Or divide by 2x\u20131 and equate constant remainder to zero. Substitute x = , equate result to zero 2 Obtain a correct simplified equation A1 1 1 1 e.g. a\uf02b \uf02b b\uf02b3\uf03d0"
+      }
+    },
+    {
+      "question_number": "6",
+      "subparts": [],
+      "page": 8,
+      "marks": 7,
+      "syllabus_outcomes": [
+        "3.1"
+      ],
+      "topic": "Algebra",
+      "answers": {
+        "answer_snippet": "9709/32 Cambridge International A Level \u2013 Mark Scheme May/June 2022 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptors for a question. Each question paper"
+      }
+    },
+    {
+      "question_number": "9",
+      "subparts": [],
+      "page": 9,
+      "marks": 1,
+      "syllabus_outcomes": [
+        "3.2"
+      ],
+      "topic": "Logarithmic and exponential functions",
+      "answers": {
+        "answer_snippet": "9709/32 Cambridge International A Level \u2013 Mark Scheme May/June 2022 PUBLISHED Question Answer Marks Guidance 2 Use correct double-angle formula to obtain an equation in cos\uf071 M1 e.g. 3 \uf028 2cos2\uf071\uf02d1 \uf029 \uf03d3cos\uf071\uf02b2 Obtain 6cos2\uf071\uf02d3cos\uf071\uf02d5\uf03d0, or 3-term equivalent A1 M1 A0 is scored if they use any correct formula for"
+      }
+    },
+    {
+      "question_number": "10",
+      "subparts": [],
+      "page": 10,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "3.1"
+      ],
+      "topic": "Algebra",
+      "answers": {
+        "answer_snippet": "9709/32 Cambridge International A Level \u2013 Mark Scheme May/June 2022 PUBLISHED Question Answer Marks Guidance 5(a) Sketch a relevant graph, e.g. y = ln x B1 2 Sketch a second relevant graph, e.g. y\uf03d3x\uf02dx2, and B1 justify the given statement by marking the root on the sketch or by use"
+      }
+    },
+    {
+      "question_number": "7",
+      "subparts": [],
+      "page": 10,
+      "marks": 4,
+      "syllabus_outcomes": [
+        "3.1"
+      ],
+      "topic": "Algebra",
+      "answers": {
+        "answer_snippet": "9709/32 Cambridge International A Level \u2013 Mark Scheme May/June 2022 PUBLISHED Question Answer Marks Guidance 2 Use correct double-angle formula to obtain an equation in cos\uf071 M1 e.g. 3 \uf028 2cos2\uf071\uf02d1 \uf029 \uf03d3cos\uf071\uf02b2 Obtain 6cos2\uf071\uf02d3cos\uf071\uf02d5\uf03d0, or 3-term equivalent A1 M1 A0 is scored if they use any correct formula for"
+      }
+    },
+    {
+      "question_number": "11",
+      "subparts": [],
+      "page": 11,
+      "marks": 5,
+      "syllabus_outcomes": [
+        "3.1"
+      ],
+      "topic": "Algebra",
+      "answers": {
+        "answer_snippet": "9709/32 Cambridge International A Level \u2013 Mark Scheme May/June 2022 PUBLISHED Question Answer Marks Guidance 5(c) Use the iterative process correctly at least once M1 Obtain final answer 2.63 A1 Show sufficient iterations to at least 4 dp to justify 2.63 to 2 dp A1 SC Allow M1 A1 A0"
+      }
+    },
+    {
+      "question_number": "12",
+      "subparts": [],
+      "page": 12,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "3.1"
+      ],
+      "topic": "Algebra",
+      "answers": {
+        "answer_snippet": "9709/32 Cambridge International A Level \u2013 Mark Scheme May/June 2022 PUBLISHED Question Answer Marks Guidance 2 Use correct double-angle formula to obtain an equation in cos\uf071 M1 e.g. 3 \uf028 2cos2\uf071\uf02d1 \uf029 \uf03d3cos\uf071\uf02b2 Obtain 6cos2\uf071\uf02d3cos\uf071\uf02d5\uf03d0, or 3-term equivalent A1 M1 A0 is scored if they use any correct formula for"
+      }
+    },
+    {
+      "question_number": "8",
+      "subparts": [],
+      "page": 12,
+      "marks": 5,
+      "syllabus_outcomes": [
+        "3.1"
+      ],
+      "topic": "Algebra",
+      "answers": {
+        "answer_snippet": "9709/32 Cambridge International A Level \u2013 Mark Scheme May/June 2022 PUBLISHED Question Answer Marks Guidance 3 1 M1 Or divide by 2x\u20131 and equate constant remainder to zero. Substitute x = , equate result to zero 2 Obtain a correct simplified equation A1 1 1 1 e.g. a\uf02b \uf02b b\uf02b3\uf03d0"
+      }
+    },
+    {
+      "question_number": "13",
+      "subparts": [],
+      "page": 13,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "3.1"
+      ],
+      "topic": "Algebra",
+      "answers": {
+        "answer_snippet": "9709/32 Cambridge International A Level \u2013 Mark Scheme May/June 2022 PUBLISHED Question Answer Marks Guidance 7(a) dy B1 State or imply 6xy\uf02b3x2 as derivative of 3x2y dx State or imply 3y2 dy as derivative of y3 B1 Allow B1 B1 for \uf028 3x2dx\uf02b \uf029 6xydx\uf02b3x2dy\uf02d3y2dy\uf05b\uf03d0\uf05d dx Equate attempted derivative of"
+      }
+    },
+    {
+      "question_number": "3",
+      "subparts": [],
+      "page": 13,
+      "marks": 5,
+      "syllabus_outcomes": [
+        "3.1"
+      ],
+      "topic": "Algebra",
+      "answers": {
+        "answer_snippet": "Cambridge International A Level MATHEMATICS 9709/32 Paper 3 Pure Mathematics 3 May/June 2022 MARK SCHEME Maximum Mark: 75 Published This mark scheme is published as an aid to teachers and candidates, to indicate the requirements of the examination. It shows the basis on which Examiners were instructed to award marks."
+      }
+    },
+    {
+      "question_number": "14",
+      "subparts": [],
+      "page": 14,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "3.1"
+      ],
+      "topic": "Algebra",
+      "answers": {
+        "answer_snippet": "9709/32 Cambridge International A Level \u2013 Mark Scheme May/June 2022 PUBLISHED Question Answer Marks Guidance 8(a) A Bx\uf02bC B1 State or imply the form + 3x\uf02d1 x2 \uf02b3 Use a correct method for finding a constant M1 Obtain one of A = 1, B = 0 and C = 3"
+      }
+    },
+    {
+      "question_number": "9",
+      "subparts": [],
+      "page": 14,
+      "marks": 4,
+      "syllabus_outcomes": [
+        "3.3",
+        "3.7"
+      ],
+      "topic": "Trigonometry",
+      "answers": {
+        "answer_snippet": "9709/32 Cambridge International A Level \u2013 Mark Scheme May/June 2022 PUBLISHED Question Answer Marks Guidance 2 Use correct double-angle formula to obtain an equation in cos\uf071 M1 e.g. 3 \uf028 2cos2\uf071\uf02d1 \uf029 \uf03d3cos\uf071\uf02b2 Obtain 6cos2\uf071\uf02d3cos\uf071\uf02d5\uf03d0, or 3-term equivalent A1 M1 A0 is scored if they use any correct formula for"
+      }
+    },
+    {
+      "question_number": "15",
+      "subparts": [],
+      "page": 15,
+      "marks": 4,
+      "syllabus_outcomes": [
+        "3.3",
+        "3.7"
+      ],
+      "topic": "Trigonometry",
+      "answers": {
+        "answer_snippet": "9709/32 Cambridge International A Level \u2013 Mark Scheme May/June 2022 PUBLISHED Question Answer Marks Guidance 9(a) Express general point of l or m in component form, i.e. B1 \uf028\uf02d1\uf02b2\uf06c, 3\uf02d\uf06c,4\uf02d\uf06c\uf029 or \uf0285\uf02ba\uf06d, 4\uf02bb\uf06d, 3\uf02b\uf06d\uf029 Equate components and eliminate either \u03bb or \uf06d M1 e.g. \uf06d\uf03d 2 , \uf06c\uf03d \uf02d1\uf02db, \uf06d\uf03d"
+      }
+    },
+    {
+      "question_number": "16",
+      "subparts": [],
+      "page": 16,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "3.1"
+      ],
+      "topic": "Algebra",
+      "answers": {
+        "answer_snippet": "9709/32 Cambridge International A Level \u2013 Mark Scheme May/June 2022 PUBLISHED Question Answer Marks Guidance 9(c) Substitute found values in component equations and solve for \u03bb or for \u00b5 M1 Obtain answer 3i + j + 2k from either \u03bb = 2 or \u00b5 = \u2013 1 A1 Accept as"
+      }
+    },
+    {
+      "question_number": "10",
+      "subparts": [],
+      "page": 16,
+      "marks": 3,
+      "syllabus_outcomes": [
+        "3.6",
+        "3.9"
+      ],
+      "topic": "Numerical solution of equations",
+      "answers": {
+        "answer_snippet": "9709/32 Cambridge International A Level \u2013 Mark Scheme May/June 2022 PUBLISHED Question Answer Marks Guidance 5(a) Sketch a relevant graph, e.g. y = ln x B1 2 Sketch a second relevant graph, e.g. y\uf03d3x\uf02dx2, and B1 justify the given statement by marking the root on the sketch or by use"
+      }
+    },
+    {
+      "question_number": "17",
+      "subparts": [],
+      "page": 17,
+      "marks": 2,
+      "syllabus_outcomes": [
+        "3.9"
+      ],
+      "topic": "Complex numbers",
+      "answers": {
+        "answer_snippet": "9709/32 Cambridge International A Level \u2013 Mark Scheme May/June 2022 PUBLISHED Question Answer Marks Guidance 10(b) State answer \uf02d1\uf02d 7i B1 Can be seen simply stated on its own, or in a list of roots. Allow if stated clearly in part 10(a). Carry out a method for finding a quadratic"
+      }
+    },
+    {
+      "question_number": "18",
+      "subparts": [],
+      "page": 18,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "3.1"
+      ],
+      "topic": "Algebra",
+      "answers": {
+        "answer_snippet": "Cambridge International A Level MATHEMATICS 9709/32 Paper 3 Pure Mathematics 3 May/June 2022 MARK SCHEME Maximum Mark: 75 Published This mark scheme is published as an aid to teachers and candidates, to indicate the requirements of the examination. It shows the basis on which Examiners were instructed to award marks."
+      }
+    },
+    {
+      "question_number": "19",
+      "subparts": [],
+      "page": 19,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "3.1"
+      ],
+      "topic": "Algebra",
+      "answers": {
+        "answer_snippet": ""
+      }
+    },
+    {
+      "question_number": "20",
+      "subparts": [],
+      "page": 20,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "3.1"
+      ],
+      "topic": "Algebra",
+      "answers": {
+        "answer_snippet": "9709/32 Cambridge International A Level \u2013 Mark Scheme May/June 2022 PUBLISHED Question Answer Marks Guidance 9(c) Substitute found values in component equations and solve for \u03bb or for \u00b5 M1 Obtain answer 3i + j + 2k from either \u03bb = 2 or \u00b5 = \u2013 1 A1 Accept as"
+      }
+    }
+  ],
+  "statistics": {
+    "total_questions": 30,
+    "total_marks": 62
+  }
+}

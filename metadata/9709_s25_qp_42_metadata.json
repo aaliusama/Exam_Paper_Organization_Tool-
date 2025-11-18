@@ -1,0 +1,393 @@
+{
+  "exam_info": {
+    "paper_code": "9709/42",
+    "exam_board": "Cambridge International AS & A Level",
+    "subject": "Mathematics",
+    "paper_name": "Paper 4 Mechanics",
+    "exam_session": "May/June 2025",
+    "total_marks": 50,
+    "time_allowed": "1 hour 15 minutes",
+    "question_paper": "9709_s25_qp_42.pdf",
+    "mark_scheme": "9709_s25_ms_42.pdf",
+    "syllabus": "697427-2026-2027-syllabus.pdf"
+  },
+  "questions": [
+    {
+      "question_number": "2",
+      "subparts": [],
+      "page": 2,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "4.1"
+      ],
+      "topic": "Forces and equilibrium",
+      "answers": {
+        "answer_snippet": "9709/42 Cambridge International AS & A Level \u2013 Mark Scheme May/June 2025 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptions for a question. Each"
+      }
+    },
+    {
+      "question_number": "3",
+      "subparts": [],
+      "page": 3,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "4.1"
+      ],
+      "topic": "Forces and equilibrium",
+      "answers": {
+        "answer_snippet": "9709/42 Cambridge International AS & A Level \u2013 Mark Scheme May/June 2025 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptions for a question. Each"
+      }
+    },
+    {
+      "question_number": "1",
+      "subparts": [],
+      "page": 3,
+      "marks": 1,
+      "syllabus_outcomes": [
+        "4.1",
+        "4.5"
+      ],
+      "topic": "Forces and equilibrium",
+      "answers": {
+        "answer_snippet": "9709/42 Cambridge International AS & A Level \u2013 Mark Scheme May/June 2025 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptions for a question. Each"
+      }
+    },
+    {
+      "question_number": "4",
+      "subparts": [],
+      "page": 4,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "4.1"
+      ],
+      "topic": "Forces and equilibrium",
+      "answers": {
+        "answer_snippet": "Cambridge International AS & A Level MATHEMATICS 9709/42 Paper 4 Mechanics May/June 2025 MARK SCHEME Maximum Mark: 50 Published This mark scheme is published as an aid to teachers and candidates, to indicate the requirements of the examination. It shows the basis on which Examiners were instructed to award marks."
+      }
+    },
+    {
+      "question_number": "2",
+      "subparts": [],
+      "page": 4,
+      "marks": 4,
+      "syllabus_outcomes": [
+        "4.3",
+        "4.4",
+        "4.5"
+      ],
+      "topic": "Momentum",
+      "answers": {
+        "answer_snippet": "9709/42 Cambridge International AS & A Level \u2013 Mark Scheme May/June 2025 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptions for a question. Each"
+      }
+    },
+    {
+      "question_number": "5",
+      "subparts": [],
+      "page": 5,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "4.1"
+      ],
+      "topic": "Forces and equilibrium",
+      "answers": {
+        "answer_snippet": "Cambridge International AS & A Level MATHEMATICS 9709/42 Paper 4 Mechanics May/June 2025 MARK SCHEME Maximum Mark: 50 Published This mark scheme is published as an aid to teachers and candidates, to indicate the requirements of the examination. It shows the basis on which Examiners were instructed to award marks."
+      }
+    },
+    {
+      "question_number": "3",
+      "subparts": [],
+      "page": 5,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "4.1"
+      ],
+      "topic": "Forces and equilibrium",
+      "answers": {
+        "answer_snippet": "9709/42 Cambridge International AS & A Level \u2013 Mark Scheme May/June 2025 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptions for a question. Each"
+      }
+    },
+    {
+      "question_number": "2",
+      "subparts": [],
+      "page": 5,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "4.1"
+      ],
+      "topic": "Forces and equilibrium",
+      "answers": {
+        "answer_snippet": "9709/42 Cambridge International AS & A Level \u2013 Mark Scheme May/June 2025 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptions for a question. Each"
+      }
+    },
+    {
+      "question_number": "2",
+      "subparts": [],
+      "page": 5,
+      "marks": 4,
+      "syllabus_outcomes": [
+        "4.1",
+        "4.4"
+      ],
+      "topic": "Forces and equilibrium",
+      "answers": {
+        "answer_snippet": "9709/42 Cambridge International AS & A Level \u2013 Mark Scheme May/June 2025 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptions for a question. Each"
+      }
+    },
+    {
+      "question_number": "6",
+      "subparts": [],
+      "page": 6,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "4.1"
+      ],
+      "topic": "Forces and equilibrium",
+      "answers": {
+        "answer_snippet": "9709/42 Cambridge International AS & A Level \u2013 Mark Scheme May/June 2025 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptions for a question. Each"
+      }
+    },
+    {
+      "question_number": "4",
+      "subparts": [],
+      "page": 6,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "4.1"
+      ],
+      "topic": "Forces and equilibrium",
+      "answers": {
+        "answer_snippet": "Cambridge International AS & A Level MATHEMATICS 9709/42 Paper 4 Mechanics May/June 2025 MARK SCHEME Maximum Mark: 50 Published This mark scheme is published as an aid to teachers and candidates, to indicate the requirements of the examination. It shows the basis on which Examiners were instructed to award marks."
+      }
+    },
+    {
+      "question_number": "0",
+      "subparts": [],
+      "page": 6,
+      "marks": 2,
+      "syllabus_outcomes": [
+        "4.2"
+      ],
+      "topic": "Kinematics of motion in a straight line",
+      "answers": {
+        "answer_snippet": "9709/42 Cambridge International AS & A Level \u2013 Mark Scheme May/June 2025 PUBLISHED Question Answer Marks Guidance 2 0.2\uf0b45+0.1\uf0b42=(0.2+0.1)v *M1 Attempt at conservation of momentum; correct number of terms but allow sign errors \u2013 use of mg scores M1A0. v=4 A1 \uf0e91 1 1 \uf0f9 DM1 Allow sign errors only;"
+      }
+    },
+    {
+      "question_number": "7",
+      "subparts": [],
+      "page": 7,
+      "marks": 3,
+      "syllabus_outcomes": [
+        "4.1"
+      ],
+      "topic": "Forces and equilibrium",
+      "answers": {
+        "answer_snippet": "9709/42 Cambridge International AS & A Level \u2013 Mark Scheme May/June 2025 PUBLISHED Mark Scheme Notes The following notes are intended to aid interpretation of mark schemes in general, but individual mark schemes may include marks awarded for specific reasons outside the scope of these notes. Types of mark M"
+      }
+    },
+    {
+      "question_number": "8",
+      "subparts": [],
+      "page": 8,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "4.1"
+      ],
+      "topic": "Forces and equilibrium",
+      "answers": {
+        "answer_snippet": "9709/42 Cambridge International AS & A Level \u2013 Mark Scheme May/June 2025 PUBLISHED Abbreviations AEF/OE Any Equivalent Form (of answer is equally acceptable) / Or Equivalent AG Answer Given on the question paper (so extra checking is needed to ensure that the detailed working leading to the result is valid)"
+      }
+    },
+    {
+      "question_number": "5",
+      "subparts": [
+        "k"
+      ],
+      "page": 8,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "4.1"
+      ],
+      "topic": "Forces and equilibrium",
+      "answers": {
+        "answer_snippet": "Cambridge International AS & A Level MATHEMATICS 9709/42 Paper 4 Mechanics May/June 2025 MARK SCHEME Maximum Mark: 50 Published This mark scheme is published as an aid to teachers and candidates, to indicate the requirements of the examination. It shows the basis on which Examiners were instructed to award marks."
+      }
+    },
+    {
+      "question_number": "30",
+      "subparts": [],
+      "page": 8,
+      "marks": 3,
+      "syllabus_outcomes": [
+        "4.2",
+        "4.4"
+      ],
+      "topic": "Kinematics of motion in a straight line",
+      "answers": {
+        "answer_snippet": "9709/42 Cambridge International AS & A Level \u2013 Mark Scheme May/June 2025 PUBLISHED Question Answer Marks Guidance 4(a) Correct three-line segments for v-t graph B1 First line segment with positive gradient starting on the positive vertical axis, second line segment horizontal (parallel to t -axis) and third line segment with"
+      }
+    },
+    {
+      "question_number": "9",
+      "subparts": [],
+      "page": 9,
+      "marks": 4,
+      "syllabus_outcomes": [
+        "4.1",
+        "4.4"
+      ],
+      "topic": "Forces and equilibrium",
+      "answers": {
+        "answer_snippet": "9709/42 Cambridge International AS & A Level \u2013 Mark Scheme May/June 2025 PUBLISHED Question Answer Marks Guidance 1(a) 1.5 m s\u20131 B1 3 12 OE e.g. , . 2 8 1 1(b) Work done = 25cos20\uf0b412 M1 For 25cos20\uf0b412 or 25sin20\uf0b412 or 25cos70\uf0b412 or 25sin70\uf0b412. 282 J A1 281.9077\u2026 2"
+      }
+    },
+    {
+      "question_number": "10",
+      "subparts": [],
+      "page": 10,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "4.1"
+      ],
+      "topic": "Forces and equilibrium",
+      "answers": {
+        "answer_snippet": "9709/42 Cambridge International AS & A Level \u2013 Mark Scheme May/June 2025 PUBLISHED Question Answer Marks Guidance 2 0.2\uf0b45+0.1\uf0b42=(0.2+0.1)v *M1 Attempt at conservation of momentum; correct number of terms but allow sign errors \u2013 use of mg scores M1A0. v=4 A1 \uf0e91 1 1 \uf0f9 DM1 Allow sign errors only;"
+      }
+    },
+    {
+      "question_number": "6",
+      "subparts": [],
+      "page": 10,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "4.2"
+      ],
+      "topic": "Kinematics of motion in a straight line",
+      "answers": {
+        "answer_snippet": "9709/42 Cambridge International AS & A Level \u2013 Mark Scheme May/June 2025 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptions for a question. Each"
+      }
+    },
+    {
+      "question_number": "2",
+      "subparts": [],
+      "page": 10,
+      "marks": 5,
+      "syllabus_outcomes": [
+        "4.2"
+      ],
+      "topic": "Kinematics of motion in a straight line",
+      "answers": {
+        "answer_snippet": "9709/42 Cambridge International AS & A Level \u2013 Mark Scheme May/June 2025 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptions for a question. Each"
+      }
+    },
+    {
+      "question_number": "11",
+      "subparts": [],
+      "page": 11,
+      "marks": 4,
+      "syllabus_outcomes": [
+        "4.2"
+      ],
+      "topic": "Kinematics of motion in a straight line",
+      "answers": {
+        "answer_snippet": "9709/42 Cambridge International AS & A Level \u2013 Mark Scheme May/June 2025 PUBLISHED Question Answer Marks Guidance 3 12 5 cos\uf071 or sin\uf071 (where \uf071 is the angle 13 13 between the string and vertical). Candidates may use the complementary angle to \uf071 . Resolving in any direction to form"
+      }
+    },
+    {
+      "question_number": "12",
+      "subparts": [],
+      "page": 12,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "4.1"
+      ],
+      "topic": "Forces and equilibrium",
+      "answers": {
+        "answer_snippet": "9709/42 Cambridge International AS & A Level \u2013 Mark Scheme May/June 2025 PUBLISHED Question Answer Marks Guidance 1(a) 1.5 m s\u20131 B1 3 12 OE e.g. , . 2 8 1 1(b) Work done = 25cos20\uf0b412 M1 For 25cos20\uf0b412 or 25sin20\uf0b412 or 25cos70\uf0b412 or 25sin70\uf0b412. 282 J A1 281.9077\u2026 2"
+      }
+    },
+    {
+      "question_number": "7",
+      "subparts": [],
+      "page": 12,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "4.1",
+        "4.4"
+      ],
+      "topic": "Forces and equilibrium",
+      "answers": {
+        "answer_snippet": "9709/42 Cambridge International AS & A Level \u2013 Mark Scheme May/June 2025 PUBLISHED Mark Scheme Notes The following notes are intended to aid interpretation of mark schemes in general, but individual mark schemes may include marks awarded for specific reasons outside the scope of these notes. Types of mark M"
+      }
+    },
+    {
+      "question_number": "12",
+      "subparts": [],
+      "page": 12,
+      "marks": 6,
+      "syllabus_outcomes": [
+        "4.5"
+      ],
+      "topic": "Energy, work and power",
+      "answers": {
+        "answer_snippet": "9709/42 Cambridge International AS & A Level \u2013 Mark Scheme May/June 2025 PUBLISHED Question Answer Marks Guidance 1(a) 1.5 m s\u20131 B1 3 12 OE e.g. , . 2 8 1 1(b) Work done = 25cos20\uf0b412 M1 For 25cos20\uf0b412 or 25sin20\uf0b412 or 25cos70\uf0b412 or 25sin70\uf0b412. 282 J A1 281.9077\u2026 2"
+      }
+    },
+    {
+      "question_number": "13",
+      "subparts": [],
+      "page": 13,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "4.1"
+      ],
+      "topic": "Forces and equilibrium",
+      "answers": {
+        "answer_snippet": "9709/42 Cambridge International AS & A Level \u2013 Mark Scheme May/June 2025 PUBLISHED Question Answer Marks Guidance 3 12 5 cos\uf071 or sin\uf071 (where \uf071 is the angle 13 13 between the string and vertical). Candidates may use the complementary angle to \uf071 . Resolving in any direction to form"
+      }
+    },
+    {
+      "question_number": "14",
+      "subparts": [],
+      "page": 14,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "4.1"
+      ],
+      "topic": "Forces and equilibrium",
+      "answers": {
+        "answer_snippet": "9709/42 Cambridge International AS & A Level \u2013 Mark Scheme May/June 2025 PUBLISHED Question Answer Marks Guidance 4(b) Speed after 30 seconds = 15+0.4\uf0b430 \uf05b=27\uf05d B1 Speed at B is their 27+(\u22120.2)T *M1 Use of v u atusing their speed after 30 seconds for u, t = T and a"
+      }
+    },
+    {
+      "question_number": "15",
+      "subparts": [],
+      "page": 15,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "4.1"
+      ],
+      "topic": "Forces and equilibrium",
+      "answers": {
+        "answer_snippet": "9709/42 Cambridge International AS & A Level \u2013 Mark Scheme May/June 2025 PUBLISHED Question Answer Marks Guidance 4(a) Correct three-line segments for v-t graph B1 First line segment with positive gradient starting on the positive vertical axis, second line segment horizontal (parallel to t -axis) and third line segment with"
+      }
+    },
+    {
+      "question_number": "16",
+      "subparts": [],
+      "page": 16,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "4.1"
+      ],
+      "topic": "Forces and equilibrium",
+      "answers": {
+        "answer_snippet": "9709/42 Cambridge International AS & A Level \u2013 Mark Scheme May/June 2025 PUBLISHED Question Answer Marks Guidance 5(c) 1 B1 Distance travelled by A in first 1.5 seconds is \uf0b42\uf0b41.52 \uf05b=2.25\uf05d 2 When string breaks A is moving at a speed of 3 (m s\u20131) B1 \uf0e9 26\uf0f9 *M1 Attempt"
+      }
+    }
+  ],
+  "statistics": {
+    "total_questions": 28,
+    "total_marks": 36
+  }
+}

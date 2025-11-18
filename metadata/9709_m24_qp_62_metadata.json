@@ -1,0 +1,346 @@
+{
+  "exam_info": {
+    "paper_code": "9709/62",
+    "exam_board": "Cambridge International AS & A Level",
+    "subject": "Mathematics",
+    "paper_name": "Paper 6 Probability & Statistics 2",
+    "exam_session": "February/March 2024",
+    "total_marks": 50,
+    "time_allowed": "1 hour 15 minutes",
+    "question_paper": "9709_m24_qp_62.pdf",
+    "mark_scheme": "9709_m24_ms_62.pdf",
+    "syllabus": "697427-2026-2027-syllabus.pdf"
+  },
+  "questions": [
+    {
+      "question_number": "2",
+      "subparts": [],
+      "page": 2,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "6.1"
+      ],
+      "topic": "The Poisson distribution",
+      "answers": {
+        "answer_snippet": "Cambridge International A Level MATHEMATICS 9709/62 Paper 6 Probability and Statistics 2 February/March 2024 MARK SCHEME Maximum Mark: 50 Published This mark scheme is published as an aid to teachers and candidates, to indicate the requirements of the examination. It shows the basis on which Examiners were instructed to award"
+      }
+    },
+    {
+      "question_number": "3",
+      "subparts": [],
+      "page": 3,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "6.1"
+      ],
+      "topic": "The Poisson distribution",
+      "answers": {
+        "answer_snippet": "9709/62 Cambridge International A Level \u2013 Mark Scheme February/March 2024 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptions for a question. Each question paper"
+      }
+    },
+    {
+      "question_number": "1",
+      "subparts": [],
+      "page": 3,
+      "marks": 3,
+      "syllabus_outcomes": [
+        "6.4"
+      ],
+      "topic": "Sampling and estimation",
+      "answers": {
+        "answer_snippet": "9709/62 Cambridge International A Level \u2013 Mark Scheme February/March 2024 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptions for a question. Each question paper"
+      }
+    },
+    {
+      "question_number": "4",
+      "subparts": [],
+      "page": 4,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "6.1"
+      ],
+      "topic": "The Poisson distribution",
+      "answers": {
+        "answer_snippet": "9709/62 Cambridge International A Level \u2013 Mark Scheme February/March 2024 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptions for a question. Each question paper"
+      }
+    },
+    {
+      "question_number": "2",
+      "subparts": [],
+      "page": 4,
+      "marks": 3,
+      "syllabus_outcomes": [
+        "6.4"
+      ],
+      "topic": "Sampling and estimation",
+      "answers": {
+        "answer_snippet": "Cambridge International A Level MATHEMATICS 9709/62 Paper 6 Probability and Statistics 2 February/March 2024 MARK SCHEME Maximum Mark: 50 Published This mark scheme is published as an aid to teachers and candidates, to indicate the requirements of the examination. It shows the basis on which Examiners were instructed to award"
+      }
+    },
+    {
+      "question_number": "5",
+      "subparts": [],
+      "page": 5,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "6.1"
+      ],
+      "topic": "The Poisson distribution",
+      "answers": {
+        "answer_snippet": "9709/62 Cambridge International A Level \u2013 Mark Scheme February/March 2024 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptions for a question. Each question paper"
+      }
+    },
+    {
+      "question_number": "3",
+      "subparts": [],
+      "page": 5,
+      "marks": 3,
+      "syllabus_outcomes": [
+        "6.1"
+      ],
+      "topic": "The Poisson distribution",
+      "answers": {
+        "answer_snippet": "9709/62 Cambridge International A Level \u2013 Mark Scheme February/March 2024 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptions for a question. Each question paper"
+      }
+    },
+    {
+      "question_number": "6",
+      "subparts": [],
+      "page": 6,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "6.1"
+      ],
+      "topic": "The Poisson distribution",
+      "answers": {
+        "answer_snippet": "Cambridge International A Level MATHEMATICS 9709/62 Paper 6 Probability and Statistics 2 February/March 2024 MARK SCHEME Maximum Mark: 50 Published This mark scheme is published as an aid to teachers and candidates, to indicate the requirements of the examination. It shows the basis on which Examiners were instructed to award"
+      }
+    },
+    {
+      "question_number": "4",
+      "subparts": [],
+      "page": 6,
+      "marks": 5,
+      "syllabus_outcomes": [
+        "6.1"
+      ],
+      "topic": "The Poisson distribution",
+      "answers": {
+        "answer_snippet": "9709/62 Cambridge International A Level \u2013 Mark Scheme February/March 2024 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptions for a question. Each question paper"
+      }
+    },
+    {
+      "question_number": "7",
+      "subparts": [],
+      "page": 7,
+      "marks": 5,
+      "syllabus_outcomes": [
+        "6.1"
+      ],
+      "topic": "The Poisson distribution",
+      "answers": {
+        "answer_snippet": "9709/62 Cambridge International A Level \u2013 Mark Scheme February/March 2024 PUBLISHED Question Answer Marks Guidance 2(b) Unlikely to be true because confidence interval does not contain 0.4. B1 ft FT their confidence interval. Must include this reason and \u2018unlikely\u2019, oe. Allow \u201cnot true because 0.4 is not in the confidence"
+      }
+    },
+    {
+      "question_number": "8",
+      "subparts": [],
+      "page": 8,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "6.1"
+      ],
+      "topic": "The Poisson distribution",
+      "answers": {
+        "answer_snippet": "9709/62 Cambridge International A Level \u2013 Mark Scheme February/March 2024 PUBLISHED Question Answer Marks Guidance 4(a) E(X \u2212 Y) = 10700 \u2013 13400 [=\u22122700] B1 Oe, e.g. (Y \u2212 X). Var(X \u2212 Y) = 9502 + 12102 [= 2366600] M1 0\u2212(their '\u22122700') M1 For standardising with their E and Var."
+      }
+    },
+    {
+      "question_number": "5",
+      "subparts": [],
+      "page": 8,
+      "marks": 1,
+      "syllabus_outcomes": [
+        "6.1"
+      ],
+      "topic": "The Poisson distribution",
+      "answers": {
+        "answer_snippet": "9709/62 Cambridge International A Level \u2013 Mark Scheme February/March 2024 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptions for a question. Each question paper"
+      }
+    },
+    {
+      "question_number": "9",
+      "subparts": [],
+      "page": 9,
+      "marks": 5,
+      "syllabus_outcomes": [
+        "6.5"
+      ],
+      "topic": "Hypothesis tests",
+      "answers": {
+        "answer_snippet": "9709/62 Cambridge International A Level \u2013 Mark Scheme February/March 2024 PUBLISHED Question Answer Marks Guidance 5(a) [e\u22120.2] = 0.819 (3sf) B1 Accept e\u20130.2 as final answer. 1 5(b) \u03bb = 1.25 B1 \uf0e6 1.252 \uf0f6 M1 Any \u03bb Allow one end error. e\u22121.25\uf0e71+1.25+ \uf0f7 Must see expression (in any form)."
+      }
+    },
+    {
+      "question_number": "10",
+      "subparts": [],
+      "page": 10,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "6.1"
+      ],
+      "topic": "The Poisson distribution",
+      "answers": {
+        "answer_snippet": "9709/62 Cambridge International A Level \u2013 Mark Scheme February/March 2024 PUBLISHED Question Answer Marks Guidance 5(c) e\u22120.15 \u00d7 e\u22120.1(0.1) = 0.077879 M1 P(B = 0) \u00d7 P(G = 1) 0.8607 \uf0b4 0.09048 \uf0e60.12 \uf0f6 P(B = 0) \u00d7 P(G = 2) 0.8607 \uf0b4 0.004524 e\u22120.15 \u00d7 e\u22120.1\uf0e7 \uf0e7 2 \uf0f7"
+      }
+    },
+    {
+      "question_number": "6",
+      "subparts": [],
+      "page": 10,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "6.3"
+      ],
+      "topic": "Continuous random variables",
+      "answers": {
+        "answer_snippet": "Cambridge International A Level MATHEMATICS 9709/62 Paper 6 Probability and Statistics 2 February/March 2024 MARK SCHEME Maximum Mark: 50 Published This mark scheme is published as an aid to teachers and candidates, to indicate the requirements of the examination. It shows the basis on which Examiners were instructed to award"
+      }
+    },
+    {
+      "question_number": "256",
+      "subparts": [],
+      "page": 10,
+      "marks": 2,
+      "syllabus_outcomes": [
+        "6.1"
+      ],
+      "topic": "The Poisson distribution",
+      "answers": {
+        "answer_snippet": "9709/62 Cambridge International A Level \u2013 Mark Scheme February/March 2024 PUBLISHED Question Answer Marks Guidance 5(d) H : \u03bb = 1.25 or 0.25[per day] B1 Or \u00b5 or \u2018population mean\u2019. 0 H : \u03bb > 1.25 or 0.25[per day] 1 \uf0e6 1.252 1.253\uf0f6 M1 Any \u03bb. No end errors. Expression"
+      }
+    },
+    {
+      "question_number": "256",
+      "subparts": [],
+      "page": 10,
+      "marks": 3,
+      "syllabus_outcomes": [
+        "6.1"
+      ],
+      "topic": "The Poisson distribution",
+      "answers": {
+        "answer_snippet": "9709/62 Cambridge International A Level \u2013 Mark Scheme February/March 2024 PUBLISHED Question Answer Marks Guidance 5(d) H : \u03bb = 1.25 or 0.25[per day] B1 Or \u00b5 or \u2018population mean\u2019. 0 H : \u03bb > 1.25 or 0.25[per day] 1 \uf0e6 1.252 1.253\uf0f6 M1 Any \u03bb. No end errors. Expression"
+      }
+    },
+    {
+      "question_number": "11",
+      "subparts": [],
+      "page": 11,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "6.3"
+      ],
+      "topic": "Continuous random variables",
+      "answers": {
+        "answer_snippet": "9709/62 Cambridge International A Level \u2013 Mark Scheme February/March 2024 PUBLISHED Question Answer Marks Guidance 5(d) H : \u03bb = 1.25 or 0.25[per day] B1 Or \u00b5 or \u2018population mean\u2019. 0 H : \u03bb > 1.25 or 0.25[per day] 1 \uf0e6 1.252 1.253\uf0f6 M1 Any \u03bb. No end errors. Expression"
+      }
+    },
+    {
+      "question_number": "9",
+      "subparts": [],
+      "page": 11,
+      "marks": 5,
+      "syllabus_outcomes": [
+        "6.1"
+      ],
+      "topic": "The Poisson distribution",
+      "answers": {
+        "answer_snippet": "9709/62 Cambridge International A Level \u2013 Mark Scheme February/March 2024 PUBLISHED Question Answer Marks Guidance 5(a) [e\u22120.2] = 0.819 (3sf) B1 Accept e\u20130.2 as final answer. 1 5(b) \u03bb = 1.25 B1 \uf0e6 1.252 \uf0f6 M1 Any \u03bb Allow one end error. e\u22121.25\uf0e71+1.25+ \uf0f7 Must see expression (in any form)."
+      }
+    },
+    {
+      "question_number": "12",
+      "subparts": [],
+      "page": 12,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "6.1"
+      ],
+      "topic": "The Poisson distribution",
+      "answers": {
+        "answer_snippet": "9709/62 Cambridge International A Level \u2013 Mark Scheme February/March 2024 PUBLISHED Question Answer Marks Guidance 5(c) e\u22120.15 \u00d7 e\u22120.1(0.1) = 0.077879 M1 P(B = 0) \u00d7 P(G = 1) 0.8607 \uf0b4 0.09048 \uf0e60.12 \uf0f6 P(B = 0) \u00d7 P(G = 2) 0.8607 \uf0b4 0.004524 e\u22120.15 \u00d7 e\u22120.1\uf0e7 \uf0e7 2 \uf0f7"
+      }
+    },
+    {
+      "question_number": "7",
+      "subparts": [],
+      "page": 12,
+      "marks": 1,
+      "syllabus_outcomes": [
+        "6.4",
+        "6.5"
+      ],
+      "topic": "Sampling and estimation",
+      "answers": {
+        "answer_snippet": "9709/62 Cambridge International A Level \u2013 Mark Scheme February/March 2024 PUBLISHED Question Answer Marks Guidance 2(b) Unlikely to be true because confidence interval does not contain 0.4. B1 ft FT their confidence interval. Must include this reason and \u2018unlikely\u2019, oe. Allow \u201cnot true because 0.4 is not in the confidence"
+      }
+    },
+    {
+      "question_number": "13",
+      "subparts": [],
+      "page": 13,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "6.1"
+      ],
+      "topic": "The Poisson distribution",
+      "answers": {
+        "answer_snippet": "9709/62 Cambridge International A Level \u2013 Mark Scheme February/March 2024 PUBLISHED Question Answer Marks Guidance 6(c) [2 + x \u2212 x2 = 0] B1 x = \u22121 and x = 2 seen or implied [Domain is \u22121 \u2a7d x \u2a7d 2] Mean = 0.5 B1 2 2 *M1 Attempt to"
+      }
+    },
+    {
+      "question_number": "14",
+      "subparts": [],
+      "page": 14,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "6.1"
+      ],
+      "topic": "The Poisson distribution",
+      "answers": {
+        "answer_snippet": "Cambridge International A Level MATHEMATICS 9709/62 Paper 6 Probability and Statistics 2 February/March 2024 MARK SCHEME Maximum Mark: 50 Published This mark scheme is published as an aid to teachers and candidates, to indicate the requirements of the examination. It shows the basis on which Examiners were instructed to award"
+      }
+    },
+    {
+      "question_number": "15",
+      "subparts": [],
+      "page": 15,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "6.1"
+      ],
+      "topic": "The Poisson distribution",
+      "answers": {
+        "answer_snippet": "9709/62 Cambridge International A Level \u2013 Mark Scheme February/March 2024 PUBLISHED Question Answer Marks Guidance 5(c) e\u22120.15 \u00d7 e\u22120.1(0.1) = 0.077879 M1 P(B = 0) \u00d7 P(G = 1) 0.8607 \uf0b4 0.09048 \uf0e60.12 \uf0f6 P(B = 0) \u00d7 P(G = 2) 0.8607 \uf0b4 0.004524 e\u22120.15 \u00d7 e\u22120.1\uf0e7 \uf0e7 2 \uf0f7"
+      }
+    },
+    {
+      "question_number": "16",
+      "subparts": [],
+      "page": 16,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "6.1"
+      ],
+      "topic": "The Poisson distribution",
+      "answers": {
+        "answer_snippet": ""
+      }
+    }
+  ],
+  "statistics": {
+    "total_questions": 25,
+    "total_marks": 36
+  }
+}

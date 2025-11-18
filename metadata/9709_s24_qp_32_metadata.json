@@ -1,0 +1,532 @@
+{
+  "exam_info": {
+    "paper_code": "9709/32",
+    "exam_board": "Cambridge International AS & A Level",
+    "subject": "Mathematics",
+    "paper_name": "Paper 3 Pure Mathematics 3",
+    "exam_session": "May/June 2024",
+    "total_marks": 75,
+    "time_allowed": "1 hour 50 minutes",
+    "question_paper": "9709_s24_qp_32.pdf",
+    "mark_scheme": "9709_s24_ms_32.pdf",
+    "syllabus": "697427-2026-2027-syllabus.pdf"
+  },
+  "questions": [
+    {
+      "question_number": "2",
+      "subparts": [],
+      "page": 2,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "3.1"
+      ],
+      "topic": "Algebra",
+      "answers": {
+        "answer_snippet": "9709/32 Cambridge International A Level \u2013 Mark Scheme May/June 2024 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptions for a question. Each question paper"
+      }
+    },
+    {
+      "question_number": "3",
+      "subparts": [],
+      "page": 3,
+      "marks": 2,
+      "syllabus_outcomes": [
+        "3.1"
+      ],
+      "topic": "Algebra",
+      "answers": {
+        "answer_snippet": "Cambridge International A Level MATHEMATICS 9709/32 Paper 3 Pure Mathematics 3 May/June 2024 MARK SCHEME Maximum Mark: 75 Published This mark scheme is published as an aid to teachers and candidates, to indicate the requirements of the examination. It shows the basis on which Examiners were instructed to award marks."
+      }
+    },
+    {
+      "question_number": "4",
+      "subparts": [],
+      "page": 4,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "3.1"
+      ],
+      "topic": "Algebra",
+      "answers": {
+        "answer_snippet": "9709/32 Cambridge International A Level \u2013 Mark Scheme May/June 2024 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptions for a question. Each question paper"
+      }
+    },
+    {
+      "question_number": "2",
+      "subparts": [
+        "x"
+      ],
+      "page": 4,
+      "marks": 5,
+      "syllabus_outcomes": [
+        "3.1"
+      ],
+      "topic": "Algebra",
+      "answers": {
+        "answer_snippet": "9709/32 Cambridge International A Level \u2013 Mark Scheme May/June 2024 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptions for a question. Each question paper"
+      }
+    },
+    {
+      "question_number": "5",
+      "subparts": [],
+      "page": 5,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "3.1"
+      ],
+      "topic": "Algebra",
+      "answers": {
+        "answer_snippet": "9709/32 Cambridge International A Level \u2013 Mark Scheme May/June 2024 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptions for a question. Each question paper"
+      }
+    },
+    {
+      "question_number": "3",
+      "subparts": [],
+      "page": 5,
+      "marks": 3,
+      "syllabus_outcomes": [
+        "3.1"
+      ],
+      "topic": "Algebra",
+      "answers": {
+        "answer_snippet": "Cambridge International A Level MATHEMATICS 9709/32 Paper 3 Pure Mathematics 3 May/June 2024 MARK SCHEME Maximum Mark: 75 Published This mark scheme is published as an aid to teachers and candidates, to indicate the requirements of the examination. It shows the basis on which Examiners were instructed to award marks."
+      }
+    },
+    {
+      "question_number": "6",
+      "subparts": [],
+      "page": 6,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "3.1"
+      ],
+      "topic": "Algebra",
+      "answers": {
+        "answer_snippet": "9709/32 Cambridge International A Level \u2013 Mark Scheme May/June 2024 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptions for a question. Each question paper"
+      }
+    },
+    {
+      "question_number": "4",
+      "subparts": [],
+      "page": 6,
+      "marks": 6,
+      "syllabus_outcomes": [
+        "3.1"
+      ],
+      "topic": "Algebra",
+      "answers": {
+        "answer_snippet": "9709/32 Cambridge International A Level \u2013 Mark Scheme May/June 2024 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptions for a question. Each question paper"
+      }
+    },
+    {
+      "question_number": "7",
+      "subparts": [],
+      "page": 7,
+      "marks": 2,
+      "syllabus_outcomes": [
+        "3.6"
+      ],
+      "topic": "Numerical solution of equations",
+      "answers": {
+        "answer_snippet": "9709/32 Cambridge International A Level \u2013 Mark Scheme May/June 2024 PUBLISHED Question Answer Marks Guidance 2 B C B1 Dx\uf02bE F P Qx\uf02bR State or imply the form A\uf02b \uf02b \uf02b and \uf02b are also valid. 2x\uf02b3 x\uf02d4 2x\uf02b3 x\uf02d4 2x\uf02b3 x\uf02d4 Use a correct method for finding a constant"
+      }
+    },
+    {
+      "question_number": "1",
+      "subparts": [],
+      "page": 7,
+      "marks": 1,
+      "syllabus_outcomes": [
+        "3.2",
+        "3.6"
+      ],
+      "topic": "Logarithmic and exponential functions",
+      "answers": {
+        "answer_snippet": "9709/32 Cambridge International A Level \u2013 Mark Scheme May/June 2024 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptions for a question. Each question paper"
+      }
+    },
+    {
+      "question_number": "8",
+      "subparts": [],
+      "page": 8,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "3.1"
+      ],
+      "topic": "Algebra",
+      "answers": {
+        "answer_snippet": "9709/32 Cambridge International A Level \u2013 Mark Scheme May/June 2024 PUBLISHED Question Answer Marks Guidance 2 Alternative method for Question 2 Divide numerator by denominator (M1) \uf0e6 Px\uf02bQ \uf0f6 (A1) \uf0e6 6x\uf02b20 \uf0f6 Obtain 3 \uf0e7 \uf02b \uf0f7 \uf0e73\uf02b \uf0f7 \uf0e8 2x2 \uf02d5x\uf02d12\uf0f8 \uf0e8 (2x\uf02b3)(x\uf02d4)\uf0f8 Px\uf02bQ D E (B1) Must"
+      }
+    },
+    {
+      "question_number": "6",
+      "subparts": [],
+      "page": 8,
+      "marks": 4,
+      "syllabus_outcomes": [
+        "3.1"
+      ],
+      "topic": "Algebra",
+      "answers": {
+        "answer_snippet": "9709/32 Cambridge International A Level \u2013 Mark Scheme May/June 2024 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptions for a question. Each question paper"
+      }
+    },
+    {
+      "question_number": "9",
+      "subparts": [],
+      "page": 9,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "3.1"
+      ],
+      "topic": "Algebra",
+      "answers": {
+        "answer_snippet": "9709/32 Cambridge International A Level \u2013 Mark Scheme May/June 2024 PUBLISHED Question Answer Marks Guidance 3(a) Use logarithms to obtain a correct expression without powers e.g. B1 Could use logs to any base e.g. 2y\uf02d1\uf03d\uf028x\uf02dy\uf029log b. a \uf0282y\uf02d1\uf029lna\uf03d\uf028x\uf02d y\uf029lnb Do not condone missing brackets unless recovered later. Separate terms and"
+      }
+    },
+    {
+      "question_number": "2",
+      "subparts": [],
+      "page": 9,
+      "marks": 5,
+      "syllabus_outcomes": [
+        "3.1"
+      ],
+      "topic": "Algebra",
+      "answers": {
+        "answer_snippet": "9709/32 Cambridge International A Level \u2013 Mark Scheme May/June 2024 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptions for a question. Each question paper"
+      }
+    },
+    {
+      "question_number": "0",
+      "subparts": [],
+      "page": 9,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "3.1"
+      ],
+      "topic": "Algebra",
+      "answers": {
+        "answer_snippet": "9709/32 Cambridge International A Level \u2013 Mark Scheme May/June 2024 PUBLISHED Question Answer Marks Guidance 1(a) B1 Correct shape, roughly symmetrical. Both sections should be solid y straight lines. If not drawn with a ruler the intention must be clear. Allow construction lines if dashed or clearly fainter. 2a marked"
+      }
+    },
+    {
+      "question_number": "10",
+      "subparts": [],
+      "page": 10,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "3.1"
+      ],
+      "topic": "Algebra",
+      "answers": {
+        "answer_snippet": "9709/32 Cambridge International A Level \u2013 Mark Scheme May/June 2024 PUBLISHED Question Answer Marks Guidance 4 Substitute y\uf03d1 and obtain ex \uf03da, where a\uf03e0 M1 Must come from a quadratic in ex. \uf028 e2x \uf02bex \uf02d6\uf03d0 \uf029 Ignore any negative solution. Obtain ex \uf03d2 only A1 Or equivalent e.g. x\uf03dln2."
+      }
+    },
+    {
+      "question_number": "11",
+      "subparts": [],
+      "page": 11,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "3.1"
+      ],
+      "topic": "Algebra",
+      "answers": {
+        "answer_snippet": "9709/32 Cambridge International A Level \u2013 Mark Scheme May/June 2024 PUBLISHED Question Answer Marks Guidance 4 Alternative method for Question 4: Dividing through by ex Substitute y\uf03d1 and obtain ex \uf03da, where a\uf03e0 (M1) Must come from a quadratic in ex. \uf028 e2x \uf02bex \uf02d6\uf03d0 \uf029 Ignore any negative solution."
+      }
+    },
+    {
+      "question_number": "1",
+      "subparts": [],
+      "page": 11,
+      "marks": 6,
+      "syllabus_outcomes": [
+        "3.1"
+      ],
+      "topic": "Algebra",
+      "answers": {
+        "answer_snippet": "9709/32 Cambridge International A Level \u2013 Mark Scheme May/June 2024 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptions for a question. Each question paper"
+      }
+    },
+    {
+      "question_number": "1",
+      "subparts": [],
+      "page": 11,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "3.1"
+      ],
+      "topic": "Algebra",
+      "answers": {
+        "answer_snippet": "9709/32 Cambridge International A Level \u2013 Mark Scheme May/June 2024 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptions for a question. Each question paper"
+      }
+    },
+    {
+      "question_number": "8",
+      "subparts": [],
+      "page": 11,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "3.1"
+      ],
+      "topic": "Algebra",
+      "answers": {
+        "answer_snippet": "9709/32 Cambridge International A Level \u2013 Mark Scheme May/June 2024 PUBLISHED Question Answer Marks Guidance 2 Alternative method for Question 2 Divide numerator by denominator (M1) \uf0e6 Px\uf02bQ \uf0f6 (A1) \uf0e6 6x\uf02b20 \uf0f6 Obtain 3 \uf0e7 \uf02b \uf0f7 \uf0e73\uf02b \uf0f7 \uf0e8 2x2 \uf02d5x\uf02d12\uf0f8 \uf0e8 (2x\uf02b3)(x\uf02d4)\uf0f8 Px\uf02bQ D E (B1) Must"
+      }
+    },
+    {
+      "question_number": "12",
+      "subparts": [],
+      "page": 12,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "3.1"
+      ],
+      "topic": "Algebra",
+      "answers": {
+        "answer_snippet": "9709/32 Cambridge International A Level \u2013 Mark Scheme May/June 2024 PUBLISHED Question Answer Marks Guidance 2 Alternative method for Question 2 Divide numerator by denominator (M1) \uf0e6 Px\uf02bQ \uf0f6 (A1) \uf0e6 6x\uf02b20 \uf0f6 Obtain 3 \uf0e7 \uf02b \uf0f7 \uf0e73\uf02b \uf0f7 \uf0e8 2x2 \uf02d5x\uf02d12\uf0f8 \uf0e8 (2x\uf02b3)(x\uf02d4)\uf0f8 Px\uf02bQ D E (B1) Must"
+      }
+    },
+    {
+      "question_number": "8",
+      "subparts": [],
+      "page": 12,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "3.7"
+      ],
+      "topic": "Vectors",
+      "answers": {
+        "answer_snippet": "9709/32 Cambridge International A Level \u2013 Mark Scheme May/June 2024 PUBLISHED Question Answer Marks Guidance 2 Alternative method for Question 2 Divide numerator by denominator (M1) \uf0e6 Px\uf02bQ \uf0f6 (A1) \uf0e6 6x\uf02b20 \uf0f6 Obtain 3 \uf0e7 \uf02b \uf0f7 \uf0e73\uf02b \uf0f7 \uf0e8 2x2 \uf02d5x\uf02d12\uf0f8 \uf0e8 (2x\uf02b3)(x\uf02d4)\uf0f8 Px\uf02bQ D E (B1) Must"
+      }
+    },
+    {
+      "question_number": "1",
+      "subparts": [],
+      "page": 12,
+      "marks": 3,
+      "syllabus_outcomes": [
+        "3.7"
+      ],
+      "topic": "Vectors",
+      "answers": {
+        "answer_snippet": "9709/32 Cambridge International A Level \u2013 Mark Scheme May/June 2024 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptions for a question. Each question paper"
+      }
+    },
+    {
+      "question_number": "1",
+      "subparts": [],
+      "page": 12,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "3.1"
+      ],
+      "topic": "Algebra",
+      "answers": {
+        "answer_snippet": "9709/32 Cambridge International A Level \u2013 Mark Scheme May/June 2024 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptions for a question. Each question paper"
+      }
+    },
+    {
+      "question_number": "2",
+      "subparts": [],
+      "page": 12,
+      "marks": 4,
+      "syllabus_outcomes": [
+        "3.3"
+      ],
+      "topic": "Trigonometry",
+      "answers": {
+        "answer_snippet": "9709/32 Cambridge International A Level \u2013 Mark Scheme May/June 2024 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptions for a question. Each question paper"
+      }
+    },
+    {
+      "question_number": "1",
+      "subparts": [],
+      "page": 12,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "3.1"
+      ],
+      "topic": "Algebra",
+      "answers": {
+        "answer_snippet": "9709/32 Cambridge International A Level \u2013 Mark Scheme May/June 2024 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptions for a question. Each question paper"
+      }
+    },
+    {
+      "question_number": "13",
+      "subparts": [],
+      "page": 13,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "3.1"
+      ],
+      "topic": "Algebra",
+      "answers": {
+        "answer_snippet": "9709/32 Cambridge International A Level \u2013 Mark Scheme May/June 2024 PUBLISHED Question Answer Marks Guidance 6(a) Use correct product rule *M1 Or equivalent. Condone incorrect chain rule. M0 if a value is used for a (not equivalent work). Obtain correct derivative A1 dy E.g. \uf03d\uf02daxe\uf02dax \uf02be\uf02dax dx Equate derivative to"
+      }
+    },
+    {
+      "question_number": "2",
+      "subparts": [],
+      "page": 13,
+      "marks": 5,
+      "syllabus_outcomes": [
+        "3.7"
+      ],
+      "topic": "Vectors",
+      "answers": {
+        "answer_snippet": "9709/32 Cambridge International A Level \u2013 Mark Scheme May/June 2024 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptions for a question. Each question paper"
+      }
+    },
+    {
+      "question_number": "14",
+      "subparts": [],
+      "page": 14,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "3.1"
+      ],
+      "topic": "Algebra",
+      "answers": {
+        "answer_snippet": "9709/32 Cambridge International A Level \u2013 Mark Scheme May/June 2024 PUBLISHED Question Answer Marks Guidance 7(a) Factorise LHS using difference of 2 squares *M1 \uf028\uf028 cos2\uf071\uf02dsin2\uf071 \uf029\uf028 cos2\uf071\uf02bsin2\uf071 \uf029\uf029 Simplify DM1 cos2\uf071\uf02bsin2\uf071\uf03d1 must be seen or implied, e.g. \uf028 cos2\uf071\uf02dsin2\uf071 \uf029\uf028 cos2\uf071\uf02bsin2\uf071 \uf029 \uf03d \uf028 cos2\uf071\uf02dsin2\uf071 \uf029 . Obtain cos4\uf071\uf02dsin4\uf071\uf0bacos2\uf071"
+      }
+    },
+    {
+      "question_number": "9",
+      "subparts": [],
+      "page": 14,
+      "marks": 1,
+      "syllabus_outcomes": [
+        "3.9"
+      ],
+      "topic": "Complex numbers",
+      "answers": {
+        "answer_snippet": "9709/32 Cambridge International A Level \u2013 Mark Scheme May/June 2024 PUBLISHED Question Answer Marks Guidance 3(a) Use logarithms to obtain a correct expression without powers e.g. B1 Could use logs to any base e.g. 2y\uf02d1\uf03d\uf028x\uf02dy\uf029log b. a \uf0282y\uf02d1\uf029lna\uf03d\uf028x\uf02d y\uf029lnb Do not condone missing brackets unless recovered later. Separate terms and"
+      }
+    },
+    {
+      "question_number": "15",
+      "subparts": [],
+      "page": 15,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "3.1"
+      ],
+      "topic": "Algebra",
+      "answers": {
+        "answer_snippet": "9709/32 Cambridge International A Level \u2013 Mark Scheme May/June 2024 PUBLISHED Question Answer Marks Guidance 7(b) Use part (a) and correct double angle formula to obtain expression M1 \uf0f2cos4\uf071\uf02dsin4\uf071\uf02b4sin2\uf071cos2\uf071d\uf071\uf03d\uf0f2cos2\uf071\uf02bsin22\uf071d\uf071 involving \uf0f2sin22\uf071d\uf071 or \uf0f2cos22\uf071d\uf071 Allow BOD for 2sin22\uf071if sin2\uf071\uf03d2sin\uf071cos\uf071seen. \uf0f2cos2\uf071d\uf071\uf03d 1sin2\uf071 B1 Seen or implied. 2 Use of correct double angle"
+      }
+    },
+    {
+      "question_number": "3",
+      "subparts": [],
+      "page": 15,
+      "marks": 3,
+      "syllabus_outcomes": [
+        "3.1"
+      ],
+      "topic": "Algebra",
+      "answers": {
+        "answer_snippet": "Cambridge International A Level MATHEMATICS 9709/32 Paper 3 Pure Mathematics 3 May/June 2024 MARK SCHEME Maximum Mark: 75 Published This mark scheme is published as an aid to teachers and candidates, to indicate the requirements of the examination. It shows the basis on which Examiners were instructed to award marks."
+      }
+    },
+    {
+      "question_number": "12",
+      "subparts": [],
+      "page": 15,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "3.1"
+      ],
+      "topic": "Algebra",
+      "answers": {
+        "answer_snippet": "9709/32 Cambridge International A Level \u2013 Mark Scheme May/June 2024 PUBLISHED Question Answer Marks Guidance 2 Alternative method for Question 2 Divide numerator by denominator (M1) \uf0e6 Px\uf02bQ \uf0f6 (A1) \uf0e6 6x\uf02b20 \uf0f6 Obtain 3 \uf0e7 \uf02b \uf0f7 \uf0e73\uf02b \uf0f7 \uf0e8 2x2 \uf02d5x\uf02d12\uf0f8 \uf0e8 (2x\uf02b3)(x\uf02d4)\uf0f8 Px\uf02bQ D E (B1) Must"
+      }
+    },
+    {
+      "question_number": "16",
+      "subparts": [],
+      "page": 16,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "3.8"
+      ],
+      "topic": "Differential equations",
+      "answers": {
+        "answer_snippet": "9709/32 Cambridge International A Level \u2013 Mark Scheme May/June 2024 PUBLISHED Question Answer Marks Guidance 7(b) Use part (a) and correct double angle formula to obtain expression M1 \uf0f2cos4\uf071\uf02dsin4\uf071\uf02b4sin2\uf071cos2\uf071d\uf071\uf03d\uf0f2cos2\uf071\uf02bsin22\uf071d\uf071 involving \uf0f2sin22\uf071d\uf071 or \uf0f2cos22\uf071d\uf071 Allow BOD for 2sin22\uf071if sin2\uf071\uf03d2sin\uf071cos\uf071seen. \uf0f2cos2\uf071d\uf071\uf03d 1sin2\uf071 B1 Seen or implied. 2 Use of correct double angle"
+      }
+    },
+    {
+      "question_number": "3",
+      "subparts": [
+        "s"
+      ],
+      "page": 16,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "3.8"
+      ],
+      "topic": "Differential equations",
+      "answers": {
+        "answer_snippet": "Cambridge International A Level MATHEMATICS 9709/32 Paper 3 Pure Mathematics 3 May/June 2024 MARK SCHEME Maximum Mark: 75 Published This mark scheme is published as an aid to teachers and candidates, to indicate the requirements of the examination. It shows the basis on which Examiners were instructed to award marks."
+      }
+    },
+    {
+      "question_number": "17",
+      "subparts": [],
+      "page": 17,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "3.1"
+      ],
+      "topic": "Algebra",
+      "answers": {
+        "answer_snippet": "9709/32 Cambridge International A Level \u2013 Mark Scheme May/June 2024 PUBLISHED Question Answer Marks Guidance \uf075\uf075\uf075\uf072 8(c) State AB\uf03d 72 \uf02b12 \uf02b42 \uf028 \uf03d 66 \uf029 B1 Or \uf028AB\uf0292 \uf03d66 Condone a sign error in AB. \uf075\uf075\uf075\uf072 State BD in component form B1 \uf0e6\uf02d7\uf02b3r\uf0f6 \uf0e7 \uf0f7 \uf02d1\uf02br or equivalent. \uf0e7"
+      }
+    },
+    {
+      "question_number": "18",
+      "subparts": [],
+      "page": 18,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "3.1"
+      ],
+      "topic": "Algebra",
+      "answers": {
+        "answer_snippet": "9709/32 Cambridge International A Level \u2013 Mark Scheme May/June 2024 PUBLISHED Question Answer Marks Guidance 9(b) Obtain z \uf03d 2 B1 Obtain argz\uf03d\uf02d\u03c0 final answer B1 4 Obtain \uf077\uf03d6 B1 Obtain arg\uf077\uf03d 2\u03c0 final answer B1 3 4 9(c) Note: The question does not require the diagram. Im B (-3+3"
+      }
+    },
+    {
+      "question_number": "19",
+      "subparts": [],
+      "page": 19,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "3.1"
+      ],
+      "topic": "Algebra",
+      "answers": {
+        "answer_snippet": "9709/32 Cambridge International A Level \u2013 Mark Scheme May/June 2024 PUBLISHED Question Answer Marks Guidance 9(d) argz\uf077\uf03dargz\uf02barg\uf077\uf028\uf03d 2\uf070\uf02d\uf070\uf03d 5\uf070\uf029 M1 For showing correct use of their angles from part (b). 3 4 12 Must demonstrate where 5\u03c0 comes from. 12 3\uf02b3 3 M1 Correct method for their z\uf077 from part"
+      }
+    },
+    {
+      "question_number": "20",
+      "subparts": [],
+      "page": 20,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "3.1"
+      ],
+      "topic": "Algebra",
+      "answers": {
+        "answer_snippet": "Cambridge International A Level MATHEMATICS 9709/32 Paper 3 Pure Mathematics 3 May/June 2024 MARK SCHEME Maximum Mark: 75 Published This mark scheme is published as an aid to teachers and candidates, to indicate the requirements of the examination. It shows the basis on which Examiners were instructed to award marks."
+      }
+    }
+  ],
+  "statistics": {
+    "total_questions": 39,
+    "total_marks": 50
+  }
+}

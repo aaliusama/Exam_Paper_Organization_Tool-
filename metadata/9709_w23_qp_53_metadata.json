@@ -1,0 +1,283 @@
+{
+  "exam_info": {
+    "paper_code": "9709/53",
+    "exam_board": "Cambridge International AS & A Level",
+    "subject": "Mathematics",
+    "paper_name": "Paper 5 Probability & Statistics 1",
+    "exam_session": "October/November 2023",
+    "total_marks": 50,
+    "time_allowed": "1 hour 15 minutes",
+    "question_paper": "9709_w23_qp_53.pdf",
+    "mark_scheme": "9709_w23_ms_53.pdf",
+    "syllabus": "697427-2026-2027-syllabus.pdf"
+  },
+  "questions": [
+    {
+      "question_number": "2",
+      "subparts": [],
+      "page": 2,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "5.1"
+      ],
+      "topic": "Representation of data",
+      "answers": {
+        "answer_snippet": "9709/53 Cambridge International AS & A Level \u2013 Mark Scheme October/November 2023 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptors for a question. Each"
+      }
+    },
+    {
+      "question_number": "1",
+      "subparts": [],
+      "page": 2,
+      "marks": 3,
+      "syllabus_outcomes": [
+        "5.3",
+        "5.4"
+      ],
+      "topic": "Probability",
+      "answers": {
+        "answer_snippet": "Cambridge International AS & A Level MATHEMATICS 9709/53 Paper 5 Probability & Statistics 1 October/November 2023 MARK SCHEME Maximum Mark: 50 Published This mark scheme is published as an aid to teachers and candidates, to indicate the requirements of the examination. It shows the basis on which Examiners were instructed"
+      }
+    },
+    {
+      "question_number": "3",
+      "subparts": [],
+      "page": 3,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "5.1"
+      ],
+      "topic": "Representation of data",
+      "answers": {
+        "answer_snippet": "9709/53 Cambridge International AS & A Level \u2013 Mark Scheme October/November 2023 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptors for a question. Each"
+      }
+    },
+    {
+      "question_number": "2",
+      "subparts": [],
+      "page": 3,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "5.1",
+        "5.3"
+      ],
+      "topic": "Representation of data",
+      "answers": {
+        "answer_snippet": "9709/53 Cambridge International AS & A Level \u2013 Mark Scheme October/November 2023 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptors for a question. Each"
+      }
+    },
+    {
+      "question_number": "1",
+      "subparts": [],
+      "page": 3,
+      "marks": 3,
+      "syllabus_outcomes": [
+        "5.1"
+      ],
+      "topic": "Representation of data",
+      "answers": {
+        "answer_snippet": "Cambridge International AS & A Level MATHEMATICS 9709/53 Paper 5 Probability & Statistics 1 October/November 2023 MARK SCHEME Maximum Mark: 50 Published This mark scheme is published as an aid to teachers and candidates, to indicate the requirements of the examination. It shows the basis on which Examiners were instructed"
+      }
+    },
+    {
+      "question_number": "0",
+      "subparts": [],
+      "page": 3,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "5.1"
+      ],
+      "topic": "Representation of data",
+      "answers": {
+        "answer_snippet": "9709/53 Cambridge International AS & A Level \u2013 Mark Scheme October/November 2023 PUBLISHED Question Answer Marks Guidance 1(a) \uf0e9 1 \uf0f9 M1 Using sum of probabilities = 1 to form an equation in k. 2k+6k+12k+20k =1, k = \uf0ea \uf0fa Accept 1\u00d72\u00d7k + 2\u00d73\u00d7k + 3\u00d74\u00d7k + 4\u00d75\u00d7k = 1."
+      }
+    },
+    {
+      "question_number": "0",
+      "subparts": [],
+      "page": 3,
+      "marks": 3,
+      "syllabus_outcomes": [
+        "5.1"
+      ],
+      "topic": "Representation of data",
+      "answers": {
+        "answer_snippet": "9709/53 Cambridge International AS & A Level \u2013 Mark Scheme October/November 2023 PUBLISHED Question Answer Marks Guidance 1(a) \uf0e9 1 \uf0f9 M1 Using sum of probabilities = 1 to form an equation in k. 2k+6k+12k+20k =1, k = \uf0ea \uf0fa Accept 1\u00d72\u00d7k + 2\u00d73\u00d7k + 3\u00d74\u00d7k + 4\u00d75\u00d7k = 1."
+      }
+    },
+    {
+      "question_number": "4",
+      "subparts": [],
+      "page": 4,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "5.1"
+      ],
+      "topic": "Representation of data",
+      "answers": {
+        "answer_snippet": "Cambridge International AS & A Level MATHEMATICS 9709/53 Paper 5 Probability & Statistics 1 October/November 2023 MARK SCHEME Maximum Mark: 50 Published This mark scheme is published as an aid to teachers and candidates, to indicate the requirements of the examination. It shows the basis on which Examiners were instructed"
+      }
+    },
+    {
+      "question_number": "3",
+      "subparts": [],
+      "page": 4,
+      "marks": 3,
+      "syllabus_outcomes": [
+        "5.3"
+      ],
+      "topic": "Probability",
+      "answers": {
+        "answer_snippet": "9709/53 Cambridge International AS & A Level \u2013 Mark Scheme October/November 2023 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptors for a question. Each"
+      }
+    },
+    {
+      "question_number": "5",
+      "subparts": [],
+      "page": 5,
+      "marks": 4,
+      "syllabus_outcomes": [
+        "5.3"
+      ],
+      "topic": "Probability",
+      "answers": {
+        "answer_snippet": "Cambridge International AS & A Level MATHEMATICS 9709/53 Paper 5 Probability & Statistics 1 October/November 2023 MARK SCHEME Maximum Mark: 50 Published This mark scheme is published as an aid to teachers and candidates, to indicate the requirements of the examination. It shows the basis on which Examiners were instructed"
+      }
+    },
+    {
+      "question_number": "6",
+      "subparts": [],
+      "page": 6,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "5.1"
+      ],
+      "topic": "Representation of data",
+      "answers": {
+        "answer_snippet": "9709/53 Cambridge International AS & A Level \u2013 Mark Scheme October/November 2023 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptors for a question. Each"
+      }
+    },
+    {
+      "question_number": "4",
+      "subparts": [],
+      "page": 6,
+      "marks": 2,
+      "syllabus_outcomes": [
+        "5.1"
+      ],
+      "topic": "Representation of data",
+      "answers": {
+        "answer_snippet": "Cambridge International AS & A Level MATHEMATICS 9709/53 Paper 5 Probability & Statistics 1 October/November 2023 MARK SCHEME Maximum Mark: 50 Published This mark scheme is published as an aid to teachers and candidates, to indicate the requirements of the examination. It shows the basis on which Examiners were instructed"
+      }
+    },
+    {
+      "question_number": "7",
+      "subparts": [],
+      "page": 7,
+      "marks": 6,
+      "syllabus_outcomes": [
+        "5.1"
+      ],
+      "topic": "Representation of data",
+      "answers": {
+        "answer_snippet": "9709/53 Cambridge International AS & A Level \u2013 Mark Scheme October/November 2023 PUBLISHED Question Answer Marks Guidance 1(a) \uf0e9 1 \uf0f9 M1 Using sum of probabilities = 1 to form an equation in k. 2k+6k+12k+20k =1, k = \uf0ea \uf0fa Accept 1\u00d72\u00d7k + 2\u00d73\u00d7k + 3\u00d74\u00d7k + 4\u00d75\u00d7k = 1."
+      }
+    },
+    {
+      "question_number": "8",
+      "subparts": [],
+      "page": 8,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "5.1"
+      ],
+      "topic": "Representation of data",
+      "answers": {
+        "answer_snippet": "9709/53 Cambridge International AS & A Level \u2013 Mark Scheme October/November 2023 PUBLISHED Question Answer Marks Guidance 3(a) [P(WW) = P(AWW) + P(BWW) =] M1 2 8 7 4 6 5 Either \uf0b4 \uf0b4 or \uf0b4 \uf0b4 seen, accept unsimplified. 2 8 7 4 6 5 6 15 14 6"
+      }
+    },
+    {
+      "question_number": "5",
+      "subparts": [],
+      "page": 8,
+      "marks": 2,
+      "syllabus_outcomes": [
+        "5.3",
+        "5.4"
+      ],
+      "topic": "Probability",
+      "answers": {
+        "answer_snippet": "Cambridge International AS & A Level MATHEMATICS 9709/53 Paper 5 Probability & Statistics 1 October/November 2023 MARK SCHEME Maximum Mark: 50 Published This mark scheme is published as an aid to teachers and candidates, to indicate the requirements of the examination. It shows the basis on which Examiners were instructed"
+      }
+    },
+    {
+      "question_number": "9",
+      "subparts": [],
+      "page": 9,
+      "marks": 5,
+      "syllabus_outcomes": [
+        "5.3"
+      ],
+      "topic": "Probability",
+      "answers": {
+        "answer_snippet": "9709/53 Cambridge International AS & A Level \u2013 Mark Scheme October/November 2023 PUBLISHED Question Answer Marks Guidance 1(a) \uf0e9 1 \uf0f9 M1 Using sum of probabilities = 1 to form an equation in k. 2k+6k+12k+20k =1, k = \uf0ea \uf0fa Accept 1\u00d72\u00d7k + 2\u00d73\u00d7k + 3\u00d74\u00d7k + 4\u00d75\u00d7k = 1."
+      }
+    },
+    {
+      "question_number": "10",
+      "subparts": [],
+      "page": 10,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "5.1"
+      ],
+      "topic": "Representation of data",
+      "answers": {
+        "answer_snippet": "9709/53 Cambridge International AS & A Level \u2013 Mark Scheme October/November 2023 PUBLISHED Question Answer Marks Guidance 4(a) M1 At least 3 points plotted accurately at class upper end points (40,0) (60,14) (65,38) (70,60) (85,106) (100,120). Linear cumulative frequency scale 0 \u2a7d cf \u2a7d 120 and linear weight scale 40"
+      }
+    },
+    {
+      "question_number": "6",
+      "subparts": [],
+      "page": 10,
+      "marks": 3,
+      "syllabus_outcomes": [
+        "5.2"
+      ],
+      "topic": "Permutations and combinations",
+      "answers": {
+        "answer_snippet": "9709/53 Cambridge International AS & A Level \u2013 Mark Scheme October/November 2023 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptors for a question. Each"
+      }
+    },
+    {
+      "question_number": "11",
+      "subparts": [],
+      "page": 11,
+      "marks": 5,
+      "syllabus_outcomes": [
+        "5.3"
+      ],
+      "topic": "Probability",
+      "answers": {
+        "answer_snippet": "9709/53 Cambridge International AS & A Level \u2013 Mark Scheme October/November 2023 PUBLISHED Question Answer Marks Guidance 4(c) Frequencies: [0] 14 24 22 46 14 B1 At least 5 correct frequencies seen (condone omission of 0). Midpoints: 20 50 62.5 67.5 77.5 92.5 B1 At least 5 correct midpoints seen"
+      }
+    },
+    {
+      "question_number": "12",
+      "subparts": [],
+      "page": 12,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "5.1"
+      ],
+      "topic": "Representation of data",
+      "answers": {
+        "answer_snippet": "9709/53 Cambridge International AS & A Level \u2013 Mark Scheme October/November 2023 PUBLISHED Question Answer Marks Guidance 1(a) \uf0e9 1 \uf0f9 M1 Using sum of probabilities = 1 to form an equation in k. 2k+6k+12k+20k =1, k = \uf0ea \uf0fa Accept 1\u00d72\u00d7k + 2\u00d73\u00d7k + 3\u00d74\u00d7k + 4\u00d75\u00d7k = 1."
+      }
+    }
+  ],
+  "statistics": {
+    "total_questions": 20,
+    "total_marks": 39
+  }
+}

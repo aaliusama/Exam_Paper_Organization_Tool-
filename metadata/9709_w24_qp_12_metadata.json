@@ -1,0 +1,653 @@
+{
+  "exam_info": {
+    "paper_code": "9709/12",
+    "exam_board": "Cambridge International AS & A Level",
+    "subject": "Mathematics",
+    "paper_name": "Paper 1 Pure Mathematics 1",
+    "exam_session": "October/November 2024",
+    "total_marks": 75,
+    "time_allowed": "1 hour 50 minutes",
+    "question_paper": "9709_w24_qp_12.pdf",
+    "mark_scheme": "9709_w24_ms_12.pdf",
+    "syllabus": "697427-2026-2027-syllabus.pdf"
+  },
+  "questions": [
+    {
+      "question_number": "2",
+      "subparts": [],
+      "page": 2,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "1.1"
+      ],
+      "topic": "Quadratics",
+      "answers": {
+        "answer_snippet": "9709/12 Cambridge International AS & A Level \u2013 Mark Scheme October/November 2024 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptions for a question. Each"
+      }
+    },
+    {
+      "question_number": "1",
+      "subparts": [],
+      "page": 2,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "1.1"
+      ],
+      "topic": "Quadratics",
+      "answers": {
+        "answer_snippet": "Cambridge International AS & A Level MATHEMATICS 9709/12 Paper 1 Pure Mathematics 1 October/November 2024 MARK SCHEME Maximum Mark: 75 Published This mark scheme is published as an aid to teachers and candidates, to indicate the requirements of the examination. It shows the basis on which Examiners were instructed to"
+      }
+    },
+    {
+      "question_number": "8",
+      "subparts": [],
+      "page": 2,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "1.1"
+      ],
+      "topic": "Quadratics",
+      "answers": {
+        "answer_snippet": "9709/12 Cambridge International AS & A Level \u2013 Mark Scheme October/November 2024 PUBLISHED Question Answer Marks Guidance 3(a) \uf0e9f(2+h)=\uf0f9 2(2+h)2 \u22123 B1 SOI \uf0eb \uf0fb ( 2(2+h)2 \u22123 ) \u2212 5 \uf0e9 2h2 +8h\uf0f9 M1 \uf07b their ( 2(2+h)2 \u22123 )\uf07d \u2212their5 \uf0ea= \uf0fa can be implied by the (2+h)\u22122"
+      }
+    },
+    {
+      "question_number": "7",
+      "subparts": [],
+      "page": 2,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "1.1"
+      ],
+      "topic": "Quadratics",
+      "answers": {
+        "answer_snippet": "9709/12 Cambridge International AS & A Level \u2013 Mark Scheme October/November 2024 PUBLISHED Question Answer Marks Guidance 2(a) 20 20 M1 Correct use of either S formula with a = \u201420 and d = 5. ( 2\uf0b4\u221220+(20\u22121)\uf0b45 ) or (\u221220+75) 20 2 2 550 A1 2 2(b) 2k k M1*"
+      }
+    },
+    {
+      "question_number": "6",
+      "subparts": [],
+      "page": 2,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "1.1"
+      ],
+      "topic": "Quadratics",
+      "answers": {
+        "answer_snippet": "9709/12 Cambridge International AS & A Level \u2013 Mark Scheme October/November 2024 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptions for a question. Each"
+      }
+    },
+    {
+      "question_number": "5",
+      "subparts": [],
+      "page": 2,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "1.1"
+      ],
+      "topic": "Quadratics",
+      "answers": {
+        "answer_snippet": "9709/12 Cambridge International AS & A Level \u2013 Mark Scheme October/November 2024 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptions for a question. Each"
+      }
+    },
+    {
+      "question_number": "4",
+      "subparts": [],
+      "page": 2,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "1.1"
+      ],
+      "topic": "Quadratics",
+      "answers": {
+        "answer_snippet": "9709/12 Cambridge International AS & A Level \u2013 Mark Scheme October/November 2024 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptions for a question. Each"
+      }
+    },
+    {
+      "question_number": "3",
+      "subparts": [],
+      "page": 2,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "1.1"
+      ],
+      "topic": "Quadratics",
+      "answers": {
+        "answer_snippet": "9709/12 Cambridge International AS & A Level \u2013 Mark Scheme October/November 2024 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptions for a question. Each"
+      }
+    },
+    {
+      "question_number": "2",
+      "subparts": [],
+      "page": 2,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "1.1"
+      ],
+      "topic": "Quadratics",
+      "answers": {
+        "answer_snippet": "9709/12 Cambridge International AS & A Level \u2013 Mark Scheme October/November 2024 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptions for a question. Each"
+      }
+    },
+    {
+      "question_number": "1",
+      "subparts": [],
+      "page": 2,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "1.1"
+      ],
+      "topic": "Quadratics",
+      "answers": {
+        "answer_snippet": "Cambridge International AS & A Level MATHEMATICS 9709/12 Paper 1 Pure Mathematics 1 October/November 2024 MARK SCHEME Maximum Mark: 75 Published This mark scheme is published as an aid to teachers and candidates, to indicate the requirements of the examination. It shows the basis on which Examiners were instructed to"
+      }
+    },
+    {
+      "question_number": "0",
+      "subparts": [],
+      "page": 2,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "1.1"
+      ],
+      "topic": "Quadratics",
+      "answers": {
+        "answer_snippet": "9709/12 Cambridge International AS & A Level \u2013 Mark Scheme October/November 2024 PUBLISHED Question Answer Marks Guidance 2(a) 20 20 M1 Correct use of either S formula with a = \u201420 and d = 5. ( 2\uf0b4\u221220+(20\u22121)\uf0b45 ) or (\u221220+75) 20 2 2 550 A1 2 2(b) 2k k M1*"
+      }
+    },
+    {
+      "question_number": "0",
+      "subparts": [],
+      "page": 2,
+      "marks": 3,
+      "syllabus_outcomes": [
+        "1.5"
+      ],
+      "topic": "Trigonometry",
+      "answers": {
+        "answer_snippet": "9709/12 Cambridge International AS & A Level \u2013 Mark Scheme October/November 2024 PUBLISHED Question Answer Marks Guidance 2(a) 20 20 M1 Correct use of either S formula with a = \u201420 and d = 5. ( 2\uf0b4\u221220+(20\u22121)\uf0b45 ) or (\u221220+75) 20 2 2 550 A1 2 2(b) 2k k M1*"
+      }
+    },
+    {
+      "question_number": "3",
+      "subparts": [],
+      "page": 3,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "1.1"
+      ],
+      "topic": "Quadratics",
+      "answers": {
+        "answer_snippet": "9709/12 Cambridge International AS & A Level \u2013 Mark Scheme October/November 2024 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptions for a question. Each"
+      }
+    },
+    {
+      "question_number": "2",
+      "subparts": [],
+      "page": 3,
+      "marks": 2,
+      "syllabus_outcomes": [
+        "1.6"
+      ],
+      "topic": "Series",
+      "answers": {
+        "answer_snippet": "9709/12 Cambridge International AS & A Level \u2013 Mark Scheme October/November 2024 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptions for a question. Each"
+      }
+    },
+    {
+      "question_number": "4",
+      "subparts": [],
+      "page": 4,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "1.1"
+      ],
+      "topic": "Quadratics",
+      "answers": {
+        "answer_snippet": "9709/12 Cambridge International AS & A Level \u2013 Mark Scheme October/November 2024 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptions for a question. Each"
+      }
+    },
+    {
+      "question_number": "3",
+      "subparts": [],
+      "page": 4,
+      "marks": 3,
+      "syllabus_outcomes": [
+        "1.3",
+        "1.7"
+      ],
+      "topic": "Coordinate geometry",
+      "answers": {
+        "answer_snippet": "9709/12 Cambridge International AS & A Level \u2013 Mark Scheme October/November 2024 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptions for a question. Each"
+      }
+    },
+    {
+      "question_number": "5",
+      "subparts": [],
+      "page": 5,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "1.1"
+      ],
+      "topic": "Quadratics",
+      "answers": {
+        "answer_snippet": "9709/12 Cambridge International AS & A Level \u2013 Mark Scheme October/November 2024 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptions for a question. Each"
+      }
+    },
+    {
+      "question_number": "4",
+      "subparts": [],
+      "page": 5,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "1.1"
+      ],
+      "topic": "Quadratics",
+      "answers": {
+        "answer_snippet": "9709/12 Cambridge International AS & A Level \u2013 Mark Scheme October/November 2024 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptions for a question. Each"
+      }
+    },
+    {
+      "question_number": "3",
+      "subparts": [],
+      "page": 5,
+      "marks": 2,
+      "syllabus_outcomes": [
+        "1.1"
+      ],
+      "topic": "Quadratics",
+      "answers": {
+        "answer_snippet": "9709/12 Cambridge International AS & A Level \u2013 Mark Scheme October/November 2024 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptions for a question. Each"
+      }
+    },
+    {
+      "question_number": "3",
+      "subparts": [],
+      "page": 5,
+      "marks": 4,
+      "syllabus_outcomes": [
+        "1.1"
+      ],
+      "topic": "Quadratics",
+      "answers": {
+        "answer_snippet": "9709/12 Cambridge International AS & A Level \u2013 Mark Scheme October/November 2024 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptions for a question. Each"
+      }
+    },
+    {
+      "question_number": "6",
+      "subparts": [],
+      "page": 6,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "1.1"
+      ],
+      "topic": "Quadratics",
+      "answers": {
+        "answer_snippet": "9709/12 Cambridge International AS & A Level \u2013 Mark Scheme October/November 2024 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptions for a question. Each"
+      }
+    },
+    {
+      "question_number": "5",
+      "subparts": [],
+      "page": 6,
+      "marks": 1,
+      "syllabus_outcomes": [
+        "1.2"
+      ],
+      "topic": "Functions",
+      "answers": {
+        "answer_snippet": "9709/12 Cambridge International AS & A Level \u2013 Mark Scheme October/November 2024 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptions for a question. Each"
+      }
+    },
+    {
+      "question_number": "4",
+      "subparts": [],
+      "page": 6,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "1.1"
+      ],
+      "topic": "Quadratics",
+      "answers": {
+        "answer_snippet": "9709/12 Cambridge International AS & A Level \u2013 Mark Scheme October/November 2024 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptions for a question. Each"
+      }
+    },
+    {
+      "question_number": "2",
+      "subparts": [],
+      "page": 6,
+      "marks": 2,
+      "syllabus_outcomes": [
+        "1.2",
+        "1.3"
+      ],
+      "topic": "Functions",
+      "answers": {
+        "answer_snippet": "9709/12 Cambridge International AS & A Level \u2013 Mark Scheme October/November 2024 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptions for a question. Each"
+      }
+    },
+    {
+      "question_number": "7",
+      "subparts": [],
+      "page": 7,
+      "marks": 3,
+      "syllabus_outcomes": [
+        "1.2"
+      ],
+      "topic": "Functions",
+      "answers": {
+        "answer_snippet": "9709/12 Cambridge International AS & A Level \u2013 Mark Scheme October/November 2024 PUBLISHED Question Answer Marks Guidance 2(a) 20 20 M1 Correct use of either S formula with a = \u201420 and d = 5. ( 2\uf0b4\u221220+(20\u22121)\uf0b45 ) or (\u221220+75) 20 2 2 550 A1 2 2(b) 2k k M1*"
+      }
+    },
+    {
+      "question_number": "4",
+      "subparts": [],
+      "page": 7,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "1.1"
+      ],
+      "topic": "Quadratics",
+      "answers": {
+        "answer_snippet": "9709/12 Cambridge International AS & A Level \u2013 Mark Scheme October/November 2024 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptions for a question. Each"
+      }
+    },
+    {
+      "question_number": "8",
+      "subparts": [],
+      "page": 8,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "1.1"
+      ],
+      "topic": "Quadratics",
+      "answers": {
+        "answer_snippet": "9709/12 Cambridge International AS & A Level \u2013 Mark Scheme October/November 2024 PUBLISHED Question Answer Marks Guidance 3(a) \uf0e9f(2+h)=\uf0f9 2(2+h)2 \u22123 B1 SOI \uf0eb \uf0fb ( 2(2+h)2 \u22123 ) \u2212 5 \uf0e9 2h2 +8h\uf0f9 M1 \uf07b their ( 2(2+h)2 \u22123 )\uf07d \u2212their5 \uf0ea= \uf0fa can be implied by the (2+h)\u22122"
+      }
+    },
+    {
+      "question_number": "6",
+      "subparts": [],
+      "page": 8,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "1.1"
+      ],
+      "topic": "Quadratics",
+      "answers": {
+        "answer_snippet": "9709/12 Cambridge International AS & A Level \u2013 Mark Scheme October/November 2024 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptions for a question. Each"
+      }
+    },
+    {
+      "question_number": "2",
+      "subparts": [],
+      "page": 8,
+      "marks": 6,
+      "syllabus_outcomes": [
+        "1.3",
+        "1.4",
+        "1.5"
+      ],
+      "topic": "Coordinate geometry",
+      "answers": {
+        "answer_snippet": "9709/12 Cambridge International AS & A Level \u2013 Mark Scheme October/November 2024 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptions for a question. Each"
+      }
+    },
+    {
+      "question_number": "2",
+      "subparts": [],
+      "page": 8,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "1.1"
+      ],
+      "topic": "Quadratics",
+      "answers": {
+        "answer_snippet": "9709/12 Cambridge International AS & A Level \u2013 Mark Scheme October/November 2024 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptions for a question. Each"
+      }
+    },
+    {
+      "question_number": "9",
+      "subparts": [],
+      "page": 9,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "1.1"
+      ],
+      "topic": "Quadratics",
+      "answers": {
+        "answer_snippet": "9709/12 Cambridge International AS & A Level \u2013 Mark Scheme October/November 2024 PUBLISHED Question Answer Marks Guidance 4(b) \uf0e66\uf0f6 \uf0e6 3 \uf0f6 3 6.5.4\uf0e6 3 \uf0f6 3 B1 OE 20 or \uf0e7 \uf0f7\uf0b4x3 \uf0e7 \uf0f7 or x6\uf0b4 \uf0e7 \uf0f7 May be in a list. \uf0e83\uf0f8 \uf0e8x2 \uf0f8 3! \uf0e8x3\uf0f8 540"
+      }
+    },
+    {
+      "question_number": "10",
+      "subparts": [],
+      "page": 10,
+      "marks": 3,
+      "syllabus_outcomes": [
+        "1.3"
+      ],
+      "topic": "Coordinate geometry",
+      "answers": {
+        "answer_snippet": "9709/12 Cambridge International AS & A Level \u2013 Mark Scheme October/November 2024 PUBLISHED Question Answer Marks Guidance 2(a) 20 20 M1 Correct use of either S formula with a = \u201420 and d = 5. ( 2\uf0b4\u221220+(20\u22121)\uf0b45 ) or (\u221220+75) 20 2 2 550 A1 2 2(b) 2k k M1*"
+      }
+    },
+    {
+      "question_number": "11",
+      "subparts": [],
+      "page": 11,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "1.1"
+      ],
+      "topic": "Quadratics",
+      "answers": {
+        "answer_snippet": "9709/12 Cambridge International AS & A Level \u2013 Mark Scheme October/November 2024 PUBLISHED Question Answer Marks Guidance 5(b) \uf0e61\uf0f6 B1 gf \uf0e7 \uf0f7 =\u22127 \uf0e84\uf0f8 2x+1 M1 2x+1 \uf0e61\uf0f6 = \u22127 Equating to their gf \uf0e7 \uf0f7 . 2x\u22121 2x\u22121 \uf0e84\uf0f8 3 A1 OE \uf05bx=\uf05d 8 Alternative solution for Question"
+      }
+    },
+    {
+      "question_number": "12",
+      "subparts": [],
+      "page": 12,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "1.1"
+      ],
+      "topic": "Quadratics",
+      "answers": {
+        "answer_snippet": "Cambridge International AS & A Level MATHEMATICS 9709/12 Paper 1 Pure Mathematics 1 October/November 2024 MARK SCHEME Maximum Mark: 75 Published This mark scheme is published as an aid to teachers and candidates, to indicate the requirements of the examination. It shows the basis on which Examiners were instructed to"
+      }
+    },
+    {
+      "question_number": "8",
+      "subparts": [],
+      "page": 12,
+      "marks": 2,
+      "syllabus_outcomes": [
+        "1.3",
+        "1.5",
+        "1.7"
+      ],
+      "topic": "Coordinate geometry",
+      "answers": {
+        "answer_snippet": "9709/12 Cambridge International AS & A Level \u2013 Mark Scheme October/November 2024 PUBLISHED Question Answer Marks Guidance 3(a) \uf0e9f(2+h)=\uf0f9 2(2+h)2 \u22123 B1 SOI \uf0eb \uf0fb ( 2(2+h)2 \u22123 ) \u2212 5 \uf0e9 2h2 +8h\uf0f9 M1 \uf07b their ( 2(2+h)2 \u22123 )\uf07d \u2212their5 \uf0ea= \uf0fa can be implied by the (2+h)\u22122"
+      }
+    },
+    {
+      "question_number": "13",
+      "subparts": [],
+      "page": 13,
+      "marks": 5,
+      "syllabus_outcomes": [
+        "1.1"
+      ],
+      "topic": "Quadratics",
+      "answers": {
+        "answer_snippet": "9709/12 Cambridge International AS & A Level \u2013 Mark Scheme October/November 2024 PUBLISHED Question Answer Marks Guidance 7(a) \u22122 ( (x\uf0b1 p)2 \uf0b1q ) or \u22122(x\uf0b1 p)2 \uf0b1q M1* p\uf0b90. \u22122 ( (x\u22122)2 \uf0b1q ) or \u22122(x\u22122)2 \uf0b1q DM1 \u22122(x\u22122)2 +19 and (2, 19) A1 Accept x=2, y=19 or 2,"
+      }
+    },
+    {
+      "question_number": "14",
+      "subparts": [],
+      "page": 14,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "1.1"
+      ],
+      "topic": "Quadratics",
+      "answers": {
+        "answer_snippet": "9709/12 Cambridge International AS & A Level \u2013 Mark Scheme October/November 2024 PUBLISHED Question Answer Marks Guidance 6 [Perimeter =] r+r\uf071+r+2r\uf0b42\uf071+r+r\uf071+r \uf05b=4r+6r\uf071\uf05d B1 1 1 1 B1 [Area =] r2\uf071+ (2r)2 \uf0b42\uf071+ r2\uf071 \uf0e9= 5r2\uf071\uf0f9 \uf0eb \uf0fb 2 2 2 4r+6r\uf071=14 and 5r2\uf071=10 M1* ar+br\uf071=14 and cr2\uf071=10where a, b and"
+      }
+    },
+    {
+      "question_number": "9",
+      "subparts": [],
+      "page": 14,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "1.3"
+      ],
+      "topic": "Coordinate geometry",
+      "answers": {
+        "answer_snippet": "9709/12 Cambridge International AS & A Level \u2013 Mark Scheme October/November 2024 PUBLISHED Question Answer Marks Guidance 4(b) \uf0e66\uf0f6 \uf0e6 3 \uf0f6 3 6.5.4\uf0e6 3 \uf0f6 3 B1 OE 20 or \uf0e7 \uf0f7\uf0b4x3 \uf0e7 \uf0f7 or x6\uf0b4 \uf0e7 \uf0f7 May be in a list. \uf0e83\uf0f8 \uf0e8x2 \uf0f8 3! \uf0e8x3\uf0f8 540"
+      }
+    },
+    {
+      "question_number": "2",
+      "subparts": [],
+      "page": 14,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "1.3",
+        "1.5"
+      ],
+      "topic": "Coordinate geometry",
+      "answers": {
+        "answer_snippet": "9709/12 Cambridge International AS & A Level \u2013 Mark Scheme October/November 2024 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptions for a question. Each"
+      }
+    },
+    {
+      "question_number": "2",
+      "subparts": [],
+      "page": 14,
+      "marks": 7,
+      "syllabus_outcomes": [
+        "1.3"
+      ],
+      "topic": "Coordinate geometry",
+      "answers": {
+        "answer_snippet": "9709/12 Cambridge International AS & A Level \u2013 Mark Scheme October/November 2024 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptions for a question. Each"
+      }
+    },
+    {
+      "question_number": "15",
+      "subparts": [],
+      "page": 15,
+      "marks": 3,
+      "syllabus_outcomes": [
+        "1.3"
+      ],
+      "topic": "Coordinate geometry",
+      "answers": {
+        "answer_snippet": "9709/12 Cambridge International AS & A Level \u2013 Mark Scheme October/November 2024 PUBLISHED Question Answer Marks Guidance 3(a) \uf0e9f(2+h)=\uf0f9 2(2+h)2 \u22123 B1 SOI \uf0eb \uf0fb ( 2(2+h)2 \u22123 ) \u2212 5 \uf0e9 2h2 +8h\uf0f9 M1 \uf07b their ( 2(2+h)2 \u22123 )\uf07d \u2212their5 \uf0ea= \uf0fa can be implied by the (2+h)\u22122"
+      }
+    },
+    {
+      "question_number": "16",
+      "subparts": [],
+      "page": 16,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "1.1"
+      ],
+      "topic": "Quadratics",
+      "answers": {
+        "answer_snippet": "9709/12 Cambridge International AS & A Level \u2013 Mark Scheme October/November 2024 PUBLISHED Question Answer Marks Guidance 7(b) Method 4 \uf05bx=\uf05d\uf0b11 B1* Both x co-ordinates for the points of intersection. Attempt to integrate and subtract M1* The second integral can be replaced with what is clearly their area of a"
+      }
+    },
+    {
+      "question_number": "10",
+      "subparts": [],
+      "page": 16,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "1.2"
+      ],
+      "topic": "Functions",
+      "answers": {
+        "answer_snippet": "9709/12 Cambridge International AS & A Level \u2013 Mark Scheme October/November 2024 PUBLISHED Question Answer Marks Guidance 2(a) 20 20 M1 Correct use of either S formula with a = \u201420 and d = 5. ( 2\uf0b4\u221220+(20\u22121)\uf0b45 ) or (\u221220+75) 20 2 2 550 A1 2 2(b) 2k k M1*"
+      }
+    },
+    {
+      "question_number": "3",
+      "subparts": [],
+      "page": 16,
+      "marks": 3,
+      "syllabus_outcomes": [
+        "1.7"
+      ],
+      "topic": "Differentiation",
+      "answers": {
+        "answer_snippet": "9709/12 Cambridge International AS & A Level \u2013 Mark Scheme October/November 2024 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptions for a question. Each"
+      }
+    },
+    {
+      "question_number": "17",
+      "subparts": [],
+      "page": 17,
+      "marks": 3,
+      "syllabus_outcomes": [
+        "1.2",
+        "1.5"
+      ],
+      "topic": "Functions",
+      "answers": {
+        "answer_snippet": "9709/12 Cambridge International AS & A Level \u2013 Mark Scheme October/November 2024 PUBLISHED Question Answer Marks Guidance 7(b) Method 1 \uf05bx=\uf05d\uf0b11 B1* Both x co-ordinates for the points of intersection. Subtract and attempt to integrate M1* \uf0e9\uf0f2 ( \u22122x2 +2 ) dx\uf0f9\u2212 2 x3+2x B1* Both terms correct. \uf0eb \uf0fb"
+      }
+    },
+    {
+      "question_number": "18",
+      "subparts": [],
+      "page": 18,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "1.1"
+      ],
+      "topic": "Quadratics",
+      "answers": {
+        "answer_snippet": "9709/12 Cambridge International AS & A Level \u2013 Mark Scheme October/November 2024 PUBLISHED Question Answer Marks Guidance 7(b) \uf0ec\uf0e6\u22122 \uf0f6 \uf0e62 \uf0f6\uf0fc M1 Apply their limits, one positive and one negative, obtained \uf0ed\uf0e7 +4+11 \uf0f7 \u2212 \uf0e7 +4\u221211 \uf0f7\uf0fd \uf05b\u2212\uf05d \uf07b(4+9)\u2212(4\u22129)\uf07d from equating the line and the curve, to their"
+      }
+    },
+    {
+      "question_number": "19",
+      "subparts": [],
+      "page": 19,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "1.1"
+      ],
+      "topic": "Quadratics",
+      "answers": {
+        "answer_snippet": "9709/12 Cambridge International AS & A Level \u2013 Mark Scheme October/November 2024 PUBLISHED Question Answer Marks Guidance 7(a) \u22122 ( (x\uf0b1 p)2 \uf0b1q ) or \u22122(x\uf0b1 p)2 \uf0b1q M1* p\uf0b90. \u22122 ( (x\u22122)2 \uf0b1q ) or \u22122(x\u22122)2 \uf0b1q DM1 \u22122(x\u22122)2 +19 and (2, 19) A1 Accept x=2, y=19 or 2,"
+      }
+    },
+    {
+      "question_number": "20",
+      "subparts": [],
+      "page": 20,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "1.3",
+        "1.6"
+      ],
+      "topic": "Coordinate geometry",
+      "answers": {
+        "answer_snippet": "9709/12 Cambridge International AS & A Level \u2013 Mark Scheme October/November 2024 PUBLISHED Question Answer Marks Guidance 2(a) 20 20 M1 Correct use of either S formula with a = \u201420 and d = 5. ( 2\uf0b4\u221220+(20\u22121)\uf0b45 ) or (\u221220+75) 20 2 2 550 A1 2 2(b) 2k k M1*"
+      }
+    }
+  ],
+  "statistics": {
+    "total_questions": 48,
+    "total_marks": 52
+  }
+}

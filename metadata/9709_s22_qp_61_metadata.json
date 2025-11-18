@@ -1,0 +1,385 @@
+{
+  "exam_info": {
+    "paper_code": "9709/61",
+    "exam_board": "Cambridge International AS & A Level",
+    "subject": "Mathematics",
+    "paper_name": "Paper 6 Probability & Statistics 2",
+    "exam_session": "May/June 2022",
+    "total_marks": 50,
+    "time_allowed": "1 hour 15 minutes",
+    "question_paper": "9709_s22_qp_61.pdf",
+    "mark_scheme": "9709_s22_ms_61.pdf",
+    "syllabus": "697427-2026-2027-syllabus.pdf"
+  },
+  "questions": [
+    {
+      "question_number": "2",
+      "subparts": [],
+      "page": 2,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "6.1"
+      ],
+      "topic": "The Poisson distribution",
+      "answers": {
+        "answer_snippet": "Cambridge International AS & A Level MATHEMATICS 9709/61 Paper 6 Probability & Statistics 2 May/June 2022 MARK SCHEME Maximum Mark: 50 Published This mark scheme is published as an aid to teachers and candidates, to indicate the requirements of the examination. It shows the basis on which Examiners were instructed"
+      }
+    },
+    {
+      "question_number": "3",
+      "subparts": [],
+      "page": 3,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "6.1"
+      ],
+      "topic": "The Poisson distribution",
+      "answers": {
+        "answer_snippet": "9709/61 Cambridge International AS & A Level \u2013 Mark Scheme May/June 2022 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptors for a question. Each"
+      }
+    },
+    {
+      "question_number": "1",
+      "subparts": [],
+      "page": 3,
+      "marks": 6,
+      "syllabus_outcomes": [
+        "6.4"
+      ],
+      "topic": "Sampling and estimation",
+      "answers": {
+        "answer_snippet": "9709/61 Cambridge International AS & A Level \u2013 Mark Scheme May/June 2022 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptors for a question. Each"
+      }
+    },
+    {
+      "question_number": "4",
+      "subparts": [],
+      "page": 4,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "6.1"
+      ],
+      "topic": "The Poisson distribution",
+      "answers": {
+        "answer_snippet": "9709/61 Cambridge International AS & A Level \u2013 Mark Scheme May/June 2022 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptors for a question. Each"
+      }
+    },
+    {
+      "question_number": "2",
+      "subparts": [],
+      "page": 4,
+      "marks": 5,
+      "syllabus_outcomes": [
+        "6.5"
+      ],
+      "topic": "Hypothesis tests",
+      "answers": {
+        "answer_snippet": "Cambridge International AS & A Level MATHEMATICS 9709/61 Paper 6 Probability & Statistics 2 May/June 2022 MARK SCHEME Maximum Mark: 50 Published This mark scheme is published as an aid to teachers and candidates, to indicate the requirements of the examination. It shows the basis on which Examiners were instructed"
+      }
+    },
+    {
+      "question_number": "5",
+      "subparts": [],
+      "page": 5,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "6.1"
+      ],
+      "topic": "The Poisson distribution",
+      "answers": {
+        "answer_snippet": "9709/61 Cambridge International AS & A Level \u2013 Mark Scheme May/June 2022 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptors for a question. Each"
+      }
+    },
+    {
+      "question_number": "3",
+      "subparts": [],
+      "page": 5,
+      "marks": 5,
+      "syllabus_outcomes": [
+        "6.1"
+      ],
+      "topic": "The Poisson distribution",
+      "answers": {
+        "answer_snippet": "9709/61 Cambridge International AS & A Level \u2013 Mark Scheme May/June 2022 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptors for a question. Each"
+      }
+    },
+    {
+      "question_number": "6",
+      "subparts": [],
+      "page": 6,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "6.1"
+      ],
+      "topic": "The Poisson distribution",
+      "answers": {
+        "answer_snippet": "Cambridge International AS & A Level MATHEMATICS 9709/61 Paper 6 Probability & Statistics 2 May/June 2022 MARK SCHEME Maximum Mark: 50 Published This mark scheme is published as an aid to teachers and candidates, to indicate the requirements of the examination. It shows the basis on which Examiners were instructed"
+      }
+    },
+    {
+      "question_number": "4",
+      "subparts": [],
+      "page": 6,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "6.1"
+      ],
+      "topic": "The Poisson distribution",
+      "answers": {
+        "answer_snippet": "9709/61 Cambridge International AS & A Level \u2013 Mark Scheme May/June 2022 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptors for a question. Each"
+      }
+    },
+    {
+      "question_number": "4",
+      "subparts": [],
+      "page": 6,
+      "marks": 5,
+      "syllabus_outcomes": [
+        "6.1"
+      ],
+      "topic": "The Poisson distribution",
+      "answers": {
+        "answer_snippet": "9709/61 Cambridge International AS & A Level \u2013 Mark Scheme May/June 2022 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptors for a question. Each"
+      }
+    },
+    {
+      "question_number": "7",
+      "subparts": [],
+      "page": 7,
+      "marks": 3,
+      "syllabus_outcomes": [
+        "6.1"
+      ],
+      "topic": "The Poisson distribution",
+      "answers": {
+        "answer_snippet": "9709/61 Cambridge International AS & A Level \u2013 Mark Scheme May/June 2022 PUBLISHED Question Answer Marks Guidance 1(a) 2520 B1 OE Est(\u03bc) = [= 12.6] 200 Est(\u03c32) = 200\uf02831582 \uf02d\u201812.6\u20192 \uf029 or 1 \uf0e6 \uf0e731852\uf02d 25202 \uf0f6 \uf0f7 M1 Allow M1 if 1 2 9 0 9 0 omitted 199"
+      }
+    },
+    {
+      "question_number": "8",
+      "subparts": [],
+      "page": 8,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "6.1"
+      ],
+      "topic": "The Poisson distribution",
+      "answers": {
+        "answer_snippet": "9709/61 Cambridge International AS & A Level \u2013 Mark Scheme May/June 2022 PUBLISHED Question Answer Marks Guidance 3 D = X \u2013 (Y +Y + Y ) OE B1 Give at early stage 1 2 3 E(D) = 6.2 -2.4 \uf0b4 3 [= \u20131] OE Var(D) = 0.36 + 3"
+      }
+    },
+    {
+      "question_number": "5",
+      "subparts": [],
+      "page": 8,
+      "marks": 3,
+      "syllabus_outcomes": [
+        "6.1"
+      ],
+      "topic": "The Poisson distribution",
+      "answers": {
+        "answer_snippet": "9709/61 Cambridge International AS & A Level \u2013 Mark Scheme May/June 2022 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptors for a question. Each"
+      }
+    },
+    {
+      "question_number": "9",
+      "subparts": [],
+      "page": 9,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "6.1"
+      ],
+      "topic": "The Poisson distribution",
+      "answers": {
+        "answer_snippet": "9709/61 Cambridge International AS & A Level \u2013 Mark Scheme May/June 2022 PUBLISHED Question Answer Marks Guidance 1(a) 2520 B1 OE Est(\u03bc) = [= 12.6] 200 Est(\u03c32) = 200\uf02831582 \uf02d\u201812.6\u20192 \uf029 or 1 \uf0e6 \uf0e731852\uf02d 25202 \uf0f6 \uf0f7 M1 Allow M1 if 1 2 9 0 9 0 omitted 199"
+      }
+    },
+    {
+      "question_number": "3",
+      "subparts": [],
+      "page": 9,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "6.1"
+      ],
+      "topic": "The Poisson distribution",
+      "answers": {
+        "answer_snippet": "9709/61 Cambridge International AS & A Level \u2013 Mark Scheme May/June 2022 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptors for a question. Each"
+      }
+    },
+    {
+      "question_number": "10",
+      "subparts": [],
+      "page": 9,
+      "marks": 3,
+      "syllabus_outcomes": [
+        "6.1"
+      ],
+      "topic": "The Poisson distribution",
+      "answers": {
+        "answer_snippet": "9709/61 Cambridge International AS & A Level \u2013 Mark Scheme May/June 2022 PUBLISHED Question Answer Marks Guidance 2 1 B1 1 H : P(correct) = Allow p = 0 6 6 1 1 H : P(correct) > Allow p > 1 6 6 1 \u2013 (15C \uf0b4 ( 5 )11"
+      }
+    },
+    {
+      "question_number": "10",
+      "subparts": [],
+      "page": 10,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "6.1"
+      ],
+      "topic": "The Poisson distribution",
+      "answers": {
+        "answer_snippet": "9709/61 Cambridge International AS & A Level \u2013 Mark Scheme May/June 2022 PUBLISHED Question Answer Marks Guidance 2 1 B1 1 H : P(correct) = Allow p = 0 6 6 1 1 H : P(correct) > Allow p > 1 6 6 1 \u2013 (15C \uf0b4 ( 5 )11"
+      }
+    },
+    {
+      "question_number": "6",
+      "subparts": [],
+      "page": 10,
+      "marks": 1,
+      "syllabus_outcomes": [
+        "6.3"
+      ],
+      "topic": "Continuous random variables",
+      "answers": {
+        "answer_snippet": "Cambridge International AS & A Level MATHEMATICS 9709/61 Paper 6 Probability & Statistics 2 May/June 2022 MARK SCHEME Maximum Mark: 50 Published This mark scheme is published as an aid to teachers and candidates, to indicate the requirements of the examination. It shows the basis on which Examiners were instructed"
+      }
+    },
+    {
+      "question_number": "4",
+      "subparts": [],
+      "page": 10,
+      "marks": 5,
+      "syllabus_outcomes": [
+        "6.1"
+      ],
+      "topic": "The Poisson distribution",
+      "answers": {
+        "answer_snippet": "9709/61 Cambridge International AS & A Level \u2013 Mark Scheme May/June 2022 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptors for a question. Each"
+      }
+    },
+    {
+      "question_number": "12",
+      "subparts": [],
+      "page": 10,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "6.1"
+      ],
+      "topic": "The Poisson distribution",
+      "answers": {
+        "answer_snippet": "9709/61 Cambridge International AS & A Level \u2013 Mark Scheme May/June 2022 PUBLISHED Question Answer Marks Guidance 1(a) 2520 B1 OE Est(\u03bc) = [= 12.6] 200 Est(\u03c32) = 200\uf02831582 \uf02d\u201812.6\u20192 \uf029 or 1 \uf0e6 \uf0e731852\uf02d 25202 \uf0f6 \uf0f7 M1 Allow M1 if 1 2 9 0 9 0 omitted 199"
+      }
+    },
+    {
+      "question_number": "11",
+      "subparts": [],
+      "page": 11,
+      "marks": 2,
+      "syllabus_outcomes": [
+        "6.1"
+      ],
+      "topic": "The Poisson distribution",
+      "answers": {
+        "answer_snippet": "Cambridge International AS & A Level MATHEMATICS 9709/61 Paper 6 Probability & Statistics 2 May/June 2022 MARK SCHEME Maximum Mark: 50 Published This mark scheme is published as an aid to teachers and candidates, to indicate the requirements of the examination. It shows the basis on which Examiners were instructed"
+      }
+    },
+    {
+      "question_number": "2",
+      "subparts": [],
+      "page": 11,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "6.1"
+      ],
+      "topic": "The Poisson distribution",
+      "answers": {
+        "answer_snippet": "Cambridge International AS & A Level MATHEMATICS 9709/61 Paper 6 Probability & Statistics 2 May/June 2022 MARK SCHEME Maximum Mark: 50 Published This mark scheme is published as an aid to teachers and candidates, to indicate the requirements of the examination. It shows the basis on which Examiners were instructed"
+      }
+    },
+    {
+      "question_number": "12",
+      "subparts": [],
+      "page": 12,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "6.1"
+      ],
+      "topic": "The Poisson distribution",
+      "answers": {
+        "answer_snippet": "9709/61 Cambridge International AS & A Level \u2013 Mark Scheme May/June 2022 PUBLISHED Question Answer Marks Guidance 1(a) 2520 B1 OE Est(\u03bc) = [= 12.6] 200 Est(\u03c32) = 200\uf02831582 \uf02d\u201812.6\u20192 \uf029 or 1 \uf0e6 \uf0e731852\uf02d 25202 \uf0f6 \uf0f7 M1 Allow M1 if 1 2 9 0 9 0 omitted 199"
+      }
+    },
+    {
+      "question_number": "7",
+      "subparts": [],
+      "page": 12,
+      "marks": 1,
+      "syllabus_outcomes": [
+        "6.4",
+        "6.5"
+      ],
+      "topic": "Sampling and estimation",
+      "answers": {
+        "answer_snippet": "9709/61 Cambridge International AS & A Level \u2013 Mark Scheme May/June 2022 PUBLISHED Question Answer Marks Guidance 1(a) 2520 B1 OE Est(\u03bc) = [= 12.6] 200 Est(\u03c32) = 200\uf02831582 \uf02d\u201812.6\u20192 \uf029 or 1 \uf0e6 \uf0e731852\uf02d 25202 \uf0f6 \uf0f7 M1 Allow M1 if 1 2 9 0 9 0 omitted 199"
+      }
+    },
+    {
+      "question_number": "13",
+      "subparts": [],
+      "page": 13,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "6.1"
+      ],
+      "topic": "The Poisson distribution",
+      "answers": {
+        "answer_snippet": "9709/61 Cambridge International AS & A Level \u2013 Mark Scheme May/June 2022 PUBLISHED Question Answer Marks Guidance 2 1 B1 1 H : P(correct) = Allow p = 0 6 6 1 1 H : P(correct) > Allow p > 1 6 6 1 \u2013 (15C \uf0b4 ( 5 )11"
+      }
+    },
+    {
+      "question_number": "14",
+      "subparts": [],
+      "page": 14,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "6.1"
+      ],
+      "topic": "The Poisson distribution",
+      "answers": {
+        "answer_snippet": "9709/61 Cambridge International AS & A Level \u2013 Mark Scheme May/June 2022 PUBLISHED Question Answer Marks Guidance 2 1 B1 1 H : P(correct) = Allow p = 0 6 6 1 1 H : P(correct) > Allow p > 1 6 6 1 \u2013 (15C \uf0b4 ( 5 )11"
+      }
+    },
+    {
+      "question_number": "15",
+      "subparts": [],
+      "page": 15,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "6.1"
+      ],
+      "topic": "The Poisson distribution",
+      "answers": {
+        "answer_snippet": "9709/61 Cambridge International AS & A Level \u2013 Mark Scheme May/June 2022 PUBLISHED Question Answer Marks Guidance 2 1 B1 1 H : P(correct) = Allow p = 0 6 6 1 1 H : P(correct) > Allow p > 1 6 6 1 \u2013 (15C \uf0b4 ( 5 )11"
+      }
+    },
+    {
+      "question_number": "16",
+      "subparts": [],
+      "page": 16,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "6.1"
+      ],
+      "topic": "The Poisson distribution",
+      "answers": {
+        "answer_snippet": ""
+      }
+    }
+  ],
+  "statistics": {
+    "total_questions": 28,
+    "total_marks": 39
+  }
+}

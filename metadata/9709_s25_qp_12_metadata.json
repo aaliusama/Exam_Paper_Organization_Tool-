@@ -1,0 +1,548 @@
+{
+  "exam_info": {
+    "paper_code": "9709/12",
+    "exam_board": "Cambridge International AS & A Level",
+    "subject": "Mathematics",
+    "paper_name": "Paper 1 Pure Mathematics 1",
+    "exam_session": "May/June 2025",
+    "total_marks": 75,
+    "time_allowed": "1 hour 50 minutes",
+    "question_paper": "9709_s25_qp_12.pdf",
+    "mark_scheme": "9709_s25_ms_12.pdf",
+    "syllabus": "697427-2026-2027-syllabus.pdf"
+  },
+  "questions": [
+    {
+      "question_number": "2",
+      "subparts": [],
+      "page": 2,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "1.1"
+      ],
+      "topic": "Quadratics",
+      "answers": {
+        "answer_snippet": "9709/12 Cambridge International AS & A Level \u2013 Mark Scheme May/June 2025 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptions for a question. Each"
+      }
+    },
+    {
+      "question_number": "1",
+      "subparts": [],
+      "page": 2,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "1.1"
+      ],
+      "topic": "Quadratics",
+      "answers": {
+        "answer_snippet": "Cambridge International AS & A Level MATHEMATICS 9709/12 Paper 1 Pure Mathematics 1 May/June 2025 MARK SCHEME Maximum Mark: 75 Published This mark scheme is published as an aid to teachers and candidates, to indicate the requirements of the examination. It shows the basis on which Examiners were instructed to"
+      }
+    },
+    {
+      "question_number": "6",
+      "subparts": [],
+      "page": 2,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "1.1"
+      ],
+      "topic": "Quadratics",
+      "answers": {
+        "answer_snippet": "Cambridge International AS & A Level MATHEMATICS 9709/12 Paper 1 Pure Mathematics 1 May/June 2025 MARK SCHEME Maximum Mark: 75 Published This mark scheme is published as an aid to teachers and candidates, to indicate the requirements of the examination. It shows the basis on which Examiners were instructed to"
+      }
+    },
+    {
+      "question_number": "4",
+      "subparts": [],
+      "page": 2,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "1.1"
+      ],
+      "topic": "Quadratics",
+      "answers": {
+        "answer_snippet": "9709/12 Cambridge International AS & A Level \u2013 Mark Scheme May/June 2025 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptions for a question. Each"
+      }
+    },
+    {
+      "question_number": "2",
+      "subparts": [],
+      "page": 2,
+      "marks": 4,
+      "syllabus_outcomes": [
+        "1.2"
+      ],
+      "topic": "Functions",
+      "answers": {
+        "answer_snippet": "9709/12 Cambridge International AS & A Level \u2013 Mark Scheme May/June 2025 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptions for a question. Each"
+      }
+    },
+    {
+      "question_number": "3",
+      "subparts": [],
+      "page": 3,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "1.1"
+      ],
+      "topic": "Quadratics",
+      "answers": {
+        "answer_snippet": "9709/12 Cambridge International AS & A Level \u2013 Mark Scheme May/June 2025 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptions for a question. Each"
+      }
+    },
+    {
+      "question_number": "2",
+      "subparts": [
+        "x"
+      ],
+      "page": 3,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "1.3"
+      ],
+      "topic": "Coordinate geometry",
+      "answers": {
+        "answer_snippet": "9709/12 Cambridge International AS & A Level \u2013 Mark Scheme May/June 2025 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptions for a question. Each"
+      }
+    },
+    {
+      "question_number": "4",
+      "subparts": [],
+      "page": 4,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "1.1"
+      ],
+      "topic": "Quadratics",
+      "answers": {
+        "answer_snippet": "9709/12 Cambridge International AS & A Level \u2013 Mark Scheme May/June 2025 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptions for a question. Each"
+      }
+    },
+    {
+      "question_number": "5",
+      "subparts": [],
+      "page": 4,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "1.1"
+      ],
+      "topic": "Quadratics",
+      "answers": {
+        "answer_snippet": "9709/12 Cambridge International AS & A Level \u2013 Mark Scheme May/June 2025 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptions for a question. Each"
+      }
+    },
+    {
+      "question_number": "4",
+      "subparts": [],
+      "page": 4,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "1.1"
+      ],
+      "topic": "Quadratics",
+      "answers": {
+        "answer_snippet": "9709/12 Cambridge International AS & A Level \u2013 Mark Scheme May/June 2025 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptions for a question. Each"
+      }
+    },
+    {
+      "question_number": "3",
+      "subparts": [],
+      "page": 4,
+      "marks": 4,
+      "syllabus_outcomes": [
+        "1.5"
+      ],
+      "topic": "Trigonometry",
+      "answers": {
+        "answer_snippet": "9709/12 Cambridge International AS & A Level \u2013 Mark Scheme May/June 2025 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptions for a question. Each"
+      }
+    },
+    {
+      "question_number": "5",
+      "subparts": [],
+      "page": 5,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "1.1"
+      ],
+      "topic": "Quadratics",
+      "answers": {
+        "answer_snippet": "9709/12 Cambridge International AS & A Level \u2013 Mark Scheme May/June 2025 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptions for a question. Each"
+      }
+    },
+    {
+      "question_number": "3",
+      "subparts": [],
+      "page": 5,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "1.3"
+      ],
+      "topic": "Coordinate geometry",
+      "answers": {
+        "answer_snippet": "9709/12 Cambridge International AS & A Level \u2013 Mark Scheme May/June 2025 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptions for a question. Each"
+      }
+    },
+    {
+      "question_number": "2",
+      "subparts": [],
+      "page": 5,
+      "marks": 3,
+      "syllabus_outcomes": [
+        "1.3",
+        "1.5",
+        "1.7"
+      ],
+      "topic": "Coordinate geometry",
+      "answers": {
+        "answer_snippet": "9709/12 Cambridge International AS & A Level \u2013 Mark Scheme May/June 2025 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptions for a question. Each"
+      }
+    },
+    {
+      "question_number": "4",
+      "subparts": [],
+      "page": 5,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "1.1"
+      ],
+      "topic": "Quadratics",
+      "answers": {
+        "answer_snippet": "9709/12 Cambridge International AS & A Level \u2013 Mark Scheme May/June 2025 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptions for a question. Each"
+      }
+    },
+    {
+      "question_number": "6",
+      "subparts": [],
+      "page": 6,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "1.1"
+      ],
+      "topic": "Quadratics",
+      "answers": {
+        "answer_snippet": "Cambridge International AS & A Level MATHEMATICS 9709/12 Paper 1 Pure Mathematics 1 May/June 2025 MARK SCHEME Maximum Mark: 75 Published This mark scheme is published as an aid to teachers and candidates, to indicate the requirements of the examination. It shows the basis on which Examiners were instructed to"
+      }
+    },
+    {
+      "question_number": "5",
+      "subparts": [],
+      "page": 6,
+      "marks": 2,
+      "syllabus_outcomes": [
+        "1.5"
+      ],
+      "topic": "Trigonometry",
+      "answers": {
+        "answer_snippet": "9709/12 Cambridge International AS & A Level \u2013 Mark Scheme May/June 2025 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptions for a question. Each"
+      }
+    },
+    {
+      "question_number": "2",
+      "subparts": [],
+      "page": 6,
+      "marks": 1,
+      "syllabus_outcomes": [
+        "1.5"
+      ],
+      "topic": "Trigonometry",
+      "answers": {
+        "answer_snippet": "9709/12 Cambridge International AS & A Level \u2013 Mark Scheme May/June 2025 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptions for a question. Each"
+      }
+    },
+    {
+      "question_number": "7",
+      "subparts": [],
+      "page": 7,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "1.1"
+      ],
+      "topic": "Quadratics",
+      "answers": {
+        "answer_snippet": "9709/12 Cambridge International AS & A Level \u2013 Mark Scheme May/June 2025 PUBLISHED Mark Scheme Notes The following notes are intended to aid interpretation of mark schemes in general, but individual mark schemes may include marks awarded for specific reasons outside the scope of these notes. Types of mark M"
+      }
+    },
+    {
+      "question_number": "6",
+      "subparts": [],
+      "page": 7,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "1.1"
+      ],
+      "topic": "Quadratics",
+      "answers": {
+        "answer_snippet": "Cambridge International AS & A Level MATHEMATICS 9709/12 Paper 1 Pure Mathematics 1 May/June 2025 MARK SCHEME Maximum Mark: 75 Published This mark scheme is published as an aid to teachers and candidates, to indicate the requirements of the examination. It shows the basis on which Examiners were instructed to"
+      }
+    },
+    {
+      "question_number": "9",
+      "subparts": [],
+      "page": 7,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "1.3"
+      ],
+      "topic": "Coordinate geometry",
+      "answers": {
+        "answer_snippet": "9709/12 Cambridge International AS & A Level \u2013 Mark Scheme May/June 2025 PUBLISHED Question Answer Marks Guidance 1 {Stretch} {factor 2} {\u2018parallel to y-axis\u2019 or \u2018in y-direction\u2019 or \u2018vertically\u2019} B2,1,0 B2 for 3 correct components. B1 for 2. \uf0e6 \uf07b0\uf07d \uf0f6 B2,1,0 B2 for 3 correct components. B1 for 2."
+      }
+    },
+    {
+      "question_number": "1",
+      "subparts": [],
+      "page": 7,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "1.1"
+      ],
+      "topic": "Quadratics",
+      "answers": {
+        "answer_snippet": "Cambridge International AS & A Level MATHEMATICS 9709/12 Paper 1 Pure Mathematics 1 May/June 2025 MARK SCHEME Maximum Mark: 75 Published This mark scheme is published as an aid to teachers and candidates, to indicate the requirements of the examination. It shows the basis on which Examiners were instructed to"
+      }
+    },
+    {
+      "question_number": "2",
+      "subparts": [],
+      "page": 7,
+      "marks": 6,
+      "syllabus_outcomes": [
+        "1.3"
+      ],
+      "topic": "Coordinate geometry",
+      "answers": {
+        "answer_snippet": "9709/12 Cambridge International AS & A Level \u2013 Mark Scheme May/June 2025 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptions for a question. Each"
+      }
+    },
+    {
+      "question_number": "8",
+      "subparts": [],
+      "page": 8,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "1.5"
+      ],
+      "topic": "Trigonometry",
+      "answers": {
+        "answer_snippet": "9709/12 Cambridge International AS & A Level \u2013 Mark Scheme May/June 2025 PUBLISHED Abbreviations AEF/OE Any Equivalent Form (of answer is equally acceptable) / Or Equivalent AG Answer Given on the question paper (so extra checking is needed to ensure that the detailed working leading to the result is valid)"
+      }
+    },
+    {
+      "question_number": "9",
+      "subparts": [],
+      "page": 9,
+      "marks": 4,
+      "syllabus_outcomes": [
+        "1.5"
+      ],
+      "topic": "Trigonometry",
+      "answers": {
+        "answer_snippet": "9709/12 Cambridge International AS & A Level \u2013 Mark Scheme May/June 2025 PUBLISHED Question Answer Marks Guidance 1 {Stretch} {factor 2} {\u2018parallel to y-axis\u2019 or \u2018in y-direction\u2019 or \u2018vertically\u2019} B2,1,0 B2 for 3 correct components. B1 for 2. \uf0e6 \uf07b0\uf07d \uf0f6 B2,1,0 B2 for 3 correct components. B1 for 2."
+      }
+    },
+    {
+      "question_number": "1",
+      "subparts": [],
+      "page": 9,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "1.5"
+      ],
+      "topic": "Trigonometry",
+      "answers": {
+        "answer_snippet": "Cambridge International AS & A Level MATHEMATICS 9709/12 Paper 1 Pure Mathematics 1 May/June 2025 MARK SCHEME Maximum Mark: 75 Published This mark scheme is published as an aid to teachers and candidates, to indicate the requirements of the examination. It shows the basis on which Examiners were instructed to"
+      }
+    },
+    {
+      "question_number": "10",
+      "subparts": [],
+      "page": 10,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "1.1"
+      ],
+      "topic": "Quadratics",
+      "answers": {
+        "answer_snippet": "9709/12 Cambridge International AS & A Level \u2013 Mark Scheme May/June 2025 PUBLISHED Question Answer Marks Guidance 2 \uf0e6\u2212y\u22124\uf0f6 *M1 OE 2\uf0e7 \uf0f7y+5y2 =24 For eliminating x or y. \uf0e8 2 \uf0f8 Condone sign errors in the rearrangements. \uf0e624\u22125y2)\uf0f6 or 2\uf0e7 \uf0f7+ y+4 \uf05b=0\uf05d 2y \uf0e8 \uf0f8 or 2x(\u22124\u22122x)+5(\u22124\u22122x)2 =24"
+      }
+    },
+    {
+      "question_number": "8",
+      "subparts": [],
+      "page": 10,
+      "marks": 3,
+      "syllabus_outcomes": [
+        "1.3"
+      ],
+      "topic": "Coordinate geometry",
+      "answers": {
+        "answer_snippet": "9709/12 Cambridge International AS & A Level \u2013 Mark Scheme May/June 2025 PUBLISHED Abbreviations AEF/OE Any Equivalent Form (of answer is equally acceptable) / Or Equivalent AG Answer Given on the question paper (so extra checking is needed to ensure that the detailed working leading to the result is valid)"
+      }
+    },
+    {
+      "question_number": "11",
+      "subparts": [],
+      "page": 11,
+      "marks": 2,
+      "syllabus_outcomes": [
+        "1.3",
+        "1.4",
+        "1.5"
+      ],
+      "topic": "Coordinate geometry",
+      "answers": {
+        "answer_snippet": "9709/12 Cambridge International AS & A Level \u2013 Mark Scheme May/June 2025 PUBLISHED Question Answer Marks Guidance 3 3 B1 May be seen in a list. \uf0e6 \uf0e7 5\uf0f6 \uf0f7 or \uf0e6 \uf0e7 5\uf0f6 \uf0f7 or 1 0\uf0b4 ( px2)5\u22123 \uf0b4 \uf0e6 \uf0e7 4 x \uf0f6 \uf0f7 Allow with or"
+      }
+    },
+    {
+      "question_number": "12",
+      "subparts": [],
+      "page": 12,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "1.1"
+      ],
+      "topic": "Quadratics",
+      "answers": {
+        "answer_snippet": "Cambridge International AS & A Level MATHEMATICS 9709/12 Paper 1 Pure Mathematics 1 May/June 2025 MARK SCHEME Maximum Mark: 75 Published This mark scheme is published as an aid to teachers and candidates, to indicate the requirements of the examination. It shows the basis on which Examiners were instructed to"
+      }
+    },
+    {
+      "question_number": "24",
+      "subparts": [],
+      "page": 12,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "1.1"
+      ],
+      "topic": "Quadratics",
+      "answers": {
+        "answer_snippet": "9709/12 Cambridge International AS & A Level \u2013 Mark Scheme May/June 2025 PUBLISHED Question Answer Marks Guidance 2 \uf0e6\u2212y\u22124\uf0f6 *M1 OE 2\uf0e7 \uf0f7y+5y2 =24 For eliminating x or y. \uf0e8 2 \uf0f8 Condone sign errors in the rearrangements. \uf0e624\u22125y2)\uf0f6 or 2\uf0e7 \uf0f7+ y+4 \uf05b=0\uf05d 2y \uf0e8 \uf0f8 or 2x(\u22124\u22122x)+5(\u22124\u22122x)2 =24"
+      }
+    },
+    {
+      "question_number": "9",
+      "subparts": [],
+      "page": 12,
+      "marks": 3,
+      "syllabus_outcomes": [
+        "1.3",
+        "1.7"
+      ],
+      "topic": "Coordinate geometry",
+      "answers": {
+        "answer_snippet": "9709/12 Cambridge International AS & A Level \u2013 Mark Scheme May/June 2025 PUBLISHED Question Answer Marks Guidance 1 {Stretch} {factor 2} {\u2018parallel to y-axis\u2019 or \u2018in y-direction\u2019 or \u2018vertically\u2019} B2,1,0 B2 for 3 correct components. B1 for 2. \uf0e6 \uf07b0\uf07d \uf0f6 B2,1,0 B2 for 3 correct components. B1 for 2."
+      }
+    },
+    {
+      "question_number": "13",
+      "subparts": [],
+      "page": 13,
+      "marks": 3,
+      "syllabus_outcomes": [
+        "1.7"
+      ],
+      "topic": "Differentiation",
+      "answers": {
+        "answer_snippet": "9709/12 Cambridge International AS & A Level \u2013 Mark Scheme May/June 2025 PUBLISHED Question Answer Marks Guidance 5(a) [Greatest] 7, [least] \u22121 B1B1 B2 for answers of \u22121and 7 only. B1 for one correct value. Ignore incorrect identification/inequality. 2 5(b) 8 y B2,1,0 Ignore any graph outside domain (0, 2\u03c0)."
+      }
+    },
+    {
+      "question_number": "14",
+      "subparts": [],
+      "page": 14,
+      "marks": 2,
+      "syllabus_outcomes": [
+        "1.5"
+      ],
+      "topic": "Trigonometry",
+      "answers": {
+        "answer_snippet": "9709/12 Cambridge International AS & A Level \u2013 Mark Scheme May/June 2025 PUBLISHED Question Answer Marks Guidance 1 {Stretch} {factor 2} {\u2018parallel to y-axis\u2019 or \u2018in y-direction\u2019 or \u2018vertically\u2019} B2,1,0 B2 for 3 correct components. B1 for 2. \uf0e6 \uf07b0\uf07d \uf0f6 B2,1,0 B2 for 3 correct components. B1 for 2."
+      }
+    },
+    {
+      "question_number": "15",
+      "subparts": [],
+      "page": 15,
+      "marks": 5,
+      "syllabus_outcomes": [
+        "1.6"
+      ],
+      "topic": "Series",
+      "answers": {
+        "answer_snippet": "9709/12 Cambridge International AS & A Level \u2013 Mark Scheme May/June 2025 PUBLISHED Question Answer Marks Guidance 4(a) \uf0e9dy\uf0f9 3 1 *M1 For attempt at differentiation; at least one correct term \uf0ea \uf0fa = ax2 \u221212 needed. \uf0ebdx\uf0fb 2 Condone poor notation throughout. \uf0e9dy dy dx \uf0f9 \uf0e63 1 \uf0f6"
+      }
+    },
+    {
+      "question_number": "16",
+      "subparts": [],
+      "page": 16,
+      "marks": 3,
+      "syllabus_outcomes": [
+        "1.2"
+      ],
+      "topic": "Functions",
+      "answers": {
+        "answer_snippet": "9709/12 Cambridge International AS & A Level \u2013 Mark Scheme May/June 2025 PUBLISHED Question Answer Marks Guidance 4(a) \uf0e9dy\uf0f9 3 1 *M1 For attempt at differentiation; at least one correct term \uf0ea \uf0fa = ax2 \u221212 needed. \uf0ebdx\uf0fb 2 Condone poor notation throughout. \uf0e9dy dy dx \uf0f9 \uf0e63 1 \uf0f6"
+      }
+    },
+    {
+      "question_number": "17",
+      "subparts": [],
+      "page": 17,
+      "marks": 4,
+      "syllabus_outcomes": [
+        "1.1"
+      ],
+      "topic": "Quadratics",
+      "answers": {
+        "answer_snippet": "9709/12 Cambridge International AS & A Level \u2013 Mark Scheme May/June 2025 PUBLISHED Question Answer Marks Guidance 8(c) [Length AC = Length BC = 52 +22 ] = 29 [=5.385\u2026] B1 Sight of 29. SOI. Condone 5.4. Could be found in parts (a) or (b), but do not award unless"
+      }
+    },
+    {
+      "question_number": "18",
+      "subparts": [],
+      "page": 18,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "1.1"
+      ],
+      "topic": "Quadratics",
+      "answers": {
+        "answer_snippet": "9709/12 Cambridge International AS & A Level \u2013 Mark Scheme May/June 2025 PUBLISHED Question Answer Marks Guidance 6 6\u22123x=3 \uf0de x-coordinate of point of intersection = 1 B1 1 B1 B1 1 \uf0e918 1\uf0f9 B1 for \ud835\udc58(5\ud835\udc65+4) 2 \uf0ea (5x+4)2\uf0fa \uf0ea\uf0eb 5 \uf0fa\uf0fb 0 18 18 \uf0e9 18\uf0f9 M1 Area"
+      }
+    },
+    {
+      "question_number": "19",
+      "subparts": [],
+      "page": 19,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "1.1"
+      ],
+      "topic": "Quadratics",
+      "answers": {
+        "answer_snippet": "9709/12 Cambridge International AS & A Level \u2013 Mark Scheme May/June 2025 PUBLISHED Question Answer Marks Guidance 9(b) \uf0e912 \uf0f9 B1 May be done by inspection or calculator, but must be \u22123=0 \uf0de x2 =4 \uf0de x=\uf0b12 \uf0de x = 2 \uf0ea \uf0ebx2 \uf0fa \uf0fb WWW. Condone \uf0b12. \uf0e9d2y \uf0f9"
+      }
+    },
+    {
+      "question_number": "20",
+      "subparts": [],
+      "page": 20,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "1.3",
+        "1.6"
+      ],
+      "topic": "Coordinate geometry",
+      "answers": {
+        "answer_snippet": "9709/12 Cambridge International AS & A Level \u2013 Mark Scheme May/June 2025 PUBLISHED Question Answer Marks Guidance 8(a) (2,\u22122) B1 Condone x=2 and y=\u22122 if seen together. (12,\u22122) B1 Condone x=12 and y=\u22122 if seen together. (7,\u22124) B1 3 If B0 B0 for the first two marks, then SC B1"
+      }
+    }
+  ],
+  "statistics": {
+    "total_questions": 40,
+    "total_marks": 49
+  }
+}

@@ -1,0 +1,411 @@
+{
+  "exam_info": {
+    "paper_code": "9709/51",
+    "exam_board": "Cambridge International AS & A Level",
+    "subject": "Mathematics",
+    "paper_name": "Paper 5 Probability & Statistics 1",
+    "exam_session": "October/November 2023",
+    "total_marks": 50,
+    "time_allowed": "1 hour 15 minutes",
+    "question_paper": "9709_w23_qp_51.pdf",
+    "mark_scheme": "9709_w23_ms_51.pdf",
+    "syllabus": "697427-2026-2027-syllabus.pdf"
+  },
+  "questions": [
+    {
+      "question_number": "2",
+      "subparts": [],
+      "page": 2,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "5.1"
+      ],
+      "topic": "Representation of data",
+      "answers": {
+        "answer_snippet": "9709/51 Cambridge International AS & A Level \u2013 Mark Scheme October/November 2023 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptors for a question. Each"
+      }
+    },
+    {
+      "question_number": "3",
+      "subparts": [],
+      "page": 3,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "5.1"
+      ],
+      "topic": "Representation of data",
+      "answers": {
+        "answer_snippet": "9709/51 Cambridge International AS & A Level \u2013 Mark Scheme October/November 2023 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptors for a question. Each"
+      }
+    },
+    {
+      "question_number": "1",
+      "subparts": [],
+      "page": 3,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "5.1"
+      ],
+      "topic": "Representation of data",
+      "answers": {
+        "answer_snippet": "Cambridge International AS & A Level MATHEMATICS 9709/51 Paper 5 Probability & Statistics 1 October/November 2023 MARK SCHEME Maximum Mark: 50 Published This mark scheme is published as an aid to teachers and candidates, to indicate the requirements of the examination. It shows the basis on which Examiners were instructed"
+      }
+    },
+    {
+      "question_number": "120",
+      "subparts": [],
+      "page": 3,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "5.1"
+      ],
+      "topic": "Representation of data",
+      "answers": {
+        "answer_snippet": "9709/51 Cambridge International AS & A Level \u2013 Mark Scheme October/November 2023 PUBLISHED Question Answer Marks Guidance 1(a) [IQR =] 31 \u2013 23.7 M1 30.5 < UQ < 31.25 \u2013 23.25 < LQ \u2a7d 24 Evidence of graph use must be seen at least once. 7.3 A1 7.0 \u2a7d IQR"
+      }
+    },
+    {
+      "question_number": "100",
+      "subparts": [],
+      "page": 3,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "5.1"
+      ],
+      "topic": "Representation of data",
+      "answers": {
+        "answer_snippet": "9709/51 Cambridge International AS & A Level \u2013 Mark Scheme October/November 2023 PUBLISHED Question Answer Marks Guidance 3(a) 76\u221280.5 M1 Use of \u00b1 standardisation formula with 76, 80.5 and 6.6, condone [P(X < 76) =] P(Z \uf03c ) 6.6 6.62 or 6.6,no continuity correction. [= \u03a6(\u22120.6818) = 1 \u2212\u03a6(0.6818) ="
+      }
+    },
+    {
+      "question_number": "80",
+      "subparts": [],
+      "page": 3,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "5.1"
+      ],
+      "topic": "Representation of data",
+      "answers": {
+        "answer_snippet": "9709/51 Cambridge International AS & A Level \u2013 Mark Scheme October/November 2023 PUBLISHED Question Answer Marks Guidance 3(a) 76\u221280.5 M1 Use of \u00b1 standardisation formula with 76, 80.5 and 6.6, condone [P(X < 76) =] P(Z \uf03c ) 6.6 6.62 or 6.6,no continuity correction. [= \u03a6(\u22120.6818) = 1 \u2212\u03a6(0.6818) ="
+      }
+    },
+    {
+      "question_number": "60",
+      "subparts": [],
+      "page": 3,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "5.1"
+      ],
+      "topic": "Representation of data",
+      "answers": {
+        "answer_snippet": "9709/51 Cambridge International AS & A Level \u2013 Mark Scheme October/November 2023 PUBLISHED Question Answer Marks Guidance 3(c) Mean =150\uf0b40.4=60 B1 60 and 36 seen, allow unsimplified. Var =150\uf0b40.4\uf0b40.6=36 68.5\u221260 M1 Substituting their 60 and their 6 into \u00b1standardisation formula (any P(X > 68) = P(Z \uf03e ) number for"
+      }
+    },
+    {
+      "question_number": "40",
+      "subparts": [],
+      "page": 3,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "5.1"
+      ],
+      "topic": "Representation of data",
+      "answers": {
+        "answer_snippet": "9709/51 Cambridge International AS & A Level \u2013 Mark Scheme October/November 2023 PUBLISHED Question Answer Marks Guidance 3(a) 76\u221280.5 M1 Use of \u00b1 standardisation formula with 76, 80.5 and 6.6, condone [P(X < 76) =] P(Z \uf03c ) 6.6 6.62 or 6.6,no continuity correction. [= \u03a6(\u22120.6818) = 1 \u2212\u03a6(0.6818) ="
+      }
+    },
+    {
+      "question_number": "20",
+      "subparts": [],
+      "page": 3,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "5.1"
+      ],
+      "topic": "Representation of data",
+      "answers": {
+        "answer_snippet": "9709/51 Cambridge International AS & A Level \u2013 Mark Scheme October/November 2023 PUBLISHED Question Answer Marks Guidance 4(a) M1 f 18 Class 20 10 5 10 15 At least 4 frequency densities calculated by e.g. (condone width cw 20 f if unsimplified). Frequency 0.9 4.8 6.8 3.2 1.2 cw\uf0b10.5 density"
+      }
+    },
+    {
+      "question_number": "0",
+      "subparts": [],
+      "page": 3,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "5.1"
+      ],
+      "topic": "Representation of data",
+      "answers": {
+        "answer_snippet": "9709/51 Cambridge International AS & A Level \u2013 Mark Scheme October/November 2023 PUBLISHED Question Answer Marks Guidance 1(a) [IQR =] 31 \u2013 23.7 M1 30.5 < UQ < 31.25 \u2013 23.25 < LQ \u2a7d 24 Evidence of graph use must be seen at least once. 7.3 A1 7.0 \u2a7d IQR"
+      }
+    },
+    {
+      "question_number": "0",
+      "subparts": [],
+      "page": 3,
+      "marks": 2,
+      "syllabus_outcomes": [
+        "5.1"
+      ],
+      "topic": "Representation of data",
+      "answers": {
+        "answer_snippet": "9709/51 Cambridge International AS & A Level \u2013 Mark Scheme October/November 2023 PUBLISHED Question Answer Marks Guidance 1(a) [IQR =] 31 \u2013 23.7 M1 30.5 < UQ < 31.25 \u2013 23.25 < LQ \u2a7d 24 Evidence of graph use must be seen at least once. 7.3 A1 7.0 \u2a7d IQR"
+      }
+    },
+    {
+      "question_number": "35",
+      "subparts": [],
+      "page": 3,
+      "marks": 2,
+      "syllabus_outcomes": [
+        "5.1"
+      ],
+      "topic": "Representation of data",
+      "answers": {
+        "answer_snippet": "9709/51 Cambridge International AS & A Level \u2013 Mark Scheme October/November 2023 PUBLISHED Question Answer Marks Guidance 3(a) 76\u221280.5 M1 Use of \u00b1 standardisation formula with 76, 80.5 and 6.6, condone [P(X < 76) =] P(Z \uf03c ) 6.6 6.62 or 6.6,no continuity correction. [= \u03a6(\u22120.6818) = 1 \u2212\u03a6(0.6818) ="
+      }
+    },
+    {
+      "question_number": "4",
+      "subparts": [],
+      "page": 4,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "5.1"
+      ],
+      "topic": "Representation of data",
+      "answers": {
+        "answer_snippet": "9709/51 Cambridge International AS & A Level \u2013 Mark Scheme October/November 2023 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptors for a question. Each"
+      }
+    },
+    {
+      "question_number": "2",
+      "subparts": [],
+      "page": 4,
+      "marks": 2,
+      "syllabus_outcomes": [
+        "5.3"
+      ],
+      "topic": "Probability",
+      "answers": {
+        "answer_snippet": "9709/51 Cambridge International AS & A Level \u2013 Mark Scheme October/November 2023 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptors for a question. Each"
+      }
+    },
+    {
+      "question_number": "5",
+      "subparts": [],
+      "page": 5,
+      "marks": 3,
+      "syllabus_outcomes": [
+        "5.3"
+      ],
+      "topic": "Probability",
+      "answers": {
+        "answer_snippet": "Cambridge International AS & A Level MATHEMATICS 9709/51 Paper 5 Probability & Statistics 1 October/November 2023 MARK SCHEME Maximum Mark: 50 Published This mark scheme is published as an aid to teachers and candidates, to indicate the requirements of the examination. It shows the basis on which Examiners were instructed"
+      }
+    },
+    {
+      "question_number": "6",
+      "subparts": [],
+      "page": 6,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "5.1"
+      ],
+      "topic": "Representation of data",
+      "answers": {
+        "answer_snippet": "9709/51 Cambridge International AS & A Level \u2013 Mark Scheme October/November 2023 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptors for a question. Each"
+      }
+    },
+    {
+      "question_number": "3",
+      "subparts": [],
+      "page": 6,
+      "marks": 3,
+      "syllabus_outcomes": [
+        "5.1",
+        "5.5"
+      ],
+      "topic": "Representation of data",
+      "answers": {
+        "answer_snippet": "9709/51 Cambridge International AS & A Level \u2013 Mark Scheme October/November 2023 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptors for a question. Each"
+      }
+    },
+    {
+      "question_number": "7",
+      "subparts": [],
+      "page": 7,
+      "marks": 5,
+      "syllabus_outcomes": [
+        "5.3"
+      ],
+      "topic": "Probability",
+      "answers": {
+        "answer_snippet": "9709/51 Cambridge International AS & A Level \u2013 Mark Scheme October/November 2023 PUBLISHED Question Answer Marks Guidance 1(a) [IQR =] 31 \u2013 23.7 M1 30.5 < UQ < 31.25 \u2013 23.25 < LQ \u2a7d 24 Evidence of graph use must be seen at least once. 7.3 A1 7.0 \u2a7d IQR"
+      }
+    },
+    {
+      "question_number": "8",
+      "subparts": [],
+      "page": 8,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "5.1"
+      ],
+      "topic": "Representation of data",
+      "answers": {
+        "answer_snippet": "9709/51 Cambridge International AS & A Level \u2013 Mark Scheme October/November 2023 PUBLISHED Question Answer Marks Guidance 2(c) Method 1 \uf0e6 5 \uf0f6 0 \uf0e6 7 \uf0f6 8 \uf0e6 5 \uf0f6 1 \uf0e6 7 \uf0f6 7 \uf0e6 5 \uf0f6 2 \uf0e6 7 \uf0f6 6 M1 One term 8C (q)x(1\u2212q)8\u2212x ,"
+      }
+    },
+    {
+      "question_number": "4",
+      "subparts": [],
+      "page": 8,
+      "marks": 4,
+      "syllabus_outcomes": [
+        "5.1"
+      ],
+      "topic": "Representation of data",
+      "answers": {
+        "answer_snippet": "9709/51 Cambridge International AS & A Level \u2013 Mark Scheme October/November 2023 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptors for a question. Each"
+      }
+    },
+    {
+      "question_number": "9",
+      "subparts": [],
+      "page": 9,
+      "marks": 5,
+      "syllabus_outcomes": [
+        "5.1"
+      ],
+      "topic": "Representation of data",
+      "answers": {
+        "answer_snippet": "9709/51 Cambridge International AS & A Level \u2013 Mark Scheme October/November 2023 PUBLISHED Question Answer Marks Guidance 2(c) Method 1 \uf0e6 5 \uf0f6 0 \uf0e6 7 \uf0f6 8 \uf0e6 5 \uf0f6 1 \uf0e6 7 \uf0f6 7 \uf0e6 5 \uf0f6 2 \uf0e6 7 \uf0f6 6 M1 One term 8C (q)x(1\u2212q)8\u2212x ,"
+      }
+    },
+    {
+      "question_number": "10",
+      "subparts": [],
+      "page": 10,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "5.1"
+      ],
+      "topic": "Representation of data",
+      "answers": {
+        "answer_snippet": "9709/51 Cambridge International AS & A Level \u2013 Mark Scheme October/November 2023 PUBLISHED Question Answer Marks Guidance 2(c) Method 1 \uf0e6 5 \uf0f6 0 \uf0e6 7 \uf0f6 8 \uf0e6 5 \uf0f6 1 \uf0e6 7 \uf0f6 7 \uf0e6 5 \uf0f6 2 \uf0e6 7 \uf0f6 6 M1 One term 8C (q)x(1\u2212q)8\u2212x ,"
+      }
+    },
+    {
+      "question_number": "5",
+      "subparts": [],
+      "page": 10,
+      "marks": 1,
+      "syllabus_outcomes": [
+        "5.3"
+      ],
+      "topic": "Probability",
+      "answers": {
+        "answer_snippet": "Cambridge International AS & A Level MATHEMATICS 9709/51 Paper 5 Probability & Statistics 1 October/November 2023 MARK SCHEME Maximum Mark: 50 Published This mark scheme is published as an aid to teachers and candidates, to indicate the requirements of the examination. It shows the basis on which Examiners were instructed"
+      }
+    },
+    {
+      "question_number": "11",
+      "subparts": [],
+      "page": 11,
+      "marks": 5,
+      "syllabus_outcomes": [
+        "5.3"
+      ],
+      "topic": "Probability",
+      "answers": {
+        "answer_snippet": "9709/51 Cambridge International AS & A Level \u2013 Mark Scheme October/November 2023 PUBLISHED Question Answer Marks Guidance 4(a) M1 f 18 Class 20 10 5 10 15 At least 4 frequency densities calculated by e.g. (condone width cw 20 f if unsimplified). Frequency 0.9 4.8 6.8 3.2 1.2 cw\uf0b10.5 density"
+      }
+    },
+    {
+      "question_number": "12",
+      "subparts": [],
+      "page": 12,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "5.1"
+      ],
+      "topic": "Representation of data",
+      "answers": {
+        "answer_snippet": "9709/51 Cambridge International AS & A Level \u2013 Mark Scheme October/November 2023 PUBLISHED Question Answer Marks Guidance 2(c) Method 1 \uf0e6 5 \uf0f6 0 \uf0e6 7 \uf0f6 8 \uf0e6 5 \uf0f6 1 \uf0e6 7 \uf0f6 7 \uf0e6 5 \uf0f6 2 \uf0e6 7 \uf0f6 6 M1 One term 8C (q)x(1\u2212q)8\u2212x ,"
+      }
+    },
+    {
+      "question_number": "6",
+      "subparts": [],
+      "page": 12,
+      "marks": 3,
+      "syllabus_outcomes": [
+        "5.2"
+      ],
+      "topic": "Permutations and combinations",
+      "answers": {
+        "answer_snippet": "9709/51 Cambridge International AS & A Level \u2013 Mark Scheme October/November 2023 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptors for a question. Each"
+      }
+    },
+    {
+      "question_number": "13",
+      "subparts": [],
+      "page": 13,
+      "marks": 4,
+      "syllabus_outcomes": [
+        "5.2"
+      ],
+      "topic": "Permutations and combinations",
+      "answers": {
+        "answer_snippet": "9709/51 Cambridge International AS & A Level \u2013 Mark Scheme October/November 2023 PUBLISHED Question Answer Marks Guidance 5(a) 0.28+6p=1, p=0.12 B1 Using sum of probabilities = 1 to form an equation. Accept 0.28 + p + 2p + 3p = 1, p = 0.12. Substitution of 0.12 into the expression"
+      }
+    },
+    {
+      "question_number": "14",
+      "subparts": [],
+      "page": 14,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "5.1"
+      ],
+      "topic": "Representation of data",
+      "answers": {
+        "answer_snippet": "9709/51 Cambridge International AS & A Level \u2013 Mark Scheme October/November 2023 PUBLISHED Question Answer Marks Guidance 5(c) [P(X is odd) = 0.28 + 2\u00d70.12 or 0.24 ]= 0.52[0] B1 Seen alone or as the denominator of a conditional probability fraction. Accept unsimplified. M1 Values of at least 5 identified"
+      }
+    },
+    {
+      "question_number": "15",
+      "subparts": [],
+      "page": 15,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "5.1"
+      ],
+      "topic": "Representation of data",
+      "answers": {
+        "answer_snippet": "9709/51 Cambridge International AS & A Level \u2013 Mark Scheme October/November 2023 PUBLISHED Question Answer Marks Guidance 1(a) [IQR =] 31 \u2013 23.7 M1 30.5 < UQ < 31.25 \u2013 23.25 < LQ \u2a7d 24 Evidence of graph use must be seen at least once. 7.3 A1 7.0 \u2a7d IQR"
+      }
+    },
+    {
+      "question_number": "16",
+      "subparts": [],
+      "page": 16,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "5.1"
+      ],
+      "topic": "Representation of data",
+      "answers": {
+        "answer_snippet": "9709/51 Cambridge International AS & A Level \u2013 Mark Scheme October/November 2023 PUBLISHED Question Answer Marks Guidance 6(b) Method 1 6C \u00d7 2 \u00d7 2\u00d7 2 \u00d7 4! M1 6C \u00d7 2 \u00d7 2\u00d7 2 \u00d7 t, t = positive integer \u2a7e 1. 2 2 6P \u00d7 2 \u00d7 2"
+      }
+    }
+  ],
+  "statistics": {
+    "total_questions": 30,
+    "total_marks": 39
+  }
+}

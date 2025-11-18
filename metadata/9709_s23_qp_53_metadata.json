@@ -1,0 +1,321 @@
+{
+  "exam_info": {
+    "paper_code": "9709/53",
+    "exam_board": "Cambridge International AS & A Level",
+    "subject": "Mathematics",
+    "paper_name": "Paper 5 Probability & Statistics 1",
+    "exam_session": "May/June 2023",
+    "total_marks": 50,
+    "time_allowed": "1 hour 15 minutes",
+    "question_paper": "9709_s23_qp_53.pdf",
+    "mark_scheme": "9709_s23_ms_53.pdf",
+    "syllabus": "697427-2026-2027-syllabus.pdf"
+  },
+  "questions": [
+    {
+      "question_number": "2",
+      "subparts": [],
+      "page": 2,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "5.1"
+      ],
+      "topic": "Representation of data",
+      "answers": {
+        "answer_snippet": "9709/53 Cambridge International AS & A Level \u2013 Mark Scheme May/June 2023 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptors for a question. Each"
+      }
+    },
+    {
+      "question_number": "1",
+      "subparts": [],
+      "page": 2,
+      "marks": 1,
+      "syllabus_outcomes": [
+        "5.3"
+      ],
+      "topic": "Probability",
+      "answers": {
+        "answer_snippet": "Cambridge International AS & A Level MATHEMATICS 9709/53 Paper 5 Probability & Statistics 1 May/June 2023 MARK SCHEME Maximum Mark: 50 Published This mark scheme is published as an aid to teachers and candidates, to indicate the requirements of the examination. It shows the basis on which Examiners were instructed"
+      }
+    },
+    {
+      "question_number": "3",
+      "subparts": [],
+      "page": 3,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "5.1"
+      ],
+      "topic": "Representation of data",
+      "answers": {
+        "answer_snippet": "9709/53 Cambridge International AS & A Level \u2013 Mark Scheme May/June 2023 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptors for a question. Each"
+      }
+    },
+    {
+      "question_number": "2",
+      "subparts": [],
+      "page": 3,
+      "marks": 5,
+      "syllabus_outcomes": [
+        "5.3"
+      ],
+      "topic": "Probability",
+      "answers": {
+        "answer_snippet": "9709/53 Cambridge International AS & A Level \u2013 Mark Scheme May/June 2023 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptors for a question. Each"
+      }
+    },
+    {
+      "question_number": "4",
+      "subparts": [],
+      "page": 4,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "5.1"
+      ],
+      "topic": "Representation of data",
+      "answers": {
+        "answer_snippet": "9709/53 Cambridge International AS & A Level \u2013 Mark Scheme May/June 2023 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptors for a question. Each"
+      }
+    },
+    {
+      "question_number": "3",
+      "subparts": [],
+      "page": 4,
+      "marks": 4,
+      "syllabus_outcomes": [
+        "5.1"
+      ],
+      "topic": "Representation of data",
+      "answers": {
+        "answer_snippet": "9709/53 Cambridge International AS & A Level \u2013 Mark Scheme May/June 2023 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptors for a question. Each"
+      }
+    },
+    {
+      "question_number": "5",
+      "subparts": [],
+      "page": 5,
+      "marks": 1,
+      "syllabus_outcomes": [
+        "5.3"
+      ],
+      "topic": "Probability",
+      "answers": {
+        "answer_snippet": "Cambridge International AS & A Level MATHEMATICS 9709/53 Paper 5 Probability & Statistics 1 May/June 2023 MARK SCHEME Maximum Mark: 50 Published This mark scheme is published as an aid to teachers and candidates, to indicate the requirements of the examination. It shows the basis on which Examiners were instructed"
+      }
+    },
+    {
+      "question_number": "6",
+      "subparts": [],
+      "page": 6,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "5.1"
+      ],
+      "topic": "Representation of data",
+      "answers": {
+        "answer_snippet": "9709/53 Cambridge International AS & A Level \u2013 Mark Scheme May/June 2023 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptors for a question. Each"
+      }
+    },
+    {
+      "question_number": "4",
+      "subparts": [],
+      "page": 6,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "5.1"
+      ],
+      "topic": "Representation of data",
+      "answers": {
+        "answer_snippet": "9709/53 Cambridge International AS & A Level \u2013 Mark Scheme May/June 2023 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptors for a question. Each"
+      }
+    },
+    {
+      "question_number": "9",
+      "subparts": [],
+      "page": 6,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "5.1"
+      ],
+      "topic": "Representation of data",
+      "answers": {
+        "answer_snippet": "9709/53 Cambridge International AS & A Level \u2013 Mark Scheme May/June 2023 PUBLISHED Question Answer Marks Guidance 4(a) Median = 99 [minutes] B1 [IQR =] 106 \u2013 83 M1 105 \u2a7d UQ \u2a7d 112 \u2013 82 \u2a7d LQ \u2a7d 87. 23 [minutes] A1 www. If M0 scored SC B1 for"
+      }
+    },
+    {
+      "question_number": "8",
+      "subparts": [],
+      "page": 6,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "5.1"
+      ],
+      "topic": "Representation of data",
+      "answers": {
+        "answer_snippet": "9709/53 Cambridge International AS & A Level \u2013 Mark Scheme May/June 2023 PUBLISHED Question Answer Marks Guidance 1(a) \uf0e9 1\uf0f9 B1 P\uf028HH\uf029\uf03d [E(X) =] 4 \uf0ea \uf0fa \uf0eb 4\uf0fb 1 1(b) \uf0ea \uf0e9 P\uf028X \uf03d5\uf029\uf03d\uf0e7 \uf0e63 \uf0f7 \uf0f6 4 \uf0e6 \uf0e7 1 \uf0f7 \uf0f6 \uf03d\uf0fa \uf0f9 0.0791 B1 10 8"
+      }
+    },
+    {
+      "question_number": "9",
+      "subparts": [],
+      "page": 6,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "5.1"
+      ],
+      "topic": "Representation of data",
+      "answers": {
+        "answer_snippet": "9709/53 Cambridge International AS & A Level \u2013 Mark Scheme May/June 2023 PUBLISHED Question Answer Marks Guidance 4(a) Median = 99 [minutes] B1 [IQR =] 106 \u2013 83 M1 105 \u2a7d UQ \u2a7d 112 \u2013 82 \u2a7d LQ \u2a7d 87. 23 [minutes] A1 www. If M0 scored SC B1 for"
+      }
+    },
+    {
+      "question_number": "6",
+      "subparts": [],
+      "page": 6,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "5.1"
+      ],
+      "topic": "Representation of data",
+      "answers": {
+        "answer_snippet": "9709/53 Cambridge International AS & A Level \u2013 Mark Scheme May/June 2023 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptors for a question. Each"
+      }
+    },
+    {
+      "question_number": "9",
+      "subparts": [],
+      "page": 6,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "5.1"
+      ],
+      "topic": "Representation of data",
+      "answers": {
+        "answer_snippet": "9709/53 Cambridge International AS & A Level \u2013 Mark Scheme May/June 2023 PUBLISHED Question Answer Marks Guidance 4(a) Median = 99 [minutes] B1 [IQR =] 106 \u2013 83 M1 105 \u2a7d UQ \u2a7d 112 \u2013 82 \u2a7d LQ \u2a7d 87. 23 [minutes] A1 www. If M0 scored SC B1 for"
+      }
+    },
+    {
+      "question_number": "4",
+      "subparts": [],
+      "page": 6,
+      "marks": 3,
+      "syllabus_outcomes": [
+        "5.1"
+      ],
+      "topic": "Representation of data",
+      "answers": {
+        "answer_snippet": "9709/53 Cambridge International AS & A Level \u2013 Mark Scheme May/June 2023 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptors for a question. Each"
+      }
+    },
+    {
+      "question_number": "7",
+      "subparts": [],
+      "page": 7,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "5.1"
+      ],
+      "topic": "Representation of data",
+      "answers": {
+        "answer_snippet": "9709/53 Cambridge International AS & A Level \u2013 Mark Scheme May/June 2023 PUBLISHED Question Answer Marks Guidance 1(a) \uf0e9 1\uf0f9 B1 P\uf028HH\uf029\uf03d [E(X) =] 4 \uf0ea \uf0fa \uf0eb 4\uf0fb 1 1(b) \uf0ea \uf0e9 P\uf028X \uf03d5\uf029\uf03d\uf0e7 \uf0e63 \uf0f7 \uf0f6 4 \uf0e6 \uf0e7 1 \uf0f7 \uf0f6 \uf03d\uf0fa \uf0f9 0.0791 B1 10 8"
+      }
+    },
+    {
+      "question_number": "5",
+      "subparts": [],
+      "page": 7,
+      "marks": 4,
+      "syllabus_outcomes": [
+        "5.1",
+        "5.3"
+      ],
+      "topic": "Representation of data",
+      "answers": {
+        "answer_snippet": "Cambridge International AS & A Level MATHEMATICS 9709/53 Paper 5 Probability & Statistics 1 May/June 2023 MARK SCHEME Maximum Mark: 50 Published This mark scheme is published as an aid to teachers and candidates, to indicate the requirements of the examination. It shows the basis on which Examiners were instructed"
+      }
+    },
+    {
+      "question_number": "8",
+      "subparts": [],
+      "page": 8,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "5.1"
+      ],
+      "topic": "Representation of data",
+      "answers": {
+        "answer_snippet": "9709/53 Cambridge International AS & A Level \u2013 Mark Scheme May/June 2023 PUBLISHED Question Answer Marks Guidance 1(a) \uf0e9 1\uf0f9 B1 P\uf028HH\uf029\uf03d [E(X) =] 4 \uf0ea \uf0fa \uf0eb 4\uf0fb 1 1(b) \uf0ea \uf0e9 P\uf028X \uf03d5\uf029\uf03d\uf0e7 \uf0e63 \uf0f7 \uf0f6 4 \uf0e6 \uf0e7 1 \uf0f7 \uf0f6 \uf03d\uf0fa \uf0f9 0.0791 B1 10 8"
+      }
+    },
+    {
+      "question_number": "6",
+      "subparts": [],
+      "page": 8,
+      "marks": 3,
+      "syllabus_outcomes": [
+        "5.1",
+        "5.3"
+      ],
+      "topic": "Representation of data",
+      "answers": {
+        "answer_snippet": "9709/53 Cambridge International AS & A Level \u2013 Mark Scheme May/June 2023 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptors for a question. Each"
+      }
+    },
+    {
+      "question_number": "9",
+      "subparts": [],
+      "page": 9,
+      "marks": 4,
+      "syllabus_outcomes": [
+        "5.1"
+      ],
+      "topic": "Representation of data",
+      "answers": {
+        "answer_snippet": "9709/53 Cambridge International AS & A Level \u2013 Mark Scheme May/June 2023 PUBLISHED Question Answer Marks Guidance 4(a) Median = 99 [minutes] B1 [IQR =] 106 \u2013 83 M1 105 \u2a7d UQ \u2a7d 112 \u2013 82 \u2a7d LQ \u2a7d 87. 23 [minutes] A1 www. If M0 scored SC B1 for"
+      }
+    },
+    {
+      "question_number": "10",
+      "subparts": [],
+      "page": 10,
+      "marks": 3,
+      "syllabus_outcomes": [
+        "5.2"
+      ],
+      "topic": "Permutations and combinations",
+      "answers": {
+        "answer_snippet": "9709/53 Cambridge International AS & A Level \u2013 Mark Scheme May/June 2023 PUBLISHED Question Answer Marks Guidance 1(a) \uf0e9 1\uf0f9 B1 P\uf028HH\uf029\uf03d [E(X) =] 4 \uf0ea \uf0fa \uf0eb 4\uf0fb 1 1(b) \uf0ea \uf0e9 P\uf028X \uf03d5\uf029\uf03d\uf0e7 \uf0e63 \uf0f7 \uf0f6 4 \uf0e6 \uf0e7 1 \uf0f7 \uf0f6 \uf03d\uf0fa \uf0f9 0.0791 B1 10 8"
+      }
+    },
+    {
+      "question_number": "11",
+      "subparts": [],
+      "page": 11,
+      "marks": 3,
+      "syllabus_outcomes": [
+        "5.2"
+      ],
+      "topic": "Permutations and combinations",
+      "answers": {
+        "answer_snippet": "9709/53 Cambridge International AS & A Level \u2013 Mark Scheme May/June 2023 PUBLISHED Question Answer Marks Guidance 3(a) [P(X = 4) = 3P(X = 2)] M1 Using P(X = 4) = 3P(X = 2) to form an equation in a and k. 4k\uf0284\uf02ba\uf029\uf03d3\uf0b42k\uf0282\uf02ba\uf029 16k + 4ak = 12k + 6ak"
+      }
+    },
+    {
+      "question_number": "12",
+      "subparts": [],
+      "page": 12,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "5.1"
+      ],
+      "topic": "Representation of data",
+      "answers": {
+        "answer_snippet": "9709/53 Cambridge International AS & A Level \u2013 Mark Scheme May/June 2023 PUBLISHED Question Answer Marks Guidance 2 Mean =120\uf0b40.4\uf03d48 B1 4 48 and 28 , 28.8 seen, allow unsimplified. Var =120\uf0b40.4\uf0b40.6\uf03d28.8 5 12 5 (5.366 \u2a7d \u03c3 \u2a7d 5.367 or implies correct variance). 5 35.5\uf02d48 54.5\uf02d48 M1 Substituting their"
+      }
+    }
+  ],
+  "statistics": {
+    "total_questions": 23,
+    "total_marks": 31
+  }
+}

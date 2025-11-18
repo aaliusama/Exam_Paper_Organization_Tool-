@@ -1,0 +1,312 @@
+{
+  "exam_info": {
+    "paper_code": "9709/42",
+    "exam_board": "Cambridge International AS & A Level",
+    "subject": "Mathematics",
+    "paper_name": "Paper 4 Mechanics",
+    "exam_session": "May/June 2022",
+    "total_marks": 50,
+    "time_allowed": "1 hour 15 minutes",
+    "question_paper": "9709_s22_qp_42.pdf",
+    "mark_scheme": "9709_s22_ms_42.pdf",
+    "syllabus": "697427-2026-2027-syllabus.pdf"
+  },
+  "questions": [
+    {
+      "question_number": "2",
+      "subparts": [],
+      "page": 2,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "4.1"
+      ],
+      "topic": "Forces and equilibrium",
+      "answers": {
+        "answer_snippet": "9709/42 Cambridge International AS & A Level \u2013 Mark Scheme May/June 2022 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptors for a question. Each"
+      }
+    },
+    {
+      "question_number": "1",
+      "subparts": [],
+      "page": 2,
+      "marks": 3,
+      "syllabus_outcomes": [
+        "4.3",
+        "4.4",
+        "4.5"
+      ],
+      "topic": "Momentum",
+      "answers": {
+        "answer_snippet": "9709/42 Cambridge International AS & A Level \u2013 Mark Scheme May/June 2022 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptors for a question. Each"
+      }
+    },
+    {
+      "question_number": "3",
+      "subparts": [],
+      "page": 3,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "4.1"
+      ],
+      "topic": "Forces and equilibrium",
+      "answers": {
+        "answer_snippet": "9709/42 Cambridge International AS & A Level \u2013 Mark Scheme May/June 2022 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptors for a question. Each"
+      }
+    },
+    {
+      "question_number": "2",
+      "subparts": [],
+      "page": 3,
+      "marks": 6,
+      "syllabus_outcomes": [
+        "4.1"
+      ],
+      "topic": "Forces and equilibrium",
+      "answers": {
+        "answer_snippet": "9709/42 Cambridge International AS & A Level \u2013 Mark Scheme May/June 2022 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptors for a question. Each"
+      }
+    },
+    {
+      "question_number": "4",
+      "subparts": [],
+      "page": 4,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "4.1"
+      ],
+      "topic": "Forces and equilibrium",
+      "answers": {
+        "answer_snippet": "Cambridge International AS & A Level MATHEMATICS 9709/42 Paper 4 Mechanics May/June 2022 MARK SCHEME Maximum Mark: 50 Published This mark scheme is published as an aid to teachers and candidates, to indicate the requirements of the examination. It shows the basis on which Examiners were instructed to award marks."
+      }
+    },
+    {
+      "question_number": "3",
+      "subparts": [],
+      "page": 4,
+      "marks": 4,
+      "syllabus_outcomes": [
+        "4.2",
+        "4.4"
+      ],
+      "topic": "Kinematics of motion in a straight line",
+      "answers": {
+        "answer_snippet": "9709/42 Cambridge International AS & A Level \u2013 Mark Scheme May/June 2022 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptors for a question. Each"
+      }
+    },
+    {
+      "question_number": "5",
+      "subparts": [],
+      "page": 5,
+      "marks": 3,
+      "syllabus_outcomes": [
+        "4.1"
+      ],
+      "topic": "Forces and equilibrium",
+      "answers": {
+        "answer_snippet": "9709/42 Cambridge International AS & A Level \u2013 Mark Scheme May/June 2022 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptors for a question. Each"
+      }
+    },
+    {
+      "question_number": "6",
+      "subparts": [],
+      "page": 6,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "4.1"
+      ],
+      "topic": "Forces and equilibrium",
+      "answers": {
+        "answer_snippet": "9709/42 Cambridge International AS & A Level \u2013 Mark Scheme May/June 2022 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptors for a question. Each"
+      }
+    },
+    {
+      "question_number": "4",
+      "subparts": [],
+      "page": 6,
+      "marks": 3,
+      "syllabus_outcomes": [
+        "4.2"
+      ],
+      "topic": "Kinematics of motion in a straight line",
+      "answers": {
+        "answer_snippet": "Cambridge International AS & A Level MATHEMATICS 9709/42 Paper 4 Mechanics May/June 2022 MARK SCHEME Maximum Mark: 50 Published This mark scheme is published as an aid to teachers and candidates, to indicate the requirements of the examination. It shows the basis on which Examiners were instructed to award marks."
+      }
+    },
+    {
+      "question_number": "7",
+      "subparts": [],
+      "page": 7,
+      "marks": 3,
+      "syllabus_outcomes": [
+        "4.2"
+      ],
+      "topic": "Kinematics of motion in a straight line",
+      "answers": {
+        "answer_snippet": "9709/42 Cambridge International AS & A Level \u2013 Mark Scheme May/June 2022 PUBLISHED Question Answer Marks Guidance 2 Resolving either direction M1 3 terms; allow sign errors and allow sin/cos mix \uf028X \uf03d\uf029\uf0b1\uf02820cos60\uf02d14\uf02d16cos50\uf029 \uf05b\uf03d\uf06d14.2846\uf0bc\uf0bc\uf0bc\uf05d A1 \uf028Y \uf03d\uf029\uf0b1\uf02860\uf02d20sin60\uf02d16sin50\uf029 \uf05b\uf03d\uf0b130.42278\uf0bc\uf0bc\uf0bc\uf05d A1 M1 Attempt to solve for R; one missing term in total"
+      }
+    },
+    {
+      "question_number": "8",
+      "subparts": [],
+      "page": 8,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "4.1"
+      ],
+      "topic": "Forces and equilibrium",
+      "answers": {
+        "answer_snippet": "9709/42 Cambridge International AS & A Level \u2013 Mark Scheme May/June 2022 PUBLISHED Question Answer Marks Guidance 1(a) Conservation of momentum M1 1 3 terms; allow M1 if speed of A after collision is \uf0b48.5. 4 Allow 5\uf0b48.5\uf03d5X \uf02b3Y where X and Y are different which may be seen by"
+      }
+    },
+    {
+      "question_number": "5",
+      "subparts": [],
+      "page": 8,
+      "marks": 6,
+      "syllabus_outcomes": [
+        "4.1",
+        "4.4"
+      ],
+      "topic": "Forces and equilibrium",
+      "answers": {
+        "answer_snippet": "9709/42 Cambridge International AS & A Level \u2013 Mark Scheme May/June 2022 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptors for a question. Each"
+      }
+    },
+    {
+      "question_number": "9",
+      "subparts": [],
+      "page": 9,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "4.1"
+      ],
+      "topic": "Forces and equilibrium",
+      "answers": {
+        "answer_snippet": "9709/42 Cambridge International AS & A Level \u2013 Mark Scheme May/June 2022 PUBLISHED Question Answer Marks Guidance 2 Resolving either direction M1 3 terms; allow sign errors and allow sin/cos mix \uf028X \uf03d\uf029\uf0b1\uf02820cos60\uf02d14\uf02d16cos50\uf029 \uf05b\uf03d\uf06d14.2846\uf0bc\uf0bc\uf0bc\uf05d A1 \uf028Y \uf03d\uf029\uf0b1\uf02860\uf02d20sin60\uf02d16sin50\uf029 \uf05b\uf03d\uf0b130.42278\uf0bc\uf0bc\uf0bc\uf05d A1 M1 Attempt to solve for R; one missing term in total"
+      }
+    },
+    {
+      "question_number": "10",
+      "subparts": [],
+      "page": 10,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "4.1"
+      ],
+      "topic": "Forces and equilibrium",
+      "answers": {
+        "answer_snippet": "9709/42 Cambridge International AS & A Level \u2013 Mark Scheme May/June 2022 PUBLISHED Question Answer Marks Guidance 1(a) Conservation of momentum M1 1 3 terms; allow M1 if speed of A after collision is \uf0b48.5. 4 Allow 5\uf0b48.5\uf03d5X \uf02b3Y where X and Y are different which may be seen by"
+      }
+    },
+    {
+      "question_number": "6",
+      "subparts": [],
+      "page": 10,
+      "marks": 5,
+      "syllabus_outcomes": [
+        "4.1",
+        "4.4",
+        "4.5"
+      ],
+      "topic": "Forces and equilibrium",
+      "answers": {
+        "answer_snippet": "9709/42 Cambridge International AS & A Level \u2013 Mark Scheme May/June 2022 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptors for a question. Each"
+      }
+    },
+    {
+      "question_number": "11",
+      "subparts": [],
+      "page": 11,
+      "marks": 3,
+      "syllabus_outcomes": [
+        "4.5"
+      ],
+      "topic": "Energy, work and power",
+      "answers": {
+        "answer_snippet": "9709/42 Cambridge International AS & A Level \u2013 Mark Scheme May/June 2022 PUBLISHED Question Answer Marks Guidance 4(b) 1 *M1 Equating their expressions for s and s to form an equation 8\uf0284\uf02bt\uf029\uf03d20t\uf02d \uf0b42\uf0b4t2 A B 2 in t where s is of the form \uf0b18t\uf0b132 A 1 and s is"
+      }
+    },
+    {
+      "question_number": "12",
+      "subparts": [],
+      "page": 12,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "4.1"
+      ],
+      "topic": "Forces and equilibrium",
+      "answers": {
+        "answer_snippet": "9709/42 Cambridge International AS & A Level \u2013 Mark Scheme May/June 2022 PUBLISHED Question Answer Marks Guidance 3(a) 2.4g\uf02dT \uf03d2.4a M1 Attempt at Newton\u2019s second law on either particle or the system with correct number of terms; allow sign errors. T \uf02d1.2g \uf03d1.2a 2.4g\uf02d1.2g \uf03d\uf0282.4\uf02b1.2\uf029a A1 Any 2 consistent and"
+      }
+    },
+    {
+      "question_number": "7",
+      "subparts": [],
+      "page": 12,
+      "marks": 3,
+      "syllabus_outcomes": [
+        "4.2"
+      ],
+      "topic": "Kinematics of motion in a straight line",
+      "answers": {
+        "answer_snippet": "9709/42 Cambridge International AS & A Level \u2013 Mark Scheme May/June 2022 PUBLISHED Question Answer Marks Guidance 2 Resolving either direction M1 3 terms; allow sign errors and allow sin/cos mix \uf028X \uf03d\uf029\uf0b1\uf02820cos60\uf02d14\uf02d16cos50\uf029 \uf05b\uf03d\uf06d14.2846\uf0bc\uf0bc\uf0bc\uf05d A1 \uf028Y \uf03d\uf029\uf0b1\uf02860\uf02d20sin60\uf02d16sin50\uf029 \uf05b\uf03d\uf0b130.42278\uf0bc\uf0bc\uf0bc\uf05d A1 M1 Attempt to solve for R; one missing term in total"
+      }
+    },
+    {
+      "question_number": "13",
+      "subparts": [],
+      "page": 13,
+      "marks": 6,
+      "syllabus_outcomes": [
+        "4.1"
+      ],
+      "topic": "Forces and equilibrium",
+      "answers": {
+        "answer_snippet": "9709/42 Cambridge International AS & A Level \u2013 Mark Scheme May/June 2022 PUBLISHED Question Answer Marks Guidance 5 Attempt at resolving parallel to the plane *M1 3 terms. Allow sign errors, sin/cos mix. Allow g missing, otherwise dimensionally correct. 65cos36\uf03d12g\uf0b4sin24\uf02bF A1 F \uf03d3.777707\uf0bc\uf0bc Attempt at resolving perpendicular to the plane"
+      }
+    },
+    {
+      "question_number": "14",
+      "subparts": [],
+      "page": 14,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "4.1"
+      ],
+      "topic": "Forces and equilibrium",
+      "answers": {
+        "answer_snippet": "9709/42 Cambridge International AS & A Level \u2013 Mark Scheme May/June 2022 PUBLISHED Question Answer Marks Guidance 2 Resolving either direction M1 3 terms; allow sign errors and allow sin/cos mix \uf028X \uf03d\uf029\uf0b1\uf02820cos60\uf02d14\uf02d16cos50\uf029 \uf05b\uf03d\uf06d14.2846\uf0bc\uf0bc\uf0bc\uf05d A1 \uf028Y \uf03d\uf029\uf0b1\uf02860\uf02d20sin60\uf02d16sin50\uf029 \uf05b\uf03d\uf0b130.42278\uf0bc\uf0bc\uf0bc\uf05d A1 M1 Attempt to solve for R; one missing term in total"
+      }
+    },
+    {
+      "question_number": "15",
+      "subparts": [],
+      "page": 15,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "4.1"
+      ],
+      "topic": "Forces and equilibrium",
+      "answers": {
+        "answer_snippet": "9709/42 Cambridge International AS & A Level \u2013 Mark Scheme May/June 2022 PUBLISHED Question Answer Marks Guidance 1(a) Conservation of momentum M1 1 3 terms; allow M1 if speed of A after collision is \uf0b48.5. 4 Allow 5\uf0b48.5\uf03d5X \uf02b3Y where X and Y are different which may be seen by"
+      }
+    },
+    {
+      "question_number": "16",
+      "subparts": [],
+      "page": 16,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "4.1"
+      ],
+      "topic": "Forces and equilibrium",
+      "answers": {
+        "answer_snippet": "9709/42 Cambridge International AS & A Level \u2013 Mark Scheme May/June 2022 PUBLISHED Question Answer Marks Guidance 3(a) 2.4g\uf02dT \uf03d2.4a M1 Attempt at Newton\u2019s second law on either particle or the system with correct number of terms; allow sign errors. T \uf02d1.2g \uf03d1.2a 2.4g\uf02d1.2g \uf03d\uf0282.4\uf02b1.2\uf029a A1 Any 2 consistent and"
+      }
+    }
+  ],
+  "statistics": {
+    "total_questions": 22,
+    "total_marks": 45
+  }
+}

@@ -1,0 +1,383 @@
+{
+  "paper_1": {
+    "name": "Pure Mathematics 1",
+    "topics": {
+      "1.1": {
+        "name": "Quadratics",
+        "content": [
+          "Completing the square",
+          "Discriminant and number of real roots",
+          "Solving quadratic equations and inequalities",
+          "Simultaneous equations (one linear, one quadratic)",
+          "Equations quadratic in some function of x"
+        ]
+      },
+      "1.2": {
+        "name": "Functions",
+        "content": [
+          "Function, domain, range, one-one function, inverse function, composition",
+          "Range identification",
+          "Determining one-one functions and finding inverses",
+          "Graphical relation between function and inverse",
+          "Graph transformations: y = f(x) + a, y = f(x + a), y = af(x), y = f(ax)"
+        ]
+      },
+      "1.3": {
+        "name": "Coordinate geometry",
+        "content": [
+          "Equation of straight line",
+          "Forms: y = mx + c, y - y1 = m(x - x1), ax + by + c = 0",
+          "Distances, gradients, midpoints, points of intersection",
+          "Parallel and perpendicular lines",
+          "Circle equation: (x - a)² + (y - b)² = r²",
+          "Expanded form: x² + y² + 2gx + 2fy + c = 0",
+          "Problems involving lines and circles"
+        ]
+      },
+      "1.4": {
+        "name": "Circular measure",
+        "content": [
+          "Definition of radian",
+          "Relationship between radians and degrees",
+          "Arc length: s = rθ",
+          "Sector area: A = ½r²θ"
+        ]
+      },
+      "1.5": {
+        "name": "Trigonometry",
+        "content": [
+          "Graphs of sine, cosine, tangent functions",
+          "Exact values of sin, cos, tan for 30°, 45°, 60° and related angles",
+          "Inverse trigonometric notations: sin⁻¹x, cos⁻¹x, tan⁻¹x",
+          "Identities: tan θ = sin θ / cos θ, sin² θ + cos² θ = 1",
+          "Solving trigonometrical equations in specified intervals"
+        ]
+      },
+      "1.6": {
+        "name": "Series",
+        "content": [
+          "Binomial expansion of (a + b)ⁿ for positive integer n",
+          "Arithmetic and geometric progressions",
+          "nth term and sum of first n terms",
+          "Convergence of geometric progression",
+          "Sum to infinity of convergent GP"
+        ]
+      },
+      "1.7": {
+        "name": "Differentiation",
+        "content": [
+          "Gradient as limit of gradients of chords",
+          "Notations: f'(x), f''(x), dy/dx, d²y/dx²",
+          "Derivative of xⁿ for any rational n",
+          "Derivatives of sums, differences, composite functions (chain rule)",
+          "Applications: gradients, tangents, normals, increasing/decreasing functions",
+          "Connected rates of change",
+          "Stationary points and their nature"
+        ]
+      },
+      "1.8": {
+        "name": "Integration",
+        "content": [
+          "Integration as reverse of differentiation",
+          "Integrate (ax + b)ⁿ for any rational n except -1",
+          "Constant of integration",
+          "Definite integrals (including improper integrals)",
+          "Area under curve",
+          "Area between curves",
+          "Volume of revolution about an axis"
+        ]
+      }
+    }
+  },
+  "paper_3": {
+    "name": "Pure Mathematics 3",
+    "prerequisite": "Assumes knowledge of Paper 1 content",
+    "topics": {
+      "3.1": {
+        "name": "Algebra",
+        "content": [
+          "Modulus function |x|",
+          "Graphs of y = |ax + b|",
+          "Solving equations and inequalities with modulus",
+          "Polynomial division by linear or quadratic polynomial",
+          "Factor theorem and remainder theorem",
+          "Partial fractions decomposition",
+          "Binomial expansion of (1 + x)ⁿ for rational n, |x| < 1"
+        ]
+      },
+      "3.2": {
+        "name": "Logarithmic and exponential functions",
+        "content": [
+          "Relationship between logarithms and indices",
+          "Laws of logarithms",
+          "eˣ and ln x: definition, properties, graphs",
+          "Solving equations and inequalities with unknowns in indices",
+          "Transforming relationships to linear form for determining constants"
+        ]
+      },
+      "3.3": {
+        "name": "Trigonometry",
+        "content": [
+          "Secant, cosecant, cotangent functions",
+          "Graphs of all six trigonometric functions",
+          "Identities: sec² θ = 1 + tan² θ, cosec² θ = 1 + cot² θ",
+          "Expansions of sin(A ± B), cos(A ± B), tan(A ± B)",
+          "Double angle formulae: sin 2A, cos 2A, tan 2A",
+          "Expressing a sin θ + b cos θ as R sin(θ ± α) or R cos(θ ± α)"
+        ]
+      },
+      "3.4": {
+        "name": "Differentiation",
+        "content": [
+          "Derivatives of eˣ, ln x, sin x, cos x, tan x, tan⁻¹x",
+          "Product rule and quotient rule",
+          "Parametric differentiation",
+          "Implicit differentiation",
+          "Applications to tangents and normals"
+        ]
+      },
+      "3.5": {
+        "name": "Integration",
+        "content": [
+          "Integration of e^(ax+b), 1/(ax+b), sin(ax+b), cos(ax+b), sec²(ax+b), 1/(x²+a²)",
+          "Using trigonometrical relationships",
+          "Partial fractions integration",
+          "Recognizing kf'(x)/f(x) form",
+          "Integration by parts",
+          "Integration by substitution"
+        ]
+      },
+      "3.6": {
+        "name": "Numerical solution of equations",
+        "content": [
+          "Locating roots by graphical methods or sign change",
+          "Iterative methods",
+          "Convergent sequences",
+          "Using iteration xₙ₊₁ = F(xₙ) to find roots"
+        ]
+      },
+      "3.7": {
+        "name": "Vectors",
+        "content": [
+          "Vector notations",
+          "Addition, subtraction, scalar multiplication",
+          "Magnitude of vectors",
+          "Unit vectors, displacement vectors, position vectors",
+          "Equation of straight line: r = a + tb",
+          "Parallel, intersecting, and skew lines",
+          "Scalar product",
+          "Applications: angles between lines, perpendicularity, foot of perpendicular"
+        ]
+      },
+      "3.8": {
+        "name": "Differential equations",
+        "content": [
+          "Formulating differential equations from rate of change statements",
+          "Separable variables",
+          "General and particular solutions",
+          "Interpretation in context"
+        ]
+      },
+      "3.9": {
+        "name": "Complex numbers",
+        "content": [
+          "Complex numbers: real part, imaginary part, modulus, argument, conjugate",
+          "Equality of complex numbers",
+          "Operations in Cartesian form x + iy",
+          "Non-real roots occur in conjugate pairs",
+          "Argand diagram representation",
+          "Polar form: r(cos θ + i sin θ) = re^(iθ)",
+          "Operations in polar form",
+          "Square roots of complex numbers",
+          "Geometrical effects of complex operations",
+          "Loci in Argand diagram"
+        ]
+      }
+    }
+  },
+  "paper_4": {
+    "name": "Mechanics",
+    "prerequisite": "Assumes knowledge of Paper 1 content",
+    "topics": {
+      "4.1": {
+        "name": "Forces and equilibrium",
+        "content": [
+          "Identifying forces",
+          "Vector nature of force, components and resultants",
+          "Equilibrium: vector sum of forces is zero",
+          "Contact forces: normal and frictional components",
+          "Smooth contact model",
+          "Limiting friction and limiting equilibrium",
+          "Coefficient of friction: F = μR or F ≤ μR",
+          "Newton's third law"
+        ]
+      },
+      "4.2": {
+        "name": "Kinematics of motion in a straight line",
+        "content": [
+          "Distance, speed (scalars) and displacement, velocity, acceleration (vectors)",
+          "Displacement-time and velocity-time graphs",
+          "Area under v-t graph = displacement",
+          "Gradient of s-t graph = velocity",
+          "Gradient of v-t graph = acceleration",
+          "Differentiation and integration for displacement, velocity, acceleration",
+          "Constant acceleration formulae: v = u + at, s = ½(u + v)t, s = ut + ½at², v² = u² + 2as"
+        ]
+      },
+      "4.3": {
+        "name": "Momentum",
+        "content": [
+          "Linear momentum as vector",
+          "Conservation of linear momentum",
+          "Direct impact of two bodies",
+          "Coalescing bodies"
+        ]
+      },
+      "4.4": {
+        "name": "Newton's laws of motion",
+        "content": [
+          "Newton's laws for constant mass under constant forces",
+          "Forces: friction, tension, thrust",
+          "Mass and weight: W = mg",
+          "Motion of particle vertically or on inclined plane",
+          "Connected particles problems"
+        ]
+      },
+      "4.5": {
+        "name": "Energy, work and power",
+        "content": [
+          "Work done by constant force: W = Fd cos θ",
+          "Gravitational potential energy and kinetic energy",
+          "Work-energy relationship",
+          "Conservation of energy",
+          "Power as rate of work done",
+          "P = Fv for force in direction of motion",
+          "Applications: instantaneous acceleration of car on hill with resistance"
+        ]
+      }
+    }
+  },
+  "paper_5": {
+    "name": "Probability & Statistics 1",
+    "prerequisite": "Assumes knowledge of Paper 1 content",
+    "topics": {
+      "5.1": {
+        "name": "Representation of data",
+        "content": [
+          "Selecting suitable data presentations",
+          "Stem-and-leaf diagrams (including back-to-back)",
+          "Box-and-whisker plots",
+          "Histograms",
+          "Cumulative frequency graphs",
+          "Measures of central tendency: mean, median, mode",
+          "Measures of variation: range, interquartile range, standard deviation",
+          "Using cumulative frequency graphs for estimates",
+          "Calculating mean and standard deviation from raw or grouped data"
+        ]
+      },
+      "5.2": {
+        "name": "Permutations and combinations",
+        "content": [
+          "Understanding permutations and combinations",
+          "Selections problems",
+          "Arrangements in a line",
+          "Arrangements with repetition",
+          "Arrangements with restrictions"
+        ]
+      },
+      "5.3": {
+        "name": "Probability",
+        "content": [
+          "Evaluating probabilities by enumeration or calculation",
+          "Addition and multiplication of probabilities",
+          "Exclusive and independent events",
+          "Conditional probabilities P(A|B)",
+          "Independence: P(A ∩ B) = P(A) × P(B)"
+        ]
+      },
+      "5.4": {
+        "name": "Discrete random variables",
+        "content": [
+          "Probability distribution tables",
+          "E(X) and Var(X)",
+          "Binomial distribution B(n, p)",
+          "Geometric distribution Geo(p)",
+          "Expectation and variance formulae for binomial and geometric distributions"
+        ]
+      },
+      "5.5": {
+        "name": "The normal distribution",
+        "content": [
+          "Normal distribution as model for continuous random variable",
+          "Using normal distribution tables",
+          "Solving problems with X ~ N(μ, σ²)",
+          "Finding P(X > x₁) or related probabilities",
+          "Finding relationships between parameters",
+          "Normal approximation to binomial distribution",
+          "Continuity correction"
+        ]
+      }
+    }
+  },
+  "paper_6": {
+    "name": "Probability & Statistics 2",
+    "prerequisite": "Assumes knowledge of Paper 5 and Paper 3 content",
+    "topics": {
+      "6.1": {
+        "name": "The Poisson distribution",
+        "content": [
+          "Poisson distribution Po(λ)",
+          "Mean and variance equal to λ",
+          "Using Poisson for random events",
+          "Poisson approximation to binomial (n large, p small)",
+          "Normal approximation to Poisson (λ large)"
+        ]
+      },
+      "6.2": {
+        "name": "Linear combinations of random variables",
+        "content": [
+          "E(aX + b) = aE(X) + b",
+          "Var(aX + b) = a²Var(X)",
+          "E(aX + bY) = aE(X) + bE(Y)",
+          "Var(aX + bY) = a²Var(X) + b²Var(Y) for independent X, Y",
+          "Normal distribution properties for linear combinations",
+          "Poisson distribution properties for sums"
+        ]
+      },
+      "6.3": {
+        "name": "Continuous random variables",
+        "content": [
+          "Probability density function concept and properties",
+          "Using pdf to calculate probabilities, mean, and variance",
+          "Finding median and percentiles"
+        ]
+      },
+      "6.4": {
+        "name": "Sampling and estimation",
+        "content": [
+          "Sample vs population",
+          "Randomness in sampling",
+          "Evaluating sampling methods",
+          "Sample mean as random variable: E(X̄) = μ, Var(X̄) = σ²/n",
+          "Distribution of X̄ when X is normal",
+          "Central Limit Theorem",
+          "Unbiased estimates of mean and variance",
+          "Confidence intervals for population mean",
+          "Confidence intervals for population proportion"
+        ]
+      },
+      "6.5": {
+        "name": "Hypothesis tests",
+        "content": [
+          "Nature of hypothesis testing",
+          "One-tailed and two-tailed tests",
+          "Null hypothesis, alternative hypothesis, significance level, rejection/acceptance regions",
+          "Tests for binomial and Poisson distributions",
+          "Tests for population mean",
+          "Type I and Type II errors",
+          "Calculating error probabilities"
+        ]
+      }
+    }
+  }
+}

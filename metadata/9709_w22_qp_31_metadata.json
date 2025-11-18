@@ -1,0 +1,489 @@
+{
+  "exam_info": {
+    "paper_code": "9709/31",
+    "exam_board": "Cambridge International AS & A Level",
+    "subject": "Mathematics",
+    "paper_name": "Paper 3 Pure Mathematics 3",
+    "exam_session": "October/November 2022",
+    "total_marks": 75,
+    "time_allowed": "1 hour 50 minutes",
+    "question_paper": "9709_w22_qp_31.pdf",
+    "mark_scheme": "9709_w22_ms_31.pdf",
+    "syllabus": "697427-2026-2027-syllabus.pdf"
+  },
+  "questions": [
+    {
+      "question_number": "2",
+      "subparts": [],
+      "page": 2,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "3.1"
+      ],
+      "topic": "Algebra",
+      "answers": {
+        "answer_snippet": "9709/31 Cambridge International AS & A Level \u2013 Mark Scheme October/November 2022 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptors for a question. Each"
+      }
+    },
+    {
+      "question_number": "3",
+      "subparts": [],
+      "page": 3,
+      "marks": 3,
+      "syllabus_outcomes": [
+        "3.1"
+      ],
+      "topic": "Algebra",
+      "answers": {
+        "answer_snippet": "Cambridge International A Level MATHEMATICS 9709/31 Paper 3 Pure Mathematics 3 October/November 2022 MARK SCHEME Maximum Mark: 75 Published This mark scheme is published as an aid to teachers and candidates, to indicate the requirements of the examination. It shows the basis on which Examiners were instructed to award marks."
+      }
+    },
+    {
+      "question_number": "4",
+      "subparts": [],
+      "page": 4,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "3.1"
+      ],
+      "topic": "Algebra",
+      "answers": {
+        "answer_snippet": "9709/31 Cambridge International AS & A Level \u2013 Mark Scheme October/November 2022 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptors for a question. Each"
+      }
+    },
+    {
+      "question_number": "2",
+      "subparts": [],
+      "page": 4,
+      "marks": 4,
+      "syllabus_outcomes": [
+        "3.9"
+      ],
+      "topic": "Complex numbers",
+      "answers": {
+        "answer_snippet": "9709/31 Cambridge International AS & A Level \u2013 Mark Scheme October/November 2022 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptors for a question. Each"
+      }
+    },
+    {
+      "question_number": "4",
+      "subparts": [],
+      "page": 4,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "3.1"
+      ],
+      "topic": "Algebra",
+      "answers": {
+        "answer_snippet": "9709/31 Cambridge International AS & A Level \u2013 Mark Scheme October/November 2022 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptors for a question. Each"
+      }
+    },
+    {
+      "question_number": "5",
+      "subparts": [],
+      "page": 5,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "3.2"
+      ],
+      "topic": "Logarithmic and exponential functions",
+      "answers": {
+        "answer_snippet": "9709/31 Cambridge International AS & A Level \u2013 Mark Scheme October/November 2022 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptors for a question. Each"
+      }
+    },
+    {
+      "question_number": "3",
+      "subparts": [],
+      "page": 5,
+      "marks": 4,
+      "syllabus_outcomes": [
+        "3.2"
+      ],
+      "topic": "Logarithmic and exponential functions",
+      "answers": {
+        "answer_snippet": "Cambridge International A Level MATHEMATICS 9709/31 Paper 3 Pure Mathematics 3 October/November 2022 MARK SCHEME Maximum Mark: 75 Published This mark scheme is published as an aid to teachers and candidates, to indicate the requirements of the examination. It shows the basis on which Examiners were instructed to award marks."
+      }
+    },
+    {
+      "question_number": "6",
+      "subparts": [],
+      "page": 6,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "3.1"
+      ],
+      "topic": "Algebra",
+      "answers": {
+        "answer_snippet": "9709/31 Cambridge International AS & A Level \u2013 Mark Scheme October/November 2022 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptors for a question. Each"
+      }
+    },
+    {
+      "question_number": "4",
+      "subparts": [],
+      "page": 6,
+      "marks": 5,
+      "syllabus_outcomes": [
+        "3.3"
+      ],
+      "topic": "Trigonometry",
+      "answers": {
+        "answer_snippet": "9709/31 Cambridge International AS & A Level \u2013 Mark Scheme October/November 2022 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptors for a question. Each"
+      }
+    },
+    {
+      "question_number": "7",
+      "subparts": [],
+      "page": 7,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "3.1"
+      ],
+      "topic": "Algebra",
+      "answers": {
+        "answer_snippet": "9709/31 Cambridge International AS & A Level \u2013 Mark Scheme October/November 2022 PUBLISHED Question Answer Marks Guidance 1(b) Find x-coordinate of intersection with y = 3x + 5 M1 6 A1 Obtain x=\u2212 5 6 A1 Do not condone \uf0a3 for < in the final answer. State final answer x\uf03c\u2212"
+      }
+    },
+    {
+      "question_number": "5",
+      "subparts": [],
+      "page": 7,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "3.9"
+      ],
+      "topic": "Complex numbers",
+      "answers": {
+        "answer_snippet": "9709/31 Cambridge International AS & A Level \u2013 Mark Scheme October/November 2022 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptors for a question. Each"
+      }
+    },
+    {
+      "question_number": "1",
+      "subparts": [],
+      "page": 7,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "3.1"
+      ],
+      "topic": "Algebra",
+      "answers": {
+        "answer_snippet": "9709/31 Cambridge International AS & A Level \u2013 Mark Scheme October/November 2022 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptors for a question. Each"
+      }
+    },
+    {
+      "question_number": "4",
+      "subparts": [],
+      "page": 7,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "3.1"
+      ],
+      "topic": "Algebra",
+      "answers": {
+        "answer_snippet": "9709/31 Cambridge International AS & A Level \u2013 Mark Scheme October/November 2022 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptors for a question. Each"
+      }
+    },
+    {
+      "question_number": "1",
+      "subparts": [],
+      "page": 7,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "3.1"
+      ],
+      "topic": "Algebra",
+      "answers": {
+        "answer_snippet": "9709/31 Cambridge International AS & A Level \u2013 Mark Scheme October/November 2022 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptors for a question. Each"
+      }
+    },
+    {
+      "question_number": "3",
+      "subparts": [],
+      "page": 7,
+      "marks": 3,
+      "syllabus_outcomes": [
+        "3.1"
+      ],
+      "topic": "Algebra",
+      "answers": {
+        "answer_snippet": "Cambridge International A Level MATHEMATICS 9709/31 Paper 3 Pure Mathematics 3 October/November 2022 MARK SCHEME Maximum Mark: 75 Published This mark scheme is published as an aid to teachers and candidates, to indicate the requirements of the examination. It shows the basis on which Examiners were instructed to award marks."
+      }
+    },
+    {
+      "question_number": "8",
+      "subparts": [],
+      "page": 8,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "3.1"
+      ],
+      "topic": "Algebra",
+      "answers": {
+        "answer_snippet": "9709/31 Cambridge International AS & A Level \u2013 Mark Scheme October/November 2022 PUBLISHED Question Answer Marks Guidance 2 Show a circle with radius 3 and centre the origin B1 Im(z) Show the line x = \u20132 B1 \u03c0 B1 Show the correct half line for 4 Shade the correct region"
+      }
+    },
+    {
+      "question_number": "9",
+      "subparts": [],
+      "page": 9,
+      "marks": 3,
+      "syllabus_outcomes": [
+        "3.1"
+      ],
+      "topic": "Algebra",
+      "answers": {
+        "answer_snippet": "9709/31 Cambridge International AS & A Level \u2013 Mark Scheme October/November 2022 PUBLISHED Question Answer Marks Guidance 3 Use law of logarithm of a product or power M1 One correct application of a log law. Obtain a correct linear equation in any form, e.g. (3x\u22121)ln2= ln5\u2212xln3 A1 Solve for x"
+      }
+    },
+    {
+      "question_number": "10",
+      "subparts": [],
+      "page": 10,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "3.1"
+      ],
+      "topic": "Algebra",
+      "answers": {
+        "answer_snippet": "9709/31 Cambridge International AS & A Level \u2013 Mark Scheme October/November 2022 PUBLISHED Question Answer Marks Guidance 3 Use law of logarithm of a product or power M1 One correct application of a log law. Obtain a correct linear equation in any form, e.g. (3x\u22121)ln2= ln5\u2212xln3 A1 Solve for x"
+      }
+    },
+    {
+      "question_number": "7",
+      "subparts": [],
+      "page": 10,
+      "marks": 3,
+      "syllabus_outcomes": [
+        "3.1"
+      ],
+      "topic": "Algebra",
+      "answers": {
+        "answer_snippet": "9709/31 Cambridge International AS & A Level \u2013 Mark Scheme October/November 2022 PUBLISHED Question Answer Marks Guidance 1(b) Find x-coordinate of intersection with y = 3x + 5 M1 6 A1 Obtain x=\u2212 5 6 A1 Do not condone \uf0a3 for < in the final answer. State final answer x\uf03c\u2212"
+      }
+    },
+    {
+      "question_number": "12",
+      "subparts": [],
+      "page": 10,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "3.1"
+      ],
+      "topic": "Algebra",
+      "answers": {
+        "answer_snippet": "9709/31 Cambridge International AS & A Level \u2013 Mark Scheme October/November 2022 PUBLISHED Question Answer Marks Guidance 7(a) Use correct product or quotient rule M1 Obtain correct derivative in any form A1 dy cos2 x+2xsinxcosx e.g. = or dx cos4 x dy =sec2 x+2xsec2xtanx dx \uf0e6 cosa+2asina \uf0f6 A1 AG"
+      }
+    },
+    {
+      "question_number": "11",
+      "subparts": [],
+      "page": 11,
+      "marks": 2,
+      "syllabus_outcomes": [
+        "3.6"
+      ],
+      "topic": "Numerical solution of equations",
+      "answers": {
+        "answer_snippet": "9709/31 Cambridge International AS & A Level \u2013 Mark Scheme October/November 2022 PUBLISHED Question Answer Marks Guidance 6(a) Express cos4\uf071 in terms of cos2\uf071 and/or sin2\uf071 B1 Express cos2\uf071 in terms of cos\uf071 and/or sin\uf071 B1 Anywhere Expand to obtain a correct expression in terms of cos\uf071 B1 e.g.2 ("
+      }
+    },
+    {
+      "question_number": "12",
+      "subparts": [],
+      "page": 12,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "3.1"
+      ],
+      "topic": "Algebra",
+      "answers": {
+        "answer_snippet": "9709/31 Cambridge International AS & A Level \u2013 Mark Scheme October/November 2022 PUBLISHED Question Answer Marks Guidance 7(a) Use correct product or quotient rule M1 Obtain correct derivative in any form A1 dy cos2 x+2xsinxcosx e.g. = or dx cos4 x dy =sec2 x+2xsec2xtanx dx \uf0e6 cosa+2asina \uf0f6 A1 AG"
+      }
+    },
+    {
+      "question_number": "8",
+      "subparts": [],
+      "page": 12,
+      "marks": 5,
+      "syllabus_outcomes": [
+        "3.3",
+        "3.8"
+      ],
+      "topic": "Trigonometry",
+      "answers": {
+        "answer_snippet": "9709/31 Cambridge International AS & A Level \u2013 Mark Scheme October/November 2022 PUBLISHED Question Answer Marks Guidance 2 Show a circle with radius 3 and centre the origin B1 Im(z) Show the line x = \u20132 B1 \u03c0 B1 Show the correct half line for 4 Shade the correct region"
+      }
+    },
+    {
+      "question_number": "13",
+      "subparts": [],
+      "page": 13,
+      "marks": 3,
+      "syllabus_outcomes": [
+        "3.1"
+      ],
+      "topic": "Algebra",
+      "answers": {
+        "answer_snippet": "9709/31 Cambridge International AS & A Level \u2013 Mark Scheme October/November 2022 PUBLISHED Question Answer Marks Guidance 8(a) Separate variables correctly B1 \uf0f21 dx=\uf0f2ke\u22120.1tdt x Obtain term ln x B1 Obtain term \u221210ke\u22120.1t B1 Not from \uf0f2xe\u22120.1tdt Use x = 20, t = 0 to evaluate a constant or as"
+      }
+    },
+    {
+      "question_number": "14",
+      "subparts": [],
+      "page": 14,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "3.1"
+      ],
+      "topic": "Algebra",
+      "answers": {
+        "answer_snippet": "9709/31 Cambridge International AS & A Level \u2013 Mark Scheme October/November 2022 PUBLISHED Question Answer Marks Guidance 6(a) Express cos4\uf071 in terms of cos2\uf071 and/or sin2\uf071 B1 Express cos2\uf071 in terms of cos\uf071 and/or sin\uf071 B1 Anywhere Expand to obtain a correct expression in terms of cos\uf071 B1 e.g.2 ("
+      }
+    },
+    {
+      "question_number": "9",
+      "subparts": [],
+      "page": 14,
+      "marks": 5,
+      "syllabus_outcomes": [
+        "3.1"
+      ],
+      "topic": "Algebra",
+      "answers": {
+        "answer_snippet": "9709/31 Cambridge International AS & A Level \u2013 Mark Scheme October/November 2022 PUBLISHED Question Answer Marks Guidance 3 Use law of logarithm of a product or power M1 One correct application of a log law. Obtain a correct linear equation in any form, e.g. (3x\u22121)ln2= ln5\u2212xln3 A1 Solve for x"
+      }
+    },
+    {
+      "question_number": "15",
+      "subparts": [],
+      "page": 15,
+      "marks": 5,
+      "syllabus_outcomes": [
+        "3.1"
+      ],
+      "topic": "Algebra",
+      "answers": {
+        "answer_snippet": "9709/31 Cambridge International AS & A Level \u2013 Mark Scheme October/November 2022 PUBLISHED Question Answer Marks Guidance 10(a) A B C B1 State or imply the form + + 1+x 2+x (2+x)2 Use a correct method to find a constant M1 Obtain one of A= 3, B = \u2013 1"
+      }
+    },
+    {
+      "question_number": "16",
+      "subparts": [],
+      "page": 16,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "3.1"
+      ],
+      "topic": "Algebra",
+      "answers": {
+        "answer_snippet": "9709/31 Cambridge International AS & A Level \u2013 Mark Scheme October/November 2022 PUBLISHED Question Answer Marks Guidance 11(a) State OM =2i+2j or equivalent B1 Can be implied by MB=\u22122i+2j or MA=2i\u22122j. Obtain MD = \u2013 2i \u2013 2j + 3k B1 Use a correct method to find ON M1 e.g."
+      }
+    },
+    {
+      "question_number": "10",
+      "subparts": [],
+      "page": 16,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "3.1"
+      ],
+      "topic": "Algebra",
+      "answers": {
+        "answer_snippet": "9709/31 Cambridge International AS & A Level \u2013 Mark Scheme October/November 2022 PUBLISHED Question Answer Marks Guidance 3 Use law of logarithm of a product or power M1 One correct application of a log law. Obtain a correct linear equation in any form, e.g. (3x\u22121)ln2= ln5\u2212xln3 A1 Solve for x"
+      }
+    },
+    {
+      "question_number": "1",
+      "subparts": [],
+      "page": 16,
+      "marks": 5,
+      "syllabus_outcomes": [
+        "3.1"
+      ],
+      "topic": "Algebra",
+      "answers": {
+        "answer_snippet": "9709/31 Cambridge International AS & A Level \u2013 Mark Scheme October/November 2022 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptors for a question. Each"
+      }
+    },
+    {
+      "question_number": "17",
+      "subparts": [],
+      "page": 17,
+      "marks": 5,
+      "syllabus_outcomes": [
+        "3.1"
+      ],
+      "topic": "Algebra",
+      "answers": {
+        "answer_snippet": "Cambridge International A Level MATHEMATICS 9709/31 Paper 3 Pure Mathematics 3 October/November 2022 MARK SCHEME Maximum Mark: 75 Published This mark scheme is published as an aid to teachers and candidates, to indicate the requirements of the examination. It shows the basis on which Examiners were instructed to award marks."
+      }
+    },
+    {
+      "question_number": "18",
+      "subparts": [],
+      "page": 18,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "3.1"
+      ],
+      "topic": "Algebra",
+      "answers": {
+        "answer_snippet": ""
+      }
+    },
+    {
+      "question_number": "11",
+      "subparts": [],
+      "page": 18,
+      "marks": 4,
+      "syllabus_outcomes": [
+        "3.7"
+      ],
+      "topic": "Vectors",
+      "answers": {
+        "answer_snippet": "9709/31 Cambridge International AS & A Level \u2013 Mark Scheme October/November 2022 PUBLISHED Question Answer Marks Guidance 6(a) Express cos4\uf071 in terms of cos2\uf071 and/or sin2\uf071 B1 Express cos2\uf071 in terms of cos\uf071 and/or sin\uf071 B1 Anywhere Expand to obtain a correct expression in terms of cos\uf071 B1 e.g.2 ("
+      }
+    },
+    {
+      "question_number": "19",
+      "subparts": [],
+      "page": 19,
+      "marks": 3,
+      "syllabus_outcomes": [
+        "3.1"
+      ],
+      "topic": "Algebra",
+      "answers": {
+        "answer_snippet": ""
+      }
+    },
+    {
+      "question_number": "5",
+      "subparts": [],
+      "page": 19,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "3.1"
+      ],
+      "topic": "Algebra",
+      "answers": {
+        "answer_snippet": "9709/31 Cambridge International AS & A Level \u2013 Mark Scheme October/November 2022 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptors for a question. Each"
+      }
+    },
+    {
+      "question_number": "20",
+      "subparts": [],
+      "page": 20,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "3.1"
+      ],
+      "topic": "Algebra",
+      "answers": {
+        "answer_snippet": "9709/31 Cambridge International AS & A Level \u2013 Mark Scheme October/November 2022 PUBLISHED Question Answer Marks Guidance 8(a) Separate variables correctly B1 \uf0f21 dx=\uf0f2ke\u22120.1tdt x Obtain term ln x B1 Obtain term \u221210ke\u22120.1t B1 Not from \uf0f2xe\u22120.1tdt Use x = 20, t = 0 to evaluate a constant or as"
+      }
+    }
+  ],
+  "statistics": {
+    "total_questions": 36,
+    "total_marks": 62
+  }
+}

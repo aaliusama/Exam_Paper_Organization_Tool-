@@ -1,0 +1,488 @@
+{
+  "exam_info": {
+    "paper_code": "9709/31",
+    "exam_board": "Cambridge International AS & A Level",
+    "subject": "Mathematics",
+    "paper_name": "Paper 3 Pure Mathematics 3",
+    "exam_session": "May/June 2022",
+    "total_marks": 75,
+    "time_allowed": "1 hour 50 minutes",
+    "question_paper": "9709_s22_qp_31.pdf",
+    "mark_scheme": "9709_s22_ms_31.pdf",
+    "syllabus": "697427-2026-2027-syllabus.pdf"
+  },
+  "questions": [
+    {
+      "question_number": "2",
+      "subparts": [],
+      "page": 2,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "3.1"
+      ],
+      "topic": "Algebra",
+      "answers": {
+        "answer_snippet": "9709/31 Cambridge International A Level \u2013 Mark Scheme May/June 2022 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptors for a question. Each question paper"
+      }
+    },
+    {
+      "question_number": "3",
+      "subparts": [],
+      "page": 3,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "3.1"
+      ],
+      "topic": "Algebra",
+      "answers": {
+        "answer_snippet": "Cambridge International A Level MATHEMATICS 9709/31 Paper 3 Pure Mathematics 3 May/June 2022 MARK SCHEME Maximum Mark: 75 Published This mark scheme is published as an aid to teachers and candidates, to indicate the requirements of the examination. It shows the basis on which Examiners were instructed to award marks."
+      }
+    },
+    {
+      "question_number": "1",
+      "subparts": [],
+      "page": 3,
+      "marks": 4,
+      "syllabus_outcomes": [
+        "3.1"
+      ],
+      "topic": "Algebra",
+      "answers": {
+        "answer_snippet": "9709/31 Cambridge International A Level \u2013 Mark Scheme May/June 2022 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptors for a question. Each question paper"
+      }
+    },
+    {
+      "question_number": "4",
+      "subparts": [],
+      "page": 4,
+      "marks": 4,
+      "syllabus_outcomes": [
+        "3.1"
+      ],
+      "topic": "Algebra",
+      "answers": {
+        "answer_snippet": "9709/31 Cambridge International A Level \u2013 Mark Scheme May/June 2022 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptors for a question. Each question paper"
+      }
+    },
+    {
+      "question_number": "5",
+      "subparts": [],
+      "page": 5,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "3.1"
+      ],
+      "topic": "Algebra",
+      "answers": {
+        "answer_snippet": "9709/31 Cambridge International A Level \u2013 Mark Scheme May/June 2022 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptors for a question. Each question paper"
+      }
+    },
+    {
+      "question_number": "3",
+      "subparts": [],
+      "page": 5,
+      "marks": 6,
+      "syllabus_outcomes": [
+        "3.3"
+      ],
+      "topic": "Trigonometry",
+      "answers": {
+        "answer_snippet": "Cambridge International A Level MATHEMATICS 9709/31 Paper 3 Pure Mathematics 3 May/June 2022 MARK SCHEME Maximum Mark: 75 Published This mark scheme is published as an aid to teachers and candidates, to indicate the requirements of the examination. It shows the basis on which Examiners were instructed to award marks."
+      }
+    },
+    {
+      "question_number": "6",
+      "subparts": [],
+      "page": 6,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "3.1"
+      ],
+      "topic": "Algebra",
+      "answers": {
+        "answer_snippet": "9709/31 Cambridge International A Level \u2013 Mark Scheme May/June 2022 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptors for a question. Each question paper"
+      }
+    },
+    {
+      "question_number": "4",
+      "subparts": [],
+      "page": 6,
+      "marks": 7,
+      "syllabus_outcomes": [
+        "3.1"
+      ],
+      "topic": "Algebra",
+      "answers": {
+        "answer_snippet": "9709/31 Cambridge International A Level \u2013 Mark Scheme May/June 2022 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptors for a question. Each question paper"
+      }
+    },
+    {
+      "question_number": "7",
+      "subparts": [],
+      "page": 7,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "3.1"
+      ],
+      "topic": "Algebra",
+      "answers": {
+        "answer_snippet": "9709/31 Cambridge International A Level \u2013 Mark Scheme May/June 2022 PUBLISHED Question Answer Marks Guidance 2(a) State a correct unsimplified version of the x2 or the x4 term of the expansion of M1 1 \uf0e6 x2 \uf02d2.\uf02d3\uf0e6x2 \uf0f6 2 \uf0f6 \uf028 2\uf02dx2\uf029\uf02d2 or \uf0e6 \uf0e7 1\uf02d 1 x2 \uf0f6 \uf0f7"
+      }
+    },
+    {
+      "question_number": "8",
+      "subparts": [],
+      "page": 8,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "3.1"
+      ],
+      "topic": "Algebra",
+      "answers": {
+        "answer_snippet": "9709/31 Cambridge International A Level \u2013 Mark Scheme May/June 2022 PUBLISHED Question Answer Marks Guidance 3 Use correct trigonometric formulae to form an equation in tanx *M1 1\uf02dtan2 x 3 e.g. \uf02b \uf03d5 tanx tanx Obtain a correct linear equation in any form A1 1\uf02dtan2 x\uf02b3\uf03d5tanx Reduce equation to a"
+      }
+    },
+    {
+      "question_number": "5",
+      "subparts": [],
+      "page": 8,
+      "marks": 5,
+      "syllabus_outcomes": [
+        "3.1"
+      ],
+      "topic": "Algebra",
+      "answers": {
+        "answer_snippet": "9709/31 Cambridge International A Level \u2013 Mark Scheme May/June 2022 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptors for a question. Each question paper"
+      }
+    },
+    {
+      "question_number": "9",
+      "subparts": [],
+      "page": 9,
+      "marks": 3,
+      "syllabus_outcomes": [
+        "3.1"
+      ],
+      "topic": "Algebra",
+      "answers": {
+        "answer_snippet": "9709/31 Cambridge International A Level \u2013 Mark Scheme May/June 2022 PUBLISHED Question Answer Marks Guidance 3 Use correct trigonometric formulae to form an equation in tanx *M1 1\uf02dtan2 x 3 e.g. \uf02b \uf03d5 tanx tanx Obtain a correct linear equation in any form A1 1\uf02dtan2 x\uf02b3\uf03d5tanx Reduce equation to a"
+      }
+    },
+    {
+      "question_number": "10",
+      "subparts": [],
+      "page": 10,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "3.1"
+      ],
+      "topic": "Algebra",
+      "answers": {
+        "answer_snippet": "9709/31 Cambridge International A Level \u2013 Mark Scheme May/June 2022 PUBLISHED Question Answer Marks Guidance 5(a) Substitute x = 2, equate to zero M1 Or divide by x \u2013 2 and equate constant remainder to zero. Obtain a correct equation, e.g. 8a \u2013 40 + 2b + 8 = 0"
+      }
+    },
+    {
+      "question_number": "3",
+      "subparts": [],
+      "page": 10,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "3.1"
+      ],
+      "topic": "Algebra",
+      "answers": {
+        "answer_snippet": "Cambridge International A Level MATHEMATICS 9709/31 Paper 3 Pure Mathematics 3 May/June 2022 MARK SCHEME Maximum Mark: 75 Published This mark scheme is published as an aid to teachers and candidates, to indicate the requirements of the examination. It shows the basis on which Examiners were instructed to award marks."
+      }
+    },
+    {
+      "question_number": "27",
+      "subparts": [],
+      "page": 10,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "3.1"
+      ],
+      "topic": "Algebra",
+      "answers": {
+        "answer_snippet": ""
+      }
+    },
+    {
+      "question_number": "6",
+      "subparts": [],
+      "page": 10,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "3.1"
+      ],
+      "topic": "Algebra",
+      "answers": {
+        "answer_snippet": "9709/31 Cambridge International A Level \u2013 Mark Scheme May/June 2022 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptors for a question. Each question paper"
+      }
+    },
+    {
+      "question_number": "1",
+      "subparts": [],
+      "page": 10,
+      "marks": 4,
+      "syllabus_outcomes": [
+        "3.1"
+      ],
+      "topic": "Algebra",
+      "answers": {
+        "answer_snippet": "9709/31 Cambridge International A Level \u2013 Mark Scheme May/June 2022 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptors for a question. Each question paper"
+      }
+    },
+    {
+      "question_number": "11",
+      "subparts": [],
+      "page": 11,
+      "marks": 4,
+      "syllabus_outcomes": [
+        "3.1"
+      ],
+      "topic": "Algebra",
+      "answers": {
+        "answer_snippet": "9709/31 Cambridge International A Level \u2013 Mark Scheme May/June 2022 PUBLISHED Question Answer Marks Guidance 5(b) Attempt division by (x \u2013 2) M1 The M1 is earned if division reaches a partial quotient of ax2 \uf02b kx , or if inspection has an unknown factor ax2\uf02bex\uf02b f and an equation"
+      }
+    },
+    {
+      "question_number": "12",
+      "subparts": [],
+      "page": 12,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "3.1"
+      ],
+      "topic": "Algebra",
+      "answers": {
+        "answer_snippet": "9709/31 Cambridge International A Level \u2013 Mark Scheme May/June 2022 PUBLISHED Question Answer Marks Guidance 6(a) State or imply dx\uf03d3sec2\uf071 d\uf071 B1 Substitute throughout for x and dx M1 Obtain any correct form in terms of \uf071 A1 81sec2\uf071 e.g.\uf0f2 d\uf071 \uf028 9\uf02b9tan2\uf071 \uf0292 \u03c0 A1 AG Justify change of"
+      }
+    },
+    {
+      "question_number": "7",
+      "subparts": [],
+      "page": 12,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "3.9"
+      ],
+      "topic": "Complex numbers",
+      "answers": {
+        "answer_snippet": "9709/31 Cambridge International A Level \u2013 Mark Scheme May/June 2022 PUBLISHED Question Answer Marks Guidance 2(a) State a correct unsimplified version of the x2 or the x4 term of the expansion of M1 1 \uf0e6 x2 \uf02d2.\uf02d3\uf0e6x2 \uf0f6 2 \uf0f6 \uf028 2\uf02dx2\uf029\uf02d2 or \uf0e6 \uf0e7 1\uf02d 1 x2 \uf0f6 \uf0f7"
+      }
+    },
+    {
+      "question_number": "1",
+      "subparts": [],
+      "page": 12,
+      "marks": 3,
+      "syllabus_outcomes": [
+        "3.1"
+      ],
+      "topic": "Algebra",
+      "answers": {
+        "answer_snippet": "9709/31 Cambridge International A Level \u2013 Mark Scheme May/June 2022 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptors for a question. Each question paper"
+      }
+    },
+    {
+      "question_number": "13",
+      "subparts": [],
+      "page": 13,
+      "marks": 2,
+      "syllabus_outcomes": [
+        "3.1"
+      ],
+      "topic": "Algebra",
+      "answers": {
+        "answer_snippet": "9709/31 Cambridge International A Level \u2013 Mark Scheme May/June 2022 PUBLISHED Question Answer Marks Guidance 7(a) Multiply numerator and denominator by 1 \u2013 2i, or equivalent M1 At least one multiplication completed. Obtain correct numerator \uf0281\uf02d2a\uf029 2\uf02d\uf0282\uf02ba\uf029 2i A1 OE 1\uf02d2a 2\uf02ba A1 OE Obtain final answer 2\uf02d 2i 5"
+      }
+    },
+    {
+      "question_number": "1",
+      "subparts": [],
+      "page": 13,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "3.6"
+      ],
+      "topic": "Numerical solution of equations",
+      "answers": {
+        "answer_snippet": "9709/31 Cambridge International A Level \u2013 Mark Scheme May/June 2022 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptors for a question. Each question paper"
+      }
+    },
+    {
+      "question_number": "1",
+      "subparts": [],
+      "page": 13,
+      "marks": 3,
+      "syllabus_outcomes": [
+        "3.1"
+      ],
+      "topic": "Algebra",
+      "answers": {
+        "answer_snippet": "9709/31 Cambridge International A Level \u2013 Mark Scheme May/June 2022 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptors for a question. Each question paper"
+      }
+    },
+    {
+      "question_number": "14",
+      "subparts": [],
+      "page": 14,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "3.1"
+      ],
+      "topic": "Algebra",
+      "answers": {
+        "answer_snippet": "9709/31 Cambridge International A Level \u2013 Mark Scheme May/June 2022 PUBLISHED Question Answer Marks Guidance 8(a) State or imply 3y2 dy as derivative of y3 B1 dx dy B1 State or imply 2y\uf02b2x as derivative of 2xy dx Complete differentiation and equate attempted derivative to zero and solve for M1"
+      }
+    },
+    {
+      "question_number": "8",
+      "subparts": [],
+      "page": 14,
+      "marks": 4,
+      "syllabus_outcomes": [
+        "3.1"
+      ],
+      "topic": "Algebra",
+      "answers": {
+        "answer_snippet": "9709/31 Cambridge International A Level \u2013 Mark Scheme May/June 2022 PUBLISHED Question Answer Marks Guidance 3 Use correct trigonometric formulae to form an equation in tanx *M1 1\uf02dtan2 x 3 e.g. \uf02b \uf03d5 tanx tanx Obtain a correct linear equation in any form A1 1\uf02dtan2 x\uf02b3\uf03d5tanx Reduce equation to a"
+      }
+    },
+    {
+      "question_number": "15",
+      "subparts": [],
+      "page": 15,
+      "marks": 5,
+      "syllabus_outcomes": [
+        "3.3"
+      ],
+      "topic": "Trigonometry",
+      "answers": {
+        "answer_snippet": "9709/31 Cambridge International A Level \u2013 Mark Scheme May/June 2022 PUBLISHED Question Answer Marks Guidance \uf075\uf075\uf075\uf075\uf072 9(a) B1 Obtain OM\uf03di\uf02b2j\uf02b2k \uf075\uf075\uf075\uf075\uf072 \uf075\uf075\uf075\uf072 \uf075\uf075\uf072 \uf075\uf075\uf075\uf072 \uf075\uf075\uf075\uf072 \uf075\uf075\uf075\uf072 Use a correct method to find MN M1 e.g.MO\uf02bOA\uf02b AN or MO\uf02bON \uf075\uf075\uf075\uf075\uf072 A1 Accept any notation. Obtain MN\uf03di\uf02bj\uf02d2k 3 9(b) Use a correct"
+      }
+    },
+    {
+      "question_number": "16",
+      "subparts": [],
+      "page": 16,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "3.1"
+      ],
+      "topic": "Algebra",
+      "answers": {
+        "answer_snippet": "9709/31 Cambridge International A Level \u2013 Mark Scheme May/June 2022 PUBLISHED Question Answer Marks Guidance 2(a) State a correct unsimplified version of the x2 or the x4 term of the expansion of M1 1 \uf0e6 x2 \uf02d2.\uf02d3\uf0e6x2 \uf0f6 2 \uf0f6 \uf028 2\uf02dx2\uf029\uf02d2 or \uf0e6 \uf0e7 1\uf02d 1 x2 \uf0f6 \uf0f7"
+      }
+    },
+    {
+      "question_number": "9",
+      "subparts": [],
+      "page": 16,
+      "marks": 3,
+      "syllabus_outcomes": [
+        "3.7"
+      ],
+      "topic": "Vectors",
+      "answers": {
+        "answer_snippet": "9709/31 Cambridge International A Level \u2013 Mark Scheme May/June 2022 PUBLISHED Question Answer Marks Guidance 3 Use correct trigonometric formulae to form an equation in tanx *M1 1\uf02dtan2 x 3 e.g. \uf02b \uf03d5 tanx tanx Obtain a correct linear equation in any form A1 1\uf02dtan2 x\uf02b3\uf03d5tanx Reduce equation to a"
+      }
+    },
+    {
+      "question_number": "17",
+      "subparts": [],
+      "page": 17,
+      "marks": 4,
+      "syllabus_outcomes": [
+        "3.1"
+      ],
+      "topic": "Algebra",
+      "answers": {
+        "answer_snippet": "Cambridge International A Level MATHEMATICS 9709/31 Paper 3 Pure Mathematics 3 May/June 2022 MARK SCHEME Maximum Mark: 75 Published This mark scheme is published as an aid to teachers and candidates, to indicate the requirements of the examination. It shows the basis on which Examiners were instructed to award marks."
+      }
+    },
+    {
+      "question_number": "6",
+      "subparts": [],
+      "page": 17,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "3.1"
+      ],
+      "topic": "Algebra",
+      "answers": {
+        "answer_snippet": "9709/31 Cambridge International A Level \u2013 Mark Scheme May/June 2022 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptors for a question. Each question paper"
+      }
+    },
+    {
+      "question_number": "18",
+      "subparts": [],
+      "page": 18,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "3.1"
+      ],
+      "topic": "Algebra",
+      "answers": {
+        "answer_snippet": ""
+      }
+    },
+    {
+      "question_number": "10",
+      "subparts": [],
+      "page": 18,
+      "marks": 4,
+      "syllabus_outcomes": [
+        "3.1"
+      ],
+      "topic": "Algebra",
+      "answers": {
+        "answer_snippet": "9709/31 Cambridge International A Level \u2013 Mark Scheme May/June 2022 PUBLISHED Question Answer Marks Guidance 5(a) Substitute x = 2, equate to zero M1 Or divide by x \u2013 2 and equate constant remainder to zero. Obtain a correct equation, e.g. 8a \u2013 40 + 2b + 8 = 0"
+      }
+    },
+    {
+      "question_number": "2",
+      "subparts": [],
+      "page": 18,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "3.1"
+      ],
+      "topic": "Algebra",
+      "answers": {
+        "answer_snippet": "9709/31 Cambridge International A Level \u2013 Mark Scheme May/June 2022 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptors for a question. Each question paper"
+      }
+    },
+    {
+      "question_number": "19",
+      "subparts": [],
+      "page": 19,
+      "marks": 2,
+      "syllabus_outcomes": [
+        "3.6"
+      ],
+      "topic": "Numerical solution of equations",
+      "answers": {
+        "answer_snippet": ""
+      }
+    },
+    {
+      "question_number": "20",
+      "subparts": [],
+      "page": 20,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "3.1"
+      ],
+      "topic": "Algebra",
+      "answers": {
+        "answer_snippet": ""
+      }
+    }
+  ],
+  "statistics": {
+    "total_questions": 36,
+    "total_marks": 67
+  }
+}

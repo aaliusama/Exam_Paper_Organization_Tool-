@@ -1,0 +1,491 @@
+{
+  "exam_info": {
+    "paper_code": "9709/13",
+    "exam_board": "Cambridge International AS & A Level",
+    "subject": "Mathematics",
+    "paper_name": "Paper 1 Pure Mathematics 1",
+    "exam_session": "October/November 2023",
+    "total_marks": 75,
+    "time_allowed": "1 hour 50 minutes",
+    "question_paper": "9709_w23_qp_13.pdf",
+    "mark_scheme": "9709_w23_ms_13.pdf",
+    "syllabus": "697427-2026-2027-syllabus.pdf"
+  },
+  "questions": [
+    {
+      "question_number": "2",
+      "subparts": [],
+      "page": 2,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "1.1"
+      ],
+      "topic": "Quadratics",
+      "answers": {
+        "answer_snippet": "9709/13 Cambridge International AS & A Level \u2013 Mark Scheme October/November 2023 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptors for a question. Each"
+      }
+    },
+    {
+      "question_number": "3",
+      "subparts": [],
+      "page": 3,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "1.1"
+      ],
+      "topic": "Quadratics",
+      "answers": {
+        "answer_snippet": "9709/13 Cambridge International AS & A Level \u2013 Mark Scheme October/November 2023 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptors for a question. Each"
+      }
+    },
+    {
+      "question_number": "1",
+      "subparts": [],
+      "page": 3,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "1.3",
+        "1.7"
+      ],
+      "topic": "Coordinate geometry",
+      "answers": {
+        "answer_snippet": "Cambridge International AS & A Level MATHEMATICS 9709/13 Paper 1 Pure Mathematics 1 October/November 2023 MARK SCHEME Maximum Mark: 75 Published This mark scheme is published as an aid to teachers and candidates, to indicate the requirements of the examination. It shows the basis on which Examiners were instructed to"
+      }
+    },
+    {
+      "question_number": "2",
+      "subparts": [],
+      "page": 3,
+      "marks": 4,
+      "syllabus_outcomes": [
+        "1.1"
+      ],
+      "topic": "Quadratics",
+      "answers": {
+        "answer_snippet": "9709/13 Cambridge International AS & A Level \u2013 Mark Scheme October/November 2023 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptors for a question. Each"
+      }
+    },
+    {
+      "question_number": "4",
+      "subparts": [],
+      "page": 4,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "1.1"
+      ],
+      "topic": "Quadratics",
+      "answers": {
+        "answer_snippet": "9709/13 Cambridge International AS & A Level \u2013 Mark Scheme October/November 2023 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptors for a question. Each"
+      }
+    },
+    {
+      "question_number": "2",
+      "subparts": [],
+      "page": 4,
+      "marks": 2,
+      "syllabus_outcomes": [
+        "1.3",
+        "1.5"
+      ],
+      "topic": "Coordinate geometry",
+      "answers": {
+        "answer_snippet": "9709/13 Cambridge International AS & A Level \u2013 Mark Scheme October/November 2023 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptors for a question. Each"
+      }
+    },
+    {
+      "question_number": "5",
+      "subparts": [
+        "c"
+      ],
+      "page": 5,
+      "marks": 3,
+      "syllabus_outcomes": [
+        "1.5"
+      ],
+      "topic": "Trigonometry",
+      "answers": {
+        "answer_snippet": "9709/13 Cambridge International AS & A Level \u2013 Mark Scheme October/November 2023 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptors for a question. Each"
+      }
+    },
+    {
+      "question_number": "6",
+      "subparts": [],
+      "page": 6,
+      "marks": 1,
+      "syllabus_outcomes": [
+        "1.5"
+      ],
+      "topic": "Trigonometry",
+      "answers": {
+        "answer_snippet": "9709/13 Cambridge International AS & A Level \u2013 Mark Scheme October/November 2023 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptors for a question. Each"
+      }
+    },
+    {
+      "question_number": "7",
+      "subparts": [],
+      "page": 7,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "1.1"
+      ],
+      "topic": "Quadratics",
+      "answers": {
+        "answer_snippet": "9709/13 Cambridge International AS & A Level \u2013 Mark Scheme October/November 2023 PUBLISHED Question Answer Marks Guidance 3(a) 5cos2\uf071\u2212sin2\uf071+cos\uf071 \uf05b=0\uf05d M1 sin\uf071 Multiply by cos\uf071 and replace tan\uf071 by . cos\uf071 5cos2\uf071\u2212 ( 1\u2212cos2\uf071 ) +cos\uf071 \uf05b=0\uf05d M1 6cos2\uf071+cos\uf071\u22121=0 A1 Missing \u2018= 0\u2019 can be condoned if \u2018= 0\u2019 appears"
+      }
+    },
+    {
+      "question_number": "5",
+      "subparts": [],
+      "page": 7,
+      "marks": 3,
+      "syllabus_outcomes": [
+        "1.5"
+      ],
+      "topic": "Trigonometry",
+      "answers": {
+        "answer_snippet": "9709/13 Cambridge International AS & A Level \u2013 Mark Scheme October/November 2023 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptors for a question. Each"
+      }
+    },
+    {
+      "question_number": "8",
+      "subparts": [],
+      "page": 8,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "1.1"
+      ],
+      "topic": "Quadratics",
+      "answers": {
+        "answer_snippet": "9709/13 Cambridge International AS & A Level \u2013 Mark Scheme October/November 2023 PUBLISHED Question Answer Marks Guidance 1 \uf0ec \uf0fc B1 B1 Any unsimplified correct form, ISW for extra terms, \uf0ecx2\uf0fc \uf0ef\u22123x 1 2 \uf0ef allow lists. \uf05by\uf05d= \uf0ed \uf0fd \uf0ed \uf0fd \uf05b+c\uf05d 2 1 \uf0ee \uf0fe \uf0ef \uf0ef \uf0ee"
+      }
+    },
+    {
+      "question_number": "6",
+      "subparts": [],
+      "page": 8,
+      "marks": 7,
+      "syllabus_outcomes": [
+        "1.3",
+        "1.5",
+        "1.7"
+      ],
+      "topic": "Coordinate geometry",
+      "answers": {
+        "answer_snippet": "9709/13 Cambridge International AS & A Level \u2013 Mark Scheme October/November 2023 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptors for a question. Each"
+      }
+    },
+    {
+      "question_number": "9",
+      "subparts": [],
+      "page": 9,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "1.1"
+      ],
+      "topic": "Quadratics",
+      "answers": {
+        "answer_snippet": "9709/13 Cambridge International AS & A Level \u2013 Mark Scheme October/November 2023 PUBLISHED Question Answer Marks Guidance 4(b) 15a2 \u221260a+40=\u22125 M1 A1 Correct 3 products from their expansions for M1. Condone inclusion of x2 for M1. \uf05b15\uf05d(a\u22121)(a\u22123)\uf05b=0\uf05d OE DM1 OE. Rearranging and solving a quadratic. a=1 and 3 A1 Special"
+      }
+    },
+    {
+      "question_number": "3",
+      "subparts": [],
+      "page": 9,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "1.1"
+      ],
+      "topic": "Quadratics",
+      "answers": {
+        "answer_snippet": "9709/13 Cambridge International AS & A Level \u2013 Mark Scheme October/November 2023 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptors for a question. Each"
+      }
+    },
+    {
+      "question_number": "7",
+      "subparts": [],
+      "page": 9,
+      "marks": 1,
+      "syllabus_outcomes": [
+        "1.2"
+      ],
+      "topic": "Functions",
+      "answers": {
+        "answer_snippet": "9709/13 Cambridge International AS & A Level \u2013 Mark Scheme October/November 2023 PUBLISHED Question Answer Marks Guidance 3(a) 5cos2\uf071\u2212sin2\uf071+cos\uf071 \uf05b=0\uf05d M1 sin\uf071 Multiply by cos\uf071 and replace tan\uf071 by . cos\uf071 5cos2\uf071\u2212 ( 1\u2212cos2\uf071 ) +cos\uf071 \uf05b=0\uf05d M1 6cos2\uf071+cos\uf071\u22121=0 A1 Missing \u2018= 0\u2019 can be condoned if \u2018= 0\u2019 appears"
+      }
+    },
+    {
+      "question_number": "10",
+      "subparts": [],
+      "page": 10,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "1.1"
+      ],
+      "topic": "Quadratics",
+      "answers": {
+        "answer_snippet": "9709/13 Cambridge International AS & A Level \u2013 Mark Scheme October/November 2023 PUBLISHED Question Answer Marks Guidance 4(b) 15a2 \u221260a+40=\u22125 M1 A1 Correct 3 products from their expansions for M1. Condone inclusion of x2 for M1. \uf05b15\uf05d(a\u22121)(a\u22123)\uf05b=0\uf05d OE DM1 OE. Rearranging and solving a quadratic. a=1 and 3 A1 Special"
+      }
+    },
+    {
+      "question_number": "8",
+      "subparts": [],
+      "page": 10,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "1.1"
+      ],
+      "topic": "Quadratics",
+      "answers": {
+        "answer_snippet": "9709/13 Cambridge International AS & A Level \u2013 Mark Scheme October/November 2023 PUBLISHED Question Answer Marks Guidance 1 \uf0ec \uf0fc B1 B1 Any unsimplified correct form, ISW for extra terms, \uf0ecx2\uf0fc \uf0ef\u22123x 1 2 \uf0ef allow lists. \uf05by\uf05d= \uf0ed \uf0fd \uf0ed \uf0fd \uf05b+c\uf05d 2 1 \uf0ee \uf0fe \uf0ef \uf0ef \uf0ee"
+      }
+    },
+    {
+      "question_number": "1",
+      "subparts": [],
+      "page": 10,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "1.5"
+      ],
+      "topic": "Trigonometry",
+      "answers": {
+        "answer_snippet": "Cambridge International AS & A Level MATHEMATICS 9709/13 Paper 1 Pure Mathematics 1 October/November 2023 MARK SCHEME Maximum Mark: 75 Published This mark scheme is published as an aid to teachers and candidates, to indicate the requirements of the examination. It shows the basis on which Examiners were instructed to"
+      }
+    },
+    {
+      "question_number": "0",
+      "subparts": [],
+      "page": 10,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "1.1"
+      ],
+      "topic": "Quadratics",
+      "answers": {
+        "answer_snippet": "9709/13 Cambridge International AS & A Level \u2013 Mark Scheme October/November 2023 PUBLISHED Question Answer Marks Guidance 1 \uf0ec \uf0fc B1 B1 Any unsimplified correct form, ISW for extra terms, \uf0ecx2\uf0fc \uf0ef\u22123x 1 2 \uf0ef allow lists. \uf05by\uf05d= \uf0ed \uf0fd \uf0ed \uf0fd \uf05b+c\uf05d 2 1 \uf0ee \uf0fe \uf0ef \uf0ef \uf0ee"
+      }
+    },
+    {
+      "question_number": "3",
+      "subparts": [],
+      "page": 10,
+      "marks": 2,
+      "syllabus_outcomes": [
+        "1.5",
+        "1.7"
+      ],
+      "topic": "Trigonometry",
+      "answers": {
+        "answer_snippet": "9709/13 Cambridge International AS & A Level \u2013 Mark Scheme October/November 2023 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptors for a question. Each"
+      }
+    },
+    {
+      "question_number": "4",
+      "subparts": [],
+      "page": 10,
+      "marks": 3,
+      "syllabus_outcomes": [
+        "1.3",
+        "1.7"
+      ],
+      "topic": "Coordinate geometry",
+      "answers": {
+        "answer_snippet": "9709/13 Cambridge International AS & A Level \u2013 Mark Scheme October/November 2023 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptors for a question. Each"
+      }
+    },
+    {
+      "question_number": "11",
+      "subparts": [],
+      "page": 11,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "1.1"
+      ],
+      "topic": "Quadratics",
+      "answers": {
+        "answer_snippet": "9709/13 Cambridge International AS & A Level \u2013 Mark Scheme October/November 2023 PUBLISHED Question Answer Marks Guidance 6 cx2 +2x\u22123=6x\u2212c leading to cx2\u22124x+(c\u22123) \uf05b=0\uf05d B1 3-term quadratic. 16\u22124c(c\u22123)=0 *M1 Apply b2 \u22124ac=0 (\u2018= 0\u2019 may be implied in subsequent work). Their coefficients must be substituted correctly 4c2\u221212c\u221216 \uf05b=0\uf05d leading to"
+      }
+    },
+    {
+      "question_number": "1",
+      "subparts": [],
+      "page": 11,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "1.1"
+      ],
+      "topic": "Quadratics",
+      "answers": {
+        "answer_snippet": "Cambridge International AS & A Level MATHEMATICS 9709/13 Paper 1 Pure Mathematics 1 October/November 2023 MARK SCHEME Maximum Mark: 75 Published This mark scheme is published as an aid to teachers and candidates, to indicate the requirements of the examination. It shows the basis on which Examiners were instructed to"
+      }
+    },
+    {
+      "question_number": "9",
+      "subparts": [],
+      "page": 11,
+      "marks": 3,
+      "syllabus_outcomes": [
+        "1.7"
+      ],
+      "topic": "Differentiation",
+      "answers": {
+        "answer_snippet": "9709/13 Cambridge International AS & A Level \u2013 Mark Scheme October/November 2023 PUBLISHED Question Answer Marks Guidance 4(b) 15a2 \u221260a+40=\u22125 M1 A1 Correct 3 products from their expansions for M1. Condone inclusion of x2 for M1. \uf05b15\uf05d(a\u22121)(a\u22123)\uf05b=0\uf05d OE DM1 OE. Rearranging and solving a quadratic. a=1 and 3 A1 Special"
+      }
+    },
+    {
+      "question_number": "1",
+      "subparts": [],
+      "page": 11,
+      "marks": 2,
+      "syllabus_outcomes": [
+        "1.3",
+        "1.5",
+        "1.7"
+      ],
+      "topic": "Coordinate geometry",
+      "answers": {
+        "answer_snippet": "Cambridge International AS & A Level MATHEMATICS 9709/13 Paper 1 Pure Mathematics 1 October/November 2023 MARK SCHEME Maximum Mark: 75 Published This mark scheme is published as an aid to teachers and candidates, to indicate the requirements of the examination. It shows the basis on which Examiners were instructed to"
+      }
+    },
+    {
+      "question_number": "12",
+      "subparts": [],
+      "page": 12,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "1.1"
+      ],
+      "topic": "Quadratics",
+      "answers": {
+        "answer_snippet": "9709/13 Cambridge International AS & A Level \u2013 Mark Scheme October/November 2023 PUBLISHED Question Answer Marks Guidance 1 \uf0ec \uf0fc B1 B1 Any unsimplified correct form, ISW for extra terms, \uf0ecx2\uf0fc \uf0ef\u22123x 1 2 \uf0ef allow lists. \uf05by\uf05d= \uf0ed \uf0fd \uf0ed \uf0fd \uf05b+c\uf05d 2 1 \uf0ee \uf0fe \uf0ef \uf0ef \uf0ee"
+      }
+    },
+    {
+      "question_number": "10",
+      "subparts": [],
+      "page": 12,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "1.3",
+        "1.5"
+      ],
+      "topic": "Coordinate geometry",
+      "answers": {
+        "answer_snippet": "9709/13 Cambridge International AS & A Level \u2013 Mark Scheme October/November 2023 PUBLISHED Question Answer Marks Guidance 4(b) 15a2 \u221260a+40=\u22125 M1 A1 Correct 3 products from their expansions for M1. Condone inclusion of x2 for M1. \uf05b15\uf05d(a\u22121)(a\u22123)\uf05b=0\uf05d OE DM1 OE. Rearranging and solving a quadratic. a=1 and 3 A1 Special"
+      }
+    },
+    {
+      "question_number": "2",
+      "subparts": [],
+      "page": 12,
+      "marks": 1,
+      "syllabus_outcomes": [
+        "1.3",
+        "1.4",
+        "1.5"
+      ],
+      "topic": "Coordinate geometry",
+      "answers": {
+        "answer_snippet": "9709/13 Cambridge International AS & A Level \u2013 Mark Scheme October/November 2023 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptors for a question. Each"
+      }
+    },
+    {
+      "question_number": "13",
+      "subparts": [],
+      "page": 13,
+      "marks": 7,
+      "syllabus_outcomes": [
+        "1.1"
+      ],
+      "topic": "Quadratics",
+      "answers": {
+        "answer_snippet": "Cambridge International AS & A Level MATHEMATICS 9709/13 Paper 1 Pure Mathematics 1 October/November 2023 MARK SCHEME Maximum Mark: 75 Published This mark scheme is published as an aid to teachers and candidates, to indicate the requirements of the examination. It shows the basis on which Examiners were instructed to"
+      }
+    },
+    {
+      "question_number": "14",
+      "subparts": [],
+      "page": 14,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "1.1"
+      ],
+      "topic": "Quadratics",
+      "answers": {
+        "answer_snippet": "9709/13 Cambridge International AS & A Level \u2013 Mark Scheme October/November 2023 PUBLISHED Question Answer Marks Guidance 10(c) General guidance for alternative methods Finding any useful sector area of the circle radius, r B1 May be \u2018nested\u2019 in a segment. Finding the area of sector CAB *M1A1 May be \u2018nested\u2019"
+      }
+    },
+    {
+      "question_number": "11",
+      "subparts": [],
+      "page": 14,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "1.1"
+      ],
+      "topic": "Quadratics",
+      "answers": {
+        "answer_snippet": "9709/13 Cambridge International AS & A Level \u2013 Mark Scheme October/November 2023 PUBLISHED Question Answer Marks Guidance 6 cx2 +2x\u22123=6x\u2212c leading to cx2\u22124x+(c\u22123) \uf05b=0\uf05d B1 3-term quadratic. 16\u22124c(c\u22123)=0 *M1 Apply b2 \u22124ac=0 (\u2018= 0\u2019 may be implied in subsequent work). Their coefficients must be substituted correctly 4c2\u221212c\u221216 \uf05b=0\uf05d leading to"
+      }
+    },
+    {
+      "question_number": "2",
+      "subparts": [
+        "x"
+      ],
+      "page": 14,
+      "marks": 4,
+      "syllabus_outcomes": [
+        "1.3"
+      ],
+      "topic": "Coordinate geometry",
+      "answers": {
+        "answer_snippet": "9709/13 Cambridge International AS & A Level \u2013 Mark Scheme October/November 2023 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptors for a question. Each"
+      }
+    },
+    {
+      "question_number": "2",
+      "subparts": [],
+      "page": 14,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "1.1"
+      ],
+      "topic": "Quadratics",
+      "answers": {
+        "answer_snippet": "9709/13 Cambridge International AS & A Level \u2013 Mark Scheme October/November 2023 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptors for a question. Each"
+      }
+    },
+    {
+      "question_number": "15",
+      "subparts": [],
+      "page": 15,
+      "marks": 6,
+      "syllabus_outcomes": [
+        "1.1"
+      ],
+      "topic": "Quadratics",
+      "answers": {
+        "answer_snippet": "Cambridge International AS & A Level MATHEMATICS 9709/13 Paper 1 Pure Mathematics 1 October/November 2023 MARK SCHEME Maximum Mark: 75 Published This mark scheme is published as an aid to teachers and candidates, to indicate the requirements of the examination. It shows the basis on which Examiners were instructed to"
+      }
+    },
+    {
+      "question_number": "16",
+      "subparts": [],
+      "page": 16,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "1.3",
+        "1.6"
+      ],
+      "topic": "Coordinate geometry",
+      "answers": {
+        "answer_snippet": "9709/13 Cambridge International AS & A Level \u2013 Mark Scheme October/November 2023 PUBLISHED Question Answer Marks Guidance 6 cx2 +2x\u22123=6x\u2212c leading to cx2\u22124x+(c\u22123) \uf05b=0\uf05d B1 3-term quadratic. 16\u22124c(c\u22123)=0 *M1 Apply b2 \u22124ac=0 (\u2018= 0\u2019 may be implied in subsequent work). Their coefficients must be substituted correctly 4c2\u221212c\u221216 \uf05b=0\uf05d leading to"
+      }
+    }
+  ],
+  "statistics": {
+    "total_questions": 35,
+    "total_marks": 49
+  }
+}

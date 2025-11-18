@@ -1,0 +1,579 @@
+{
+  "exam_info": {
+    "paper_code": "9709/31",
+    "exam_board": "Cambridge International AS & A Level",
+    "subject": "Mathematics",
+    "paper_name": "Paper 3 Pure Mathematics 3",
+    "exam_session": "May/June 2025",
+    "total_marks": 75,
+    "time_allowed": "1 hour 50 minutes",
+    "question_paper": "9709_s25_qp_31.pdf",
+    "mark_scheme": "9709_s25_ms_31.pdf",
+    "syllabus": "697427-2026-2027-syllabus.pdf"
+  },
+  "questions": [
+    {
+      "question_number": "2",
+      "subparts": [],
+      "page": 2,
+      "marks": 2,
+      "syllabus_outcomes": [
+        "3.1"
+      ],
+      "topic": "Algebra",
+      "answers": {
+        "answer_snippet": "9709/31 Cambridge International A Level \u2013 Mark Scheme May/June 2025 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptions for a question. Each question paper"
+      }
+    },
+    {
+      "question_number": "3",
+      "subparts": [],
+      "page": 3,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "3.1"
+      ],
+      "topic": "Algebra",
+      "answers": {
+        "answer_snippet": "Cambridge International A Level MATHEMATICS 9709/31 Paper 3 Pure Mathematics 3 May/June 2025 MARK SCHEME Maximum Mark: 75 Published This mark scheme is published as an aid to teachers and candidates, to indicate the requirements of the examination. It shows the basis on which Examiners were instructed to award marks."
+      }
+    },
+    {
+      "question_number": "2",
+      "subparts": [],
+      "page": 3,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "3.2"
+      ],
+      "topic": "Logarithmic and exponential functions",
+      "answers": {
+        "answer_snippet": "9709/31 Cambridge International A Level \u2013 Mark Scheme May/June 2025 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptions for a question. Each question paper"
+      }
+    },
+    {
+      "question_number": "2",
+      "subparts": [],
+      "page": 3,
+      "marks": 3,
+      "syllabus_outcomes": [
+        "3.1"
+      ],
+      "topic": "Algebra",
+      "answers": {
+        "answer_snippet": "9709/31 Cambridge International A Level \u2013 Mark Scheme May/June 2025 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptions for a question. Each question paper"
+      }
+    },
+    {
+      "question_number": "4",
+      "subparts": [],
+      "page": 4,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "3.1"
+      ],
+      "topic": "Algebra",
+      "answers": {
+        "answer_snippet": "9709/31 Cambridge International A Level \u2013 Mark Scheme May/June 2025 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptions for a question. Each question paper"
+      }
+    },
+    {
+      "question_number": "3",
+      "subparts": [],
+      "page": 4,
+      "marks": 6,
+      "syllabus_outcomes": [
+        "3.9"
+      ],
+      "topic": "Complex numbers",
+      "answers": {
+        "answer_snippet": "Cambridge International A Level MATHEMATICS 9709/31 Paper 3 Pure Mathematics 3 May/June 2025 MARK SCHEME Maximum Mark: 75 Published This mark scheme is published as an aid to teachers and candidates, to indicate the requirements of the examination. It shows the basis on which Examiners were instructed to award marks."
+      }
+    },
+    {
+      "question_number": "5",
+      "subparts": [],
+      "page": 5,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "3.1"
+      ],
+      "topic": "Algebra",
+      "answers": {
+        "answer_snippet": "9709/31 Cambridge International A Level \u2013 Mark Scheme May/June 2025 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptions for a question. Each question paper"
+      }
+    },
+    {
+      "question_number": "6",
+      "subparts": [],
+      "page": 6,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "3.1"
+      ],
+      "topic": "Algebra",
+      "answers": {
+        "answer_snippet": "9709/31 Cambridge International A Level \u2013 Mark Scheme May/June 2025 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptions for a question. Each question paper"
+      }
+    },
+    {
+      "question_number": "4",
+      "subparts": [],
+      "page": 6,
+      "marks": 6,
+      "syllabus_outcomes": [
+        "3.4"
+      ],
+      "topic": "Differentiation",
+      "answers": {
+        "answer_snippet": "9709/31 Cambridge International A Level \u2013 Mark Scheme May/June 2025 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptions for a question. Each question paper"
+      }
+    },
+    {
+      "question_number": "7",
+      "subparts": [],
+      "page": 7,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "3.1"
+      ],
+      "topic": "Algebra",
+      "answers": {
+        "answer_snippet": "9709/31 Cambridge International A Level \u2013 Mark Scheme May/June 2025 PUBLISHED Mark Scheme Notes The following notes are intended to aid interpretation of mark schemes in general, but individual mark schemes may include marks awarded for specific reasons outside the scope of these notes. Types of mark M Method mark,"
+      }
+    },
+    {
+      "question_number": "8",
+      "subparts": [],
+      "page": 8,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "3.1"
+      ],
+      "topic": "Algebra",
+      "answers": {
+        "answer_snippet": "9709/31 Cambridge International A Level \u2013 Mark Scheme May/June 2025 PUBLISHED Abbreviations AEF/OE Any Equivalent Form (of answer is equally acceptable) / Or Equivalent AG Answer Given on the question paper (so extra checking is needed to ensure that the detailed working leading to the result is valid) CAO Correct"
+      }
+    },
+    {
+      "question_number": "5",
+      "subparts": [],
+      "page": 8,
+      "marks": 5,
+      "syllabus_outcomes": [
+        "3.1"
+      ],
+      "topic": "Algebra",
+      "answers": {
+        "answer_snippet": "9709/31 Cambridge International A Level \u2013 Mark Scheme May/June 2025 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptions for a question. Each question paper"
+      }
+    },
+    {
+      "question_number": "9",
+      "subparts": [],
+      "page": 9,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "3.1"
+      ],
+      "topic": "Algebra",
+      "answers": {
+        "answer_snippet": "9709/31 Cambridge International A Level \u2013 Mark Scheme May/June 2025 PUBLISHED Question Answer Marks Guidance 1(a) B1 Symmetrical. In correct position. y Condone if no complete scale shown, but must see 3 and 3 marked. 2 3 Needs to exist for negative x. Must be intending straight lines. Ignore y=3x\u22121"
+      }
+    },
+    {
+      "question_number": "6",
+      "subparts": [],
+      "page": 9,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "3.1"
+      ],
+      "topic": "Algebra",
+      "answers": {
+        "answer_snippet": "9709/31 Cambridge International A Level \u2013 Mark Scheme May/June 2025 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptions for a question. Each question paper"
+      }
+    },
+    {
+      "question_number": "1",
+      "subparts": [],
+      "page": 9,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "3.1"
+      ],
+      "topic": "Algebra",
+      "answers": {
+        "answer_snippet": "9709/31 Cambridge International A Level \u2013 Mark Scheme May/June 2025 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptions for a question. Each question paper"
+      }
+    },
+    {
+      "question_number": "1",
+      "subparts": [],
+      "page": 9,
+      "marks": 2,
+      "syllabus_outcomes": [
+        "3.9"
+      ],
+      "topic": "Complex numbers",
+      "answers": {
+        "answer_snippet": "9709/31 Cambridge International A Level \u2013 Mark Scheme May/June 2025 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptions for a question. Each question paper"
+      }
+    },
+    {
+      "question_number": "1",
+      "subparts": [],
+      "page": 9,
+      "marks": 2,
+      "syllabus_outcomes": [
+        "3.1"
+      ],
+      "topic": "Algebra",
+      "answers": {
+        "answer_snippet": "9709/31 Cambridge International A Level \u2013 Mark Scheme May/June 2025 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptions for a question. Each question paper"
+      }
+    },
+    {
+      "question_number": "1",
+      "subparts": [],
+      "page": 9,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "3.1"
+      ],
+      "topic": "Algebra",
+      "answers": {
+        "answer_snippet": "9709/31 Cambridge International A Level \u2013 Mark Scheme May/June 2025 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptions for a question. Each question paper"
+      }
+    },
+    {
+      "question_number": "10",
+      "subparts": [],
+      "page": 10,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "3.1"
+      ],
+      "topic": "Algebra",
+      "answers": {
+        "answer_snippet": "9709/31 Cambridge International A Level \u2013 Mark Scheme May/June 2025 PUBLISHED Question Answer Marks Guidance 2 Use logarithm of a root or a power M1 E.g. 2ln p=ln p2, 1ln(q+1)=ln q+1or3=lne3. 2 Obtain p2(p\u22121)=e3 q+1 A1 OE without logs. \uf0e6 p2(p\u22121)\uf0f6 2 A1 OE, ISW Obtain q=\uf0e7 \uf0f7 \u22121 \uf0e8"
+      }
+    },
+    {
+      "question_number": "6",
+      "subparts": [],
+      "page": 10,
+      "marks": 4,
+      "syllabus_outcomes": [
+        "3.1"
+      ],
+      "topic": "Algebra",
+      "answers": {
+        "answer_snippet": "9709/31 Cambridge International A Level \u2013 Mark Scheme May/June 2025 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptions for a question. Each question paper"
+      }
+    },
+    {
+      "question_number": "11",
+      "subparts": [],
+      "page": 11,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "3.1"
+      ],
+      "topic": "Algebra",
+      "answers": {
+        "answer_snippet": "9709/31 Cambridge International A Level \u2013 Mark Scheme May/June 2025 PUBLISHED Question Answer Marks Guidance 3 x+i(y+5) (x\u22125)\u2212iy *M1 Multiply numerator (and denominator) by the \uf0b4 conjugate of the denominator. (x\u22125)+iy (x\u22125)\u2212iy Equate imaginary part of numerator to zero DM1 Numerator =x(x\u22125)+y(y+5)+i ((y+5)(x\u22125)\u2212xy ) . Obtain x\u2212y=5 A1 OE Correct"
+      }
+    },
+    {
+      "question_number": "6",
+      "subparts": [],
+      "page": 11,
+      "marks": 4,
+      "syllabus_outcomes": [
+        "3.1"
+      ],
+      "topic": "Algebra",
+      "answers": {
+        "answer_snippet": "9709/31 Cambridge International A Level \u2013 Mark Scheme May/June 2025 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptions for a question. Each question paper"
+      }
+    },
+    {
+      "question_number": "12",
+      "subparts": [],
+      "page": 12,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "3.1"
+      ],
+      "topic": "Algebra",
+      "answers": {
+        "answer_snippet": "9709/31 Cambridge International A Level \u2013 Mark Scheme May/June 2025 PUBLISHED Question Answer Marks Guidance 4 At (e,3), tant =1 or t= \u03c0 4 B1 SOI dx B1 =sec2t\uf0b4etant dt dy B1 =6tant\uf0b4sec2t dt dy = 6tant\uf0b4sec2t ( =6tant\uf0b4e\u2212tant) *M1 Correct use of their derivatives. dx sec2t\uf0b4etant y\u22123= 6(x\u2212e) DM1"
+      }
+    },
+    {
+      "question_number": "8",
+      "subparts": [],
+      "page": 12,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "3.7"
+      ],
+      "topic": "Vectors",
+      "answers": {
+        "answer_snippet": "9709/31 Cambridge International A Level \u2013 Mark Scheme May/June 2025 PUBLISHED Abbreviations AEF/OE Any Equivalent Form (of answer is equally acceptable) / Or Equivalent AG Answer Given on the question paper (so extra checking is needed to ensure that the detailed working leading to the result is valid) CAO Correct"
+      }
+    },
+    {
+      "question_number": "1",
+      "subparts": [],
+      "page": 12,
+      "marks": 2,
+      "syllabus_outcomes": [
+        "3.7"
+      ],
+      "topic": "Vectors",
+      "answers": {
+        "answer_snippet": "9709/31 Cambridge International A Level \u2013 Mark Scheme May/June 2025 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptions for a question. Each question paper"
+      }
+    },
+    {
+      "question_number": "1",
+      "subparts": [],
+      "page": 12,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "3.1"
+      ],
+      "topic": "Algebra",
+      "answers": {
+        "answer_snippet": "9709/31 Cambridge International A Level \u2013 Mark Scheme May/June 2025 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptions for a question. Each question paper"
+      }
+    },
+    {
+      "question_number": "2",
+      "subparts": [],
+      "page": 12,
+      "marks": 4,
+      "syllabus_outcomes": [
+        "3.3"
+      ],
+      "topic": "Trigonometry",
+      "answers": {
+        "answer_snippet": "9709/31 Cambridge International A Level \u2013 Mark Scheme May/June 2025 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptions for a question. Each question paper"
+      }
+    },
+    {
+      "question_number": "1",
+      "subparts": [],
+      "page": 12,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "3.1"
+      ],
+      "topic": "Algebra",
+      "answers": {
+        "answer_snippet": "9709/31 Cambridge International A Level \u2013 Mark Scheme May/June 2025 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptions for a question. Each question paper"
+      }
+    },
+    {
+      "question_number": "13",
+      "subparts": [],
+      "page": 13,
+      "marks": 3,
+      "syllabus_outcomes": [
+        "3.1"
+      ],
+      "topic": "Algebra",
+      "answers": {
+        "answer_snippet": "9709/31 Cambridge International A Level \u2013 Mark Scheme May/June 2025 PUBLISHED Question Answer Marks Guidance 4 y= 6x\u22123 A1 Or exact equivalent. e 6 Question Answer Marks Guidance 5 Use f(\u22122a)=\u221222a3 M1 Or use long division and equate a constant remainder to \u221222a3. Obtain \u221224a3 +4pa3 \u221214a3 +qa3 =\u221222a3 A1"
+      }
+    },
+    {
+      "question_number": "1",
+      "subparts": [],
+      "page": 13,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "3.1"
+      ],
+      "topic": "Algebra",
+      "answers": {
+        "answer_snippet": "9709/31 Cambridge International A Level \u2013 Mark Scheme May/June 2025 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptions for a question. Each question paper"
+      }
+    },
+    {
+      "question_number": "14",
+      "subparts": [],
+      "page": 14,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "3.1"
+      ],
+      "topic": "Algebra",
+      "answers": {
+        "answer_snippet": "9709/31 Cambridge International A Level \u2013 Mark Scheme May/June 2025 PUBLISHED Question Answer Marks Guidance 6(a) Obtain \uf077z 1 =6ei3 4 \u03c0 B1 Obtain \uf077z 2 =3ei2 3 \u03c0 B1 SC B1 for both moduli correct or both arguments correct. 2 6(b) A and B plotted correctly B1 Im(z) C"
+      }
+    },
+    {
+      "question_number": "9",
+      "subparts": [],
+      "page": 14,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "3.2"
+      ],
+      "topic": "Logarithmic and exponential functions",
+      "answers": {
+        "answer_snippet": "9709/31 Cambridge International A Level \u2013 Mark Scheme May/June 2025 PUBLISHED Question Answer Marks Guidance 1(a) B1 Symmetrical. In correct position. y Condone if no complete scale shown, but must see 3 and 3 marked. 2 3 Needs to exist for negative x. Must be intending straight lines. Ignore y=3x\u22121"
+      }
+    },
+    {
+      "question_number": "1",
+      "subparts": [],
+      "page": 14,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "3.1"
+      ],
+      "topic": "Algebra",
+      "answers": {
+        "answer_snippet": "9709/31 Cambridge International A Level \u2013 Mark Scheme May/June 2025 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptions for a question. Each question paper"
+      }
+    },
+    {
+      "question_number": "1",
+      "subparts": [],
+      "page": 14,
+      "marks": 5,
+      "syllabus_outcomes": [
+        "3.1"
+      ],
+      "topic": "Algebra",
+      "answers": {
+        "answer_snippet": "9709/31 Cambridge International A Level \u2013 Mark Scheme May/June 2025 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptions for a question. Each question paper"
+      }
+    },
+    {
+      "question_number": "15",
+      "subparts": [],
+      "page": 15,
+      "marks": 2,
+      "syllabus_outcomes": [
+        "3.6"
+      ],
+      "topic": "Numerical solution of equations",
+      "answers": {
+        "answer_snippet": "9709/31 Cambridge International A Level \u2013 Mark Scheme May/June 2025 PUBLISHED Question Answer Marks Guidance 7(a) \uf0e6 \uf070\uf0f6 B1 Or exact 2 term equivalent. Expand 5sin \uf0e7 \uf0e8 x+ 6 \uf0f7 \uf0f8 \u22124cosx to obtain 5 2 3sinx\u2212 2 3cosx State R= 21 B1ft Follow their 5 3and 3. 2"
+      }
+    },
+    {
+      "question_number": "16",
+      "subparts": [],
+      "page": 16,
+      "marks": 5,
+      "syllabus_outcomes": [
+        "3.8"
+      ],
+      "topic": "Differential equations",
+      "answers": {
+        "answer_snippet": "9709/31 Cambridge International A Level \u2013 Mark Scheme May/June 2025 PUBLISHED Question Answer Marks Guidance 4 y= 6x\u22123 A1 Or exact equivalent. e 6 Question Answer Marks Guidance 5 Use f(\u22122a)=\u221222a3 M1 Or use long division and equate a constant remainder to \u221222a3. Obtain \u221224a3 +4pa3 \u221214a3 +qa3 =\u221222a3 A1"
+      }
+    },
+    {
+      "question_number": "17",
+      "subparts": [],
+      "page": 17,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "3.1"
+      ],
+      "topic": "Algebra",
+      "answers": {
+        "answer_snippet": "9709/31 Cambridge International A Level \u2013 Mark Scheme May/June 2025 PUBLISHED Question Answer Marks Guidance 3 x+i(y+5) (x\u22125)\u2212iy *M1 Multiply numerator (and denominator) by the \uf0b4 conjugate of the denominator. (x\u22125)+iy (x\u22125)\u2212iy Equate imaginary part of numerator to zero DM1 Numerator =x(x\u22125)+y(y+5)+i ((y+5)(x\u22125)\u2212xy ) . Obtain x\u2212y=5 A1 OE Correct"
+      }
+    },
+    {
+      "question_number": "18",
+      "subparts": [],
+      "page": 18,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "3.1"
+      ],
+      "topic": "Algebra",
+      "answers": {
+        "answer_snippet": "9709/31 Cambridge International A Level \u2013 Mark Scheme May/June 2025 PUBLISHED Question Answer Marks Guidance 8(a) Use a correct method to form an equation for l M1 Accept column vectors. 1 Obtainr=(2i+4k)+\uf06c(3i+j+2k) A1 OE, e.g. r=(5i+j+6k)+\uf06c(3i+j+2k). Must have r = \u2026, or in x, y, z or R = \u2026."
+      }
+    },
+    {
+      "question_number": "11",
+      "subparts": [],
+      "page": 18,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "3.1"
+      ],
+      "topic": "Algebra",
+      "answers": {
+        "answer_snippet": "9709/31 Cambridge International A Level \u2013 Mark Scheme May/June 2025 PUBLISHED Question Answer Marks Guidance 3 x+i(y+5) (x\u22125)\u2212iy *M1 Multiply numerator (and denominator) by the \uf0b4 conjugate of the denominator. (x\u22125)+iy (x\u22125)\u2212iy Equate imaginary part of numerator to zero DM1 Numerator =x(x\u22125)+y(y+5)+i ((y+5)(x\u22125)\u2212xy ) . Obtain x\u2212y=5 A1 OE Correct"
+      }
+    },
+    {
+      "question_number": "2",
+      "subparts": [],
+      "page": 18,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "3.1"
+      ],
+      "topic": "Algebra",
+      "answers": {
+        "answer_snippet": "9709/31 Cambridge International A Level \u2013 Mark Scheme May/June 2025 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptions for a question. Each question paper"
+      }
+    },
+    {
+      "question_number": "2",
+      "subparts": [],
+      "page": 18,
+      "marks": 6,
+      "syllabus_outcomes": [
+        "3.1"
+      ],
+      "topic": "Algebra",
+      "answers": {
+        "answer_snippet": "9709/31 Cambridge International A Level \u2013 Mark Scheme May/June 2025 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptions for a question. Each question paper"
+      }
+    },
+    {
+      "question_number": "19",
+      "subparts": [],
+      "page": 19,
+      "marks": 5,
+      "syllabus_outcomes": [
+        "3.1"
+      ],
+      "topic": "Algebra",
+      "answers": {
+        "answer_snippet": "9709/31 Cambridge International A Level \u2013 Mark Scheme May/June 2025 PUBLISHED Question Answer Marks Guidance 10(a) Divide by ( x2 \u22123 ) to obtain x+k (k \uf0b90) M1 x +5 x2 \u22123 x3 +5x2 \u22122x \u221215 x3 \u22123x +5x2 +x +5x2 \u221215 x Obtain quotient x+5 A1 Obtain remainder x"
+      }
+    },
+    {
+      "question_number": "20",
+      "subparts": [],
+      "page": 20,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "3.1"
+      ],
+      "topic": "Algebra",
+      "answers": {
+        "answer_snippet": "9709/31 Cambridge International A Level \u2013 Mark Scheme May/June 2025 PUBLISHED Question Answer Marks Guidance 10(b) Separate variables correctly and obtain \uf0f26ydy=3y2 B1 \uf0f3 x3 +5x2 \u22122x\u221215 OE from \uf0f26ydy=\uf0f4 dx. \uf0f4 x2 \u22123 \uf0f5 Obtain 1x2 +5x B1ft Follow their linear quotient. 2 Obtain 1ln ( x2 \u22123 )"
+      }
+    }
+  ],
+  "statistics": {
+    "total_questions": 43,
+    "total_marks": 66
+  }
+}

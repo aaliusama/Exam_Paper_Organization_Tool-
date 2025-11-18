@@ -1,0 +1,397 @@
+{
+  "exam_info": {
+    "paper_code": "9709/32",
+    "exam_board": "Cambridge International AS & A Level",
+    "subject": "Mathematics",
+    "paper_name": "Paper 3 Pure Mathematics 3",
+    "exam_session": "February/March 2024",
+    "total_marks": 75,
+    "time_allowed": "1 hour 50 minutes",
+    "question_paper": "9709_m24_qp_32.pdf",
+    "mark_scheme": "9709_m24_ms_32.pdf",
+    "syllabus": "697427-2026-2027-syllabus.pdf"
+  },
+  "questions": [
+    {
+      "question_number": "2",
+      "subparts": [],
+      "page": 2,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "3.1"
+      ],
+      "topic": "Algebra",
+      "answers": {
+        "answer_snippet": "9709/32 Cambridge International A Level \u2013 Mark Scheme February/March 2024 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptions for a question. Each question paper"
+      }
+    },
+    {
+      "question_number": "3",
+      "subparts": [],
+      "page": 3,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "3.1"
+      ],
+      "topic": "Algebra",
+      "answers": {
+        "answer_snippet": "Cambridge International A Level MATHEMATICS 9709/32 Paper 3 Pure Mathematics 3 February/March 2024 MARK SCHEME Maximum Mark: 75 Published This mark scheme is published as an aid to teachers and candidates, to indicate the requirements of the examination. It shows the basis on which Examiners were instructed to award marks."
+      }
+    },
+    {
+      "question_number": "1",
+      "subparts": [],
+      "page": 3,
+      "marks": 3,
+      "syllabus_outcomes": [
+        "3.1"
+      ],
+      "topic": "Algebra",
+      "answers": {
+        "answer_snippet": "9709/32 Cambridge International A Level \u2013 Mark Scheme February/March 2024 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptions for a question. Each question paper"
+      }
+    },
+    {
+      "question_number": "4",
+      "subparts": [],
+      "page": 4,
+      "marks": 1,
+      "syllabus_outcomes": [
+        "3.1"
+      ],
+      "topic": "Algebra",
+      "answers": {
+        "answer_snippet": "9709/32 Cambridge International A Level \u2013 Mark Scheme February/March 2024 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptions for a question. Each question paper"
+      }
+    },
+    {
+      "question_number": "5",
+      "subparts": [],
+      "page": 5,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "3.1"
+      ],
+      "topic": "Algebra",
+      "answers": {
+        "answer_snippet": "9709/32 Cambridge International A Level \u2013 Mark Scheme February/March 2024 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptions for a question. Each question paper"
+      }
+    },
+    {
+      "question_number": "3",
+      "subparts": [],
+      "page": 5,
+      "marks": 3,
+      "syllabus_outcomes": [
+        "3.9"
+      ],
+      "topic": "Complex numbers",
+      "answers": {
+        "answer_snippet": "Cambridge International A Level MATHEMATICS 9709/32 Paper 3 Pure Mathematics 3 February/March 2024 MARK SCHEME Maximum Mark: 75 Published This mark scheme is published as an aid to teachers and candidates, to indicate the requirements of the examination. It shows the basis on which Examiners were instructed to award marks."
+      }
+    },
+    {
+      "question_number": "6",
+      "subparts": [],
+      "page": 6,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "3.1"
+      ],
+      "topic": "Algebra",
+      "answers": {
+        "answer_snippet": "9709/32 Cambridge International A Level \u2013 Mark Scheme February/March 2024 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptions for a question. Each question paper"
+      }
+    },
+    {
+      "question_number": "4",
+      "subparts": [],
+      "page": 6,
+      "marks": 4,
+      "syllabus_outcomes": [
+        "3.2"
+      ],
+      "topic": "Logarithmic and exponential functions",
+      "answers": {
+        "answer_snippet": "9709/32 Cambridge International A Level \u2013 Mark Scheme February/March 2024 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptions for a question. Each question paper"
+      }
+    },
+    {
+      "question_number": "7",
+      "subparts": [],
+      "page": 7,
+      "marks": 4,
+      "syllabus_outcomes": [
+        "3.1"
+      ],
+      "topic": "Algebra",
+      "answers": {
+        "answer_snippet": "9709/32 Cambridge International A Level \u2013 Mark Scheme February/March 2024 PUBLISHED Question Answer Marks Guidance 1 Commence division and reach partial quotient of the form x2 \u00b13x M1 or x4 \u22123x3 +9x2 \u221212x+27= ( x2 +5 )( Ax2 +Bx+C ) +Dx+E or Ax4 + Bx3 + (5A + C)x2 +"
+      }
+    },
+    {
+      "question_number": "8",
+      "subparts": [],
+      "page": 8,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "3.1"
+      ],
+      "topic": "Algebra",
+      "answers": {
+        "answer_snippet": "9709/32 Cambridge International A Level \u2013 Mark Scheme February/March 2024 PUBLISHED Question Answer Marks Guidance 3(a) Obtain r =4 B1 z = ( ( \u2212 3 )2 +12 ) so r = z 2 = ( \u2212 3 )2 +12. Correct method for the argument M1 \uf8eb\u2212 3\uf8f6 5\u03c0 \u03b8=2tan\u22121\uf8ec"
+      }
+    },
+    {
+      "question_number": "6",
+      "subparts": [],
+      "page": 8,
+      "marks": 4,
+      "syllabus_outcomes": [
+        "3.1"
+      ],
+      "topic": "Algebra",
+      "answers": {
+        "answer_snippet": "9709/32 Cambridge International A Level \u2013 Mark Scheme February/March 2024 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptions for a question. Each question paper"
+      }
+    },
+    {
+      "question_number": "9",
+      "subparts": [],
+      "page": 9,
+      "marks": 3,
+      "syllabus_outcomes": [
+        "3.1"
+      ],
+      "topic": "Algebra",
+      "answers": {
+        "answer_snippet": "9709/32 Cambridge International A Level \u2013 Mark Scheme February/March 2024 PUBLISHED Question Answer Marks Guidance 1 Commence division and reach partial quotient of the form x2 \u00b13x M1 or x4 \u22123x3 +9x2 \u221212x+27= ( x2 +5 )( Ax2 +Bx+C ) +Dx+E or Ax4 + Bx3 + (5A + C)x2 +"
+      }
+    },
+    {
+      "question_number": "10",
+      "subparts": [],
+      "page": 10,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "3.1"
+      ],
+      "topic": "Algebra",
+      "answers": {
+        "answer_snippet": "9709/32 Cambridge International A Level \u2013 Mark Scheme February/March 2024 PUBLISHED Question Answer Marks Guidance 5(a) Show a circle with centre 4+2i B1 Im(z) Show a circle with radius 3 and centre not at the origin B1 Show the straight line Re(z)=5 B1 2i Shade the correct region B1 Allow"
+      }
+    },
+    {
+      "question_number": "7",
+      "subparts": [],
+      "page": 10,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "3.1"
+      ],
+      "topic": "Algebra",
+      "answers": {
+        "answer_snippet": "9709/32 Cambridge International A Level \u2013 Mark Scheme February/March 2024 PUBLISHED Question Answer Marks Guidance 1 Commence division and reach partial quotient of the form x2 \u00b13x M1 or x4 \u22123x3 +9x2 \u221212x+27= ( x2 +5 )( Ax2 +Bx+C ) +Dx+E or Ax4 + Bx3 + (5A + C)x2 +"
+      }
+    },
+    {
+      "question_number": "1",
+      "subparts": [],
+      "page": 10,
+      "marks": 3,
+      "syllabus_outcomes": [
+        "3.2"
+      ],
+      "topic": "Logarithmic and exponential functions",
+      "answers": {
+        "answer_snippet": "9709/32 Cambridge International A Level \u2013 Mark Scheme February/March 2024 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptions for a question. Each question paper"
+      }
+    },
+    {
+      "question_number": "11",
+      "subparts": [],
+      "page": 11,
+      "marks": 2,
+      "syllabus_outcomes": [
+        "3.6"
+      ],
+      "topic": "Numerical solution of equations",
+      "answers": {
+        "answer_snippet": "9709/32 Cambridge International A Level \u2013 Mark Scheme February/March 2024 PUBLISHED Question Answer Marks Guidance 6(a) State or imply 4ydy as the derivative of 2y2 B1 SC If dy introduced instead of d then allow B1 dx dx dx for both, followed by correct method M1 Max 2. State or"
+      }
+    },
+    {
+      "question_number": "12",
+      "subparts": [],
+      "page": 12,
+      "marks": 4,
+      "syllabus_outcomes": [
+        "3.1"
+      ],
+      "topic": "Algebra",
+      "answers": {
+        "answer_snippet": "9709/32 Cambridge International A Level \u2013 Mark Scheme February/March 2024 PUBLISHED Question Answer Marks Guidance 1 Commence division and reach partial quotient of the form x2 \u00b13x M1 or x4 \u22123x3 +9x2 \u221212x+27= ( x2 +5 )( Ax2 +Bx+C ) +Dx+E or Ax4 + Bx3 + (5A + C)x2 +"
+      }
+    },
+    {
+      "question_number": "13",
+      "subparts": [],
+      "page": 13,
+      "marks": 5,
+      "syllabus_outcomes": [
+        "3.1"
+      ],
+      "topic": "Algebra",
+      "answers": {
+        "answer_snippet": "9709/32 Cambridge International A Level \u2013 Mark Scheme February/March 2024 PUBLISHED Question Answer Marks Guidance 4 Obtain ln p\u2212lnq=a B1 p = ea. q Obtain ln p+2lnq=b B1 pq2 = eb. Completed method to obtain ln ( p7q ) M1 b\u2212a 2a+b E.g. lnq= , ln p= 3 3 and"
+      }
+    },
+    {
+      "question_number": "14",
+      "subparts": [],
+      "page": 14,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "3.1"
+      ],
+      "topic": "Algebra",
+      "answers": {
+        "answer_snippet": "9709/32 Cambridge International A Level \u2013 Mark Scheme February/March 2024 PUBLISHED Question Answer Marks Guidance \uf075\uf075\uf075\uf072 \uf075\uf075\uf075\uf072 9(a) Find the scalar product of a pair of adjacent sides M1 OA = (5, \u2212 2, 1), OB = (8, 2, \u2212 6), \uf075\uf075\uf075\uf072 \uf075\uf075\uf075\uf072 OC = (3, 4, \u22127), CB ="
+      }
+    },
+    {
+      "question_number": "9",
+      "subparts": [],
+      "page": 14,
+      "marks": 4,
+      "syllabus_outcomes": [
+        "3.7"
+      ],
+      "topic": "Vectors",
+      "answers": {
+        "answer_snippet": "9709/32 Cambridge International A Level \u2013 Mark Scheme February/March 2024 PUBLISHED Question Answer Marks Guidance 1 Commence division and reach partial quotient of the form x2 \u00b13x M1 or x4 \u22123x3 +9x2 \u221212x+27= ( x2 +5 )( Ax2 +Bx+C ) +Dx+E or Ax4 + Bx3 + (5A + C)x2 +"
+      }
+    },
+    {
+      "question_number": "15",
+      "subparts": [],
+      "page": 15,
+      "marks": 4,
+      "syllabus_outcomes": [
+        "3.7"
+      ],
+      "topic": "Vectors",
+      "answers": {
+        "answer_snippet": "9709/32 Cambridge International A Level \u2013 Mark Scheme February/March 2024 PUBLISHED Question Answer Marks Guidance \uf075\uf075\uf075\uf072 \uf075\uf075\uf075\uf072 9(a) Find the scalar product of a pair of adjacent sides M1 OA = (5, \u2212 2, 1), OB = (8, 2, \u2212 6), \uf075\uf075\uf075\uf072 \uf075\uf075\uf075\uf072 OC = (3, 4, \u22127), CB ="
+      }
+    },
+    {
+      "question_number": "16",
+      "subparts": [],
+      "page": 16,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "3.1"
+      ],
+      "topic": "Algebra",
+      "answers": {
+        "answer_snippet": "9709/32 Cambridge International A Level \u2013 Mark Scheme February/March 2024 PUBLISHED Question Answer Marks Guidance \uf075\uf075\uf075\uf072 9(b) \uf075\uf075\uf075\uf072 AC B1 Seen or implied using diagonals. AC =\u00b1(\u22122i+6j\u22128k) or =\u00b1(\u22121i+3j\u22124k ) 2 \uf075\uf075\uf075\uf072\uf075\uf075\uf075\uf072 Scalar product of a pair of relevant vectors M1 e.g. AC.OB=\u221216+12+48. Using the correct process for the moduli,"
+      }
+    },
+    {
+      "question_number": "10",
+      "subparts": [],
+      "page": 16,
+      "marks": 5,
+      "syllabus_outcomes": [
+        "3.1"
+      ],
+      "topic": "Algebra",
+      "answers": {
+        "answer_snippet": "9709/32 Cambridge International A Level \u2013 Mark Scheme February/March 2024 PUBLISHED Question Answer Marks Guidance 5(a) Show a circle with centre 4+2i B1 Im(z) Show a circle with radius 3 and centre not at the origin B1 Show the straight line Re(z)=5 B1 2i Shade the correct region B1 Allow"
+      }
+    },
+    {
+      "question_number": "17",
+      "subparts": [],
+      "page": 17,
+      "marks": 5,
+      "syllabus_outcomes": [
+        "3.2"
+      ],
+      "topic": "Logarithmic and exponential functions",
+      "answers": {
+        "answer_snippet": "9709/32 Cambridge International A Level \u2013 Mark Scheme February/March 2024 PUBLISHED Question Answer Marks Guidance 6(a) State or imply 4ydy as the derivative of 2y2 B1 SC If dy introduced instead of d then allow B1 dx dx dx for both, followed by correct method M1 Max 2. State or"
+      }
+    },
+    {
+      "question_number": "18",
+      "subparts": [],
+      "page": 18,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "3.1"
+      ],
+      "topic": "Algebra",
+      "answers": {
+        "answer_snippet": "Cambridge International A Level MATHEMATICS 9709/32 Paper 3 Pure Mathematics 3 February/March 2024 MARK SCHEME Maximum Mark: 75 Published This mark scheme is published as an aid to teachers and candidates, to indicate the requirements of the examination. It shows the basis on which Examiners were instructed to award marks."
+      }
+    },
+    {
+      "question_number": "11",
+      "subparts": [],
+      "page": 18,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "3.8"
+      ],
+      "topic": "Differential equations",
+      "answers": {
+        "answer_snippet": "9709/32 Cambridge International A Level \u2013 Mark Scheme February/March 2024 PUBLISHED Question Answer Marks Guidance 6(a) State or imply 4ydy as the derivative of 2y2 B1 SC If dy introduced instead of d then allow B1 dx dx dx for both, followed by correct method M1 Max 2. State or"
+      }
+    },
+    {
+      "question_number": "4",
+      "subparts": [],
+      "page": 18,
+      "marks": 9,
+      "syllabus_outcomes": [
+        "3.8"
+      ],
+      "topic": "Differential equations",
+      "answers": {
+        "answer_snippet": "9709/32 Cambridge International A Level \u2013 Mark Scheme February/March 2024 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptions for a question. Each question paper"
+      }
+    },
+    {
+      "question_number": "19",
+      "subparts": [],
+      "page": 19,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "3.1"
+      ],
+      "topic": "Algebra",
+      "answers": {
+        "answer_snippet": ""
+      }
+    },
+    {
+      "question_number": "20",
+      "subparts": [],
+      "page": 20,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "3.1"
+      ],
+      "topic": "Algebra",
+      "answers": {
+        "answer_snippet": "9709/32 Cambridge International A Level \u2013 Mark Scheme February/March 2024 PUBLISHED Question Answer Marks Guidance 1 Commence division and reach partial quotient of the form x2 \u00b13x M1 or x4 \u22123x3 +9x2 \u221212x+27= ( x2 +5 )( Ax2 +Bx+C ) +Dx+E or Ax4 + Bx3 + (5A + C)x2 +"
+      }
+    }
+  ],
+  "statistics": {
+    "total_questions": 29,
+    "total_marks": 63
+  }
+}

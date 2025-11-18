@@ -1,0 +1,347 @@
+{
+  "exam_info": {
+    "paper_code": "9709/62",
+    "exam_board": "Cambridge International AS & A Level",
+    "subject": "Mathematics",
+    "paper_name": "Paper 6 Probability & Statistics 2",
+    "exam_session": "February/March 2023",
+    "total_marks": 50,
+    "time_allowed": "1 hour 15 minutes",
+    "question_paper": "9709_m23_qp_62.pdf",
+    "mark_scheme": "9709_m23_ms_62.pdf",
+    "syllabus": "697427-2026-2027-syllabus.pdf"
+  },
+  "questions": [
+    {
+      "question_number": "2",
+      "subparts": [],
+      "page": 2,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "6.1"
+      ],
+      "topic": "The Poisson distribution",
+      "answers": {
+        "answer_snippet": "Cambridge International A Level MATHEMATICS 9709/62 Paper 6 Probability and Statistics 2 February/March 2023 MARK SCHEME Maximum Mark: 50 Published This mark scheme is published as an aid to teachers and candidates, to indicate the requirements of the examination. It shows the basis on which Examiners were instructed to award"
+      }
+    },
+    {
+      "question_number": "3",
+      "subparts": [],
+      "page": 3,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "6.1"
+      ],
+      "topic": "The Poisson distribution",
+      "answers": {
+        "answer_snippet": "9709/62 Cambridge International A Level \u2013 Mark Scheme February/March 2023 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptors for a question. Each question paper"
+      }
+    },
+    {
+      "question_number": "1",
+      "subparts": [],
+      "page": 3,
+      "marks": 3,
+      "syllabus_outcomes": [
+        "6.4"
+      ],
+      "topic": "Sampling and estimation",
+      "answers": {
+        "answer_snippet": "9709/62 Cambridge International A Level \u2013 Mark Scheme February/March 2023 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptors for a question. Each question paper"
+      }
+    },
+    {
+      "question_number": "4",
+      "subparts": [],
+      "page": 4,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "6.1"
+      ],
+      "topic": "The Poisson distribution",
+      "answers": {
+        "answer_snippet": "9709/62 Cambridge International A Level \u2013 Mark Scheme February/March 2023 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptors for a question. Each question paper"
+      }
+    },
+    {
+      "question_number": "2",
+      "subparts": [],
+      "page": 4,
+      "marks": 2,
+      "syllabus_outcomes": [
+        "6.1"
+      ],
+      "topic": "The Poisson distribution",
+      "answers": {
+        "answer_snippet": "Cambridge International A Level MATHEMATICS 9709/62 Paper 6 Probability and Statistics 2 February/March 2023 MARK SCHEME Maximum Mark: 50 Published This mark scheme is published as an aid to teachers and candidates, to indicate the requirements of the examination. It shows the basis on which Examiners were instructed to award"
+      }
+    },
+    {
+      "question_number": "5",
+      "subparts": [],
+      "page": 5,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "6.1"
+      ],
+      "topic": "The Poisson distribution",
+      "answers": {
+        "answer_snippet": "9709/62 Cambridge International A Level \u2013 Mark Scheme February/March 2023 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptors for a question. Each question paper"
+      }
+    },
+    {
+      "question_number": "36",
+      "subparts": [],
+      "page": 5,
+      "marks": 4,
+      "syllabus_outcomes": [
+        "6.1"
+      ],
+      "topic": "The Poisson distribution",
+      "answers": {
+        "answer_snippet": ""
+      }
+    },
+    {
+      "question_number": "6",
+      "subparts": [],
+      "page": 6,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "6.1"
+      ],
+      "topic": "The Poisson distribution",
+      "answers": {
+        "answer_snippet": "Cambridge International A Level MATHEMATICS 9709/62 Paper 6 Probability and Statistics 2 February/March 2023 MARK SCHEME Maximum Mark: 50 Published This mark scheme is published as an aid to teachers and candidates, to indicate the requirements of the examination. It shows the basis on which Examiners were instructed to award"
+      }
+    },
+    {
+      "question_number": "3",
+      "subparts": [],
+      "page": 6,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "6.1"
+      ],
+      "topic": "The Poisson distribution",
+      "answers": {
+        "answer_snippet": "9709/62 Cambridge International A Level \u2013 Mark Scheme February/March 2023 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptors for a question. Each question paper"
+      }
+    },
+    {
+      "question_number": "0",
+      "subparts": [],
+      "page": 6,
+      "marks": 2,
+      "syllabus_outcomes": [
+        "6.1"
+      ],
+      "topic": "The Poisson distribution",
+      "answers": {
+        "answer_snippet": "9709/62 Cambridge International A Level \u2013 Mark Scheme February/March 2023 PUBLISHED Question Answer Marks Guidance 1(a) \uf0e949 =0.35\uf0f9 \uf0eb140 \uf0fb 0.35 \u00b1 z 0.35(1\u22120.35) M1 Use of formula of correct form, ft their 1 4 4 9 0 , any z (not a 140 probability). z = 2.326 B1 Accept"
+      }
+    },
+    {
+      "question_number": "7",
+      "subparts": [],
+      "page": 7,
+      "marks": 3,
+      "syllabus_outcomes": [
+        "6.1"
+      ],
+      "topic": "The Poisson distribution",
+      "answers": {
+        "answer_snippet": "9709/62 Cambridge International A Level \u2013 Mark Scheme February/March 2023 PUBLISHED Question Answer Marks Guidance 2(b)(i) \u03bb = 3 \u00d7 25.2 [= 9.45] B1 8 e\u2013\u20199.45\u2019(9.453 +9.454 +9.455 ) or e\u2013\u20189.45\u2019 (140.65 + 332.29 + 628.03) or 0.01107 + M1 Allow any \u03bb. Allow end errors. 3! 4! 5! Expression"
+      }
+    },
+    {
+      "question_number": "81",
+      "subparts": [],
+      "page": 7,
+      "marks": 3,
+      "syllabus_outcomes": [
+        "6.1"
+      ],
+      "topic": "The Poisson distribution",
+      "answers": {
+        "answer_snippet": "9709/62 Cambridge International A Level \u2013 Mark Scheme February/March 2023 PUBLISHED Question Answer Marks Guidance 3(a) 1 \u2013 2(a + b) or 1 \u2013 2a or 0.5 \u2212 a \u2013 b or 1-(a+b) or a+a+b M1 OE. Seen or implied \u2013 may be on the diagram (or for correct un-simplified"
+      }
+    },
+    {
+      "question_number": "8",
+      "subparts": [],
+      "page": 8,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "6.1"
+      ],
+      "topic": "The Poisson distribution",
+      "answers": {
+        "answer_snippet": "9709/62 Cambridge International A Level \u2013 Mark Scheme February/March 2023 PUBLISHED Question Answer Marks Guidance 2(b)(i) \u03bb = 3 \u00d7 25.2 [= 9.45] B1 8 e\u2013\u20199.45\u2019(9.453 +9.454 +9.455 ) or e\u2013\u20189.45\u2019 (140.65 + 332.29 + 628.03) or 0.01107 + M1 Allow any \u03bb. Allow end errors. 3! 4! 5! Expression"
+      }
+    },
+    {
+      "question_number": "9",
+      "subparts": [],
+      "page": 9,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "6.1"
+      ],
+      "topic": "The Poisson distribution",
+      "answers": {
+        "answer_snippet": "9709/62 Cambridge International A Level \u2013 Mark Scheme February/March 2023 PUBLISHED Question Answer Marks Guidance 1(a) \uf0e949 =0.35\uf0f9 \uf0eb140 \uf0fb 0.35 \u00b1 z 0.35(1\u22120.35) M1 Use of formula of correct form, ft their 1 4 4 9 0 , any z (not a 140 probability). z = 2.326 B1 Accept"
+      }
+    },
+    {
+      "question_number": "4",
+      "subparts": [],
+      "page": 9,
+      "marks": 2,
+      "syllabus_outcomes": [
+        "6.5"
+      ],
+      "topic": "Hypothesis tests",
+      "answers": {
+        "answer_snippet": "9709/62 Cambridge International A Level \u2013 Mark Scheme February/March 2023 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptors for a question. Each question paper"
+      }
+    },
+    {
+      "question_number": "10",
+      "subparts": [],
+      "page": 10,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "6.1"
+      ],
+      "topic": "The Poisson distribution",
+      "answers": {
+        "answer_snippet": "9709/62 Cambridge International A Level \u2013 Mark Scheme February/March 2023 PUBLISHED Question Answer Marks Guidance 3(a) 1 \u2013 2(a + b) or 1 \u2013 2a or 0.5 \u2212 a \u2013 b or 1-(a+b) or a+a+b M1 OE. Seen or implied \u2013 may be on the diagram (or for correct un-simplified"
+      }
+    },
+    {
+      "question_number": "5",
+      "subparts": [],
+      "page": 10,
+      "marks": 5,
+      "syllabus_outcomes": [
+        "6.1"
+      ],
+      "topic": "The Poisson distribution",
+      "answers": {
+        "answer_snippet": "9709/62 Cambridge International A Level \u2013 Mark Scheme February/March 2023 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptors for a question. Each question paper"
+      }
+    },
+    {
+      "question_number": "11",
+      "subparts": [],
+      "page": 11,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "6.1"
+      ],
+      "topic": "The Poisson distribution",
+      "answers": {
+        "answer_snippet": "Cambridge International A Level MATHEMATICS 9709/62 Paper 6 Probability and Statistics 2 February/March 2023 MARK SCHEME Maximum Mark: 50 Published This mark scheme is published as an aid to teachers and candidates, to indicate the requirements of the examination. It shows the basis on which Examiners were instructed to award"
+      }
+    },
+    {
+      "question_number": "12",
+      "subparts": [],
+      "page": 12,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "6.1"
+      ],
+      "topic": "The Poisson distribution",
+      "answers": {
+        "answer_snippet": ""
+      }
+    },
+    {
+      "question_number": "6",
+      "subparts": [],
+      "page": 12,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "6.4",
+        "6.5"
+      ],
+      "topic": "Sampling and estimation",
+      "answers": {
+        "answer_snippet": "Cambridge International A Level MATHEMATICS 9709/62 Paper 6 Probability and Statistics 2 February/March 2023 MARK SCHEME Maximum Mark: 50 Published This mark scheme is published as an aid to teachers and candidates, to indicate the requirements of the examination. It shows the basis on which Examiners were instructed to award"
+      }
+    },
+    {
+      "question_number": "0",
+      "subparts": [],
+      "page": 12,
+      "marks": 1,
+      "syllabus_outcomes": [
+        "6.5"
+      ],
+      "topic": "Hypothesis tests",
+      "answers": {
+        "answer_snippet": "9709/62 Cambridge International A Level \u2013 Mark Scheme February/March 2023 PUBLISHED Question Answer Marks Guidance 1(a) \uf0e949 =0.35\uf0f9 \uf0eb140 \uf0fb 0.35 \u00b1 z 0.35(1\u22120.35) M1 Use of formula of correct form, ft their 1 4 4 9 0 , any z (not a 140 probability). z = 2.326 B1 Accept"
+      }
+    },
+    {
+      "question_number": "13",
+      "subparts": [],
+      "page": 13,
+      "marks": 3,
+      "syllabus_outcomes": [
+        "6.4",
+        "6.5"
+      ],
+      "topic": "Sampling and estimation",
+      "answers": {
+        "answer_snippet": ""
+      }
+    },
+    {
+      "question_number": "14",
+      "subparts": [],
+      "page": 14,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "6.1"
+      ],
+      "topic": "The Poisson distribution",
+      "answers": {
+        "answer_snippet": "9709/62 Cambridge International A Level \u2013 Mark Scheme February/March 2023 PUBLISHED Question Answer Marks Guidance 6(c) 1 \u2013 \u0278(2.14) [= 0.0162] M1 1.62 A1 Allow 1.62% or 1.6 or 1.6%. \u03b1 \u2a7e 1.62 (3 sf) A1ft FT their 1.62 . Allow \u03b1 \u2a7e 1.62% or 1.6 or 1.6%. Condone >."
+      }
+    },
+    {
+      "question_number": "15",
+      "subparts": [],
+      "page": 15,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "6.1"
+      ],
+      "topic": "The Poisson distribution",
+      "answers": {
+        "answer_snippet": "9709/62 Cambridge International A Level \u2013 Mark Scheme February/March 2023 PUBLISHED Question Answer Marks Guidance 2(b)(i) \u03bb = 3 \u00d7 25.2 [= 9.45] B1 8 e\u2013\u20199.45\u2019(9.453 +9.454 +9.455 ) or e\u2013\u20189.45\u2019 (140.65 + 332.29 + 628.03) or 0.01107 + M1 Allow any \u03bb. Allow end errors. 3! 4! 5! Expression"
+      }
+    },
+    {
+      "question_number": "16",
+      "subparts": [],
+      "page": 16,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "6.1"
+      ],
+      "topic": "The Poisson distribution",
+      "answers": {
+        "answer_snippet": "9709/62 Cambridge International A Level \u2013 Mark Scheme February/March 2023 PUBLISHED Question Answer Marks Guidance 4(a) e-5.7(1 + 5.7 + 5.72 ) or e-5.7(1 + 5.7 + 16.245) or 0.003346 + 0.01907 + 0.05436 M1 Allow one end error. 2! Must see this expression. = 0.0768 (3 sf) A1 SC"
+      }
+    }
+  ],
+  "statistics": {
+    "total_questions": 25,
+    "total_marks": 28
+  }
+}

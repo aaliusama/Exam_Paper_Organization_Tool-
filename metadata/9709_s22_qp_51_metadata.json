@@ -1,0 +1,270 @@
+{
+  "exam_info": {
+    "paper_code": "9709/51",
+    "exam_board": "Cambridge International AS & A Level",
+    "subject": "Mathematics",
+    "paper_name": "Paper 5 Probability & Statistics 1",
+    "exam_session": "May/June 2022",
+    "total_marks": 50,
+    "time_allowed": "1 hour 15 minutes",
+    "question_paper": "9709_s22_qp_51.pdf",
+    "mark_scheme": "9709_s22_ms_51.pdf",
+    "syllabus": "697427-2026-2027-syllabus.pdf"
+  },
+  "questions": [
+    {
+      "question_number": "2",
+      "subparts": [],
+      "page": 2,
+      "marks": 2,
+      "syllabus_outcomes": [
+        "5.2"
+      ],
+      "topic": "Permutations and combinations",
+      "answers": {
+        "answer_snippet": "9709/51 Cambridge International AS & A Level \u2013 Mark Scheme May/June 2022 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptors for a question. Each"
+      }
+    },
+    {
+      "question_number": "3",
+      "subparts": [],
+      "page": 3,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "5.1"
+      ],
+      "topic": "Representation of data",
+      "answers": {
+        "answer_snippet": "9709/51 Cambridge International AS & A Level \u2013 Mark Scheme May/June 2022 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptors for a question. Each"
+      }
+    },
+    {
+      "question_number": "2",
+      "subparts": [],
+      "page": 3,
+      "marks": 2,
+      "syllabus_outcomes": [
+        "5.1"
+      ],
+      "topic": "Representation of data",
+      "answers": {
+        "answer_snippet": "9709/51 Cambridge International AS & A Level \u2013 Mark Scheme May/June 2022 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptors for a question. Each"
+      }
+    },
+    {
+      "question_number": "4",
+      "subparts": [],
+      "page": 4,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "5.1"
+      ],
+      "topic": "Representation of data",
+      "answers": {
+        "answer_snippet": "9709/51 Cambridge International AS & A Level \u2013 Mark Scheme May/June 2022 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptors for a question. Each"
+      }
+    },
+    {
+      "question_number": "3",
+      "subparts": [],
+      "page": 4,
+      "marks": 4,
+      "syllabus_outcomes": [
+        "5.1"
+      ],
+      "topic": "Representation of data",
+      "answers": {
+        "answer_snippet": "9709/51 Cambridge International AS & A Level \u2013 Mark Scheme May/June 2022 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptors for a question. Each"
+      }
+    },
+    {
+      "question_number": "5",
+      "subparts": [],
+      "page": 5,
+      "marks": 3,
+      "syllabus_outcomes": [
+        "5.1"
+      ],
+      "topic": "Representation of data",
+      "answers": {
+        "answer_snippet": "Cambridge International AS & A Level MATHEMATICS 9709/51 Paper 5 Probability & Statistics 1 May/June 2022 MARK SCHEME Maximum Mark: 50 Published This mark scheme is published as an aid to teachers and candidates, to indicate the requirements of the examination. It shows the basis on which Examiners were instructed"
+      }
+    },
+    {
+      "question_number": "6",
+      "subparts": [],
+      "page": 6,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "5.1"
+      ],
+      "topic": "Representation of data",
+      "answers": {
+        "answer_snippet": "9709/51 Cambridge International AS & A Level \u2013 Mark Scheme May/June 2022 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptors for a question. Each"
+      }
+    },
+    {
+      "question_number": "4",
+      "subparts": [],
+      "page": 6,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "5.3"
+      ],
+      "topic": "Probability",
+      "answers": {
+        "answer_snippet": "9709/51 Cambridge International AS & A Level \u2013 Mark Scheme May/June 2022 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptors for a question. Each"
+      }
+    },
+    {
+      "question_number": "10",
+      "subparts": [],
+      "page": 6,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "5.3",
+        "5.4"
+      ],
+      "topic": "Probability",
+      "answers": {
+        "answer_snippet": "9709/51 Cambridge International AS & A Level \u2013 Mark Scheme May/June 2022 PUBLISHED Question Answer Marks Guidance 3(a) M1 At least 4 frequency densities calculated Class 20 10 10 20 30 (Frequency \u00f7 class width, e.g. width 440\uf0e6 440 440 \uf0f6 \uf0e7condone , \uf0f7 Frequency 22 72 92 15 4"
+      }
+    },
+    {
+      "question_number": "80",
+      "subparts": [],
+      "page": 6,
+      "marks": 4,
+      "syllabus_outcomes": [
+        "5.1"
+      ],
+      "topic": "Representation of data",
+      "answers": {
+        "answer_snippet": "9709/51 Cambridge International AS & A Level \u2013 Mark Scheme May/June 2022 PUBLISHED Question Answer Marks Guidance 4(a) 1 B1 Clear statement of unevaluated correct a\uf03d P(1 head) = 0.7\uf0b4\uf0280.5\uf0293 \uf02b 0.3\uf0b4\uf0280.5\uf0293 \uf0b43 = 1 5 calculation \uf03d . AG 5 3 M1 Clear statement of unevaluated calculation for b\uf03d0.7\uf0b40.53\uf0b43\uf02b0.3\uf0b40.53\uf0b43\uf03d"
+      }
+    },
+    {
+      "question_number": "5",
+      "subparts": [],
+      "page": 6,
+      "marks": 1,
+      "syllabus_outcomes": [
+        "5.1"
+      ],
+      "topic": "Representation of data",
+      "answers": {
+        "answer_snippet": "Cambridge International AS & A Level MATHEMATICS 9709/51 Paper 5 Probability & Statistics 1 May/June 2022 MARK SCHEME Maximum Mark: 50 Published This mark scheme is published as an aid to teachers and candidates, to indicate the requirements of the examination. It shows the basis on which Examiners were instructed"
+      }
+    },
+    {
+      "question_number": "7",
+      "subparts": [],
+      "page": 7,
+      "marks": 3,
+      "syllabus_outcomes": [
+        "5.3"
+      ],
+      "topic": "Probability",
+      "answers": {
+        "answer_snippet": "9709/51 Cambridge International AS & A Level \u2013 Mark Scheme May/June 2022 PUBLISHED Question Answer Marks Guidance 1(a) 5! M1 k! where k = 5, 6 or 7 Condone \uf0b4 1 OE 120 A1 2 1(b) 8! M1 8! [Total no of ways =] [= 3360] , a\uf03d1,2 b\uf03d1,3 a\uf0b9b"
+      }
+    },
+    {
+      "question_number": "8",
+      "subparts": [],
+      "page": 8,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "5.1"
+      ],
+      "topic": "Representation of data",
+      "answers": {
+        "answer_snippet": "9709/51 Cambridge International AS & A Level \u2013 Mark Scheme May/June 2022 PUBLISHED Question Answer Marks Guidance 1(a) 5! M1 k! where k = 5, 6 or 7 Condone \uf0b4 1 OE 120 A1 2 1(b) 8! M1 8! [Total no of ways =] [= 3360] , a\uf03d1,2 b\uf03d1,3 a\uf0b9b"
+      }
+    },
+    {
+      "question_number": "5",
+      "subparts": [],
+      "page": 8,
+      "marks": 2,
+      "syllabus_outcomes": [
+        "5.1",
+        "5.3",
+        "5.5"
+      ],
+      "topic": "Representation of data",
+      "answers": {
+        "answer_snippet": "Cambridge International AS & A Level MATHEMATICS 9709/51 Paper 5 Probability & Statistics 1 May/June 2022 MARK SCHEME Maximum Mark: 50 Published This mark scheme is published as an aid to teachers and candidates, to indicate the requirements of the examination. It shows the basis on which Examiners were instructed"
+      }
+    },
+    {
+      "question_number": "9",
+      "subparts": [],
+      "page": 9,
+      "marks": 4,
+      "syllabus_outcomes": [
+        "5.1"
+      ],
+      "topic": "Representation of data",
+      "answers": {
+        "answer_snippet": "9709/51 Cambridge International AS & A Level \u2013 Mark Scheme May/June 2022 PUBLISHED Question Answer Marks Guidance 3(b) B1 At least 4 correct midpoints seen Midpoints 10 25 35 50 75 [Mean = 31.44 given] M1 Correct formula for variance or standard deviation 440\uf0b4102 \uf02b720\uf0b4252 \uf02b920\uf0b4352 \uf02b300\uf0b4502 \uf02b120\uf0b4752 (\u2212 mean2"
+      }
+    },
+    {
+      "question_number": "10",
+      "subparts": [],
+      "page": 10,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "5.1"
+      ],
+      "topic": "Representation of data",
+      "answers": {
+        "answer_snippet": "9709/51 Cambridge International AS & A Level \u2013 Mark Scheme May/June 2022 PUBLISHED Question Answer Marks Guidance 3(a) M1 At least 4 frequency densities calculated Class 20 10 10 20 30 (Frequency \u00f7 class width, e.g. width 440\uf0e6 440 440 \uf0f6 \uf0e7condone , \uf0f7 Frequency 22 72 92 15 4"
+      }
+    },
+    {
+      "question_number": "6",
+      "subparts": [],
+      "page": 10,
+      "marks": 1,
+      "syllabus_outcomes": [
+        "5.3"
+      ],
+      "topic": "Probability",
+      "answers": {
+        "answer_snippet": "9709/51 Cambridge International AS & A Level \u2013 Mark Scheme May/June 2022 PUBLISHED Generic Marking Principles These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the mark scheme or generic level descriptors for a question. Each"
+      }
+    },
+    {
+      "question_number": "11",
+      "subparts": [],
+      "page": 11,
+      "marks": 4,
+      "syllabus_outcomes": [
+        "5.3"
+      ],
+      "topic": "Probability",
+      "answers": {
+        "answer_snippet": "9709/51 Cambridge International AS & A Level \u2013 Mark Scheme May/June 2022 PUBLISHED Question Answer Marks Guidance 4(c) [P(0, 1, 2) = ]10C 0 0.20 0.810 + 10C 1 0.21 0.89 + 10C 2 0.22 0.88 M1 One term 10C x px\uf0281\uf02d p\uf02910\uf02dx , for 0 < x < 10,"
+      }
+    },
+    {
+      "question_number": "12",
+      "subparts": [],
+      "page": 12,
+      "marks": 0,
+      "syllabus_outcomes": [
+        "5.1"
+      ],
+      "topic": "Representation of data",
+      "answers": {
+        "answer_snippet": "9709/51 Cambridge International AS & A Level \u2013 Mark Scheme May/June 2022 PUBLISHED Question Answer Marks Guidance 2(a) 12C \uf0b4 2 M1 gC \uf0b4 h g = 12, 13, h = 1,2 4 4 990 A1 Alternative method for question 2(a) [total \u2013 both on \u2013 neither on] 14C \u2013"
+      }
+    }
+  ],
+  "statistics": {
+    "total_questions": 19,
+    "total_marks": 30
+  }
+}
