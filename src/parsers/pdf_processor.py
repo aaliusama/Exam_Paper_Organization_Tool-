@@ -33,6 +33,17 @@ class PDFProcessor:
                 --oem 3: Use both legacy and LSTM OCR engines
         """
         self.tesseract_config = tesseract_config
+        self.ocr_available = self._check_tesseract_available()
+        if not self.ocr_available:
+            logger.warning("Tesseract OCR not available - will use text extraction only")
+
+    def _check_tesseract_available(self) -> bool:
+        """Check if Tesseract is available"""
+        try:
+            pytesseract.get_tesseract_version()
+            return True
+        except Exception:
+            return False
 
     def extract_text_from_page(self, page) -> Tuple[str, bool]:
         """
@@ -63,6 +74,10 @@ class PDFProcessor:
         Returns:
             OCR extracted text
         """
+        if not self.ocr_available:
+            logger.debug(f"OCR not available, skipping page {page_num}")
+            return ""
+
         try:
             # Convert PDF page to image
             images = convert_from_path(
@@ -112,12 +127,14 @@ class PDFProcessor:
                     extracted_text, is_low_density = self.extract_text_from_page(page)
 
                     # Determine if OCR is needed
-                    needs_ocr = force_ocr or is_low_density
+                    needs_ocr = (force_ocr or is_low_density) and self.ocr_available
                     ocr_text = ""
 
                     if needs_ocr:
                         logger.info(f"Page {page_num + 1} needs OCR (low text density)")
                         ocr_text = self.ocr_page(pdf_path, page_num)
+                    elif is_low_density and not self.ocr_available:
+                        logger.warning(f"Page {page_num + 1} has low text density but OCR not available")
 
                     # Use OCR text if extracted text is insufficient
                     final_text = ocr_text if needs_ocr and ocr_text else extracted_text
