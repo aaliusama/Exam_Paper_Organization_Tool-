@@ -1,0 +1,266 @@
+{
+  "exam_info": {
+    "paper_code": "9709/32",
+    "exam_board": "Cambridge International AS & A Level",
+    "subject": "Mathematics",
+    "paper_name": "Paper 3 Pure Mathematics 3",
+    "exam_session": "February/March 2022",
+    "total_marks": 75,
+    "time_allowed": "1 hour 50 minutes",
+    "question_paper": "9709_m22_qp_32.pdf",
+    "mark_scheme": "9709_m22_ms_32.pdf",
+    "syllabus": "697427-2026-2027-syllabus.pdf"
+  },
+  "questions": [
+    {
+      "question_number": "1",
+      "subparts": [],
+      "page": 3,
+      "marks": 4,
+      "syllabus_outcomes": ["3.1"],
+      "topic": "Algebra - Modulus inequalities",
+      "answers": {
+        "answer_snippet": "Solve |2x + 3| > 3|x + 2|. State or imply (2x + 3)² > 3²(x + 2)². Quadratic: 5x² + 9x - 9 = 0. Critical values x = -3 and x = -9/5. Final answer: -3 < x < -9/5"
+      }
+    },
+    {
+      "question_number": "2",
+      "subparts": [],
+      "page": 4,
+      "marks": 4,
+      "syllabus_outcomes": ["3.9"],
+      "topic": "Complex numbers - Argand diagram regions",
+      "answers": {
+        "answer_snippet": "Shade region where |z + 2 - 3i| ≤ 2 and arg z ≤ 3π/4. Circle with centre (-2, 3), radius 2. Half line from origin at angle 3π/4. Shade intersection of interior of circle and region where arg z ≤ 3π/4"
+      }
+    },
+    {
+      "question_number": "3",
+      "subparts": [],
+      "page": 5,
+      "marks": 5,
+      "syllabus_outcomes": ["3.2"],
+      "topic": "Logarithmic and exponential functions - Linear form",
+      "answers": {
+        "answer_snippet": "x^n y² = C. Taking logs: n ln x + 2 ln y = ln C. Gradient = -n/2 = (0.91 - 1.21)/(1.06 - 0.31) = -0.4. Therefore n = 0.8 or 4/5. Using point (0.31, 1.21): ln C = 1.21 + 0.8(0.31) × 2 = 2.668. C = 14.41"
+      }
+    },
+    {
+      "question_number": "4",
+      "subparts": [],
+      "page": 6,
+      "marks": 5,
+      "syllabus_outcomes": ["3.4"],
+      "topic": "Differentiation - Parametric differentiation",
+      "answers": {
+        "answer_snippet": "x = 1 - cos θ, y = cos θ - (1/4)cos 2θ. dx/dθ = sin θ, dy/dθ = -sin θ + (1/2)sin 2θ. dy/dx = (-sin θ + sin θ cos θ)/sin θ = -1 + cos θ. Using cos θ = 1 - 2sin²(θ/2): dy/dx = -2sin²(θ/2). [AG]"
+      }
+    },
+    {
+      "question_number": "5",
+      "subparts": [],
+      "page": 7,
+      "marks": 6,
+      "syllabus_outcomes": ["3.3"],
+      "topic": "Trigonometry - Compound angle formulae",
+      "answers": {
+        "answer_snippet": "tan(α + β) = 2 and tan α = 3 tan β. Using tan(α + β) = (tan α + tan β)/(1 - tan α tan β): (3 tan β + tan β)/(1 - 3 tan²β) = 2. Simplifying: 3 tan²β + 2 tan β - 1 = 0. tan β = 1/3 or -1. Solutions: α = 45°, β = 18.4° or α = 108.4°, β = 135°"
+      }
+    },
+    {
+      "question_number": "6",
+      "subparts": [],
+      "page": 8,
+      "marks": 6,
+      "syllabus_outcomes": ["3.9"],
+      "topic": "Complex numbers - Equations with conjugates",
+      "answers": {
+        "answer_snippet": "w² + 2iw* = 1 where Re w ≤ 0. Let w = x + iy. (x + iy)² + 2i(x - iy) = 1. Using i² = -1: x² - y² + 2y = 1 and 2xy + 2x = 0. From imaginary part: x = 0 or y = -1. If y = -1: x = -2. If x = 0: y = 1. Answers with Re w ≤ 0: w = -2 - i and w = i"
+      }
+    },
+    {
+      "question_number": "7",
+      "subparts": ["a", "b", "c"],
+      "page": 9,
+      "marks": 7,
+      "syllabus_outcomes": ["3.6"],
+      "topic": "Numerical solutions - Iteration and graphs",
+      "subpart_details": [
+        {
+          "subpart": "a",
+          "marks": 2,
+          "syllabus_outcomes": ["3.6"],
+          "answers": {
+            "answer_snippet": "Sketch y = 4 - x² and y = sec(x/2). Parabola passes through (0, 4) and (2, 0). Secant starts at (0, 1) with asymptote before π. Graphs intersect once in [0, π)"
+          }
+        },
+        {
+          "subpart": "b",
+          "marks": 2,
+          "syllabus_outcomes": ["3.6"],
+          "answers": {
+            "answer_snippet": "At x = 1: 4 - 1² = 3 and sec(0.5) = 1.139. At x = 2: 4 - 2² = 0 and sec(1) = 1.851. Sign change confirms root between 1 and 2"
+          }
+        },
+        {
+          "subpart": "c",
+          "marks": 3,
+          "syllabus_outcomes": ["3.6"],
+          "answers": {
+            "answer_snippet": "x_{n+1} = √(4 - sec(x_n/2)). Iterations to 4 d.p. give x = 1.60 to 2 d.p."
+          }
+        }
+      ]
+    },
+    {
+      "question_number": "8",
+      "subparts": ["a", "b"],
+      "page": 10,
+      "marks": 8,
+      "syllabus_outcomes": ["3.5"],
+      "topic": "Integration - Algebraic division and integration",
+      "subpart_details": [
+        {
+          "subpart": "a",
+          "marks": 3,
+          "syllabus_outcomes": ["3.1"],
+          "answers": {
+            "answer_snippet": "Divide 8x³ + 4x² + 2x + 7 by 4x² + 1. Quotient = 2x + 1, Remainder = 6"
+          }
+        },
+        {
+          "subpart": "b",
+          "marks": 5,
+          "syllabus_outcomes": ["3.5"],
+          "answers": {
+            "answer_snippet": "∫₀^(1/2) [(8x³ + 4x² + 2x + 7)/(4x² + 1)] dx = ∫₀^(1/2) [2x + 1 + 6/(4x² + 1)] dx. = [x² + x + (3/2)tan⁻¹(2x)]₀^(1/2). = 1/4 + 1/2 + (3/2)tan⁻¹(1) = 3/4 + 3π/8 = (3/4)(1 + π)"
+          }
+        }
+      ]
+    },
+    {
+      "question_number": "9",
+      "subparts": [],
+      "page": 12,
+      "marks": 9,
+      "syllabus_outcomes": ["3.8"],
+      "topic": "Differential equations - First order equations",
+      "answers": {
+        "answer_snippet": "(x + 1)(3x + 1) dy/dx = y, y = 1 when x = 1. Separate variables: ∫(1/y) dy = ∫[1/(x+1) + 1/(3x+1)] dx. Using partial fractions: A = -1/2, B = 3/2. ln y = -(1/2)ln(x+1) + (1/2)ln(3x+1) + c. Using y(1) = 1: c = -(1/2)ln 2. At x = 3: ln y = -(1/2)ln 4 + (1/2)ln 10 - (1/2)ln 2 = (1/2)ln(5/4). y = (1/2)√5 or √(5/4) or √10/4"
+      }
+    },
+    {
+      "question_number": "10",
+      "subparts": ["a", "b", "c"],
+      "page": 14,
+      "marks": 10,
+      "syllabus_outcomes": ["3.7"],
+      "topic": "Vectors - Lines in 3D",
+      "subpart_details": [
+        {
+          "subpart": "a",
+          "marks": 3,
+          "syllabus_outcomes": ["3.7"],
+          "answers": {
+            "answer_snippet": "A = (2, 1, 1), B = (1, -2, 2). Direction vector AB = (-1, -3, 1). Vector equation: r = (2, 1, 1) + λ(-1, -3, 1) or r = 2i + j + k + λ(-i - 3j + k)"
+          }
+        },
+        {
+          "subpart": "b",
+          "marks": 3,
+          "syllabus_outcomes": ["3.7"],
+          "answers": {
+            "answer_snippet": "Direction vectors: (-1, -3, 1) and (1, -3, -2). Scalar product: (-1)(1) + (-3)(-3) + (1)(-2) = -1 + 9 - 2 = 6. Moduli: √11 and √14. cos θ = 6/(√11 × √14). θ = 61.1°"
+          }
+        },
+        {
+          "subpart": "c",
+          "marks": 4,
+          "syllabus_outcomes": ["3.7"],
+          "answers": {
+            "answer_snippet": "Line AB: (2-λ, 1-3λ, 1+λ). Line l: (1+μ, 2-3μ, -3-2μ). Equate components: 2-λ = 1+μ, 1-3λ = 2-3μ, 1+λ = -3-2μ. From first two equations: λ = 6 or 1/3, μ = -5 or 2/3. Testing in third equation shows no consistent solution. Lines do not intersect"
+          }
+        }
+      ]
+    },
+    {
+      "question_number": "11",
+      "subparts": ["a", "b"],
+      "page": 16,
+      "marks": 11,
+      "syllabus_outcomes": ["3.4", "3.5"],
+      "topic": "Calculus - Stationary points and integration with trigonometry",
+      "subpart_details": [
+        {
+          "subpart": "a",
+          "marks": 6,
+          "syllabus_outcomes": ["3.4"],
+          "answers": {
+            "answer_snippet": "y = sin x cos 2x. dy/dx = cos x cos 2x - 2 sin x sin 2x. At maximum dy/dx = 0: cos x cos 2x = 2 sin x sin 2x. Using sin 2x = 2 sin x cos x: cos x cos 2x = 4 sin²x cos x. cos 2x = 4 sin²x. 1 - 2sin²x = 4sin²x. 6sin²x = 1. sin²x = 1/6. x = 0.421 (3 s.f.)"
+          }
+        },
+        {
+          "subpart": "b",
+          "marks": 5,
+          "syllabus_outcomes": ["3.5"],
+          "answers": {
+            "answer_snippet": "Area = ∫₀^(π/2) sin x cos 2x dx. Let u = cos x, du = -sin x dx. When x = 0, u = 1; when x = π/2, u = 0. cos 2x = 2cos²x - 1 = 2u² - 1. Area = ∫₁^0 -(2u² - 1) du = ∫₀^1 (2u² - 1) du = [2u³/3 - u]₀^1 = 2/3 - 1 = -1/3. Taking absolute value or reversing limits: (1/3)(√2 - 1) or equivalent exact form"
+          }
+        }
+      ]
+    }
+  ],
+  "syllabus_outcome_summary": {
+    "3.1": {
+      "topic": "Algebra",
+      "questions": ["1", "8a"]
+    },
+    "3.2": {
+      "topic": "Logarithmic and exponential functions",
+      "questions": ["3"]
+    },
+    "3.3": {
+      "topic": "Trigonometry",
+      "questions": ["5"]
+    },
+    "3.4": {
+      "topic": "Differentiation",
+      "questions": ["4", "11a"]
+    },
+    "3.5": {
+      "topic": "Integration",
+      "questions": ["8b", "11b"]
+    },
+    "3.6": {
+      "topic": "Numerical solutions",
+      "questions": ["7a", "7b", "7c"]
+    },
+    "3.7": {
+      "topic": "Vectors",
+      "questions": ["10a", "10b", "10c"]
+    },
+    "3.8": {
+      "topic": "Differential equations",
+      "questions": ["9"]
+    },
+    "3.9": {
+      "topic": "Complex numbers",
+      "questions": ["2", "6"]
+    }
+  },
+  "statistics": {
+    "total_questions": 11,
+    "total_subparts": 11,
+    "marks_distribution": {
+      "algebra": 7,
+      "logarithmic_exponential": 5,
+      "trigonometry": 6,
+      "differentiation": 11,
+      "integration": 13,
+      "numerical_solutions": 7,
+      "vectors": 10,
+      "differential_equations": 9,
+      "complex_numbers": 10
+    }
+  }
+}
