@@ -1,384 +1,314 @@
 {
-  "paper_info": {
-    "subject_code": "9709",
-    "subject_name": "Mathematics",
-    "level": "Cambridge International AS & A Level",
+  "exam_info": {
     "paper_code": "9709/12",
-    "paper_number": "12",
+    "exam_board": "Cambridge International AS & A Level",
+    "subject": "Mathematics",
     "paper_name": "Paper 1 Pure Mathematics 1",
-    "session": "February/March",
-    "year": 2022,
-    "session_code": "m22",
-    "variant": 2,
-    "duration_minutes": 110,
+    "exam_session": "February/March 2022",
     "total_marks": 75,
-    "number_of_questions": 11,
-    "number_of_pages": 20
+    "time_allowed": "1 hour 50 minutes",
+    "question_paper": "9709_m22_qp_12.pdf",
+    "mark_scheme": "9709_m22_ms_12.pdf",
+    "syllabus": "697427-2026-2027-syllabus.pdf"
   },
   "questions": [
     {
-      "question_number": 1,
+      "question_number": "1",
+      "subparts": [],
+      "page": 3,
       "marks": 4,
-      "parts": [],
-      "topic_tags": ["P1.7", "Integration", "Calculus"],
-      "sub_topics": ["Integration of powers", "Using given conditions", "Fractional powers"],
-      "difficulty": "Medium",
-      "description": "Integration of function with fractional powers given f'(x) = 2x^(-1/3) - x^(1/3) and f(8) = 5",
-      "key_concepts": [
-        "Integration of x^n",
-        "Finding constant of integration using boundary conditions",
-        "Fractional indices"
-      ],
-      "skills_tested": [
-        "Integration technique",
-        "Algebraic manipulation",
-        "Substitution of values"
-      ]
+      "syllabus_outcomes": ["1.8"],
+      "topic": "Integration - Integration with fractional powers",
+      "answers": {
+        "answer_snippet": "f(x) = [3x^(2/3) / 2] - [3x^(4/3) / 4] + c. Using f(8) = 5 gives c = 5. Final answer: f(x) = 3x^(2/3) - (3/4)x^(4/3) + 5"
+      }
     },
     {
-      "question_number": 2,
+      "question_number": "2",
+      "subparts": [],
+      "page": 4,
       "marks": 5,
-      "parts": [],
-      "topic_tags": ["P1.1", "Quadratics", "Discriminant"],
-      "sub_topics": ["Intersection of curves", "Discriminant conditions", "Inequalities"],
-      "difficulty": "Medium",
-      "description": "Find values of c for which curve y = x² + 2cx + 4 and line y = 4x + c intersect at two distinct points",
-      "key_concepts": [
-        "Discriminant b² - 4ac",
-        "Conditions for two distinct roots",
-        "Solving quadratic inequalities"
-      ],
-      "skills_tested": [
-        "Forming equations",
-        "Using discriminant",
-        "Solving inequalities"
-      ]
+      "syllabus_outcomes": ["1.1"],
+      "topic": "Quadratics - Discriminant for intersection",
+      "answers": {
+        "answer_snippet": "x² + 2cx + 4 = 4x + c leading to x² + 2cx - 4x + 4 - c = 0. Discriminant: b² - 4ac = (2c - 4)² - 4(4 - c) = 4c² - 12c. For two distinct points: 4c(c - 3) > 0. Answer: c < 0, c > 3"
+      }
     },
     {
-      "question_number": 3,
+      "question_number": "3",
+      "subparts": ["a", "b"],
+      "page": 5,
       "marks": 6,
-      "parts": ["a", "b"],
-      "topic_tags": ["P1.3", "Binomial Theorem"],
-      "sub_topics": ["Binomial expansion", "Term independent of x", "Product of expansions"],
-      "difficulty": "Medium",
-      "description": "Find term independent of x in binomial expansions",
-      "part_details": [
+      "syllabus_outcomes": ["1.6"],
+      "topic": "Series - Binomial expansion",
+      "subpart_details": [
         {
-          "part": "a",
+          "subpart": "a",
           "marks": 3,
-          "description": "Find term independent of x in (3x + 2/x²)^6"
+          "syllabus_outcomes": ["1.6"],
+          "answers": {
+            "answer_snippet": "Term independent of x: ⁶C₂(3x)⁴(2/x²)² = 15 × 3⁴ × 2² = 4860"
+          }
         },
         {
-          "part": "b",
+          "subpart": "b",
           "marks": 3,
-          "description": "Find term independent of x in (3x + 2/x²)^6 × (1 - x³)"
+          "syllabus_outcomes": ["1.6"],
+          "answers": {
+            "answer_snippet": "Using 4860 and other relevant term ⁶C₃(3x)³(2/x²)³ or 4320. Answer: 4860 - 4320 = 540"
+          }
         }
-      ],
-      "key_concepts": [
-        "Binomial expansion formula",
-        "Finding specific terms",
-        "Combining like terms"
-      ],
-      "skills_tested": [
-        "Binomial coefficient calculation",
-        "Power manipulation",
-        "Algebraic combination"
       ]
     },
     {
-      "question_number": 4,
+      "question_number": "4",
+      "subparts": [],
+      "page": 6,
       "marks": 6,
-      "parts": [],
-      "topic_tags": ["P1.6", "Sequences and Series"],
-      "sub_topics": ["Geometric progression", "Arithmetic progression", "Sum formulas"],
-      "difficulty": "Hard",
-      "description": "Given GP and AP with same first term and matching terms, find sum of first 20 terms of AP",
-      "key_concepts": [
-        "GP term formula ar^(n-1)",
-        "AP term formula a + (n-1)d",
-        "AP sum formula",
-        "Simultaneous equations"
-      ],
-      "skills_tested": [
-        "Forming equations from given conditions",
-        "Eliminating variables",
-        "Applying sum formulas"
-      ]
+      "syllabus_outcomes": ["1.6"],
+      "topic": "Series - Geometric and Arithmetic Progressions",
+      "answers": {
+        "answer_snippet": "ar² = a + d, ar⁴ = a + 5d. Eliminating r gives 3ad - d² = 0 leading to d = 3a. Using S₂₀ formula with a and d = 3a gives S₂₀ = (20/2)[2a + 19(3a)] = 590a"
+      }
     },
     {
-      "question_number": 5,
+      "question_number": "5",
+      "subparts": ["a", "b"],
+      "page": 7,
       "marks": 6,
-      "parts": ["a", "b"],
-      "topic_tags": ["P1.1", "P1.7", "Functions", "Transformations"],
-      "sub_topics": ["Completing the square", "Graph transformations"],
-      "difficulty": "Medium",
-      "description": "Transformations mapping y = x² to y = 2x² - 8x + 14",
-      "part_details": [
+      "syllabus_outcomes": ["1.1", "1.2"],
+      "topic": "Functions - Completing square and transformations",
+      "subpart_details": [
         {
-          "part": "a",
+          "subpart": "a",
           "marks": 2,
-          "description": "Express 2x² - 8x + 14 in form 2(x - a)² + b"
+          "syllabus_outcomes": ["1.1"],
+          "answers": {
+            "answer_snippet": "2[(x - 2)² + 3] or 2(x - 2)² + 6"
+          }
         },
         {
-          "part": "b",
+          "subpart": "b",
           "marks": 4,
-          "description": "Describe sequence of transformations from f(x) = x² to g(x) = 2x² - 8x + 14"
+          "syllabus_outcomes": ["1.2"],
+          "answers": {
+            "answer_snippet": "Translation (2, 0) OR Stretch y-direction factor 2, followed by Translation (2, 6). Alternative: Stretch y-direction factor 2, then Translation (2, 6)"
+          }
         }
-      ],
-      "key_concepts": [
-        "Completing the square",
-        "Translation",
-        "Stretch in y-direction",
-        "Order of transformations"
-      ],
-      "skills_tested": [
-        "Algebraic manipulation",
-        "Understanding transformations",
-        "Describing transformations clearly"
       ]
     },
     {
-      "question_number": 6,
+      "question_number": "6",
+      "subparts": ["a", "b"],
+      "page": 8,
       "marks": 8,
-      "parts": ["a", "b"],
-      "topic_tags": ["P2.1", "Coordinate Geometry", "Circles"],
-      "sub_topics": ["Circle equations", "Line-circle intersection", "Perpendicular from center to chord"],
-      "difficulty": "Medium-Hard",
-      "description": "Circle (x+1)² + (y-2)² = 85 and line y = 3x - 20",
-      "part_details": [
+      "syllabus_outcomes": ["1.3"],
+      "topic": "Coordinate geometry - Circle and line intersection",
+      "subpart_details": [
         {
-          "part": "a",
+          "subpart": "a",
           "marks": 4,
-          "description": "Find coordinates of intersection points A and B"
+          "syllabus_outcomes": ["1.3"],
+          "answers": {
+            "answer_snippet": "Substitute y = 3x - 20 into circle equation: (x + 1)² + (3x - 22)² = 85 leading to 10x² - 130x + 400 = 0. Solutions: x = 8 or 5. Points: (8, 4), (5, -5)"
+          }
         },
         {
-          "part": "b",
+          "subpart": "b",
           "marks": 4,
-          "description": "Find equation of circle with center C where line is tangent"
+          "syllabus_outcomes": ["1.3"],
+          "answers": {
+            "answer_snippet": "Mid-point of AB = (6.5, -0.5). Center C = (-1, 2). Perpendicular distance r² = (-1 - 6.5)² + (2 + 0.5)² = 62.5. Equation: (x + 1)² + (y - 2)² = 62.5 or 62½"
+          }
         }
-      ],
-      "key_concepts": [
-        "Substitution to find intersections",
-        "Solving simultaneous equations",
-        "Perpendicular distance from point to line",
-        "Circle equation (x-a)² + (y-b)² = r²"
-      ],
-      "skills_tested": [
-        "Simultaneous equations",
-        "Circle properties",
-        "Distance calculations"
       ]
     },
     {
-      "question_number": 7,
+      "question_number": "7",
+      "subparts": ["a", "b"],
+      "page": 10,
       "marks": 7,
-      "parts": ["a", "b"],
-      "topic_tags": ["P1.4", "Trigonometry", "Identities"],
-      "sub_topics": ["Trigonometric identities", "Double angle formulas", "Solving equations"],
-      "difficulty": "Hard",
-      "description": "Prove identity and solve trigonometric equation",
-      "part_details": [
+      "syllabus_outcomes": ["1.5"],
+      "topic": "Trigonometry - Identities and equations",
+      "subpart_details": [
         {
-          "part": "a",
+          "subpart": "a",
           "marks": 4,
-          "description": "Show that (sin θ + 2cos θ)/(cos θ - 2sin θ) - (sin θ - 2cos θ)/(cos θ + 2sin θ) ≡ 4/(5cos²θ - 4)"
+          "syllabus_outcomes": ["1.5"],
+          "answers": {
+            "answer_snippet": "Obtain common denominator (cos θ - 2sin θ)(cos θ + 2sin θ). Numerator simplifies to 4(cos²θ + sin²θ). Denominator = cos²θ - 4sin²θ = cos²θ - 4(1 - cos²θ) = 5cos²θ - 4. Hence 4/(5cos²θ - 4). [AG]"
+          }
         },
         {
-          "part": "b",
+          "subpart": "b",
           "marks": 3,
-          "description": "Solve the equation for 0° < θ < 180°"
+          "syllabus_outcomes": ["1.5"],
+          "answers": {
+            "answer_snippet": "4/(5cos²θ - 4) = 5 leading to 25cos²θ = 24, cos θ = ±√(24/25) = ±0.9798. θ = 11.5° or 168.5°"
+          }
         }
-      ],
-      "key_concepts": [
-        "Algebraic fractions",
-        "Common denominators",
-        "Trigonometric identities sin²θ + cos²θ = 1",
-        "Solving for cos θ"
-      ],
-      "skills_tested": [
-        "Algebraic manipulation of fractions",
-        "Trigonometric identity application",
-        "Equation solving"
       ]
     },
     {
-      "question_number": 8,
+      "question_number": "8",
+      "subparts": ["a", "b"],
+      "page": 12,
       "marks": 8,
-      "parts": ["a", "b"],
-      "topic_tags": ["P2.1", "P1.7", "Coordinate Geometry", "Integration"],
-      "sub_topics": ["Circle equations", "Volume of revolution"],
-      "difficulty": "Hard",
-      "description": "Circle (x-2)² + y² = 8 with chord parallel to x-axis",
-      "part_details": [
+      "syllabus_outcomes": ["1.3", "1.8"],
+      "topic": "Coordinate geometry and Integration - Volume of revolution",
+      "subpart_details": [
         {
-          "part": "a",
+          "subpart": "a",
           "marks": 3,
-          "description": "Find coordinates of A and B on chord parallel to x-axis"
+          "syllabus_outcomes": ["1.3"],
+          "answers": {
+            "answer_snippet": "Chord parallel to x-axis at y = 2. Substitute into circle: (x - 2)² + 4 = 8 giving x = 4. Points: A = (0, 2), B = (4, 2)"
+          }
         },
         {
-          "part": "b",
+          "subpart": "b",
           "marks": 5,
-          "description": "Find volume when shaded segment rotated 360° about x-axis"
+          "syllabus_outcomes": ["1.8"],
+          "answers": {
+            "answer_snippet": "Volume = π∫[8 - (x - 2)²]dx from 0 to 4. Integral = π[8x - (x - 2)³/3]. Apply limits: π[32 - 16/3] - 0. Volume of cylinder = π × 2² × 4 = 16π. Volume of revolution = 26⅔π - 16π = 10⅔π or 33.5"
+          }
         }
-      ],
-      "key_concepts": [
-        "Circle properties",
-        "Volume of revolution π∫y²dx",
-        "Integration limits",
-        "Subtracting volumes"
-      ],
-      "skills_tested": [
-        "Finding intersection points",
-        "Setting up integrals",
-        "Volume calculations"
       ]
     },
     {
-      "question_number": 9,
+      "question_number": "9",
+      "subparts": ["a", "b"],
+      "page": 14,
       "marks": 8,
-      "parts": ["a", "b"],
-      "topic_tags": ["P1.1", "P1.7", "Functions", "Composite Functions"],
-      "sub_topics": ["Solving equations with surds", "Composite functions", "Function equality"],
-      "difficulty": "Hard",
-      "description": "Functions involving fractional powers and composite functions",
-      "part_details": [
+      "syllabus_outcomes": ["1.1", "1.2"],
+      "topic": "Functions - Solving equations and composite functions",
+      "subpart_details": [
         {
-          "part": "a",
+          "subpart": "a",
           "marks": 4,
-          "description": "Solve f(x) = 0 where f(x) = x - 4x^(1/2) + 1, answer in form x = a + b√c"
+          "syllabus_outcomes": ["1.1"],
+          "answers": {
+            "answer_snippet": "x^(1/2) = [4 ± √(16 - 4)]/2 = 2 ± √3. Square: x = (2 ± √3)². Answers: x = 7 + 4√3, x = 7 - 4√3",
+            "alternative_method": "Let x^(1/2) = y, then -4y² + 1 = 0 leading to (y + 1)² = 16y giving x² - 14x + 1 = 0. Solutions: x = 7 ± 4√3"
+          }
         },
         {
-          "part": "b",
+          "subpart": "b",
           "marks": 4,
-          "description": "Given f(x) ≡ gh(x), find values of m and n"
+          "syllabus_outcomes": ["1.2"],
+          "answers": {
+            "answer_snippet": "[gh(x)] = m(x^(1/2) - 2)² + n = m(x - 4x^(1/2) + 4) + n ≡ x - 4x^(1/2) + 1. Comparing: m = 1, n = -3"
+          }
         }
-      ],
-      "key_concepts": [
-        "Quadratic formula with surds",
-        "Composite functions",
-        "Function equality",
-        "Substitution"
-      ],
-      "skills_tested": [
-        "Solving quadratic equations",
-        "Composite function manipulation",
-        "Comparing coefficients"
       ]
     },
     {
-      "question_number": 10,
+      "question_number": "10",
+      "subparts": ["a", "b"],
+      "page": 16,
       "marks": 8,
-      "parts": ["a", "b"],
-      "topic_tags": ["P1.5", "Trigonometry", "Circles"],
-      "sub_topics": ["Arc length", "Sector area", "Pythagoras theorem"],
-      "difficulty": "Hard",
-      "description": "Two touching circles with tangent, find perimeter and area of shaded region",
-      "part_details": [
+      "syllabus_outcomes": ["1.4"],
+      "topic": "Circular measure - Arc length and sector area",
+      "subpart_details": [
         {
-          "part": "a",
+          "subpart": "a",
           "marks": 5,
-          "description": "Find perimeter of shaded region between two circles"
+          "syllabus_outcomes": ["1.4"],
+          "answers": {
+            "answer_snippet": "tan A = 12/5 or cos A = 5/13 or sin A = 12/13. A = 1.176, B = 0.3948. DE = 4. Arcs = 5 × 1.176 + 8 × 0.3948. Perimeter = 5.880 + 3.158 + 4 = 13.0"
+          }
         },
         {
-          "part": "b",
+          "subpart": "b",
           "marks": 3,
-          "description": "Find area of shaded region"
+          "syllabus_outcomes": ["1.4"],
+          "answers": {
+            "answer_snippet": "Area of triangle = ½ × 5 × 12 = 30. Area of sectors = ½ × 5² × 1.176 + ½ × 8² × 0.3948 = 14.70 + 12.63. Area = 30 - 14.70 - 12.63 = 2.67"
+          }
         }
-      ],
-      "key_concepts": [
-        "Pythagoras theorem",
-        "Arc length rθ",
-        "Sector area ½r²θ",
-        "Tangent properties"
-      ],
-      "skills_tested": [
-        "Finding angles using trigonometry",
-        "Arc and sector calculations",
-        "Combining areas"
       ]
     },
     {
-      "question_number": 11,
+      "question_number": "11",
+      "subparts": ["a", "b", "c"],
+      "page": 18,
       "marks": 9,
-      "parts": ["a", "b", "c"],
-      "topic_tags": ["P1.7", "Differentiation", "Stationary Points"],
-      "sub_topics": ["Finding stationary points", "Second derivative test", "Increasing/decreasing functions"],
-      "difficulty": "Hard",
-      "description": "Differentiation and nature of stationary points for y = k(3x - k)^(-1) + 3x",
-      "part_details": [
+      "syllabus_outcomes": ["1.7"],
+      "topic": "Differentiation - Stationary points and function behavior",
+      "subpart_details": [
         {
-          "part": "a",
+          "subpart": "a",
           "marks": 4,
-          "description": "Find values of x at which there is a stationary point in terms of k"
+          "syllabus_outcomes": ["1.7"],
+          "answers": {
+            "answer_snippet": "dy/dx = -k(3x - k)^(-2) × 3 + 3. Set dy/dx = 0: -3k/(3x - k)² + 3 = 0 leading to (3x - k)² = k. x = (k ± √k)/3"
+          }
         },
         {
-          "part": "b",
+          "subpart": "b",
           "marks": 3,
-          "description": "Find value of a and determine nature when k = 4 and stationary point at x = a"
+          "syllabus_outcomes": ["1.7"],
+          "answers": {
+            "answer_snippet": "Substitute x = a when k = 4: a = (4 ± √4)/3 leading to a = 2. f''(x) = -12(3x - 4)^(-3) × 3 = 18k(3x - k)^(-3). At x = 2: f''(2) = 72(3 × 2 - 4)^(-3) = 72 > 0 (or 9) when x = 2, hence minimum"
+          }
         },
         {
-          "part": "c",
+          "subpart": "c",
           "marks": 2,
-          "description": "Determine if g(x) = -(3x + 1)^(-1) + 3x is increasing, decreasing or neither"
+          "syllabus_outcomes": ["1.7"],
+          "answers": {
+            "answer_snippet": "g'(x) = 3/(3x + 1)² + 3. When k = -1, stationary point equation has no solutions, so g is increasing or decreasing. Show g'(x) is positive for any value of x (= 3/[(3x + 1)²] + 3 > 0), hence g is an increasing function"
+          }
         }
-      ],
-      "key_concepts": [
-        "Chain rule differentiation",
-        "Setting dy/dx = 0",
-        "Second derivative test",
-        "Sign of derivative"
-      ],
-      "skills_tested": [
-        "Differentiation of composite functions",
-        "Finding stationary points",
-        "Determining nature of stationary points",
-        "Analyzing function behavior"
       ]
     }
   ],
-  "topic_distribution": {
-    "P1.1": ["Quadratics", "Functions", "Transformations"],
-    "P1.3": ["Binomial Theorem"],
-    "P1.4": ["Trigonometric Identities"],
-    "P1.5": ["Circles and Sectors"],
-    "P1.6": ["Sequences and Series"],
-    "P1.7": ["Differentiation", "Integration", "Stationary Points"],
-    "P2.1": ["Coordinate Geometry", "Circles"]
+  "syllabus_outcome_summary": {
+    "1.1": {
+      "topic": "Quadratics",
+      "questions": ["2", "5a", "9a"]
+    },
+    "1.2": {
+      "topic": "Functions",
+      "questions": ["5b", "9b"]
+    },
+    "1.3": {
+      "topic": "Coordinate geometry",
+      "questions": ["6a", "6b", "8a"]
+    },
+    "1.4": {
+      "topic": "Circular measure",
+      "questions": ["10a", "10b"]
+    },
+    "1.5": {
+      "topic": "Trigonometry",
+      "questions": ["7a", "7b"]
+    },
+    "1.6": {
+      "topic": "Series",
+      "questions": ["3a", "3b", "4"]
+    },
+    "1.7": {
+      "topic": "Differentiation",
+      "questions": ["11a", "11b", "11c"]
+    },
+    "1.8": {
+      "topic": "Integration",
+      "questions": ["1", "8b"]
+    }
   },
-  "difficulty_summary": {
-    "easy": 0,
-    "medium": 5,
-    "medium_hard": 1,
-    "hard": 5
-  },
-  "marks_by_topic": {
-    "Integration_Differentiation": 17,
-    "Coordinate_Geometry": 16,
-    "Functions": 14,
-    "Trigonometry": 15,
-    "Sequences": 6,
-    "Binomial": 6,
-    "Quadratics": 5
-  },
-  "exam_techniques": [
-    "Show all working clearly",
-    "Use exact values where possible",
-    "Give answers to 3 significant figures unless specified",
-    "Check units in final answers",
-    "Label diagrams clearly"
-  ],
-  "common_pitfalls": [
-    "Forgetting constant of integration",
-    "Sign errors in discriminant",
-    "Incorrect binomial coefficients",
-    "Wrong order of transformations",
-    "Forgetting to check domain restrictions",
-    "Unit conversion errors in arc/sector calculations"
-  ],
-  "generated_at": "2025-11-18T02:45:00Z",
-  "processing_method": "Manual extraction from PDF without OCR",
-  "source_files": {
-    "question_paper": "9709_m22_qp_12.pdf",
-    "mark_scheme": "9709_m22_ms_12.pdf"
+  "statistics": {
+    "total_questions": 11,
+    "total_subparts": 18,
+    "marks_distribution": {
+      "quadratics": 9,
+      "functions": 10,
+      "coordinate_geometry": 11,
+      "circular_measure": 8,
+      "trigonometry": 7,
+      "series": 12,
+      "differentiation": 9,
+      "integration": 9
+    }
   }
 }
