@@ -41,6 +41,9 @@ Cambridge-9709/combined_yearly_csv/
 Cambridge-9709/master_dataset/
 Cambridge-9709/logs/
 
+# Extracted working files
+extracted_m22_papers/
+
 # Google Drive credentials
 credentials.json
 token.json
