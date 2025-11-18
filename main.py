@@ -29,6 +29,7 @@ from utils.topic_mapper import TopicMapper
 from utils.data_exporter import DataExporter
 from utils.drive_uploader import DriveUploader
 from utils.metadata_enhancer import MetadataEnhancer
+from utils.metadata_restructurer import MetadataRestructurer
 
 # Configure logging
 logging.basicConfig(
@@ -45,13 +46,15 @@ logger = logging.getLogger(__name__)
 class PipelineOrchestrator:
     """Main orchestrator for the complete pipeline"""
 
-    def __init__(self, base_dir: str = "Cambridge-9709", use_enhanced_metadata: bool = False):
+    def __init__(self, base_dir: str = "Cambridge-9709", use_enhanced_metadata: bool = False,
+                 use_hierarchical_structure: bool = False):
         """
         Initialize pipeline orchestrator
 
         Args:
             base_dir: Base directory for all outputs
             use_enhanced_metadata: Whether to use ML-based metadata enhancement
+            use_hierarchical_structure: Whether to use hierarchical question/subpart structure
         """
         self.base_dir = Path(base_dir)
         self.base_dir.mkdir(exist_ok=True)
@@ -67,7 +70,9 @@ class PipelineOrchestrator:
         self.exporter = DataExporter(output_base_dir=str(self.base_dir))
         self.drive_uploader = DriveUploader()
         self.metadata_enhancer = MetadataEnhancer(use_ml_models=use_enhanced_metadata)
+        self.metadata_restructurer = MetadataRestructurer()
         self.use_enhanced_metadata = use_enhanced_metadata
+        self.use_hierarchical_structure = use_hierarchical_structure
 
         # Storage for processed data
         self.all_papers_data = []
@@ -176,6 +181,12 @@ class PipelineOrchestrator:
             logger.info("  Enhancing metadata with ML models...")
             paper_data = self.metadata_enhancer.enhance_paper_metadata(paper_data)
             logger.info("  ✓ Metadata enhanced")
+
+        # Restructure to hierarchical format if enabled
+        if self.use_hierarchical_structure:
+            logger.info("  Restructuring to hierarchical format...")
+            paper_data = self.metadata_restructurer.restructure_paper(paper_data)
+            logger.info("  ✓ Restructured to hierarchical format")
 
         return paper_data
 
@@ -381,10 +392,19 @@ def main():
         help='Enable enhanced metadata using ML models (requires transformers)'
     )
 
+    parser.add_argument(
+        '--hierarchical',
+        action='store_true',
+        help='Use hierarchical question/subpart structure (grouped by question number)'
+    )
+
     args = parser.parse_args()
 
     # Initialize orchestrator
-    orchestrator = PipelineOrchestrator(use_enhanced_metadata=args.enhanced_metadata)
+    orchestrator = PipelineOrchestrator(
+        use_enhanced_metadata=args.enhanced_metadata,
+        use_hierarchical_structure=args.hierarchical
+    )
 
     # Run based on mode
     if args.mode == 'all':

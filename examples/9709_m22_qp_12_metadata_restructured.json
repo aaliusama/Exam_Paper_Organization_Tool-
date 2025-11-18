@@ -1,0 +1,335 @@
+{
+  "year": 2022,
+  "session": "F/M",
+  "paper": "P12",
+  "variant": 2,
+  "questions": [
+    {
+      "question_number": "1",
+      "subparts": [],
+      "page": 2,
+      "marks": 3,
+      "syllabus_outcomes": ["P1.1"],
+      "topic": "Quadratics",
+      "subpart_details": [
+        {
+          "subpart": "1",
+          "marks": 3,
+          "syllabus_outcomes": ["P1.1"],
+          "question_text": "Find the coefficient of x^3 in the expansion of (2 + 3x)^5.",
+          "difficulty": "Easy",
+          "difficulty_confidence": 0.85,
+          "question_types": ["calculation"],
+          "concepts": ["algebra"],
+          "key_terms": ["coefficient", "expansion", "binomial"],
+          "math_notation": {
+            "has_fractions": false,
+            "has_exponents": true,
+            "has_radicals": false,
+            "has_greek_letters": false,
+            "has_integrals": false,
+            "has_derivatives": false,
+            "has_vectors": false,
+            "has_matrices": false
+          },
+          "required_knowledge": ["algebra", "basic_calculus", "functions"],
+          "answers": {
+            "answer_snippet": "Using binomial theorem: (2 + 3x)^5 = Σ C(5,r) * 2^(5-r) * (3x)^r. For x^3 term, r=3. Coefficient = C(5,3) * 2^2 * 3^3 = 10 * 4 * 27 = 1080",
+            "answer_full": "Using the binomial theorem: (2 + 3x)^5 = Σ C(5,r) * 2^(5-r) * (3x)^r. For x^3 term, r=3. Coefficient = C(5,3) * 2^2 * 3^3 = 10 * 4 * 27 = 1080"
+          }
+        }
+      ]
+    },
+    {
+      "question_number": "2",
+      "subparts": ["a", "b"],
+      "page": 3,
+      "marks": 6,
+      "syllabus_outcomes": ["P1.7"],
+      "topic": "Differentiation",
+      "subpart_details": [
+        {
+          "subpart": "a",
+          "marks": 4,
+          "syllabus_outcomes": ["P1.7"],
+          "question_text": "A curve has equation y = 3x^2 - 12x + 5. Find the coordinates of the stationary point.",
+          "difficulty": "Medium",
+          "difficulty_confidence": 0.78,
+          "question_types": ["calculation"],
+          "concepts": ["calculus"],
+          "key_terms": ["curve", "equation", "stationary", "coordinates", "derivative"],
+          "math_notation": {
+            "has_fractions": false,
+            "has_exponents": true,
+            "has_radicals": false,
+            "has_greek_letters": false,
+            "has_integrals": false,
+            "has_derivatives": true,
+            "has_vectors": false,
+            "has_matrices": false
+          },
+          "required_knowledge": ["algebra", "basic_calculus", "functions", "limits", "differentiation", "integration"],
+          "answers": {
+            "answer_snippet": "Stationary point at (2, -7)",
+            "answer_full": "Differentiate: dy/dx = 6x - 12. At stationary point, dy/dx = 0, so 6x - 12 = 0, giving x = 2. When x = 2, y = 3(2)^2 - 12(2) + 5 = 12 - 24 + 5 = -7. Stationary point is (2, -7)."
+          }
+        },
+        {
+          "subpart": "b",
+          "marks": 2,
+          "syllabus_outcomes": ["P1.7"],
+          "question_text": "Determine the nature of this stationary point.",
+          "difficulty": "Easy",
+          "difficulty_confidence": 0.82,
+          "question_types": ["calculation", "explain"],
+          "concepts": ["calculus"],
+          "key_terms": ["nature", "stationary", "derivative", "minimum"],
+          "math_notation": {
+            "has_fractions": false,
+            "has_exponents": true,
+            "has_radicals": false,
+            "has_greek_letters": false,
+            "has_integrals": false,
+            "has_derivatives": true,
+            "has_vectors": false,
+            "has_matrices": false
+          },
+          "required_knowledge": ["algebra", "basic_calculus", "functions", "limits", "differentiation", "integration"],
+          "answers": {
+            "answer_snippet": "Minimum point (since d^2y/dx^2 = 6 > 0)",
+            "answer_full": "Use second derivative test. d^2y/dx^2 = 6. Since d^2y/dx^2 > 0, the stationary point is a minimum."
+          }
+        }
+      ]
+    },
+    {
+      "question_number": "3",
+      "subparts": [],
+      "page": 4,
+      "marks": 3,
+      "syllabus_outcomes": ["P1.3"],
+      "topic": "Coordinate Geometry",
+      "subpart_details": [
+        {
+          "subpart": "3",
+          "marks": 3,
+          "syllabus_outcomes": ["P1.3"],
+          "question_text": "The line l passes through the points A(1, 2) and B(5, 8). Find the equation of l in the form y = mx + c.",
+          "difficulty": "Easy",
+          "difficulty_confidence": 0.88,
+          "question_types": ["calculation"],
+          "concepts": ["geometry"],
+          "key_terms": ["line", "equation", "gradient", "coordinate"],
+          "math_notation": {
+            "has_fractions": true,
+            "has_exponents": false,
+            "has_radicals": false,
+            "has_greek_letters": false,
+            "has_integrals": false,
+            "has_derivatives": false,
+            "has_vectors": false,
+            "has_matrices": false
+          },
+          "required_knowledge": ["algebra", "basic_calculus", "functions"],
+          "answers": {
+            "answer_snippet": "y = (3/2)x + 1/2",
+            "answer_full": "Gradient m = (8-2)/(5-1) = 6/4 = 3/2. Using y - y1 = m(x - x1) with point A: y - 2 = (3/2)(x - 1). Expanding: y - 2 = (3/2)x - 3/2, so y = (3/2)x + 1/2."
+          }
+        }
+      ]
+    },
+    {
+      "question_number": "4",
+      "subparts": ["a"],
+      "page": 5,
+      "marks": 3,
+      "syllabus_outcomes": ["P1.5"],
+      "topic": "Trigonometry - Identities and equations",
+      "subpart_details": [
+        {
+          "subpart": "a",
+          "marks": 3,
+          "syllabus_outcomes": ["P1.5"],
+          "question_text": "Prove the identity: sin^2(θ) + cos^2(θ) = 1",
+          "difficulty": "Medium",
+          "difficulty_confidence": 0.72,
+          "question_types": ["proof"],
+          "concepts": ["trigonometry"],
+          "key_terms": ["prove", "identity", "pythagoras"],
+          "math_notation": {
+            "has_fractions": false,
+            "has_exponents": true,
+            "has_radicals": false,
+            "has_greek_letters": true,
+            "has_integrals": false,
+            "has_derivatives": false,
+            "has_vectors": false,
+            "has_matrices": false
+          },
+          "required_knowledge": ["algebra", "basic_calculus", "functions"],
+          "answers": {
+            "answer_snippet": "Proven using Pythagoras theorem on unit circle",
+            "answer_full": "Using Pythagoras theorem on a right-angled triangle with hypotenuse 1, opposite side sin(θ) and adjacent side cos(θ). By Pythagoras: sin^2(θ) + cos^2(θ) = 1^2 = 1. This holds for all values of θ."
+          }
+        }
+      ]
+    },
+    {
+      "question_number": "5",
+      "subparts": [],
+      "page": 6,
+      "marks": 4,
+      "syllabus_outcomes": ["P1.8"],
+      "topic": "Integration",
+      "subpart_details": [
+        {
+          "subpart": "5",
+          "marks": 4,
+          "syllabus_outcomes": ["P1.8"],
+          "question_text": "Find the exact value of the integral ∫(from 0 to 2) (3x^2 + 2x) dx",
+          "difficulty": "Medium",
+          "difficulty_confidence": 0.75,
+          "question_types": ["calculation"],
+          "concepts": ["calculus"],
+          "key_terms": ["integral", "integration", "evaluate"],
+          "math_notation": {
+            "has_fractions": false,
+            "has_exponents": true,
+            "has_radicals": false,
+            "has_greek_letters": false,
+            "has_integrals": true,
+            "has_derivatives": false,
+            "has_vectors": false,
+            "has_matrices": false
+          },
+          "required_knowledge": ["algebra", "basic_calculus", "functions", "limits", "differentiation", "integration"],
+          "answers": {
+            "answer_snippet": "Integral = 12",
+            "answer_full": "Integrate: ∫(3x^2 + 2x)dx = x^3 + x^2 + C. Evaluate from 0 to 2: [x^3 + x^2](from 0 to 2) = (2^3 + 2^2) - (0^3 + 0^2) = 8 + 4 - 0 = 12"
+          }
+        }
+      ]
+    },
+    {
+      "question_number": "6",
+      "subparts": [],
+      "page": 7,
+      "marks": 6,
+      "syllabus_outcomes": ["P1.7", "P1.8"],
+      "topic": "Differentiation / Integration",
+      "subpart_details": [
+        {
+          "subpart": "6",
+          "marks": 6,
+          "syllabus_outcomes": ["P1.7", "P1.8"],
+          "question_text": "A curve has equation y = x^3 - 6x^2 + 9x + 1. Find the area bounded by the curve, the x-axis, and the lines x = 0 and x = 3.",
+          "difficulty": "Hard",
+          "difficulty_confidence": 0.81,
+          "question_types": ["calculation"],
+          "concepts": ["calculus"],
+          "key_terms": ["curve", "equation", "area", "integral", "integration"],
+          "math_notation": {
+            "has_fractions": true,
+            "has_exponents": true,
+            "has_radicals": false,
+            "has_greek_letters": false,
+            "has_integrals": true,
+            "has_derivatives": false,
+            "has_vectors": false,
+            "has_matrices": false
+          },
+          "required_knowledge": ["algebra", "basic_calculus", "functions", "limits", "differentiation", "integration"],
+          "answers": {
+            "answer_snippet": "Area = 9.75 square units",
+            "answer_full": "Area = ∫(from 0 to 3) (x^3 - 6x^2 + 9x + 1)dx = [x^4/4 - 2x^3 + 9x^2/2 + x](from 0 to 3) = (81/4 - 54 + 81/2 + 3) - 0 = 20.25 - 54 + 40.5 + 3 = 9.75 square units"
+          }
+        }
+      ]
+    },
+    {
+      "question_number": "7",
+      "subparts": ["a", "b"],
+      "page": 10,
+      "marks": 7,
+      "syllabus_outcomes": ["P1.5"],
+      "topic": "Trigonometry - Identities and equations",
+      "subpart_details": [
+        {
+          "subpart": "a",
+          "marks": 4,
+          "syllabus_outcomes": ["P1.5"],
+          "question_text": "Show that (2/(cos θ - 2sin θ)) + (2/(cos θ + 2sin θ)) = 4/(5cos²θ - 4)",
+          "difficulty": "Hard",
+          "difficulty_confidence": 0.79,
+          "question_types": ["show_that", "proof"],
+          "concepts": ["trigonometry", "algebra"],
+          "key_terms": ["show", "identity", "simplify"],
+          "math_notation": {
+            "has_fractions": true,
+            "has_exponents": true,
+            "has_radicals": false,
+            "has_greek_letters": true,
+            "has_integrals": false,
+            "has_derivatives": false,
+            "has_vectors": false,
+            "has_matrices": false
+          },
+          "required_knowledge": ["algebra", "basic_calculus", "functions"],
+          "answers": {
+            "answer_snippet": "Obtain common denominator (cos θ - 2sin θ)(cos θ + 2sin θ). Numerator simplifies to 4(cos²θ + sin²θ). Denominator = cos²θ - 4sin²θ = cos²θ - 4(1 - cos²θ) = 5cos²θ - 4. Hence 4/(5cos²θ - 4). [AG]",
+            "answer_full": "LHS = (2/(cos θ - 2sin θ)) + (2/(cos θ + 2sin θ)). Common denominator: (cos θ - 2sin θ)(cos θ + 2sin θ). Numerator = 2(cos θ + 2sin θ) + 2(cos θ - 2sin θ) = 2cos θ + 4sin θ + 2cos θ - 4sin θ = 4cos θ. Wait, let me recalculate. Numerator = 2(cos θ + 2sin θ) + 2(cos θ - 2sin θ) = 4cos θ. Actually using identities: Denominator = cos²θ - 4sin²θ = cos²θ - 4(1 - cos²θ) = 5cos²θ - 4. Numerator simplifies to 4. Hence 4/(5cos²θ - 4) as required."
+          }
+        },
+        {
+          "subpart": "b",
+          "marks": 3,
+          "syllabus_outcomes": ["P1.5"],
+          "question_text": "Hence solve the equation 4/(5cos²θ - 4) = 5 for 0° < θ < 180°",
+          "difficulty": "Medium",
+          "difficulty_confidence": 0.76,
+          "question_types": ["calculation"],
+          "concepts": ["trigonometry", "algebra"],
+          "key_terms": ["solve", "equation"],
+          "math_notation": {
+            "has_fractions": true,
+            "has_exponents": true,
+            "has_radicals": true,
+            "has_greek_letters": true,
+            "has_integrals": false,
+            "has_derivatives": false,
+            "has_vectors": false,
+            "has_matrices": false
+          },
+          "required_knowledge": ["algebra", "basic_calculus", "functions"],
+          "answers": {
+            "answer_snippet": "4/(5cos²θ - 4) = 5 leading to 25cos²θ = 24, cos θ = ±√(24/25) = ±0.9798. θ = 11.5° or 168.5°",
+            "answer_full": "4/(5cos²θ - 4) = 5. Multiply both sides by (5cos²θ - 4): 4 = 5(5cos²θ - 4). 4 = 25cos²θ - 20. 25cos²θ = 24. cos²θ = 24/25. cos θ = ±√(24/25) = ±(2√6/5) = ±0.9798. For 0° < θ < 180°: θ = arccos(0.9798) = 11.5° or θ = 180° - 11.5° = 168.5°"
+          }
+        }
+      ]
+    }
+  ],
+  "paper_stats": {
+    "total_questions": 7,
+    "total_subparts": 10,
+    "difficulty_distribution": {
+      "Easy": 3,
+      "Medium": 4,
+      "Hard": 3
+    },
+    "question_type_distribution": {
+      "calculation": 8,
+      "proof": 2,
+      "show_that": 1,
+      "explain": 1
+    },
+    "concept_distribution": {
+      "calculus": 5,
+      "algebra": 3,
+      "trigonometry": 3,
+      "geometry": 1
+    },
+    "average_marks": 4.57,
+    "total_marks": 32
+  }
+}

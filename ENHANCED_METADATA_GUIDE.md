@@ -228,8 +228,14 @@ pip install torch>=2.1.0 --index-url https://download.pytorch.org/whl/cpu
 **Enable enhanced metadata during parsing:**
 
 ```bash
-# Run full pipeline with enhanced metadata
+# Run full pipeline with enhanced metadata (flat structure)
 python main.py --mode all --enhanced-metadata
+
+# Use hierarchical structure (groups questions by number)
+python main.py --mode all --hierarchical
+
+# Combine both: enhanced metadata + hierarchical structure
+python main.py --mode all --enhanced-metadata --hierarchical
 
 # Parse existing PDFs with enhanced metadata
 python main.py --mode parse --enhanced-metadata --skip-scrape
@@ -238,10 +244,15 @@ python main.py --mode parse --enhanced-metadata --skip-scrape
 python main.py --mode all --enhanced-metadata --start-year 2023 --end-year 2025
 ```
 
+**Structure Options:**
+
+- **Default (Flat):** Each subpart (1, 1(a), 1(b)) is a separate question
+- **Hierarchical (--hierarchical):** Questions grouped by number with nested subparts
+
 **Without enhanced metadata (default):**
 
 ```bash
-# Standard processing (no ML enhancement)
+# Standard processing (no ML enhancement, flat structure)
 python main.py --mode all
 ```
 
@@ -307,7 +318,11 @@ enhanced_q = enhancer.enhance_question_metadata(question_data)
 
 ## Enhanced Metadata Schema
 
-### Complete Question Schema
+### Two Output Formats Available
+
+#### 1. Flat Structure (Default)
+
+Each subpart is a separate question with qid:
 
 ```json
 {
@@ -348,6 +363,55 @@ enhanced_q = enhancer.enhance_question_metadata(question_data)
     "question_word_count": 25,
     "answer_word_count": 48
   }
+}
+```
+
+#### 2. Hierarchical Structure (With --hierarchical flag)
+
+Questions grouped by number with nested subparts:
+
+```json
+{
+  "question_number": "7",
+  "subparts": ["a", "b"],
+  "page": 10,
+  "marks": 7,
+  "syllabus_outcomes": ["P1.5"],
+  "topic": "Trigonometry - Identities and equations",
+  "subpart_details": [
+    {
+      "subpart": "a",
+      "marks": 4,
+      "syllabus_outcomes": ["P1.5"],
+      "question_text": "Show that...",
+      "difficulty": "Hard",
+      "difficulty_confidence": 0.79,
+      "question_types": ["show_that", "proof"],
+      "concepts": ["trigonometry", "algebra"],
+      "key_terms": ["show", "identity"],
+      "math_notation": {
+        "has_fractions": true,
+        "has_exponents": true,
+        "has_greek_letters": true
+      },
+      "required_knowledge": ["algebra", "trigonometry"],
+      "answers": {
+        "answer_snippet": "Obtain common denominator...",
+        "answer_full": "Complete solution..."
+      }
+    },
+    {
+      "subpart": "b",
+      "marks": 3,
+      "syllabus_outcomes": ["P1.5"],
+      "question_text": "Hence solve...",
+      "difficulty": "Medium",
+      "question_types": ["calculation"],
+      "answers": {
+        "answer_snippet": "θ = 11.5° or 168.5°"
+      }
+    }
+  ]
 }
 ```
 

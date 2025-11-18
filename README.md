@@ -124,6 +124,12 @@ python main.py --mode all --skip-upload
 
 # Enable enhanced metadata (requires transformers)
 python main.py --mode all --enhanced-metadata
+
+# Use hierarchical question/subpart structure
+python main.py --mode all --hierarchical
+
+# Combine both
+python main.py --mode all --enhanced-metadata --hierarchical
 ```
 
 ### Enhanced Metadata (NEW!)
@@ -136,7 +142,17 @@ pip install transformers torch
 
 # Run with enhanced metadata
 python main.py --mode parse --enhanced-metadata
+
+# Use hierarchical structure (questions grouped by number with subparts)
+python main.py --mode parse --hierarchical
+
+# Both enhanced metadata + hierarchical structure
+python main.py --mode parse --enhanced-metadata --hierarchical
 ```
+
+**Two output formats available:**
+- **Flat (default):** Each subpart as separate question (qid: "7(a)", "7(b)")
+- **Hierarchical (--hierarchical):** Questions grouped by number with nested subparts
 
 See [ENHANCED_METADATA_GUIDE.md](ENHANCED_METADATA_GUIDE.md) for full documentation.
 
