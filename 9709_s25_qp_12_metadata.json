@@ -1,0 +1,356 @@
+{
+  "exam_info": {
+    "paper_code": "9709/12",
+    "exam_board": "Cambridge International AS & A Level",
+    "subject": "Mathematics",
+    "paper_name": "Paper 1 Pure Mathematics 1",
+    "exam_session": "May/June 2025",
+    "total_marks": 75,
+    "time_allowed": "1 hour 50 minutes",
+    "question_paper": "9709_s25_qp_12.pdf",
+    "mark_scheme": "9709_s25_ms_12.pdf",
+    "syllabus": "697427-2026-2027-syllabus.pdf"
+  },
+  "questions": [
+    {
+      "question_number": "1",
+      "subparts": [],
+      "page": 2,
+      "marks": 4,
+      "syllabus_outcomes": ["1.2"],
+      "topic": "Functions - Graph transformations",
+      "answers": {
+        "answer_snippet": "Stretch, factor 2, parallel to y-axis (or in y-direction or vertically). Translation (0, -14) or -14, parallel to the y-axis (or in y-direction or vertically).",
+        "alternative_method": "Translation by (0, -7) or -7, parallel to the y-axis. Then Stretch, factor 2, parallel to y-axis."
+      }
+    },
+    {
+      "question_number": "2",
+      "subparts": [],
+      "page": 3,
+      "marks": 4,
+      "syllabus_outcomes": ["1.1"],
+      "topic": "Quadratics - Simultaneous equations",
+      "answers": {
+        "answer_snippet": "y = -2, y = 3 or x = -1, x = -7/2. Points: (-1, -2), (-7/2, 3)"
+      }
+    },
+    {
+      "question_number": "3",
+      "subparts": [],
+      "page": 4,
+      "marks": 4,
+      "syllabus_outcomes": ["1.6"],
+      "topic": "Series - Binomial expansion",
+      "answers": {
+        "answer_snippet": "p = 1/2"
+      }
+    },
+    {
+      "question_number": "4",
+      "subparts": ["a", "b"],
+      "page": 5,
+      "marks": 5,
+      "syllabus_outcomes": ["1.7"],
+      "topic": "Differentiation - Connected rates of change",
+      "subpart_details": [
+        {
+          "subpart": "a",
+          "marks": 3,
+          "syllabus_outcomes": ["1.7"],
+          "answers": {
+            "answer_snippet": "dy/dt = 22.5a - 60 or 45a/2 - 60 or (45a - 120)/2"
+          }
+        },
+        {
+          "subpart": "b",
+          "marks": 2,
+          "syllabus_outcomes": ["1.7"],
+          "answers": {
+            "answer_snippet": "a = 16"
+          }
+        }
+      ]
+    },
+    {
+      "question_number": "5",
+      "subparts": ["a", "b", "c"],
+      "page": 6,
+      "marks": 5,
+      "syllabus_outcomes": ["1.5"],
+      "topic": "Trigonometry - Curve sketching and equations",
+      "subpart_details": [
+        {
+          "subpart": "a",
+          "marks": 2,
+          "syllabus_outcomes": ["1.5"],
+          "answers": {
+            "answer_snippet": "[Greatest] 7, [least] -1"
+          }
+        },
+        {
+          "subpart": "b",
+          "marks": 2,
+          "syllabus_outcomes": ["1.5"],
+          "answers": {
+            "answer_snippet": "Graph showing two complete cycles between 0 and 2π, starting at greatest value and initially decreasing"
+          }
+        },
+        {
+          "subpart": "c",
+          "marks": 1,
+          "syllabus_outcomes": ["1.5"],
+          "answers": {
+            "answer_snippet": "3 [solutions]"
+          }
+        }
+      ]
+    },
+    {
+      "question_number": "6",
+      "subparts": [],
+      "page": 7,
+      "marks": 6,
+      "syllabus_outcomes": ["1.8"],
+      "topic": "Integration - Area under curve",
+      "special_note": "All candidates were awarded full marks due to a series-specific issue during the live exam",
+      "answers": {
+        "answer_snippet": "x-coordinate of point of intersection = 1. Total area = 51/10"
+      }
+    },
+    {
+      "question_number": "7",
+      "subparts": ["a", "b"],
+      "page": 8,
+      "marks": 7,
+      "syllabus_outcomes": ["1.5"],
+      "topic": "Trigonometry - Identities and equations",
+      "subpart_details": [
+        {
+          "subpart": "a",
+          "marks": 3,
+          "syllabus_outcomes": ["1.5"],
+          "answers": {
+            "answer_snippet": "Fully correct proof (showing tan θ + 7 / tan² θ - 3 = 5/tan θ)"
+          }
+        },
+        {
+          "subpart": "b",
+          "marks": 4,
+          "syllabus_outcomes": ["1.5"],
+          "answers": {
+            "answer_snippet": "tan θ = -1.25 and tan θ = 3. θ = 71.6° and θ = 128.7°"
+          }
+        }
+      ]
+    },
+    {
+      "question_number": "8",
+      "subparts": ["a", "b", "c"],
+      "page": 10,
+      "marks": 9,
+      "syllabus_outcomes": ["1.3", "1.4", "1.8"],
+      "topic": "Coordinate geometry, Circular measure, Integration",
+      "subpart_details": [
+        {
+          "subpart": "a",
+          "marks": 3,
+          "syllabus_outcomes": ["1.3"],
+          "answers": {
+            "answer_snippet": "(2, -2), (12, -2), (7, -4)"
+          }
+        },
+        {
+          "subpart": "b",
+          "marks": 2,
+          "syllabus_outcomes": ["1.4"],
+          "answers": {
+            "answer_snippet": "θ = 2.38 [radians]"
+          }
+        },
+        {
+          "subpart": "c",
+          "marks": 4,
+          "syllabus_outcomes": ["1.4", "1.8"],
+          "answers": {
+            "answer_snippet": "Segment area = 66.6"
+          }
+        }
+      ]
+    },
+    {
+      "question_number": "9",
+      "subparts": ["a", "b", "c", "d"],
+      "page": 12,
+      "marks": 12,
+      "syllabus_outcomes": ["1.7", "1.8"],
+      "topic": "Differentiation and Integration",
+      "subpart_details": [
+        {
+          "subpart": "a",
+          "marks": 3,
+          "syllabus_outcomes": ["1.8"],
+          "answers": {
+            "answer_snippet": "dy/dx = 12/x² - 3 or 12x⁻² - 3"
+          }
+        },
+        {
+          "subpart": "b",
+          "marks": 2,
+          "syllabus_outcomes": ["1.7"],
+          "answers": {
+            "answer_snippet": "x = 2, maximum"
+          }
+        },
+        {
+          "subpart": "c",
+          "marks": 3,
+          "syllabus_outcomes": ["1.8"],
+          "answers": {
+            "answer_snippet": "y = -12/x - 3x + 7"
+          }
+        },
+        {
+          "subpart": "d",
+          "marks": 4,
+          "syllabus_outcomes": ["1.7"],
+          "answers": {
+            "answer_snippet": "4x - 9y - 88 = 0"
+          }
+        }
+      ]
+    },
+    {
+      "question_number": "10",
+      "subparts": ["a", "b"],
+      "page": 14,
+      "marks": 10,
+      "syllabus_outcomes": ["1.6"],
+      "topic": "Series - Arithmetic and Geometric Progressions",
+      "subpart_details": [
+        {
+          "subpart": "a",
+          "subsubparts": ["i", "ii"],
+          "marks": 5,
+          "syllabus_outcomes": ["1.6"],
+          "subsubpart_details": [
+            {
+              "subsubpart": "i",
+              "marks": 2,
+              "syllabus_outcomes": ["1.6"],
+              "answers": {
+                "answer_snippet": "k = 6 [or k = 0]"
+              }
+            },
+            {
+              "subsubpart": "ii",
+              "marks": 3,
+              "syllabus_outcomes": ["1.6"],
+              "answers": {
+                "answer_snippet": "S₂₀ = 2760"
+              }
+            }
+          ]
+        },
+        {
+          "subpart": "b",
+          "marks": 5,
+          "syllabus_outcomes": ["1.6"],
+          "answers": {
+            "answer_snippet": "S∞ = 1296/(√6 - 1) or 7776/(√216 - 6)"
+          }
+        }
+      ]
+    },
+    {
+      "question_number": "11",
+      "subparts": ["a", "b"],
+      "page": 16,
+      "marks": 9,
+      "syllabus_outcomes": ["1.1", "1.2"],
+      "topic": "Quadratics and Functions",
+      "subpart_details": [
+        {
+          "subpart": "a",
+          "marks": 2,
+          "syllabus_outcomes": ["1.1"],
+          "answers": {
+            "answer_snippet": "(x + 2)² - 2 (or a = 2, b = -2)"
+          }
+        },
+        {
+          "subpart": "b",
+          "subsubparts": ["i", "ii"],
+          "marks": 7,
+          "syllabus_outcomes": ["1.2"],
+          "subsubpart_details": [
+            {
+              "subsubpart": "i",
+              "marks": 3,
+              "syllabus_outcomes": ["1.2"],
+              "answers": {
+                "answer_snippet": "f⁻¹(x) = -√(x + 2) - 2"
+              }
+            },
+            {
+              "subsubpart": "ii",
+              "marks": 4,
+              "syllabus_outcomes": ["1.2"],
+              "answers": {
+                "answer_snippet": "(gf)⁻¹(x) = -√(-x - 2) - 2"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "syllabus_outcome_summary": {
+    "1.1": {
+      "topic": "Quadratics",
+      "questions": ["2", "11a"]
+    },
+    "1.2": {
+      "topic": "Functions",
+      "questions": ["1", "11b(i)", "11b(ii)"]
+    },
+    "1.3": {
+      "topic": "Coordinate geometry",
+      "questions": ["8a"]
+    },
+    "1.4": {
+      "topic": "Circular measure",
+      "questions": ["8b", "8c"]
+    },
+    "1.5": {
+      "topic": "Trigonometry",
+      "questions": ["5a", "5b", "5c", "7a", "7b"]
+    },
+    "1.6": {
+      "topic": "Series",
+      "questions": ["3", "10a(i)", "10a(ii)", "10b"]
+    },
+    "1.7": {
+      "topic": "Differentiation",
+      "questions": ["4a", "4b", "9b", "9d"]
+    },
+    "1.8": {
+      "topic": "Integration",
+      "questions": ["6", "8c", "9a", "9c"]
+    }
+  },
+  "statistics": {
+    "total_questions": 11,
+    "total_subparts": 24,
+    "marks_distribution": {
+      "quadratics": 6,
+      "functions": 11,
+      "coordinate_geometry": 3,
+      "circular_measure": 6,
+      "trigonometry": 12,
+      "series": 14,
+      "differentiation": 9,
+      "integration": 13
+    }
+  }
+}
