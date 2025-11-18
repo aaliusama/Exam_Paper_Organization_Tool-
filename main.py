@@ -28,6 +28,7 @@ from parsers.question_parser import QuestionParser, MarkSchemeParser
 from utils.topic_mapper import TopicMapper
 from utils.data_exporter import DataExporter
 from utils.drive_uploader import DriveUploader
+from utils.metadata_enhancer import MetadataEnhancer
 
 # Configure logging
 logging.basicConfig(
@@ -44,12 +45,13 @@ logger = logging.getLogger(__name__)
 class PipelineOrchestrator:
     """Main orchestrator for the complete pipeline"""
 
-    def __init__(self, base_dir: str = "Cambridge-9709"):
+    def __init__(self, base_dir: str = "Cambridge-9709", use_enhanced_metadata: bool = False):
         """
         Initialize pipeline orchestrator
 
         Args:
             base_dir: Base directory for all outputs
+            use_enhanced_metadata: Whether to use ML-based metadata enhancement
         """
         self.base_dir = Path(base_dir)
         self.base_dir.mkdir(exist_ok=True)
@@ -64,6 +66,8 @@ class PipelineOrchestrator:
         self.topic_mapper = TopicMapper()
         self.exporter = DataExporter(output_base_dir=str(self.base_dir))
         self.drive_uploader = DriveUploader()
+        self.metadata_enhancer = MetadataEnhancer(use_ml_models=use_enhanced_metadata)
+        self.use_enhanced_metadata = use_enhanced_metadata
 
         # Storage for processed data
         self.all_papers_data = []
@@ -166,6 +170,12 @@ class PipelineOrchestrator:
         }
 
         logger.info(f"  ✓ Extracted {len(questions)} questions")
+
+        # Enhance metadata if enabled
+        if self.use_enhanced_metadata:
+            logger.info("  Enhancing metadata with ML models...")
+            paper_data = self.metadata_enhancer.enhance_paper_metadata(paper_data)
+            logger.info("  ✓ Metadata enhanced")
 
         return paper_data
 
@@ -365,10 +375,16 @@ def main():
         help='Skip Google Drive upload'
     )
 
+    parser.add_argument(
+        '--enhanced-metadata',
+        action='store_true',
+        help='Enable enhanced metadata using ML models (requires transformers)'
+    )
+
     args = parser.parse_args()
 
     # Initialize orchestrator
-    orchestrator = PipelineOrchestrator()
+    orchestrator = PipelineOrchestrator(use_enhanced_metadata=args.enhanced_metadata)
 
     # Run based on mode
     if args.mode == 'all':

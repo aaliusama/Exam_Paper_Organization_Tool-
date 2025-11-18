@@ -1,0 +1,371 @@
+{
+  "year": 2022,
+  "session": "F/M",
+  "paper": "P12",
+  "variant": 2,
+  "questions": [
+    {
+      "qid": "1",
+      "topics": [
+        "P1.1"
+      ],
+      "question_text": "Find the coefficient of x^3 in the expansion of (2 + 3x)^5.",
+      "answer_full": "Using the binomial theorem: (2 + 3x)^5 = Σ C(5,r) * 2^(5-r) * (3x)^r. For x^3 term, r=3. Coefficient = C(5,3) * 2^2 * 3^3 = 10 * 4 * 27 = 1080",
+      "answer_snippet": "Coefficient is 1080",
+      "raw_ocr": "Find the coefficient of x^3 in the expansion of (2 + 3x)^5.",
+      "page": 2,
+      "marks": 3,
+      "difficulty": "Easy",
+      "difficulty_confidence": 0.85,
+      "question_types": [
+        "calculation"
+      ],
+      "concepts": [
+        "algebra"
+      ],
+      "key_terms": [
+        "coefficient",
+        "expansion",
+        "binomial"
+      ],
+      "math_notation": {
+        "has_fractions": false,
+        "has_exponents": true,
+        "has_radicals": false,
+        "has_greek_letters": false,
+        "has_integrals": false,
+        "has_derivatives": false,
+        "has_vectors": false,
+        "has_matrices": false
+      },
+      "required_knowledge": [
+        "algebra",
+        "basic_calculus",
+        "functions"
+      ],
+      "text_stats": {
+        "question_length": 57,
+        "answer_length": 163,
+        "question_word_count": 11,
+        "answer_word_count": 26
+      }
+    },
+    {
+      "qid": "2(a)",
+      "topics": [
+        "P1.7"
+      ],
+      "question_text": "A curve has equation y = 3x^2 - 12x + 5. Find the coordinates of the stationary point.",
+      "answer_full": "Differentiate: dy/dx = 6x - 12. At stationary point, dy/dx = 0, so 6x - 12 = 0, giving x = 2. When x = 2, y = 3(2)^2 - 12(2) + 5 = 12 - 24 + 5 = -7. Stationary point is (2, -7).",
+      "answer_snippet": "Stationary point at (2, -7)",
+      "raw_ocr": "A curve has equation y = 3x^2 - 12x + 5. Find the coordinates of the stationary point.",
+      "page": 3,
+      "marks": 4,
+      "difficulty": "Medium",
+      "difficulty_confidence": 0.78,
+      "question_types": [
+        "calculation"
+      ],
+      "concepts": [
+        "calculus"
+      ],
+      "key_terms": [
+        "curve",
+        "equation",
+        "stationary",
+        "coordinates",
+        "derivative"
+      ],
+      "math_notation": {
+        "has_fractions": false,
+        "has_exponents": true,
+        "has_radicals": false,
+        "has_greek_letters": false,
+        "has_integrals": false,
+        "has_derivatives": true,
+        "has_vectors": false,
+        "has_matrices": false
+      },
+      "required_knowledge": [
+        "algebra",
+        "basic_calculus",
+        "functions",
+        "limits",
+        "differentiation",
+        "integration"
+      ],
+      "text_stats": {
+        "question_length": 87,
+        "answer_length": 169,
+        "question_word_count": 15,
+        "answer_word_count": 33
+      }
+    },
+    {
+      "qid": "2(b)",
+      "topics": [
+        "P1.7"
+      ],
+      "question_text": "Determine the nature of this stationary point.",
+      "answer_full": "Use second derivative test. d^2y/dx^2 = 6. Since d^2y/dx^2 > 0, the stationary point is a minimum.",
+      "answer_snippet": "Minimum point (since d^2y/dx^2 = 6 > 0)",
+      "raw_ocr": "Determine the nature of this stationary point.",
+      "page": 3,
+      "marks": 2,
+      "difficulty": "Easy",
+      "difficulty_confidence": 0.82,
+      "question_types": [
+        "calculation",
+        "explain"
+      ],
+      "concepts": [
+        "calculus"
+      ],
+      "key_terms": [
+        "nature",
+        "stationary",
+        "derivative",
+        "minimum"
+      ],
+      "math_notation": {
+        "has_fractions": false,
+        "has_exponents": true,
+        "has_radicals": false,
+        "has_greek_letters": false,
+        "has_integrals": false,
+        "has_derivatives": true,
+        "has_vectors": false,
+        "has_matrices": false
+      },
+      "required_knowledge": [
+        "algebra",
+        "basic_calculus",
+        "functions",
+        "limits",
+        "differentiation",
+        "integration"
+      ],
+      "text_stats": {
+        "question_length": 44,
+        "answer_length": 103,
+        "question_word_count": 7,
+        "answer_word_count": 18
+      }
+    },
+    {
+      "qid": "3",
+      "topics": [
+        "P1.3"
+      ],
+      "question_text": "The line l passes through the points A(1, 2) and B(5, 8). Find the equation of l in the form y = mx + c.",
+      "answer_full": "Gradient m = (8-2)/(5-1) = 6/4 = 3/2. Using y - y1 = m(x - x1) with point A: y - 2 = (3/2)(x - 1). Expanding: y - 2 = (3/2)x - 3/2, so y = (3/2)x + 1/2.",
+      "answer_snippet": "y = (3/2)x + 1/2",
+      "raw_ocr": "The line l passes through the points A(1, 2) and B(5, 8). Find the equation of l in the form y = mx + c.",
+      "page": 4,
+      "marks": 3,
+      "difficulty": "Easy",
+      "difficulty_confidence": 0.88,
+      "question_types": [
+        "calculation"
+      ],
+      "concepts": [
+        "geometry"
+      ],
+      "key_terms": [
+        "line",
+        "equation",
+        "gradient",
+        "coordinate"
+      ],
+      "math_notation": {
+        "has_fractions": true,
+        "has_exponents": false,
+        "has_radicals": false,
+        "has_greek_letters": false,
+        "has_integrals": false,
+        "has_derivatives": false,
+        "has_vectors": false,
+        "has_matrices": false
+      },
+      "required_knowledge": [
+        "algebra",
+        "basic_calculus",
+        "functions"
+      ],
+      "text_stats": {
+        "question_length": 110,
+        "answer_length": 154,
+        "question_word_count": 21,
+        "answer_word_count": 25
+      }
+    },
+    {
+      "qid": "4(a)",
+      "topics": [
+        "P1.5"
+      ],
+      "question_text": "Prove the identity: sin^2(θ) + cos^2(θ) = 1",
+      "answer_full": "Using Pythagoras theorem on a right-angled triangle with hypotenuse 1, opposite side sin(θ) and adjacent side cos(θ). By Pythagoras: sin^2(θ) + cos^2(θ) = 1^2 = 1. This holds for all values of θ.",
+      "answer_snippet": "Proven using Pythagoras theorem on unit circle",
+      "raw_ocr": "Prove the identity: sin^2(θ) + cos^2(θ) = 1",
+      "page": 5,
+      "marks": 3,
+      "difficulty": "Medium",
+      "difficulty_confidence": 0.72,
+      "question_types": [
+        "proof"
+      ],
+      "concepts": [
+        "trigonometry"
+      ],
+      "key_terms": [
+        "prove",
+        "identity",
+        "pythagoras"
+      ],
+      "math_notation": {
+        "has_fractions": false,
+        "has_exponents": true,
+        "has_radicals": false,
+        "has_greek_letters": true,
+        "has_integrals": false,
+        "has_derivatives": false,
+        "has_vectors": false,
+        "has_matrices": false
+      },
+      "required_knowledge": [
+        "algebra",
+        "basic_calculus",
+        "functions"
+      ],
+      "text_stats": {
+        "question_length": 48,
+        "answer_length": 195,
+        "question_word_count": 7,
+        "answer_word_count": 32
+      }
+    },
+    {
+      "qid": "5",
+      "topics": [
+        "P1.8"
+      ],
+      "question_text": "Find the exact value of the integral ∫(from 0 to 2) (3x^2 + 2x) dx",
+      "answer_full": "Integrate: ∫(3x^2 + 2x)dx = x^3 + x^2 + C. Evaluate from 0 to 2: [x^3 + x^2](from 0 to 2) = (2^3 + 2^2) - (0^3 + 0^2) = 8 + 4 - 0 = 12",
+      "answer_snippet": "Integral = 12",
+      "raw_ocr": "Find the exact value of the integral ∫(from 0 to 2) (3x^2 + 2x) dx",
+      "page": 6,
+      "marks": 4,
+      "difficulty": "Medium",
+      "difficulty_confidence": 0.75,
+      "question_types": [
+        "calculation"
+      ],
+      "concepts": [
+        "calculus"
+      ],
+      "key_terms": [
+        "integral",
+        "integration",
+        "evaluate"
+      ],
+      "math_notation": {
+        "has_fractions": false,
+        "has_exponents": true,
+        "has_radicals": false,
+        "has_greek_letters": false,
+        "has_integrals": true,
+        "has_derivatives": false,
+        "has_vectors": false,
+        "has_matrices": false
+      },
+      "required_knowledge": [
+        "algebra",
+        "basic_calculus",
+        "functions",
+        "limits",
+        "differentiation",
+        "integration"
+      ],
+      "text_stats": {
+        "question_length": 66,
+        "answer_length": 143,
+        "question_word_count": 13,
+        "answer_word_count": 25
+      }
+    },
+    {
+      "qid": "6",
+      "topics": [
+        "P1.7",
+        "P1.8"
+      ],
+      "question_text": "A curve has equation y = x^3 - 6x^2 + 9x + 1. Find the area bounded by the curve, the x-axis, and the lines x = 0 and x = 3.",
+      "answer_full": "Area = ∫(from 0 to 3) (x^3 - 6x^2 + 9x + 1)dx = [x^4/4 - 2x^3 + 9x^2/2 + x](from 0 to 3) = (81/4 - 54 + 81/2 + 3) - 0 = 20.25 - 54 + 40.5 + 3 = 9.75 square units",
+      "answer_snippet": "Area = 9.75 square units",
+      "raw_ocr": "A curve has equation y = x^3 - 6x^2 + 9x + 1. Find the area bounded by the curve, the x-axis, and the lines x = 0 and x = 3.",
+      "page": 7,
+      "marks": 6,
+      "difficulty": "Hard",
+      "difficulty_confidence": 0.81,
+      "question_types": [
+        "calculation"
+      ],
+      "concepts": [
+        "calculus"
+      ],
+      "key_terms": [
+        "curve",
+        "equation",
+        "area",
+        "integral",
+        "integration"
+      ],
+      "math_notation": {
+        "has_fractions": true,
+        "has_exponents": true,
+        "has_radicals": false,
+        "has_greek_letters": false,
+        "has_integrals": true,
+        "has_derivatives": false,
+        "has_vectors": false,
+        "has_matrices": false
+      },
+      "required_knowledge": [
+        "algebra",
+        "basic_calculus",
+        "functions",
+        "limits",
+        "differentiation",
+        "integration"
+      ],
+      "text_stats": {
+        "question_length": 135,
+        "answer_length": 193,
+        "question_word_count": 26,
+        "answer_word_count": 30
+      }
+    }
+  ],
+  "paper_stats": {
+    "total_questions": 7,
+    "difficulty_distribution": {
+      "Easy": 3,
+      "Medium": 3,
+      "Hard": 1
+    },
+    "question_type_distribution": {
+      "calculation": 6,
+      "proof": 1,
+      "explain": 1
+    },
+    "concept_distribution": {
+      "algebra": 1,
+      "calculus": 4,
+      "geometry": 1,
+      "trigonometry": 1
+    },
+    "average_marks": 3.57,
+    "total_marks": 25
+  }
+}

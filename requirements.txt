@@ -13,3 +13,8 @@ google-auth-httplib2>=0.1.1
 google-api-python-client>=2.100.0
 tqdm>=4.66.0
 opencv-python>=4.8.0
+
+# Enhanced Metadata (Optional - for ML-based metadata enhancement)
+# Install with: pip install transformers torch
+# transformers>=4.35.0
+# torch>=2.1.0

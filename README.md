@@ -9,6 +9,12 @@ Complete automated pipeline for scraping, parsing, and organizing Cambridge AS/A
 - **Question Parsing**: Extracts questions with sub-parts (1, 1(a), 1(a)(i), etc.)
 - **Mark Scheme Matching**: Automatically matches answers to questions
 - **Topic Mapping**: Maps questions to 9709 syllabus topics (2026-2027)
+- **Enhanced Metadata** (NEW): AI-powered metadata using open-source Hugging Face models
+  - Difficulty classification (Easy/Medium/Hard)
+  - Question type identification (Proof, Calculation, Sketch, etc.)
+  - Concept extraction and key terms
+  - Math notation detection
+  - Required knowledge estimation
 - **Multiple Formats**: Exports to JSON and CSV
 - **Google Drive Integration**: Uploads organized dataset to Drive
 
@@ -115,7 +121,24 @@ python main.py --mode all --skip-scrape
 
 # Skip upload
 python main.py --mode all --skip-upload
+
+# Enable enhanced metadata (requires transformers)
+python main.py --mode all --enhanced-metadata
 ```
+
+### Enhanced Metadata (NEW!)
+
+Get AI-powered metadata for each question using open-source models:
+
+```bash
+# Install ML dependencies (optional)
+pip install transformers torch
+
+# Run with enhanced metadata
+python main.py --mode parse --enhanced-metadata
+```
+
+See [ENHANCED_METADATA_GUIDE.md](ENHANCED_METADATA_GUIDE.md) for full documentation.
 
 ## Google Drive Setup (Optional)
 
@@ -290,8 +313,17 @@ For issues or questions:
 - Review error messages
 - Ensure all dependencies installed correctly
 
+## Documentation
+
+- [README.md](README.md) - Main documentation (this file)
+- [PAPACAMBRIDGE_DOWNLOAD_GUIDE.md](PAPACAMBRIDGE_DOWNLOAD_GUIDE.md) - Detailed download guide
+- [ENHANCED_METADATA_GUIDE.md](ENHANCED_METADATA_GUIDE.md) - AI metadata features
+- [QUICK_START.md](QUICK_START.md) - Quick start guide
+- [USAGE_GUIDE.md](USAGE_GUIDE.md) - Detailed usage instructions
+
 ## Acknowledgments
 
 - PapaCambridge for providing past papers
 - Cambridge Assessment International Education
 - Tesseract OCR project
+- Hugging Face for open-source ML models
